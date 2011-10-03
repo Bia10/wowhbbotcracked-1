@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShamanSettings>
+  <PVP_HealingWave_Health>90</PVP_HealingWave_Health>
+  <PVP_Riptide_Health>89</PVP_Riptide_Health>
+  <PVP_ChainHeal_Health>88</PVP_ChainHeal_Health>
+  <PVP_GreaterHealingWave_Health>75</PVP_GreaterHealingWave_Health>
+  <PVP_UnleashElements_Health>74</PVP_UnleashElements_Health>
+  <PVP_HealingSurge_Health>45</PVP_HealingSurge_Health>
+  <PVP_OhShoot_Health>30</PVP_OhShoot_Health>
+  <RAF_HealingWave_Health>90</RAF_HealingWave_Health>
+  <RAF_Riptide_Health>0</RAF_Riptide_Health>
+  <RAF_ChainHeal_Health>88</RAF_ChainHeal_Health>
+  <RAF_GreaterHealingWave_Health>70</RAF_GreaterHealingWave_Health>
+  <RAF_UnleashElements_Health>69</RAF_UnleashElements_Health>
+  <RAF_HealingSurge_Health>45</RAF_HealingSurge_Health>
+  <RAF_OhShoot_Health>30</RAF_OhShoot_Health>
+  <FireTotem>None</FireTotem>
+  <EarthTotem>None</EarthTotem>
+  <WaterTotem>None</WaterTotem>
+  <AirTotem>None</AirTotem>
+  <Elemental_HealingSurge_Health>50</Elemental_HealingSurge_Health>
+</ShamanSettings>

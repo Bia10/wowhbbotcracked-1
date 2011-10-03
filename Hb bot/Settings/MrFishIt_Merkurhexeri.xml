@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FisherSettings>
+  <!--The id of the lure this bot will use.-->
+  <LureId>0</LureId>
+  <!--Use lure?-->
+  <UseLure>False</UseLure>
+</FisherSettings>

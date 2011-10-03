@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FlightNodes>
+  <Node name="Beutebucht, Schlingendorntal" continent="0" master="2859" x="-14473" y="464.15" z="36.43">
+    <Connections>
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Späherkuppe, Westfall" />
+      <Connection name="Seenhain, Rotkammgebirge" />
+      <Connection name="Eisenschmiede, Dun Morogh" />
+      <Connection name="Hafen von Menethil, Sumpfland" />
+      <Connection name="Thelsamar, Loch Modan" />
+      <Connection name="Dunkelhain, Dämmerwald" />
+      <Connection name="Die Zuflucht, Arathi" />
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Nistgipfel, Hinterland" />
+      <Connection name="Zugwindlager, Westliche Pestländer" />
+      <Connection name="Rebellenlager, Schlingendorntal" />
+      <Connection name="Whelgars Zuflucht, Sumpfland" />
+      <Connection name="Hain des Sumpfhüters, Sumpfland" />
+      <Connection name="Dun Modr, Sumpfland" />
+      <Connection name="Fliesmeißels Messtation, Sumpfland" />
+      <Connection name="Jagdhütte der Weltenwanderer, Loch Modan" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Mondbruch, Westfall" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Fort Livingston, Schlingendorntal" />
+      <Connection name="Grabungsstätte der Forscherliga, Schlingendorntal" />
+      <Connection name="Schieferwindtal, Rotkammgebrige" />
+      <Connection name="Immerruhlager, Rotkammgebirge" />
+      <Connection name="Sturmfederposten, Hinterland" />
+      <Connection name="Kharanos, Dun Morogh" />
+      <Connection name="Steinbruch von Gol'Bolar, Dun Morogh" />
+      <Connection name="Rabenflucht, Dämmerwald" />
+      <Connection name="Andorhal, Westliche Pestländer" />
+      <Connection name="Die Stätte der Heiler, Westliche Pestländer" />
+      <Connection name="Herdweiler, Westliche Pestländer" />
+    </Connections>
+  </Node>
+  <Node name="Sturmwind, Elwynn" continent="0" master="352" x="-8841.06" y="489.656" z="109.607">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Späherkuppe, Westfall" />
+      <Connection name="Seenhain, Rotkammgebirge" />
+      <Connection name="Eisenschmiede, Dun Morogh" />
+      <Connection name="Hafen von Menethil, Sumpfland" />
+      <Connection name="Thelsamar, Loch Modan" />
+      <Connection name="Dunkelhain, Dämmerwald" />
+      <Connection name="Die Zuflucht, Arathi" />
+      <Connection name="Nistgipfel, Hinterland" />
+      <Connection name="Zugwindlager, Westliche Pestländer" />
+      <Connection name="Rebellenlager, Schlingendorntal" />
+      <Connection name="Whelgars Zuflucht, Sumpfland" />
+      <Connection name="Hain des Sumpfhüters, Sumpfland" />
+      <Connection name="Dun Modr, Sumpfland" />
+      <Connection name="Fliesmeißels Messtation, Sumpfland" />
+      <Connection name="Jagdhütte der Weltenwanderer, Loch Modan" />
+      <Connection name="Mondbruch, Westfall" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Fort Livingston, Schlingendorntal" />
+      <Connection name="Grabungsstätte der Forscherliga, Schlingendorntal" />
+      <Connection name="Schieferwindtal, Rotkammgebrige" />
+      <Connection name="Immerruhlager, Rotkammgebirge" />
+      <Connection name="Sturmfederposten, Hinterland" />
+      <Connection name="Kharanos, Dun Morogh" />
+      <Connection name="Steinbruch von Gol'Bolar, Dun Morogh" />
+      <Connection name="Rabenflucht, Dämmerwald" />
+      <Connection name="Andorhal, Westliche Pestländer" />
+      <Connection name="Die Stätte der Heiler, Westliche Pestländer" />
+      <Connection name="Herdweiler, Westliche Pestländer" />
+    </Connections>
+  </Node>
+  <Node name="Späherkuppe, Westfall" continent="0" x="-10551.9" y="1034.39" z="56.9543">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Seenhain, Rotkammgebirge" continent="0" x="-9429.1" y="-2231.4" z="68.65">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Eisenschmiede, Dun Morogh" continent="0" x="-4821.78" y="-1155.44" z="502.21">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Hafen von Menethil, Sumpfland" continent="0" x="-3787.81" y="-777.696" z="1.5582">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Thelsamar, Loch Modan" continent="0" x="-5421.91" y="-2930.01" z="347.25">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Dunkelhain, Dämmerwald" continent="0" x="-10515.5" y="-1261.65" z="41.34">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Die Zuflucht, Arathi" continent="0" x="-1240.53" y="-2515.11" z="22.16">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Nistgipfel, Hinterland" continent="0" x="283.74" y="-2002.76" z="194.74">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Zugwindlager, Westliche Pestländer" continent="0" x="931.32" y="-1430.11" z="64.67">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Rebellenlager, Schlingendorntal" continent="0" x="-11344" y="-216.83" z="75.22">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Whelgars Zuflucht, Sumpfland" continent="0" x="-3222.93" y="-1989.49" z="50.5475">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Hain des Sumpfhüters, Sumpfland" continent="0" x="-3306.65" y="-2718.69" z="20.4836">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Dun Modr, Sumpfland" continent="0" x="-2656.54" y="-2464.28" z="80.3378">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Fliesmeißels Messtation, Sumpfland" continent="0" x="-4113.6" y="-2741.21" z="18.9911">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Jagdhütte der Weltenwanderer, Loch Modan" continent="0" x="-5668.31" y="-4253.44" z="407.015">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Goldhain, Wald von Elwynn" continent="0" master="42983" x="-9433.99" y="85.1493" z="56.734">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Späherkuppe, Westfall" />
+      <Connection name="Seenhain, Rotkammgebirge" />
+      <Connection name="Eisenschmiede, Dun Morogh" />
+      <Connection name="Hafen von Menethil, Sumpfland" />
+      <Connection name="Thelsamar, Loch Modan" />
+      <Connection name="Dunkelhain, Dämmerwald" />
+      <Connection name="Die Zuflucht, Arathi" />
+      <Connection name="Nistgipfel, Hinterland" />
+      <Connection name="Zugwindlager, Westliche Pestländer" />
+      <Connection name="Rebellenlager, Schlingendorntal" />
+      <Connection name="Whelgars Zuflucht, Sumpfland" />
+      <Connection name="Hain des Sumpfhüters, Sumpfland" />
+      <Connection name="Dun Modr, Sumpfland" />
+      <Connection name="Fliesmeißels Messtation, Sumpfland" />
+      <Connection name="Jagdhütte der Weltenwanderer, Loch Modan" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Mondbruch, Westfall" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Fort Livingston, Schlingendorntal" />
+      <Connection name="Grabungsstätte der Forscherliga, Schlingendorntal" />
+      <Connection name="Schieferwindtal, Rotkammgebrige" />
+      <Connection name="Immerruhlager, Rotkammgebirge" />
+      <Connection name="Sturmfederposten, Hinterland" />
+      <Connection name="Kharanos, Dun Morogh" />
+      <Connection name="Steinbruch von Gol'Bolar, Dun Morogh" />
+      <Connection name="Rabenflucht, Dämmerwald" />
+      <Connection name="Andorhal, Westliche Pestländer" />
+      <Connection name="Die Stätte der Heiler, Westliche Pestländer" />
+      <Connection name="Herdweiler, Westliche Pestländer" />
+    </Connections>
+  </Node>
+  <Node name="Mondbruch, Westfall" continent="0" x="-10876.9" y="1542.88" z="54.5289">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Brauenwirbels Kürbishof, Westfall" continent="0" x="-9838.51" y="1273.93" z="40.7067">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Holzfällerlager des Osttals, Elwynn" continent="0" x="-9475.71" y="-1306.74" z="44.1496">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Fort Livingston, Schlingendorntal" continent="0" x="-12828.8" y="-413.71" z="12.9666">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Grabungsstätte der Forscherliga, Schlingendorntal" continent="0" x="-13600.9" y="-85.5486" z="37.8078">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Schieferwindtal, Rotkammgebrige" continent="0" x="-9641.67" y="-3479.37" z="121.956">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Immerruhlager, Rotkammgebirge" continent="0" x="-9446.64" y="-2836.99" z="64.5761">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Sturmfederposten, Hinterland" continent="0" x="312.326" y="-4105.36" z="118.289">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Kharanos, Dun Morogh" continent="0" x="-5660.8" y="-494.851" z="397.008">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Steinbruch von Gol'Bolar, Dun Morogh" continent="0" x="-5714.14" y="-1578.64" z="383.204">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Rabenflucht, Dämmerwald" continent="0" x="-10737.6" y="267.043" z="42.3478">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Andorhal, Westliche Pestländer" continent="0" x="1374.23" y="-1281.94" z="59.174">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Die Stätte der Heiler, Westliche Pestländer" continent="0" x="1864.32" y="-1755.82" z="59.662">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+  <Node name="Herdweiler, Westliche Pestländer" continent="0" x="2839.78" y="-1500.51" z="146.089">
+    <Connections>
+      <Connection name="Beutebucht, Schlingendorntal" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+    </Connections>
+  </Node>
+</FlightNodes>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LevelbotSettings>
+  <GroundMountFarmingMode>False</GroundMountFarmingMode>
+  <FoodAmount>0</FoodAmount>
+  <DrinkAmount>0</DrinkAmount>
+  <FormLocationX>-2</FormLocationX>
+  <FormLocationY>16</FormLocationY>
+  <SelectedBotIndex>6</SelectedBotIndex>
+  <UseFlightPaths>False</UseFlightPaths>
+  <FindMountAutomatically>True</FindMountAutomatically>
+  <UseRandomMount>True</UseRandomMount>
+  <MailRecipient></MailRecipient>
+  <FoodName>43518</FoodName>
+  <DrinkName>43518</DrinkName>
+  <MountName>32235</MountName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <LootChests>True</LootChests>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <UseMount>True</UseMount>
+  <PullDistance>30</PullDistance>
+  <LootRadius>45</LootRadius>
+  <FindVendorsAutomatically>True</FindVendorsAutomatically>
+  <TrainNewSkills>False</TrainNewSkills>
+  <LearnFlightPaths>False</LearnFlightPaths>
+  <LastUsedPath>C:\Users\samy\Desktop\01a804f0\Default Profiles\frostweave\ZD Cloth Farm.xml</LastUsedPath>
+  <MountDistance>75</MountDistance>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+</LevelbotSettings>

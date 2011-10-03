@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FlightNodes>
+  <Node name="Goldhain, Wald von Elwynn" continent="0" master="42983" x="-9433.99" y="85.1493" z="56.734">
+    <Connections>
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Eisenschmiede, Dun Morogh" />
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Kharanos, Dun Morogh" />
+      <Connection name="Steinbruch von Gol'Bolar, Dun Morogh" />
+      <Connection name="Späherkuppe, Westfall" />
+      <Connection name="Thelsamar, Loch Modan" />
+      <Connection name="Jagdhütte der Weltenwanderer, Loch Modan" />
+      <Connection name="Mondbruch, Westfall" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+    </Connections>
+  </Node>
+  <Node name="Sturmwind, Elwynn" continent="0" master="352" x="-8841.06" y="489.656" z="109.607">
+    <Connections>
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Eisenschmiede, Dun Morogh" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Kharanos, Dun Morogh" />
+      <Connection name="Steinbruch von Gol'Bolar, Dun Morogh" />
+      <Connection name="Späherkuppe, Westfall" />
+      <Connection name="Thelsamar, Loch Modan" />
+      <Connection name="Jagdhütte der Weltenwanderer, Loch Modan" />
+      <Connection name="Mondbruch, Westfall" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+    </Connections>
+  </Node>
+  <Node name="Eisenschmiede, Dun Morogh" continent="0" x="-4821.78" y="-1155.44" z="502.21">
+    <Connections>
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Späherkuppe, Westfall" />
+    </Connections>
+  </Node>
+  <Node name="Holzfällerlager des Osttals, Elwynn" continent="0" master="43000" x="-9475.71" y="-1306.74" z="44.1496">
+    <Connections>
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Eisenschmiede, Dun Morogh" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Kharanos, Dun Morogh" />
+      <Connection name="Steinbruch von Gol'Bolar, Dun Morogh" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Späherkuppe, Westfall" />
+    </Connections>
+  </Node>
+  <Node name="Kharanos, Dun Morogh" continent="0" x="-5660.8" y="-494.851" z="397.008">
+    <Connections>
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Späherkuppe, Westfall" />
+    </Connections>
+  </Node>
+  <Node name="Steinbruch von Gol'Bolar, Dun Morogh" continent="0" x="-5714.14" y="-1578.64" z="383.204">
+    <Connections>
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Späherkuppe, Westfall" />
+    </Connections>
+  </Node>
+  <Node name="Späherkuppe, Westfall" continent="0" master="523" x="-10551.9" y="1034.39" z="56.9543">
+    <Connections>
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Späherkuppe, Westfall" />
+      <Connection name="Eisenschmiede, Dun Morogh" />
+      <Connection name="Thelsamar, Loch Modan" />
+      <Connection name="Jagdhütte der Weltenwanderer, Loch Modan" />
+      <Connection name="Mondbruch, Westfall" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Kharanos, Dun Morogh" />
+      <Connection name="Steinbruch von Gol'Bolar, Dun Morogh" />
+    </Connections>
+  </Node>
+  <Node name="Thelsamar, Loch Modan" continent="0" x="-5421.91" y="-2930.01" z="347.25">
+    <Connections>
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Späherkuppe, Westfall" />
+    </Connections>
+  </Node>
+  <Node name="Jagdhütte der Weltenwanderer, Loch Modan" continent="0" x="-5668.31" y="-4253.44" z="407.015">
+    <Connections>
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Späherkuppe, Westfall" />
+    </Connections>
+  </Node>
+  <Node name="Mondbruch, Westfall" continent="0" x="-10876.9" y="1542.88" z="54.5289">
+    <Connections>
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Späherkuppe, Westfall" />
+    </Connections>
+  </Node>
+  <Node name="Brauenwirbels Kürbishof, Westfall" continent="0" master="42406" x="-9838.51" y="1273.93" z="40.7067">
+    <Connections>
+      <Connection name="Goldhain, Wald von Elwynn" />
+      <Connection name="Sturmwind, Elwynn" />
+      <Connection name="Späherkuppe, Westfall" />
+      <Connection name="Eisenschmiede, Dun Morogh" />
+      <Connection name="Thelsamar, Loch Modan" />
+      <Connection name="Jagdhütte der Weltenwanderer, Loch Modan" />
+      <Connection name="Mondbruch, Westfall" />
+      <Connection name="Brauenwirbels Kürbishof, Westfall" />
+      <Connection name="Holzfällerlager des Osttals, Elwynn" />
+      <Connection name="Kharanos, Dun Morogh" />
+      <Connection name="Steinbruch von Gol'Bolar, Dun Morogh" />
+    </Connections>
+  </Node>
+</FlightNodes>

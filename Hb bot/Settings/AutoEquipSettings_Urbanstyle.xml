@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoEquipSettings>
+  <EquipPurples>False</EquipPurples>
+  <EquipBlues>True</EquipBlues>
+  <EquipGreens>True</EquipGreens>
+  <EquipWhites>True</EquipWhites>
+  <EquipGrays>False</EquipGrays>
+  <EquipHeirlooms>False</EquipHeirlooms>
+  <EquipBoEGreens>True</EquipBoEGreens>
+  <EquipBoEBlues>True</EquipBoEBlues>
+  <EquipBoEPurples>False</EquipBoEPurples>
+  <IgnoreInvTypes>
+    <Entry>Trinket</Entry>
+  </IgnoreInvTypes>
+  <ProtectedSlots>
+    <Entry>Trinket0Slot</Entry>
+    <Entry>Trinket1Slot</Entry>
+  </ProtectedSlots>
+  <ReplaceHeirlooms>False</ReplaceHeirlooms>
+  <AutoEquipItems>True</AutoEquipItems>
+  <AutoEquipBags>True</AutoEquipBags>
+  <IncludeEnchants>False</IncludeEnchants>
+  <WeaponStyle>DualWield</WeaponStyle>
+  <RollForLootInDungeons>True</RollForLootInDungeons>
+  <RollForLootDE>False</RollForLootDE>
+</AutoEquipSettings>

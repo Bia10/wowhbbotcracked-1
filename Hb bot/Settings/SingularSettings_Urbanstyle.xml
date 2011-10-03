@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SingularSettings>
+  <EnableDebugLogging>False</EnableDebugLogging>
+  <UseAlchemyFlaskOfEnhancement>True</UseAlchemyFlaskOfEnhancement>
+  <DisableAllMovement>False</DisableAllMovement>
+  <WaitForResSickness>True</WaitForResSickness>
+  <DefaultRestHealth>50</DefaultRestHealth>
+  <DefaultRestMana>50</DefaultRestMana>
+  <IgnoreHealTargetsAboveHealth>95</IgnoreHealTargetsAboveHealth>
+  <UseFirstTrinket>False</UseFirstTrinket>
+  <UseSecondTrinket>False</UseSecondTrinket>
+  <FirstTrinketUsage>Never</FirstTrinketUsage>
+  <SecondTrinketUsage>Never</SecondTrinketUsage>
+  <FirstTrinketUseAtPercent>25</FirstTrinketUseAtPercent>
+  <SecondTrinketUseAtPercent>25</SecondTrinketUseAtPercent>
+  <PvPTrinketSlot>None</PvPTrinketSlot>
+  <PvPDamageTrinketSlot>None</PvPDamageTrinketSlot>
+</SingularSettings>

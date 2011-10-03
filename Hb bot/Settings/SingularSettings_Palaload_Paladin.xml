@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PaladinSettings>
+  <LayOnHandsHealthProt>40</LayOnHandsHealthProt>
+  <GoAKHealth>40</GoAKHealth>
+  <ArdentDefenderHealth>40</ArdentDefenderHealth>
+  <DivineProtectionHealthProt>80</DivineProtectionHealthProt>
+  <DivineProtectionHealthRet>70</DivineProtectionHealthRet>
+  <LayOnHandsHealthRet>30</LayOnHandsHealthRet>
+  <ConsecrationCount>3</ConsecrationCount>
+  <LayOnHandsHealthHoly>30</LayOnHandsHealthHoly>
+  <LightOfDawnHealth>80</LightOfDawnHealth>
+  <LightOfDawnCount>2</LightOfDawnCount>
+  <WordOfGloryHealth>65</WordOfGloryHealth>
+  <HolyShockHealth>90</HolyShockHealth>
+  <FlashOfLightHealth>50</FlashOfLightHealth>
+  <DivineLightHealth>65</DivineLightHealth>
+  <HolyLightHealth>90</HolyLightHealth>
+</PaladinSettings>

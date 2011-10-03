@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterSettings>
+  <UseMount>True</UseMount>
+  <MountName>Elekk des Exarchen</MountName>
+  <UseRandomMount>True</UseRandomMount>
+  <FindMountAutomatically>True</FindMountAutomatically>
+  <MountDistance>75</MountDistance>
+  <LearnFlightPaths>True</LearnFlightPaths>
+  <!--Allow the bot to use flight paths. (Note: this will also allow the bot to interact with new flightmasters to learn new connections.-->
+  <UseFlightPaths>False</UseFlightPaths>
+  <FindVendorsAutomatically>True</FindVendorsAutomatically>
+  <TrainNewSkills>False</TrainNewSkills>
+  <DrinkAmount>0</DrinkAmount>
+  <FoodAmount>0</FoodAmount>
+  <MailRecipient></MailRecipient>
+  <FoodName>4602</FoodName>
+  <DrinkName>1645</DrinkName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <LootChests>True</LootChests>
+  <NinjaSkin>False</NinjaSkin>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <LootRadius>45</LootRadius>
+  <PullDistance>30</PullDistance>
+  <EnabledPlugins>
+    <Entry>AutoEquip2</Entry>
+    <Entry>Bug Submitter</Entry>
+    <Entry>Profiles</Entry>
+    <Entry>Questhelper - ItemForAura</Entry>
+    <Entry>Refreshment Detection</Entry>
+  </EnabledPlugins>
+  <FormLocationX>-2</FormLocationX>
+  <FormLocationY>16</FormLocationY>
+  <FormWidth>396</FormWidth>
+  <FormHeight>302</FormHeight>
+  <!--The last selected index used by the Combobox in the form.-->
+  <SelectedBotIndex>4</SelectedBotIndex>
+  <LastUsedPath>C:\Users\samy\Desktop\HB und GB\kicks profiler\kicks-scripts\Kick's Profiles\1-85 Questing Profile Pack\Classic\[A - Quest] Human 1-60 [Kick].xml</LastUsedPath>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+</CharacterSettings>
