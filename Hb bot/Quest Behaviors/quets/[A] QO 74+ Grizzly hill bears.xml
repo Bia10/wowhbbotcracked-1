@@ -1,0 +1,49 @@
+<HBProfile>
+  <Name>Impala's Blasted Lands Leatherfarming 1.0</Name>
+  <MinDurability>0.2</MinDurability>
+  <MinFreeBagSlots>2</MinFreeBagSlots>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+   
+  <SubProfile>
+   <Name>Blasted Lands</Name>
+   <Factions>189 38</Factions>
+   
+   <Vendors>
+   </Vendors>
+
+   <Mailboxes>
+   </Mailboxes>
+
+   <Hotspots>
+<Hotspot X="-11515.76" Y="-3119.936" Z="3.75518" />
+<Hotspot X="-11510.3" Y="-3069.965" Z="4.292345" />
+<Hotspot X="-11529.27" Y="-3037.732" Z="11.6209" />
+<Hotspot X="-11507.64" Y="-2990.482" Z="13.88731" />
+<Hotspot X="-11465.79" Y="-2996.799" Z="6.347155" />
+<Hotspot X="-11431.05" Y="-2961.065" Z="3.26681" />
+<Hotspot X="-11399.63" Y="-2925.604" Z="2.848753" />
+<Hotspot X="-11374.03" Y="-2963.798" Z="1.990666" />
+<Hotspot X="-11380.62" Y="-2995.446" Z="-0.6107392" />
+<Hotspot X="-11339.82" Y="-3030.272" Z="1.133421" />
+   </Hotspots>
+
+   <Blackspots>
+   </Blackspots>
+  </SubProfile>
+
+  <AvoidMobs>
+   <AvoidMob Name="Dreadmaul Warlock" Entry="5978" />
+  </AvoidMobs> 
+
+  <ProtectedItems>
+   <Item>25649</Item> 
+   <Item>21887</Item>
+   <Item>25708</Item>
+   <Item>27678</Item>
+   <Item>22572</Item>
+   <Item>22451</Item>
+  </ProtectedItems>
+
+</HBProfile>

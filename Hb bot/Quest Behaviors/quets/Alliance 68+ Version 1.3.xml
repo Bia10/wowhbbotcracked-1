@@ -1,0 +1,462 @@
+<HBProfile>
+<MinDurability>0.4</MinDurability>
+<MinFreeBagSlots>2</MinFreeBagSlots>
+<SellGrey>True</SellGrey>
+<SellWhite>False</SellWhite>
+<SellGreen>False</SellGreen>
+<MailGreen>True</MailGreen>
+<MailBlue>True</MailBlue>
+<MailPurple>True</MailPurple>
+
+<!-- Quest Over Rides -->
+<Quest Id="11788" Name="Lefty Loosey, Righty Tighty">
+	<Objective Type="KillMob" MobId="25830" KillCount="1">
+		<Hotspots>
+		<Hotspot X="4112.679" Y="5098.741" Z="-1.509933" />
+		</Hotspots>
+	</Objective>
+	<Objective Type="KillMob" MobId="25831" KillCount="1">
+		<Hotspots>
+		<Hotspot X="4224.078" Y="4800.859" Z="-12.99485" />
+		</Hotspots>
+	</Objective>
+	<Objective Type="KillMob" MobId="25832" KillCount="1">
+		<Hotspots>
+		<Hotspot X="4032.829" Y="4897.634" Z="-12.77638" />
+		</Hotspots>
+	</Objective>
+	<Objective Type="KillMob" MobId="25833" KillCount="1">
+		<Hotspots>
+		<Hotspot X="3791.67" Y="4811.272" Z="-13.03152" />
+		</Hotspots>
+	</Objective>
+</Quest>
+<Quest Id="11897" Name="Plug the Sinkholes">
+	<Objective Type="KillMob" MobId="26249" KillCount="1">
+		<Hotspots>
+		<Hotspot X="2155.888" Y="5653.617" Z="29.01705" />
+		</Hotspots>
+	</Objective>
+	<Objective Type="KillMob" MobId="26248" KillCount="1">
+		<Hotspots>
+		<Hotspot X="2443.401" Y="5455.841" Z="19.6777" />
+		</Hotspots>
+	</Objective>
+</Quest>
+<Quest Id="11625" Name="The Trident of Naz'jan">
+	<Objective Type="CollectItem" ItemId="35774" CollectCount="1">
+		<Hotspots>
+		<Hotspot X="1490.986" Y="5402.792" Z="38.13547" />
+		</Hotspots>
+	</Objective>
+</Quest>
+<Quest Id="11626" Name="The Emissary">
+	<Objective Type="KillMob" MobId="26452" KillCount="1">
+		<Hotspots>
+		<Hotspot X="1507.719" Y="5592.498" Z="-38.79838" />
+		</Hotspots>
+	</Objective>
+</Quest>
+<Quest Id="11913" Name="Take No Chances">
+	<Objective Type="KillMob" MobId="26161" KillCount="8">
+		<Hotspots>
+		<Hotspot X="2535.941" Y="5291.179" Z="33.61732" />
+<Hotspot X="2508.69" Y="5340.638" Z="33.11306" />
+<Hotspot X="2513.855" Y="5367.281" Z="32.86322" />
+<Hotspot X="2553.373" Y="5361.672" Z="33.21572" />
+<Hotspot X="2566.349" Y="5377.182" Z="32.86378" />
+<Hotspot X="2569.961" Y="5384.957" Z="32.86444" />
+<Hotspot X="2581.465" Y="5383.155" Z="32.86352" />
+<Hotspot X="2620.649" Y="5381.563" Z="32.86364" />
+<Hotspot X="2588.891" Y="5309.765" Z="36.66586" />
+<Hotspot X="2591.594" Y="5295.566" Z="36.95126" />
+		</Hotspots>
+	</Objective>
+</Quest>
+<Quest Id="11904" Name="Fruits of Our Labor">
+	<Objective Type="UseObject" ObjectId="188104" UseCount="1">
+		<Hotspots>
+		<Hotspot X="2796.835" Y="5274.287" Z="21.62332" />
+		</Hotspots>
+	</Objective>
+	<Objective Type="CollectItem" ItemId="35705" CollectCount="1">
+		<Hotspots>
+		<Hotspot X="2834.333" Y="5228.68" Z="13.88469" />
+		</Hotspots>
+	</Objective>
+</Quest>
+<Quest Id="11792" Name="Enemies of the Light">
+	<Objective Type="CollectItem" ItemId="35122" CollectCount="1">
+		<CollectFrom>
+		<Mob Id="25651" />
+		</CollectFrom>
+	</Objective>
+</Quest>
+<Quest Id="11938" Name="Buying Some Time">
+	<Objective Type="KillMob" MobId="26195" KillCount="20">
+		<Hotspots>
+		<Hotspot X="3703.863" Y="3724.047" Z="47.03734" />
+<Hotspot X="3733.766" Y="3701.841" Z="47.23612" />
+<Hotspot X="3779.02" Y="3677.302" Z="45.87645" />
+<Hotspot X="3828.343" Y="3632.738" Z="46.67183" />
+<Hotspot X="3785.823" Y="3614.367" Z="46.83595" />
+<Hotspot X="3752.542" Y="3570.65" Z="46.83354" />
+<Hotspot X="3823.287" Y="3545.381" Z="46.8677" />
+<Hotspot X="3839.016" Y="3564.731" Z="47.1446" />
+<Hotspot X="3881.29" Y="3629.858" Z="46.62458" />
+<Hotspot X="3878.93" Y="3676.175" Z="46.71845" />
+<Hotspot X="3838.318" Y="3699.683" Z="46.83672" />
+		</Hotspots>
+	</Objective>
+</Quest>
+<Quest Id="11942" Name="Words of Power">
+	<!--High Priest Andorath's Scroll-->
+	<Objective Type="CollectItem" ItemId="35355" CollectCount="1">
+		<CollectFrom>
+		<Mob Id="25392" />
+		</CollectFrom>
+		<Hotspots>
+		<Hotspot X="4095.72" Y="3497.408" Z="131.6657" />
+		</Hotspots>
+	</Objective>
+	<!-- High Priest Naferset's Scroll -->
+	<Objective Type="CollectItem" ItemId="35353" CollectCount="1">
+		<CollectFrom>
+		<Mob Id="25378" />
+		</CollectFrom>
+		<Hotspots>
+		<Hotspot X="4102.058" Y="3754.474" Z="92.66196" />
+		<Hotspot X="4126.739" Y="3743.105" Z="92.68185" />
+		<Hotspot X="4118.684" Y="3716.101" Z="92.66355" />
+		</Hotspots>
+	</Objective>
+	<!-- High Priest Talet-Kha's Scroll -->
+	<Objective Type="CollectItem" ItemId="35354" CollectCount="1">
+		<CollectFrom>
+		<Mob Id="25422" />
+		</CollectFrom>
+		<Hotspots>
+		<Hotspot X="3789.406" Y="3420.071" Z="85.03582" />
+		</Hotspots>
+	</Objective>
+</Quest>
+<Quest Id="11797" Name="The Siege">
+	<Objective Type="KillMob" MobId="25227" KillCount="6">
+		<Hotspots>
+		<Hotspot X="2281.571" Y="5404.586" Z="2.123103" />
+<Hotspot X="2300.982" Y="5469.54" Z="2.43844" />
+<Hotspot X="2225.927" Y="5469.503" Z="3.181126" />
+<Hotspot X="2167.741" Y="5525.012" Z="2.797869" />
+<Hotspot X="2107.767" Y="5505.892" Z="0.2528268" />
+		</Hotspots>
+	</Objective>
+</Quest>
+<Quest Id="12035" Name="Repurposed Technology">
+	<Objective Type="KillMob" MobId="25993" KillCount="5">
+		<Hotspots>
+		<Hotspot X="2554.765" Y="5214.494" Z="37.40779" />
+		</Hotspots>
+	</Objective>
+</Quest>
+<!-- Quest Currently not supported
+<Quest Id="11794" Name="The Hunt is On">
+	<Objective Type="KillMob" MobId="25827" KillCount="1">
+		<Hotspots>
+		</Hotspots>
+	</Objective>
+	<Objective Type="KillMob" MobId="25828" KillCount="1">
+		<Hotspots>
+		</Hotspots>
+	</Objective>
+	<Objective Type="KillMob" MobId="25248" KillCount="1">
+		<Hotspots>
+<Hotspot X="2316.347" Y="5193.045" Z="12.49751" />		
+		</Hotspots>
+	</Objective>
+	<Objective Type="CollectItem" ItemId="35125" CollectCount="1">
+		<Hotspots>
+		</Hotspots>
+	</Objective>
+</Quest>
+-->
+<!-- End Quest Over Rides -->
+
+
+
+<QuestOrder>
+<Checkpoint Level="68" />
+
+<PickUp QuestName="Enlistment Day" QuestId="11672" GiverName="Recruitment Officer Blythe" GiverId="25307" />
+<TurnIn QuestName="Enlistment Day" QuestId="11672" TurnInName="General Arlos" TurnInId="25250" />
+
+<PickUp QuestName="A Time for Heroes" QuestId="11727" GiverName="General Arlos" GiverId="25250" />
+<TurnIn QuestName="A Time for Heroes" QuestId="11727" TurnInName="Sergeant Hammerhill" TurnInId="25816" />
+
+<PickUp QuestName="The Siege" QuestId="11797" GiverName="Sergeant Hammerhill" GiverId="25816" />
+<PickUp QuestName="A Soldier in Need" QuestId="11789" GiverName="Medic Hawthorn" GiverId="25825" />
+<Objective QuestName="The Siege" QuestId="11797" Type="KillMob" MobId="25227" KillCount="6" />
+<TurnIn QuestName="The Siege" QuestId="11797" TurnInName="Sergeant Hammerhill" TurnInId="25816" />
+
+<PickUp QuestName="Death From Above" QuestId="11889" GiverName="Sergeant Hammerhill" GiverId="25816" />
+
+<Objective QuestName="A Soldier in Need" QuestId="11789" Type="CollectItem" ItemId="35119" CollectCount="1" />
+
+<PickUp QuestName="Cultists Among Us" QuestId="11920" GiverName="Cultist Shrine" GiverId="187851" GiverType="Object" X="2241.073" Y="5254.708" Z="4.286012"  />
+
+<TurnIn QuestName="Cultists Among Us" QuestId="11920" TurnInName="Captain Lefty Lugsail" TurnInId="25298" />
+
+<PickUp QuestName="Notify Arlos" QuestId="11791" GiverName="Admiral Cantlebree" GiverId="25299" />
+
+<TurnIn QuestName="Notify Arlos" QuestId="11791" TurnInName="General Arlos" TurnInId="25250" />
+
+<PickUp QuestName="A Diplomatic Mission" QuestId="12141" GiverName="Counselor Talbot" GiverId="25301" />
+<PickUp QuestName="Enemies of the Light" QuestId="11792" GiverName="Harbinger Vurenn" GiverId="25285" />
+
+<TurnIn QuestName="A Soldier in Need" QuestId="11789" TurnInName="Medic Hawthorn" TurnInId="25825" />
+
+<Objective QuestName="Death From Above" QuestId="11889" Type="KillMob" MobId="25582" KillCount="6" />
+
+<TurnIn QuestName="Death From Above" QuestId="11889" TurnInName="Sergeant Hammerhill" TurnInId="25816" />
+
+<PickUp QuestName="Plug the Sinkholes" QuestId="11897" GiverName="Sergeant Hammerhill" GiverId="25816" />
+
+<Objective QuestName="Plug the Sinkholes" QuestId="11897" Type="KillMob" MobId="26249" KillCount="1" />
+<Objective QuestName="Plug the Sinkholes" QuestId="11897" Type="KillMob" MobId="26248" KillCount="1" />
+
+<TurnIn QuestName="A Diplomatic Mission" QuestId="12141" TurnInName="Karuk" TurnInId="25435" />
+
+<PickUp QuestName="Karuk's Oath" QuestId="11613" GiverName="Karuk" GiverId="25435" />
+
+<Objective QuestName="Karuk's Oath" QuestId="11613" Type="KillMob" MobId="25522" KillCount="6" />
+<Objective QuestName="Karuk's Oath" QuestId="11613" Type="KillMob" MobId="25521" KillCount="5" />
+
+<TurnIn QuestName="Karuk's Oath" QuestId="11613" TurnInName="Karuk" TurnInId="25435" />
+
+<PickUp QuestName="Gamel the Cruel" QuestId="11619" GiverName="Karuk" GiverId="25435" />
+
+<Objective QuestName="Gamel the Cruel" QuestId="11619" Type="KillMob" MobId="26449" KillCount="1" />
+
+<TurnIn QuestName="Gamel the Cruel" QuestId="11619" TurnInName="Karuk" TurnInId="25435" />
+
+<PickUp QuestName="A Father's Words" QuestId="11620" GiverName="Karuk" GiverId="25435" />
+
+<TurnIn QuestName="A Father's Words" QuestId="11620" TurnInName="Veehja" TurnInId="25450" />
+
+<PickUp QuestName="The Trident of Naz'jan" QuestId="11625" GiverName="Veehja" GiverId="25450" />
+
+<Objective QuestName="The Trident of Naz'jan" QuestId="11625" Type="CollectItem" ItemId="35774" CollectCount="1" />
+
+<TurnIn QuestName="The Trident of Naz'jan" QuestId="11625" TurnInName="Veehja" TurnInId="25450" />
+
+<PickUp QuestName="The Emissary" QuestId="11626" GiverName="Veehja" GiverId="25450" />
+
+<Objective QuestName="The Emissary" QuestId="11626" Type="KillMob" MobId="26452" KillCount="1" />
+
+<TurnIn QuestName="The Emissary" QuestId="11626" TurnInName="Karuk" TurnInId="25435" />
+<TurnIn QuestName="Plug the Sinkholes" QuestId="11897" TurnInName="Sergeant Hammerhill" TurnInId="25816" />
+
+<PickUp QuestName="Farshire" QuestId="11928" GiverName="Sergeant Hammerhill" GiverId="25816" />
+<PickUp QuestName="Word on the Street" QuestId="11927" GiverName="Mark Hanes" GiverId="26155" />
+
+<TurnIn QuestName="Word on the Street" QuestId="11927" TurnInName="Leryssa" TurnInId="25251" />
+
+<PickUp QuestName="Thassarian, My Brother" QuestId="11599" GiverName="Leryssa" GiverId="25251" />
+<PickUp QuestName="Distress Call" QuestId="11707" GiverName="Airman Skyhopper" GiverId="25737" />
+
+<TurnIn QuestName="Farshire" QuestId="11928" TurnInName="Gerald Green" TurnInId="26083" />
+
+<PickUp QuestName="Military?  What Military?" QuestId="11901" GiverName="=Gerald Green" GiverId="26083" />
+<TurnIn QuestName="Military?  What Military?" QuestId="11901" TurnInName="Plagued Grain" TurnInId="188085" />
+
+<PickUp QuestName="Pernicious Evidence" QuestId="11902" GiverName="Plagued Grain" GiverId="188085" GiverType="Object" X="2759.931" Y="5294.907" Z="25.51207"/>
+
+<TurnIn QuestName="Thassarian, My Brother" QuestId="11599" TurnInName="William Allerton" TurnInId="25385" />
+
+<PickUp QuestName="The Late William Allerton" QuestId="11600" GiverName="William Allerton" GiverId="25385" />
+
+<TurnIn QuestName="Pernicious Evidence" QuestId="11902" TurnInName="Gerald Green" TurnInId="26083" />
+
+<PickUp QuestName="It's Time for Action" QuestId="11903" GiverName="Gerald Green" GiverId="26083" />
+<PickUp QuestName="Take No Chances" QuestId="11913" GiverName="Wendy Darren" GiverId="26085" />
+<PickUp QuestName="Reference Material" QuestId="11908" GiverName="Jeremiah Hawning" GiverId="26084" />
+
+<Objective QuestName="Take No Chances" QuestId="11913" Type="KillMob" MobId="26161" KillCount="8" />
+<Objective QuestName="Reference Material" QuestId="11908" Type="CollectItem" ItemId="35481" CollectCount="1" />
+<Objective QuestName="It's Time for Action" QuestId="11903" Type="KillMob" MobId="25650" KillCount="14" />
+
+<TurnIn QuestName="Reference Material" QuestId="11908" TurnInName="Jeremiah Hawning" TurnInId="26084" />
+<TurnIn QuestName="Take No Chances" QuestId="11913" TurnInName="Wendy Darren" TurnInId="26085" />
+<TurnIn QuestName="It's Time for Action" QuestId="11903" TurnInName="Gerald Green" TurnInId="26083" />
+
+<PickUp QuestName="Fruits of Our Labor" QuestId="11904" GiverName="Gerald Green" GiverId="26083" />
+<PickUp QuestName="Repurposed Technology" QuestId="12035" GiverName="Jeremiah Hawning" GiverId="26084" />
+
+<Objective QuestName="Repurposed Technology" QuestId="12035" Type="KillMob" MobId="25993" KillCount="5" />
+<Objective QuestName="Repurposed Technology" QuestId="12035" Type="CollectItem" ItemId="35943" CollectCount="1" />
+
+<TurnIn QuestName="Repurposed Technology" QuestId="12035" TurnInName="Jeremiah Hawning" TurnInId="26084" />
+
+<Objective QuestName="Fruits of Our Labor" QuestId="11904" Type="CollectItem" ItemId="35705" CollectCount="1" />
+<Objective QuestName="Fruits of Our Labor" QuestId="11904" Type="UseObject" ObjectId="188104" UseCount="1" />
+
+<TurnIn QuestName="Fruits of Our Labor" QuestId="11904" TurnInName="Gerald Green" TurnInId="26083" />
+
+<PickUp QuestName="One Last Delivery" QuestId="11962" GiverName="Gerald Green" GiverId="26083" />
+
+<Objective QuestName="Enemies of the Light" QuestId="11792" Type="CollectItem" ItemId="35122" CollectCount="1" />
+
+<TurnIn QuestName="One Last Delivery" QuestId="11962" TurnInName="Hilda Stoneforge" TurnInId="25235" />
+
+<PickUp QuestName="Weapons for Farshire" QuestId="11963" GiverName="Hilda Stoneforge" GiverId="25235" />
+<PickUp QuestName="Nick of Time" QuestId="11575" GiverName="Midge" GiverId="25249" />
+
+<TurnIn QuestName="The Late William Allerton" QuestId="11600" TurnInName="Leryssa" TurnInId="25251" />
+
+<PickUp QuestName="Lost and Found" QuestId="11601" GiverName="Leryssa" GiverId="25251" />
+
+<TurnIn QuestName="Lost and Found" QuestId="11601" TurnInName="James Deacon" TurnInId="25245" />
+
+<PickUp QuestName="In Wine, Truth" QuestId="11603" GiverName="=James Deacon" GiverId="25245" />
+<Objective QuestName="In Wine, Truth" QuestId="11603" Type="CollectItem" ItemId="34714" CollectCount="1" />
+<TurnIn QuestName="In Wine, Truth" QuestId="11603" TurnInName="=Old Man Colburn" TurnInId="25302" />
+
+<PickUp QuestName="A Deserter" QuestId="11604" GiverName="Old Man Colburn" GiverId="25302" />
+
+<TurnIn QuestName="A Deserter" QuestId="11604" TurnInName="Private Brau" TurnInId="25395" />
+
+<PickUp QuestName="Cowards and Fools" QuestId="11932" GiverName="Private Brau" GiverId="25395" />
+
+<TurnIn QuestName="Enemies of the Light" QuestId="11792" TurnInName="Harbinger Vurenn" TurnInId="25285" />
+
+<PickUp QuestName="Further Investigation" QuestId="11793" GiverName="Harbinger Vurenn" GiverId="25285" />
+
+<TurnIn QuestName="Further Investigation" QuestId="11793" TurnInName="Vindicator Yaala" TurnInId="25826" />
+
+<!-- Currently not supported, hope for support soon.
+<PickUp QuestName="The Hunt is On" QuestId="11794" GiverName="Vindicator Yaala" GiverId="25826" />
+
+<Objective QuestName="The Hunt is On" QuestId="11794" Type="KillMob" MobId="25248" KillCount="1" />
+<Objective QuestName="The Hunt is On" QuestId="11794" Type="KillMob" MobId="25827" KillCount="1" />
+<Objective QuestName="The Hunt is On" QuestId="11794" Type="KillMob" MobId="25828" KillCount="1" />
+<Objective QuestName="The Hunt is On" QuestId="11794" Type="CollectItem" ItemId="35125" CollectCount="1" />
+
+<TurnIn QuestName="The Hunt is On" QuestId="11794" TurnInName="Vindicator Yaala" TurnInId="25826" />
+-->
+
+<TurnIn QuestName="Weapons for Farshire" QuestId="11963" TurnInName="Gerald Green" TurnInId="26083" />
+
+<PickUp QuestName="Call to Arms!" QuestId="11965" GiverName="Gerald Green" GiverId="26083" />
+<Objective QuestName="Call to Arms!" QuestId="11965" Type="UseObject" ObjectId="188163" UseCount="1" />
+<TurnIn QuestName="Call to Arms!" QuestId="11965" TurnInName="Gerald Green" TurnInId="26083" />
+
+<!-- Friendly With Valiance Expedition & 32 out of 130 quests completed for Nothing Boring About Borean -->
+
+<TurnIn QuestName="Cowards and Fools" QuestId="11932" TurnInName="Ataika" TurnInId="26169" />
+
+<PickUp QuestName="The Son of Karkut" QuestId="12086" GiverName="Ataika" GiverId="26169" />
+<PickUp QuestName="Not Without a Fight!" QuestId="11949" GiverName="Ataika" GiverId="26169" />
+
+<Objective QuestName="Not Without a Fight!" QuestId="11949" Type="KillMob" MobId="25760" KillCount="12" />
+
+<TurnIn QuestName="Not Without a Fight!" QuestId="11949" TurnInName="Ataika" TurnInId="26169" />
+
+<!-- Now Friendly With The Kalu'ak & 34 out of 130 Quests completed for Nothing Boring About Borean -->
+
+<PickUp QuestName="Muahit's Wisdom" QuestId="11950" GiverName="Ataika" GiverId="26169" />
+
+<TurnIn QuestName="Muahit's Wisdom" QuestId="11950" TurnInName="Elder Muahit" TurnInId="26218" />
+
+<TurnIn QuestName="The Son of Karkut" QuestId="12086" TurnInName="Corporal Venn" TurnInId="26187" />
+
+<PickUp QuestName="Surrounded!" QuestId="11944" GiverName="Corporal Venn" GiverId="26187" />
+
+<Objective QuestName="Surrounded!" QuestId="11944" Type="KillMob" MobId="26202" KillCount="7" />
+
+<TurnIn QuestName="Surrounded!" QuestId="11944" TurnInName="Corporal Venn" TurnInId="26187" />
+
+<PickUp QuestName="Thassarian, the Death Knight" QuestId="12088" GiverName="Corporal Venn" GiverId="26187" />
+
+<TurnIn QuestName="Thassarian, the Death Knight" QuestId="12088" TurnInName="Thassarian" TurnInId="26170" />
+
+<PickUp QuestName="Finding the Phylactery" QuestId="11956" GiverName="Thassarian" GiverId="26170" />
+
+<Objective QuestName="Finding the Phylactery" QuestId="11956" Type="CollectItem" ItemId="35687" CollectCount="1" />
+
+<TurnIn QuestName="Finding the Phylactery" QuestId="11956" TurnInName="Thassarian" TurnInId="26170" />
+
+<PickUp QuestName="Buying Some Time" QuestId="11938" GiverName="Thassarian" GiverId="26170" />
+
+<Objective QuestName="Buying Some Time" QuestId="11938" Type="KillMob" MobId="26195" KillCount="20" />
+
+<TurnIn QuestName="Buying Some Time" QuestId="11938" TurnInName="Thassarian" TurnInId="26170" />
+
+<PickUp QuestName="Words of Power" QuestId="11942" GiverName="Thassarian" GiverId="26170" />
+
+<Objective QuestName="Words of Power" QuestId="11942" Type="CollectItem" ItemId="35355" CollectCount="1" />
+<Objective QuestName="Words of Power" QuestId="11942" Type="CollectItem" ItemId="35353" CollectCount="1" />
+<Objective QuestName="Words of Power" QuestId="11942" Type="CollectItem" ItemId="35354" CollectCount="1" />
+
+<TurnIn QuestName="Words of Power" QuestId="11942" TurnInName="Thassarian" TurnInId="26170" />
+
+<!-- Last quest in the chain, It picks it up but does not try to do it due to it being a group quest. You can complete it your self or drop it. -->
+<PickUp QuestName="Last Rites" QuestId="12019" GiverName="Thassarian" GiverId="26170" />
+
+<TurnIn QuestName="Distress Call" QuestId="11707" TurnInName="Fizzcrank Fullthrottle" TurnInId="25590" />
+
+<PickUp QuestName="The Mechagnomes" QuestId="11708" GiverName="Fizzcrank Fullthrottle" GiverId="25590" />
+
+<TurnIn QuestName="The Mechagnomes" QuestId="11708" TurnInName="Jinky Wingnut" TurnInId="25747" />
+
+<PickUp QuestName="Re-Cursive" QuestId="11712" GiverName="Jinky Wingnut" GiverId="25747" />
+<PickUp QuestName="What's the Matter with the Transmatter?" QuestId="11710" GiverName="Mordle Cogspinner" GiverId="25702" />
+<PickUp QuestName="King Mrgl-Mrgl" QuestId="11704" GiverName="Mordle Cogspinner" GiverId="25702" />
+<PickUp QuestName="Dirty, Stinkin' Snobolds!" QuestId="11645" GiverName="Crafty Wobblesprocket" GiverId="25477" />
+
+<Objective QuestName="Re-Cursive" QuestId="11712" Type="KillMob" MobId="25773" KillCount="6" />
+<Objective QuestName="Re-Cursive" QuestId="11712" Type="CollectItem" ItemId="34973" CollectCount="1" />
+<Objective QuestName="What's the Matter with the Transmatter?" QuestId="11710" Type="CollectItem" ItemId="34972" CollectCount="15" />
+
+<TurnIn QuestName="What's the Matter with the Transmatter?" QuestId="11710" TurnInName="Mordle Cogspinner" TurnInId="25702" />
+
+<PickUp QuestName="Check in With Bixie" QuestId="11692" GiverName="Mordle Cogspinner" GiverId="25702" />
+
+<TurnIn QuestName="Re-Cursive" QuestId="11712" TurnInName="Jinky Wingnut" TurnInId="25747" />
+
+<PickUp QuestName="Lefty Loosey, Righty Tighty" QuestId="11788" GiverName="Jinky Wingnut" GiverId="25747" />
+
+<PickUp QuestName="Finding Pilot Tailspin" QuestId="11725" GiverName="Fizzcrank Fullthrottle" GiverId="25590" />
+<!-- working on a way to spawn the mobs -->
+<Objective QuestName="Lefty Loosey, Righty Tighty" QuestId="11788" Type="KillMob" MobId="25830" KillCount="1" />
+<Objective QuestName="Lefty Loosey, Righty Tighty" QuestId="11788" Type="KillMob" MobId="25831" KillCount="1" />
+<Objective QuestName="Lefty Loosey, Righty Tighty" QuestId="11788" Type="KillMob" MobId="25832" KillCount="1" />
+<Objective QuestName="Lefty Loosey, Righty Tighty" QuestId="11788" Type="KillMob" MobId="25833" KillCount="1" />
+
+<TurnIn QuestName="Check in With Bixie" QuestId="11692" TurnInName="Bixie Wrenchshanker" TurnInId="25705" />
+<PickUp QuestName="Oh Great... Plagued Magnataur!" QuestId="11693" GiverName="Bixie Wrenchshanker" GiverId="25705" />
+
+<TurnIn QuestName="Finding Pilot Tailspin" QuestId="11725" TurnInName="Iggy Tailspin Cogtoggle" TurnInId="25807" />
+
+<PickUp QuestName="A Little Bit of Spice" QuestId="11726" GiverName="Iggy Tailspin Cogtoggle" GiverId="25807" />
+<Objective QuestName="A Little Bit of Spice" QuestId="11726" Type="CollectItem" ItemId="34983" CollectCount="4" />
+<TurnIn QuestName="A Little Bit of Spice" QuestId="11726" TurnInName="Iggy Tailspin Cogtoggle" TurnInId="25807" />
+
+<PickUp QuestName="Lupus Pupus" QuestId="11728" GiverName="Iggy Tailspin Cogtoggle" GiverId="25807" />
+
+<Objective QuestName="Lupus Pupus" QuestId="11728" Type="CollectItem" ItemId="35123" CollectCount="8" />
+
+<TurnIn QuestName="Lupus Pupus" QuestId="11728" TurnInName="Iggy Tailspin Cogtoggle" TurnInId="25807" />
+<!-- 50 out of 130 quests completed for zone achivement -->
+
+<!-- need to learn to talk to dead npc's will also alow for another quest earlyer in the profile to be put into it
+<PickUp QuestName="Emergency Protocol: Section 8.2, Paragraph C" QuestId="11795" GiverName="Iggy Tailspin Cogtoggle" GiverId="25807" />
+<Objective QuestName="Emergency Protocol: Section 8.2, Paragraph C" QuestId="11795" Type="CollectItem" ItemId="35126" CollectCount="6" />
+<TurnIn QuestName="Emergency Protocol: Section 8.2, Paragraph C" QuestId="11795" TurnInName="Iggy Tailspin Cogtoggle" TurnInId="25807" />
+-->
+
+
+
+
+
+
+</QuestOrder>
+</HBProfile>

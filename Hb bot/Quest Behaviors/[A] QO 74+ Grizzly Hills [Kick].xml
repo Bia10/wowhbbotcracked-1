@@ -1,0 +1,93 @@
+<HBProfile>
+  <Name>ImiHoax GRIZZLY Hills 74-76</Name>
+  <MinDurability>0.4</MinDurability>
+  <MinFreeBagSlots>4</MinFreeBagSlots>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>True</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MinLevel>1</MinLevel>
+  <MaxLevel>85</MaxLevel>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+
+<ProtectedItems>   
+<!--Mage Food / Mage Water / Mage Gem -->  
+<Item>8008</Item>
+<Item>22044</Item>
+<Item>33312</Item>
+<Item>8079</Item>
+<Item>30703</Item>
+<!--Hearthstone -->
+<Item>6948</Item>
+<!--Rune of Portals and Rune of Teleportation -->
+<Item>17032</Item>
+<Item>17031</Item>
+<!--Mote of Life and Unidentified Plant Parts -->
+<Item>22575</Item>
+<Item>24401</Item>
+<!--ecetera -->
+<Item>21877</Item> <!--Netherweave Cloth--> 
+<Item>33470</Item>
+<!--Healing Potions-->
+<Item>118</Item>
+<Item>858</Item>
+<Item>929</Item>
+<Item>1710</Item>
+<Item>3928</Item>
+<Item>13446</Item>
+<Item>17556</Item>
+<Item>28551</Item>
+<Item>33447</Item>
+<Item>37705</Item>
+</ProtectedItems> 
+<ForceMail>
+<Item>37705</Item>
+<Item>33470</Item>
+<!--Mote of Life and Unidentified Plant Parts -->
+<Item>22575</Item>
+<Item>21877</Item> <!--Netherweave Cloth--> 
+<Item>24401</Item>
+<!--ecetera -->
+<Item>21877</Item> <!--Netherweave Cloth--> 
+</ForceMail>
+  
+<SubProfile>
+<Name>Grizzly Hills</Name>
+<MinLevel>74</MinLevel>
+<MaxLevel>76</MaxLevel>
+<Factions>2001</Factions>
+<TargetMinLevel>74</TargetMinLevel> 
+<TargetMaxLevel>78</TargetMaxLevel>
+
+   
+<Vendors>
+</Vendors>
+
+<Mailboxes>
+</Mailboxes>
+
+<Hotspots>
+
+<Hotspot X="4100.347" Y="-3950.542" Z="166.5657" />
+<Hotspot X="4077.705" Y="-3953.343" Z="168.2105" />
+<Hotspot X="4021.511" Y="-3962.243" Z="172.4251" />
+<Hotspot X="4022.007" Y="-3941.038" Z="179.6543" />
+<Hotspot X="4070.169" Y="-3927.209" Z="179.6471" />
+<Hotspot X="4075.792" Y="-3943.638" Z="170.8026" />
+
+
+</Hotspots>
+
+<Blackspots>
+</Blackspots>
+</SubProfile>
+
+<AvoidMobs>
+</AvoidMobs> 
+
+</HBProfile>

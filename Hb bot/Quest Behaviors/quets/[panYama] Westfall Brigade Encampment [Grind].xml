@@ -1,0 +1,134 @@
+   <!--
+      PROFILE README:
+         * When using this profile, be certain to set the HonorBuddy bot to (select only one):
+                [*] Grinding
+                [ ] Questing
+                [ ] PvP
+   
+         * This profile is appropriate for:
+                [*] Leveling
+                [ ] PvP
+				[ ] Questing
+				[ ] Reputation
+		
+		
+		PROFILE FEATURES:
+         * An estimate of approx. to level 75 is currently unknown.
+		 
+		 * A collection of Leather and Fur's.
+            
+			
+		PROFILE WARNINGS:
+         * DO NOT run this profile any other then Grinding bot. Using something else will result in errors.
+  
+         * DO NOT post bugs that are NOT related to this profile by any means, they will get ignored. Bugs that are ment for this profile will be listed and fixed, so the profile
+		 can be updated to run smoothly.
+		 
+		 
+		 PROFILE CHANGELOG:
+		 * v2.0 Profile Overhaul
+			Date: December 29th
+			* Since WoW has change so has HB, since it was such a mess, I rewritten this whole profile.
+			
+		 * v2.1 Changed tags to current database
+			Date: Januari 30th
+			* Making changes to the whole template to make it cleaner and useable again.
+    -->
+<HBProfile>
+		<Name>panYama's Leveling 71-77 Grizzly Hills</Name>
+		
+		<!-- General Configuration -->
+		<MinDurability>0.4</MinDurability> 
+		<MinFreeBagSlots>4</MinFreeBagSlots>
+		<MinLevel>70</MinLevel>
+		<MaxLevel>78</MaxLevel>
+		
+		<!-- Vendor Configuration -->
+		<SellGrey>True</SellGrey>
+		<SellWhite>True</SellWhite>
+		<SellGreen>True</SellGreen>
+		<SellBlue>False</SellBlue>
+		<SellPurple>False</SellPurple>
+		
+		 <!-- Mail Configuration -->
+		<MailWhite>True</MailWhite>
+		<MailGreen>True</MailGreen>
+		<MailBlue>True</MailBlue>
+		<MailPurple>True</MailPurple>
+				
+		<!-- Protected Items Configuration -->
+		<ProtectedItems>    
+		</ProtectedItems>
+		
+		<!-- EliteMob Configuration -->
+		<TargetElites>False</TargetElites>
+		
+		<!-- AvoidMob Configuration -->
+		<AvoidMobs>
+			<AvoidMob Name="Serpent Defender" Entry="29693"/>
+			<AvoidMob Name="Drakkari Witch Doctor" Entry="27555"/>
+			<AvoidMob Name="Drakkari Defender" Entry="26704"/>
+			<AvoidMob Name="Injured Drakkari Refugee" Entry="27554"/>
+			<AvoidMob Name="Redfang Hunter" Entry="26356"/>
+			<AvoidMob Name="Frostpaw Warrior" Entry="26357"/>
+		</AvoidMobs>
+
+		<!-- Vendor Configuration -->
+		<Vendors>
+			<!-- Type: Repair -->
+			<Vendor Name="Tiernan Anvilheart" Entry="26229" Type="Repair" X="4542.522" Y="-4249.319" Z="170.4927" />
+			<!-- Type: Food -->
+			<Vendor Name="Quartermaster McCarty" Entry="26375" Type="Food" X="4596.138" Y="-4237.277" Z="178.6544" />
+		</Vendors>
+
+		<!-- Mailbox Configuration -->
+		<Mailboxes>
+			<Mailbox X="4599.106" Y="-4233.572" Z="178.653"/>
+		</Mailboxes>
+		
+		
+		<!-- Grind Configuration -->
+		<GrindArea>
+			<Factions>16 188 2000</Factions> <!-- Remove the 2000 faction id if you can't handle the horses -->
+			<RandomizeHotspots>false</RandomizeHotspots>
+			<MaximumHotspotTime>7000</MaximumHotspotTime>
+			<MaxDistance>60</MaxDistance>
+			<Hotspots>
+				<Hotspot X="4417.207" Y="-4041.976" Z="177.2313" />
+				<Hotspot X="4440.463" Y="-3979.294" Z="181.7709" />
+				<Hotspot X="4409.659" Y="-3951.036" Z="181.3664" />
+				<Hotspot X="4371.216" Y="-4032.349" Z="181.7206" />
+				<Hotspot X="4298.628" Y="-4064.16" Z="181.4552" />
+				<Hotspot X="4230.394" Y="-4096.182" Z="184.2591" />
+				<Hotspot X="4282.545" Y="-4005.591" Z="168.0154" />
+				<Hotspot X="4313.422" Y="-3902.207" Z="207.0594" />
+				<Hotspot X="4307.862" Y="-3841.066" Z="224.8918" />
+				<Hotspot X="4314.543" Y="-3791.524" Z="235.6681" />
+				<Hotspot X="4303.893" Y="-3722.916" Z="258.5167" />
+				<Hotspot X="4272.769" Y="-3673.867" Z="256.955" />
+				<Hotspot X="4226.514" Y="-3619.396" Z="250.7949" />
+				<Hotspot X="4229.892" Y="-3581.099" Z="252.4922" />
+				<Hotspot X="4298.565" Y="-3591.858" Z="246.6519" />
+				<Hotspot X="4317.673" Y="-3724.136" Z="256.4012" />
+				<Hotspot X="4389.729" Y="-3732.694" Z="240.7565" />
+				<Hotspot X="4460.687" Y="-3738.853" Z="219.8824" />
+				<Hotspot X="4519.481" Y="-3752.789" Z="222.383" />
+				<Hotspot X="4541.039" Y="-3801.712" Z="221.9949" />
+				<Hotspot X="4449.155" Y="-3815.358" Z="208.9824" />
+				<Hotspot X="4488.381" Y="-3869.826" Z="207.7192" />
+				<Hotspot X="4540.698" Y="-3885.73" Z="218.5523" />
+				<Hotspot X="4518.359" Y="-3926.371" Z="211.1801" />
+				<Hotspot X="4463.309" Y="-3961.735" Z="187.2387" />
+			</Hotspots>
+		</GrindArea>
+			
+		<!-- Blackspot Configuration -->
+		<BlackSpots>
+			<Blackspot X="4522.652" Y="-3617.988" Z="229.219" Radius="60.38102" />
+			<Blackspot X="4507.867" Y="-3463.422" Z="231.151" Radius="82.48512" />
+			<Blackspot X="4172.541" Y="-3722.415" Z="180.955" Radius="33.17714" />
+			<Blackspot X="4200.856" Y="-3769.394" Z="182.8712" Radius="34.36351" />
+			<Blackspot X="4194.097" Y="-3891.705" Z="176.7782" Radius="29.64638" />
+			<Blackspot X="4193.929" Y="-3934.267" Z="175.4309" Radius="36.1565" />
+		</BlackSpots>
+</HBProfile>
