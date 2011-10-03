@@ -1,0 +1,70 @@
+CHANGELOG 2.0.0.5354
+
+Api Additions
+-------------------
+WoWUnit - IsWithinMeleeRange, returns true if you are within melee range of a unit.
+
+Bugfixes
+-------------------
+Nightelfs should now fly back to the corpse when doing corpse runs if possible.
+
+Gatherbuddy2
+-------------------
+* Should mail all items properly again.
+
+
+CHANGELOG 2.0.0.5198
+
+Api Additions
+-----------------
+*LocalPlayer - Role, returns the role of the local player when in a dungeon group.
+
+Additions
+-----------------
+*MountHelper.GroundMounts / FlyingMounts should now work for Winged Guardian
+
+Changes
+-----------------
+*Abyssal Seahorse will be used over any other underwater mount.
+*Professionbuddy works again, older version put back until Highvoltz get's around to fix it.
+
+Quest Behaviors
+-----------------
+*UseTransport behavior should be properly working now.
+
+
+CHANGELOG 2.0.0.5184
+
+Breaking Changes
+-----------------
+Changes to encrypted settings will cause an initial error the first time it is used. You will need to re-fill your password on the login window to rectify the "error".
+
+Bugfixes
+-----------------
+* Flightor will no longer call Navigator if the destination is not fully navigatable. (Could not generate path stuff while using AB, GB2)
+* EncryptedSettingAttribute has been fixed so it may now save strings longer than 10 characters.
+* Flightmaster POI spam should no longer happen.
+* WeigthSetEx - Will now heavily score items that is your wanted armor class. Hopefully fixes a few bugs in AutoEquip2 rolling for or equipping armor types that isn't for your class.
+
+Additions
+-----------------
+* Honorbuddy now has a built-in auto updater. When there is a new build, you will be notified and will have the option to automatically update.
+* Honorbuddy now accepts /hbuser and /hbpass as commandline args. Usage: Honorbuddy.exe /hbuser=username /hbpass=password
+
+Api Additions
+-----------------
+* LocalPlayer - CurrentMap, has information about the current map. If it's a battleground, Map type, the name etc.
+* AreaTable - Wrapper for the AreaTable dbc, can be found in WoWInternals.DBC namespace
+* LfgDungeonExpansion - Wrapper for the LfgDungeonExpansion dbc, can be found in WoWInternals.DBC namespace
+* LfgDungeons - Wrapper for the LfgDungeons dbc, can be found in WoWInternals.DBC namespace
+* Map - Wrapper for the Map dbc, can be found in WoWInternals.DBC namespace
+* MapDifficulty - Wrapper for the MapDifficulty dbc, can be found in WoWInternals.DBC namespace
+
+GUI Changes
+-----------------
+* Buttons in the gui will be disabled until the initilization is completed. Early clicking to buttons used to cause issues.
+* Status Text works again.
+
+Gatherbuddy2
+-----------------
+* Fixed a bug occurs in Vashj'r where bot stands still targeting a dead mob.
