@@ -1,0 +1,11 @@
+[06:16:26:518] http://www.codemplosion.com
+[06:16:26:518] Version: 1.0.2.26
+[06:17:37:521] Logging in...
+[06:17:42:837] Forum is back online.
+[06:17:42:859] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[06:17:50:143] Attached to WoW with ID 5368
+[06:18:00:503] System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.WoWObjects.WoWObject.GetObjectName()

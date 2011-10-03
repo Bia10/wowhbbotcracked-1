@@ -1,0 +1,2795 @@
+[14:15:16:485] http://www.codemplosion.com
+[14:15:16:485] Version: 1.0.2.26
+[14:15:18:363] Logging in...
+[14:15:43:152] Forum is back online.
+[14:15:43:154] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[14:16:11:225] Attached to WoW with ID 3252
+[14:16:11:989] Honorbuddy v2.0.0.5354 started!
+[14:16:11:990] Using WoW with process ID 3252
+[14:16:11:996] Platform: Microsoft Windows NT 6.1.7600.0
+[14:16:11:996] Executable Path: C:\Users\samy\Desktop\HB und GB\Honorbuddy.exe
+[14:16:12:005] Character is a level 42 Draenei Paladin
+[14:16:12:006] Current zone is Östliche Pestländer
+[14:16:12:027] New bot added!: ArchaeologyBuddy
+[14:16:12:415] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[14:16:12:421] [Instancebuddy v3.0.1.315]:Currently supported tanking dungeons :
+[14:16:12:421] [Instancebuddy v3.0.1.315]:(This list will update itself automatically)
+[14:16:12:421] [Instancebuddy v3.0.1.315]:
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Deadmines
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Ragefire Chasm
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 16 - 26) Shadowfang Keep
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 20 - 30) The Stockade
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 26 - 36) Scarlet Monastery - Graveyard
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 29 - 39) Scarlet Monastery - Library
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 32 - 42) Scarlet Monastery - Armory
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 35 - 45) Scarlet Monastery - Cathedral
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 38 - 48) Scholomance
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 42 - 52) Stratholme - Main Gate
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 46 - 56) Stratholme - Service Entrance
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 57 - 67) Hellfire Ramparts
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 59 - 68) The Blood Furnace
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 62 - 71) Mana Tombs
+[14:16:12:421] [Instancebuddy v3.0.1.315]: (Level 65 - 73) Sethekk Halls
+[14:16:12:421] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[14:16:12:932] New bot added!: Instancebuddy
+[14:16:12:996] New bot added!: Gatherbuddy2
+[14:16:13:000] New bot added!: Grind Bot
+[14:16:13:005] New bot added!: Questing
+[14:16:13:021] New bot added!: PvP
+[14:16:13:027] New bot added!: BG Bot [Beta]
+[14:16:13:035] New bot added!: Mixed Mode
+[14:16:13:040] New bot added!: PartyBot
+[14:16:16:643] An error occured while loading PoolFishingBuddy!
+[14:16:16:708] System.Reflection.ReflectionTypeLoadException: Mindestens ein Typ in der Assembly kann nicht geladen werden. Rufen Sie die LoaderExceptions-Eigenschaft ab, wenn Sie weitere Informationen benötigen.
+   bei System.Reflection.Module._GetTypesInternal(StackCrawlMark& stackMark)
+   bei System.Reflection.Assembly.GetTypes()
+   bei Styx.Bot.Plugins.PFBLoader..ctor() in c:\Users\samy\Desktop\HB und GB\Bots\PoolFishingBuddy\PFBLoader.cs:Zeile 30.
+[14:16:16:708] New bot added!: Combat Bot
+[14:16:16:722] New bot added!: MrFishIt [1.0.5]
+[14:16:16:722] A bot could not be added because it threw an exception when 'Name' was accessed.
+[14:16:16:791] MeshesFolderPath: C:\Users\samy\AppData\Local\HonorbuddyMeshes
+[14:16:16:791] KillBetweenHotspots: True
+[14:16:16:791] AdvancedSettingsMode: False
+[14:16:16:791] LogoutForInactivity: True
+[14:16:16:791] LogoutInactivityTimer: 10
+[14:16:16:791] LogoutInactivityUseForceQuit: False
+[14:16:16:791] ProfileDebuggingMode: False
+[14:16:16:791] FoodAmount: 0
+[14:16:16:791] DrinkAmount: 0
+[14:16:16:791] EnabledPlugins:
+[14:16:16:791]     AutoEquip2
+[14:16:16:791]     Bug Submitter
+[14:16:16:791]     Profiles
+[14:16:16:791]     Refreshment Detection
+[14:16:16:791] FormLocationX: -2
+[14:16:16:791] FormLocationY: 16
+[14:16:16:791] FormWidth: 396
+[14:16:16:791] FormHeight: 302
+[14:16:16:791] SelectedBotIndex: 3
+[14:16:16:791] UseFlightPaths: False
+[14:16:16:791] FindMountAutomatically: True
+[14:16:16:791] UseRandomMount: True
+[14:16:16:791] FoodName has no value yet!
+[14:16:16:791] DrinkName has no value yet!
+[14:16:16:791] MountName: Ellek des Exarchen
+[14:16:16:791] LootMobs: True
+[14:16:16:791] SkinMobs: False
+[14:16:16:791] NinjaSkin: False
+[14:16:16:791] LootChests: True
+[14:16:16:791] HarvestMinerals: False
+[14:16:16:791] HarvestHerbs: False
+[14:16:16:791] UseMount: True
+[14:16:16:791] PullDistance: 30
+[14:16:16:791] LootRadius: 45
+[14:16:16:791] FindVendorsAutomatically: False
+[14:16:16:791] TrainNewSkills: False
+[14:16:16:791] LearnFlightPaths: True
+[14:16:16:791] LastUsedPath has no value yet!
+[14:16:16:791] MountDistance: 75
+[14:16:16:791] RessAtSpiritHealers: False
+[14:16:16:791] GroundMountFarmingMode: False
+[14:16:16:791] FoodAmount: 0
+[14:16:16:791] DrinkAmount: 0
+[14:16:16:791] FormLocationX: -2
+[14:16:16:791] FormLocationY: 16
+[14:16:16:791] SelectedBotIndex: 3
+[14:16:16:791] UseFlightPaths: False
+[14:16:16:791] FindMountAutomatically: True
+[14:16:16:791] UseRandomMount: True
+[14:16:16:791] FoodName has no value yet!
+[14:16:16:791] DrinkName has no value yet!
+[14:16:16:791] MountName: Ellek des Exarchen
+[14:16:16:791] LootMobs: True
+[14:16:16:791] SkinMobs: False
+[14:16:16:791] NinjaSkin: False
+[14:16:16:791] LootChests: True
+[14:16:16:791] HarvestMinerals: False
+[14:16:16:791] HarvestHerbs: False
+[14:16:16:791] UseMount: True
+[14:16:16:791] PullDistance: 30
+[14:16:16:791] LootRadius: 45
+[14:16:16:791] FindVendorsAutomatically: False
+[14:16:16:791] TrainNewSkills: False
+[14:16:16:791] LearnFlightPaths: True
+[14:16:16:791] LastUsedPath has no value yet!
+[14:16:16:791] MountDistance: 75
+[14:16:16:791] RessAtSpiritHealers: False
+[14:16:16:793] Please wait a few seconds while Honorbuddy initializes.
+[14:16:16:794] Activity: Initializing.
+[14:16:16:796] Activity: Loading memory management & tables
+[14:16:16:866] Activity: Loading Spells
+[14:16:16:947] Activity: Initializing Spell Manager
+[14:16:16:991] Activity: Initializing Plugins
+[14:16:17:143] 
+[14:16:20:576] [WeigtSet] Selected weight set: Paladin-Retribution
+[14:16:21:458] Plugin from C:\Users\samy\Desktop\HB und GB\Plugins\Instancebuddy could not be compiled! Compiler errors:
+[14:16:21:458] File: Instancebuddy.cs Line: 530 Error: Der Name "SequenceManager" ist im aktuellen Kontext nicht vorhanden.
+File: Instancebuddy.cs Line: 530 Error: Der Name "Sequence" ist im aktuellen Kontext nicht vorhanden.
+
+[14:16:22:556] ItemForAura: Loading config file: C:\Users\samy\Desktop\HB und GB\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[14:16:22:622] ItemForAura: Active1=True
+[14:16:22:622] ItemForAura: Active2=True
+[14:16:22:622] ItemForAura: Active3=True
+[14:16:22:622] ItemForAura: Active4=True
+[14:16:22:622] ItemForAura: Active5=True
+[14:16:22:622] ItemForAura: Active6=True
+[14:16:22:634] ItemForAura: Item1=58165
+[14:16:22:634] ItemForAura: Item2=38619
+[14:16:22:634] ItemForAura: Item3=38512
+[14:16:22:634] ItemForAura: Item4=38622
+[14:16:22:634] ItemForAura: Item5=38623
+[14:16:22:634] ItemForAura: Item6=38624
+[14:16:22:634] ItemForAura: Aura1=79651
+[14:16:22:634] ItemForAura: Aura2=54178
+[14:16:22:634] ItemForAura: Aura3=54176
+[14:16:22:634] ItemForAura: Aura4=51623
+[14:16:22:634] ItemForAura: Aura5=51623
+[14:16:22:634] ItemForAura: Aura6=51623
+[14:16:22:634] ItemForAura: Quest11=0
+[14:16:22:634] ItemForAura: Quest21=0
+[14:16:22:634] ItemForAura: Quest31=0
+[14:16:22:634] ItemForAura: Quest41=0
+[14:16:22:634] ItemForAura: Quest51=0
+[14:16:22:634] ItemForAura: Quest61=0
+[14:16:22:634] ItemForAura: Quest12=0
+[14:16:22:634] ItemForAura: Quest22=0
+[14:16:22:634] ItemForAura: Quest32=0
+[14:16:22:634] ItemForAura: Quest42=0
+[14:16:22:634] ItemForAura: Quest52=0
+[14:16:22:634] ItemForAura: Quest62=0
+[14:16:22:634] ItemForAura: Quest13=0
+[14:16:22:634] ItemForAura: Quest23=0
+[14:16:22:634] ItemForAura: Quest33=0
+[14:16:22:634] ItemForAura: Quest43=0
+[14:16:22:634] ItemForAura: Quest53=0
+[14:16:22:634] ItemForAura: Quest63=0
+[14:16:22:634] ItemForAura: Combat1=True
+[14:16:22:634] ItemForAura: Combat2=False
+[14:16:22:634] ItemForAura: Combat3=False
+[14:16:22:634] ItemForAura: Combat4=False
+[14:16:22:634] ItemForAura: Combat5=False
+[14:16:22:634] ItemForAura: Combat6=False
+[14:16:22:635] ItemForAura - Questhelper - Version 2.0 Loaded.
+[14:16:22:635] ItemForAura: Loading config file: C:\Users\samy\Desktop\HB und GB\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[14:16:22:636] ItemForAura: Active1=True
+[14:16:22:636] ItemForAura: Active2=True
+[14:16:22:636] ItemForAura: Active3=True
+[14:16:22:636] ItemForAura: Active4=True
+[14:16:22:636] ItemForAura: Active5=True
+[14:16:22:636] ItemForAura: Active6=True
+[14:16:22:636] ItemForAura: Item1=58165
+[14:16:22:636] ItemForAura: Item2=38619
+[14:16:22:636] ItemForAura: Item3=38512
+[14:16:22:636] ItemForAura: Item4=38622
+[14:16:22:636] ItemForAura: Item5=38623
+[14:16:22:636] ItemForAura: Item6=38624
+[14:16:22:636] ItemForAura: Aura1=79651
+[14:16:22:636] ItemForAura: Aura2=54178
+[14:16:22:636] ItemForAura: Aura3=54176
+[14:16:22:636] ItemForAura: Aura4=51623
+[14:16:22:636] ItemForAura: Aura5=51623
+[14:16:22:636] ItemForAura: Aura6=51623
+[14:16:22:636] ItemForAura: Quest11=0
+[14:16:22:636] ItemForAura: Quest21=0
+[14:16:22:636] ItemForAura: Quest31=0
+[14:16:22:636] ItemForAura: Quest41=0
+[14:16:22:636] ItemForAura: Quest51=0
+[14:16:22:636] ItemForAura: Quest61=0
+[14:16:22:636] ItemForAura: Quest12=0
+[14:16:22:636] ItemForAura: Quest22=0
+[14:16:22:636] ItemForAura: Quest32=0
+[14:16:22:636] ItemForAura: Quest42=0
+[14:16:22:636] ItemForAura: Quest52=0
+[14:16:22:636] ItemForAura: Quest62=0
+[14:16:22:636] ItemForAura: Quest13=0
+[14:16:22:636] ItemForAura: Quest23=0
+[14:16:22:636] ItemForAura: Quest33=0
+[14:16:22:636] ItemForAura: Quest43=0
+[14:16:22:637] ItemForAura: Quest53=0
+[14:16:22:637] ItemForAura: Quest63=0
+[14:16:22:637] ItemForAura: Combat1=True
+[14:16:22:637] ItemForAura: Combat2=False
+[14:16:22:637] ItemForAura: Combat3=False
+[14:16:22:637] ItemForAura: Combat4=False
+[14:16:22:637] ItemForAura: Combat5=False
+[14:16:22:637] ItemForAura: Combat6=False
+[14:16:29:154] Activity: Initializing Navigator
+[14:16:29:318] Activity: Initializing Blackspot Manager
+[14:16:29:325] Activity: Initializing Battlegrounds
+[14:16:29:361] Activity: Initializing Flight Paths
+[14:16:29:400] Activity: Initializing Routines
+[14:16:29:407] Building spell book
+[14:16:29:410] Spell book built
+[14:16:29:411] Compiling C:\Users\samy\Desktop\HB und GB\CustomClasses\ShamWOW
+[14:16:31:028] Compiling C:\Users\samy\Desktop\HB und GB\CustomClasses\Singular
+[14:16:33:100] Activity: Initialization complete
+[14:16:33:101] Initialization complete.
+[14:16:33:116] Activity: Honorbuddy Startup Complete
+[14:16:43:809] Chose Singular $Revision: 254 $ as your combat class!
+[14:16:43:811] [Singular] Starting Singular v0.0.0.0
+[14:16:43:845] [Singular] Determining talent spec.
+[14:16:44:085] [Singular] Current spec is  Retribution Paladin
+[14:16:44:118] [Singular] Using CreateRetributionPaladinCombat for Retribution Paladin - Combat (Priority: 0)
+[14:16:44:179] [Singular] Using CreateRetributionPaladinPull for Retribution Paladin - Pull (Priority: 0)
+[14:16:44:186] [Singular] Using default rest behavior.
+[14:16:44:191] [Singular] Using CreateRetributionPaladinCombatBuffs for Retribution Paladin - CombatBuffs (Priority: 0)
+[14:16:44:207] [Singular] Using CreatePaladinPreCombatBuffs for Retribution Paladin - PreCombatBuffs (Priority: 0)
+[14:16:44:214] [Singular] Behaviors created!
+[14:17:27:329] Starting the bot!
+[14:17:49:373] Downloaded tilemap Azeroth
+[14:17:49:388] Changed tilemap to Azeroth, Tiled: True
+[14:17:49:456] Changing current profile to Empty Profile
+[14:17:49:852] Cleared POI
+[14:17:49:854] Cleared POI - Reason Starting up
+[14:17:49:855] Cleared POI
+[14:17:50:890] [AutoEquip]: You have not selected a weapon style yet. Please open the configuration and check your settings.
+[14:17:51:352] [Singular] Casting Blessing of Kings on Myself
+[14:17:51:362] Spell_C::CastSpell(20217, 0, 0x2800000032B7ECB, 0) [1]
+[14:17:51:698] Activity: Loading Tile/s
+[14:17:51:699] Loading Azeroth_40_28
+[14:17:51:945] Loading Azeroth_40_27
+[14:17:52:139] Loading Azeroth_39_28
+[14:17:52:310] Loading Azeroth_39_27
+[14:17:52:574] Updating repair cost for current equipped items. New value: [0g19s3c]
+[14:17:53:093] [Singular] Casting Seal of Righteousness on Myself
+[14:17:53:093] Spell_C::CastSpell(20154, 0, 0x2800000032B7ECB, 0) [2]
+[14:17:56:264] [Instancebuddy v3.0.1.315]:Queueing at dungeon finder
+[14:18:01:008] [AutoEquip]: You have not selected a weapon style yet. Please open the configuration and check your settings.
+[14:18:03:641] [Instancebuddy v3.0.1.315]:Queueing at dungeon finder
+[14:18:11:008] [AutoEquip]: You have not selected a weapon style yet. Please open the configuration and check your settings.
+[14:18:11:092] [Instancebuddy v3.0.1.315]:Queueing at dungeon finder
+[14:18:21:086] [AutoEquip]: You have not selected a weapon style yet. Please open the configuration and check your settings.
+[14:19:31:015] [Instancebuddy v3.0.1.315]:Waiting for 5 seconds before accepting dungeon invite
+[14:19:35:707] [Instancebuddy v3.0.1.315]:Accepting dungeon invite
+[14:20:11:073] Downloaded tilemap Mauradon
+[14:20:11:083] Changed tilemap to Mauradon, Tiled: False
+[14:20:11:085] Activity: Downloading Mesh...
+[14:20:33:541] Downloaded Mauradon
+[14:20:33:549] Activity: Loading Tile/s
+[14:20:33:550] Loading Mauradon
+[14:20:33:753] [Singular] Context changed. New context: Instances. Rebuilding behaviors.
+[14:20:33:757] [Singular] Using CreateRetributionPaladinCombat for Retribution Paladin - Combat (Priority: 0)
+[14:20:33:764] [Singular] Using CreateRetributionPaladinPull for Retribution Paladin - Pull (Priority: 0)
+[14:20:33:770] [Singular] Using default rest behavior.
+[14:20:33:773] [Singular] Using CreateRetributionPaladinCombatBuffs for Retribution Paladin - CombatBuffs (Priority: 0)
+[14:20:33:785] [Singular] Using CreatePaladinPreCombatBuffs for Retribution Paladin - PreCombatBuffs (Priority: 0)
+[14:20:34:618] [Instancebuddy v3.0.1.315]:Tank is set to: Paladin with MaxHP: 2760
+[14:20:38:256] [Instancebuddy v3.0.1.315]:Accepted shared quest: Diener von Theradras
+[14:20:41:023] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:20:41:027] Spell_C::CastSpell(35395, 0, 0xF1302FBB00006157, 0) [3]
+[14:20:41:610] Activity: Combat
+[14:20:42:874] [Singular] Casting Judgement on Stachelpeitscher
+[14:20:42:875] Spell_C::CastSpell(20271, 0, 0xF1302FBB00006157, 0) [4]
+[14:20:44:738] [Singular] Casting Exorcism on Stachelpeitscher
+[14:20:44:739] Spell_C::CastSpell(879, 0, 0xF1302FBB00006157, 0) [5]
+[14:20:46:532] [Singular] No viable target! NOT GOOD!
+[14:21:00:082] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:21:00:089] Spell_C::CastSpell(35395, 0, 0xF1302FBB000061BE, 0) [6]
+[14:21:02:202] [Singular] Casting Exorcism on Stachelpeitscher
+[14:21:02:207] Spell_C::CastSpell(879, 0, 0xF1302FBB000061BE, 0) [7]
+[14:21:03:965] [Singular] Casting Judgement on Stachelpeitscher
+[14:21:03:977] Spell_C::CastSpell(20271, 0, 0xF1302FBB000061BE, 0) [8]
+[14:21:06:050] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:21:06:050] Spell_C::CastSpell(35395, 0, 0xF1302FBB000061BE, 0) [9]
+[14:21:07:730] [Singular] Casting Holy Wrath on Stachelpeitscher
+[14:21:07:734] Spell_C::CastSpell(2812, 0, 0xF1302FBB000061BE, 0) [10]
+[14:21:09:475] [Singular] Casting Consecration on Stachelpeitscher
+[14:21:09:475] Spell_C::CastSpell(26573, 0, 0xF1302FBB000061BE, 0) [11]
+[14:21:09:722] Sync
+[14:21:11:270] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:21:11:271] Spell_C::CastSpell(35395, 0, 0xF1302FBB000061BE, 0) [12]
+[14:21:26:581] [Singular] Casting Divine Storm on Würgeranke
+[14:21:26:582] Spell_C::CastSpell(53385, 0, 0xF1302FBC00006204, 0) [13]
+[14:21:28:375] [Singular] Casting Judgement on Würgeranke
+[14:21:28:376] Spell_C::CastSpell(20271, 0, 0xF1302FBC00006204, 0) [14]
+[14:21:30:376] [Singular] Casting Exorcism on Würgeranke
+[14:21:30:376] Spell_C::CastSpell(879, 0, 0xF1302FBC00006205, 0) [15]
+[14:21:32:228] [Singular] Casting Divine Storm on Würgeranke
+[14:21:32:229] Spell_C::CastSpell(53385, 0, 0xF1302FBC00006204, 0) [16]
+[14:21:34:043] [Singular] Casting Exorcism on Würgeranke
+[14:21:34:044] Spell_C::CastSpell(879, 0, 0xF1302FBC00006204, 0) [17]
+[14:21:35:635] [Singular] Casting Holy Wrath on Würgeranke
+[14:21:35:636] Spell_C::CastSpell(2812, 0, 0xF1302FBC00006204, 0) [18]
+[14:21:36:562] [Singular] No viable target! NOT GOOD!
+[14:21:37:462] [Singular] Casting Templar's Verdict on Würgeranke
+[14:21:37:462] Spell_C::CastSpell(85256, 0, 0xF1302FBC00006205, 0) [19]
+[14:21:39:011] [Singular] Casting Crusader Strike on Würgeranke
+[14:21:39:012] Spell_C::CastSpell(35395, 0, 0xF1302FBC00006205, 0) [20]
+[14:21:40:580] [Singular] Casting Consecration on Würgeranke
+[14:21:40:581] Spell_C::CastSpell(26573, 0, 0xF1302FBC00006205, 0) [21]
+[14:21:42:180] [Singular] Casting Exorcism on Würgeranke
+[14:21:42:181] Spell_C::CastSpell(879, 0, 0xF1302FBC00006205, 0) [22]
+[14:21:42:576] Spell_C::CastSpell(879, 0, 0xF1302FBC00006205, 0) [23]
+[14:21:43:778] Spell_C::CastSpell(879, 0, 0xF1302FBC00006203, 0) [24]
+[14:21:45:002] [Singular] No viable target! NOT GOOD!
+[14:21:46:736] Drinking Mondbeerensaft
+[14:21:49:299] [STUCK] Got stuck at <1045.039, -339.6787, -33.32408> on map 349
+[14:21:49:311] [STUCK][HITTEST] LD/LU: False
+[14:21:49:311] [STUCK][HITTEST] Left: False
+[14:21:49:311] [STUCK][HITTEST] RD/RU: False
+[14:21:49:311] [STUCK][HITTEST] Right: False
+[14:21:49:311] [STUCK][HITTEST] Behind: False
+[14:21:49:311] [STUCK][HITTEST] Behind Left: False
+[14:21:49:311] [STUCK][HITTEST] Behind Right: False
+[14:21:52:655] [STUCK] Strafing worked!
+[14:21:52:832] Flushing timed movement. Direction: AllAllowed
+[14:22:00:380] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:22:00:381] Spell_C::CastSpell(35395, 0, 0xF1302FBB00006162, 0) [25]
+[14:22:02:036] [Singular] Casting Judgement on Stachelpeitscher
+[14:22:02:059] Spell_C::CastSpell(20271, 0, 0xF1302FBB00006162, 0) [26]
+[14:22:03:733] [Singular] Casting Holy Wrath on Stachelpeitscher
+[14:22:03:733] Spell_C::CastSpell(2812, 0, 0xF1302FBB00006162, 0) [27]
+[14:22:05:559] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:22:05:560] Spell_C::CastSpell(35395, 0, 0xF1302FBB00006162, 0) [28]
+[14:22:08:089] [Singular] Casting Exorcism on Stachelpeitscher
+[14:22:08:090] Spell_C::CastSpell(879, 0, 0xF1302FBB00006162, 0) [29]
+[14:22:10:523] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:22:10:523] Spell_C::CastSpell(35395, 0, 0xF1302FBB00006162, 0) [30]
+[14:22:31:901] Spell_C::CastSpell(35395, 0, 0xF1302FBB00006206, 0) [31]
+[14:22:33:519] [Singular] Casting Judgement on Stachelpeitscher
+[14:22:33:519] Spell_C::CastSpell(20271, 0, 0xF1302FBB00006206, 0) [32]
+[14:22:35:231] [Singular] Casting Word of Glory on Stachelpeitscher
+[14:22:35:232] Spell_C::CastSpell(85673, 0, 0xF1302FBB00006206, 0) [33]
+[14:22:36:952] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:22:36:953] Spell_C::CastSpell(35395, 0, 0xF1302FBB00006206, 0) [34]
+[14:22:38:542] [Singular] Casting Holy Wrath on Stachelpeitscher
+[14:22:38:543] Spell_C::CastSpell(2812, 0, 0xF1302FBB00006206, 0) [35]
+[14:22:40:120] [Singular] Casting Consecration on Stachelpeitscher
+[14:22:40:121] Spell_C::CastSpell(26573, 0, 0xF1302FBB00006206, 0) [36]
+[14:22:43:338] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:22:43:338] Spell_C::CastSpell(35395, 0, 0xF1302FBB00006206, 0) [37]
+[14:22:45:208] [Singular] Casting Exorcism on Stachelpeitscher
+[14:22:45:209] Spell_C::CastSpell(879, 0, 0xF1302FBB00006206, 0) [38]
+[14:22:47:089] [Singular] Casting Judgement on Stachelpeitscher
+[14:22:47:089] Spell_C::CastSpell(20271, 0, 0xF1302FBB00006206, 0) [39]
+[14:22:48:859] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:22:48:859] Spell_C::CastSpell(35395, 0, 0xF1302FBB00006206, 0) [40]
+[14:22:50:784] [Singular] Casting Exorcism on Stachelpeitscher
+[14:22:50:785] Spell_C::CastSpell(879, 0, 0xF1302FBB00006206, 0) [41]
+[14:22:52:152] [Singular] No viable target! NOT GOOD!
+[14:22:53:833] Drinking Mondbeerensaft
+[14:23:00:967] [STUCK] Got stuck at <993.4716, -320.9808, -40.3936> on map 349
+[14:23:00:994] [STUCK][HITTEST] LD/LU: False
+[14:23:00:994] [STUCK][HITTEST] Left: False
+[14:23:00:994] [STUCK][HITTEST] RD/RU: False
+[14:23:00:994] [STUCK][HITTEST] Right: False
+[14:23:00:994] [STUCK][HITTEST] Behind: False
+[14:23:00:994] [STUCK][HITTEST] Behind Left: False
+[14:23:00:994] [STUCK][HITTEST] Behind Right: False
+[14:23:04:372] [STUCK] Strafing worked!
+[14:23:04:549] Flushing timed movement. Direction: AllAllowed
+[14:23:10:749] [Singular] Casting Crusader Strike on Dryade von Celebrian
+[14:23:10:750] Spell_C::CastSpell(35395, 0, 0xF1302E1100006151, 0) [42]
+[14:23:12:338] [Singular] Casting Holy Wrath on Dryade von Celebrian
+[14:23:12:338] Spell_C::CastSpell(2812, 0, 0xF1302E1100006151, 0) [43]
+[14:23:13:909] [Singular] Casting Templar's Verdict on Dryade von Celebrian
+[14:23:13:910] Spell_C::CastSpell(85256, 0, 0xF1302E1100006151, 0) [44]
+[14:23:15:485] [Singular] Casting Consecration on Dryade von Celebrian
+[14:23:15:486] Spell_C::CastSpell(26573, 0, 0xF1302E1100006151, 0) [45]
+[14:23:17:533] [Singular] Casting Crusader Strike on Dryade von Celebrian
+[14:23:17:533] Spell_C::CastSpell(35395, 0, 0xF1302E1100006151, 0) [46]
+[14:23:18:801] Spell_C::CastSpell(35395, 0, 0xF1302E1100006150, 0) [47]
+[14:23:20:672] [Singular] Casting Judgement on Dryade von Celebrian
+[14:23:20:673] Spell_C::CastSpell(20271, 0, 0xF1302E1100006150, 0) [48]
+[14:23:23:540] [Singular] No viable target! NOT GOOD!
+[14:23:24:106] [Singular] We have no food/drink. Waiting to recover our health/mana back
+[14:23:32:034] [Singular] Casting Crusader Strike on Kriechender Schlick
+[14:23:32:039] Spell_C::CastSpell(35395, 0, 0xF1302FBE00006155, 0) [49]
+[14:23:34:032] [Singular] Casting Judgement on Kriechender Schlick
+[14:23:34:032] Spell_C::CastSpell(20271, 0, 0xF1302FBE00006152, 0) [50]
+[14:23:35:934] [Singular] Casting Exorcism on Kriechender Schlick
+[14:23:35:935] Spell_C::CastSpell(879, 0, 0xF1302FBE00006152, 0) [51]
+[14:23:37:682] [Singular] Casting Word of Glory on Kriechender Schlick
+[14:23:37:683] Spell_C::CastSpell(85673, 0, 0xF1302FBE00006152, 0) [52]
+[14:23:39:504] [Singular] Casting Divine Storm on Kriechender Schlick
+[14:23:39:505] Spell_C::CastSpell(53385, 0, 0xF1302FBE00006152, 0) [53]
+[14:23:41:516] [Singular] Casting Divine Protection on Myself
+[14:23:41:524] Spell_C::CastSpell(498, 0, 0x2800000032B7ECB, 0) [54]
+[14:23:42:195] [Singular] Casting Holy Wrath on Kriechender Schlick
+[14:23:42:196] Spell_C::CastSpell(2812, 0, 0xF1302FBE00006152, 0) [55]
+[14:23:43:616] [Singular] No viable target! NOT GOOD!
+[14:23:45:038] [Singular] Casting Divine Storm on Kriechender Schlick
+[14:23:45:038] Spell_C::CastSpell(53385, 0, 0xF1302FBE00006155, 0) [56]
+[14:23:47:321] [Singular] Casting Judgement on Kriechender Schlick
+[14:23:47:322] Spell_C::CastSpell(20271, 0, 0xF1302FBE00006155, 0) [57]
+[14:23:49:552] [Singular] Casting Consecration on Kriechender Schlick
+[14:23:49:552] Spell_C::CastSpell(26573, 0, 0xF1302FBE00006155, 0) [58]
+[14:23:52:057] [Singular] Casting Divine Storm on Kriechender Schlick
+[14:23:52:057] Spell_C::CastSpell(53385, 0, 0xF1302FBE00006155, 0) [59]
+[14:23:55:667] [Singular] Casting Judgement on Kriechender Schlick
+[14:23:55:668] Spell_C::CastSpell(20271, 0, 0xF1302FBE00006155, 0) [60]
+[14:23:58:125] [Singular] Casting Crusader Strike on Kriechender Schlick
+[14:23:58:126] Spell_C::CastSpell(35395, 0, 0xF1302FBE000061CA, 0) [61]
+[14:23:59:825] [Singular] Casting Word of Glory on Kriechender Schlick
+[14:23:59:826] Spell_C::CastSpell(85673, 0, 0xF1302FBE000061CA, 0) [62]
+[14:24:01:945] [Singular] Casting Exorcism on Kriechender Schlick
+[14:24:01:946] Spell_C::CastSpell(879, 0, 0xF1302FBE000061CA, 0) [63]
+[14:24:04:007] [Singular] Casting Crusader Strike on Kriechender Schlick
+[14:24:04:008] Spell_C::CastSpell(35395, 0, 0xF1302FBE000061C0, 0) [64]
+[14:24:05:733] [Singular] Casting Judgement on Kriechender Schlick
+[14:24:05:734] Spell_C::CastSpell(20271, 0, 0xF1302FBE000061C0, 0) [65]
+[14:24:09:129] [Singular] Casting Crusader Strike on Kriechender Schlick
+[14:24:09:129] Spell_C::CastSpell(35395, 0, 0xF1302FBE000061C0, 0) [66]
+[14:24:10:884] [Singular] No viable target! NOT GOOD!
+[14:24:11:687] [Singular] We have no food/drink. Waiting to recover our health/mana back
+[14:24:13:618] [AutoEquip]: Loot roll in progress
+[14:24:13:747] [AutoEquip]: Equipped item in slot:NeckSlot scored 80.8 while loot-roll item scored:100
+[14:24:13:781] [AutoEquip]: Grünsteintalisman scored 100 while your equiped item only scored 80.8 - Rolling Need
+[14:24:13:821] [AutoEquip]: Loot roll in progress
+[14:24:13:943] [AutoEquip]: Equipped item in slot:NeckSlot scored 80.8 while loot-roll item scored:100
+[14:24:13:983] [AutoEquip]: Grünsteintalisman scored 100 while your equiped item only scored 80.8 - Rolling Need
+[14:24:14:315] [AutoEquip]: Confirming Loot Roll
+[14:24:14:316] [AutoEquip]: RollId:0 RollType:1
+[14:24:14:326] [AutoEquip]: Confirming Loot Roll
+[14:24:14:326] [AutoEquip]: RollId:0 RollType:1
+[14:24:14:369] [AutoEquip]: Confirming Loot Roll
+[14:24:14:369] [AutoEquip]: RollId:0 RollType:1
+[14:24:14:411] [AutoEquip]: Confirming Loot Roll
+[14:24:14:411] [AutoEquip]: RollId:0 RollType:1
+[14:25:16:009] [AutoEquip]: Equipping Neck "Grünsteintalisman des Ebers" instead of "Kleiner Weihrauchbeutel" - it scored 100 while the old scored 80.8
+[14:25:16:284] [Singular] No viable target! NOT GOOD!
+[14:25:19:737] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:25:19:737] Spell_C::CastSpell(35395, 0, 0xF1302FBB000061C4, 0) [67]
+[14:25:21:623] [Singular] Casting Judgement on Stachelpeitscher
+[14:25:21:623] Spell_C::CastSpell(20271, 0, 0xF1302FBB000061C4, 0) [68]
+[14:25:23:471] [Singular] Casting Holy Wrath on Stachelpeitscher
+[14:25:23:472] Spell_C::CastSpell(2812, 0, 0xF1302FBB000061C4, 0) [69]
+[14:25:25:227] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:25:25:228] Spell_C::CastSpell(35395, 0, 0xF1302FBB000061C4, 0) [70]
+[14:25:27:086] [Singular] Casting Consecration on Stachelpeitscher
+[14:25:27:088] Spell_C::CastSpell(26573, 0, 0xF1302FBB000061C4, 0) [71]
+[14:25:30:084] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:25:30:085] Spell_C::CastSpell(35395, 0, 0xF1302FBB000061C4, 0) [72]
+[14:25:31:822] [Singular] Casting Templar's Verdict on Stachelpeitscher
+[14:25:31:823] Spell_C::CastSpell(85256, 0, 0xF1302FBB000061C4, 0) [73]
+[14:25:39:914] [AutoEquip]: Equipping Neck "Grünsteintalisman des Ebers" instead of "Kleiner Weihrauchbeutel" - it scored 100 while the old scored 80.8
+[14:25:48:253] [Singular] Casting Crusader Strike on Kriechender Schlick
+[14:25:48:254] Spell_C::CastSpell(35395, 0, 0xF1302FBE000061CB, 0) [74]
+[14:25:50:957] [Singular] Casting Exorcism on Kriechender Schlick
+[14:25:50:958] Spell_C::CastSpell(879, 0, 0xF1302FBE000061BF, 0) [75]
+[14:25:52:542] [Singular] Casting Judgement on Kriechender Schlick
+[14:25:52:543] Spell_C::CastSpell(20271, 0, 0xF1302FBE000061BF, 0) [76]
+[14:25:54:280] [Singular] Casting Divine Storm on Kriechender Schlick
+[14:25:54:281] Spell_C::CastSpell(53385, 0, 0xF1302FBE000061BF, 0) [77]
+[14:25:56:055] [Singular] Casting Exorcism on Kriechender Schlick
+[14:25:56:056] Spell_C::CastSpell(879, 0, 0xF1302FBE000061BF, 0) [78]
+[14:25:57:889] Spell_C::CastSpell(879, 0, 0xF1302FBE000061BF, 0) [79]
+[14:25:59:112] [Singular] No viable target! NOT GOOD!
+[14:26:00:653] [Singular] Casting Crusader Strike on Kriechender Schlick
+[14:26:00:654] Spell_C::CastSpell(35395, 0, 0xF1302FBE000061C8, 0) [80]
+[14:26:02:400] [Singular] Casting Judgement on Kriechender Schlick
+[14:26:02:400] Spell_C::CastSpell(20271, 0, 0xF1302FBE000061C8, 0) [81]
+[14:26:04:015] [Singular] Casting Holy Wrath on Kriechender Schlick
+[14:26:04:016] Spell_C::CastSpell(2812, 0, 0xF1302FBE000061C8, 0) [82]
+[14:26:06:316] [Singular] Casting Crusader Strike on Kriechender Schlick
+[14:26:06:317] Spell_C::CastSpell(35395, 0, 0xF1302FBE000061C8, 0) [83]
+[14:26:08:322] [Singular] Casting Templar's Verdict on Kriechender Schlick
+[14:26:08:323] Spell_C::CastSpell(85256, 0, 0xF1302FBE000061C8, 0) [84]
+[14:26:09:680] Sync
+[14:26:09:932] [Singular] Casting Consecration on Kriechender Schlick
+[14:26:09:933] Spell_C::CastSpell(26573, 0, 0xF1302FBE000061C8, 0) [85]
+[14:26:11:764] [Singular] Casting Crusader Strike on Kriechender Schlick
+[14:26:11:764] Spell_C::CastSpell(35395, 0, 0xF1302FBE000061C8, 0) [86]
+[14:26:13:863] [Singular] No viable target! NOT GOOD!
+[14:26:14:901] [Singular] Casting Exorcism on Kriechender Schlick
+[14:26:14:902] Spell_C::CastSpell(879, 0, 0xF1302FBE000061CB, 0) [87]
+[14:26:16:835] [Singular] We have no food/drink. Waiting to recover our health/mana back
+[14:26:31:492] [Instancebuddy v3.0.1.315]:Waiting for 2 seconds before accepting role check
+[14:26:33:422] [Instancebuddy v3.0.1.315]:Role Check is in progress
+[14:26:34:586] [STUCK] Got stuck at <936.1114, -231.7554, -41.63102> on map 349
+[14:26:34:613] [STUCK][HITTEST] LD/LU: False
+[14:26:34:613] [STUCK][HITTEST] Left: False
+[14:26:34:613] [STUCK][HITTEST] RD/RU: False
+[14:26:34:613] [STUCK][HITTEST] Right: False
+[14:26:34:613] [STUCK][HITTEST] Behind: False
+[14:26:34:613] [STUCK][HITTEST] Behind Left: False
+[14:26:34:613] [STUCK][HITTEST] Behind Right: False
+[14:26:37:997] [STUCK] Strafing worked!
+[14:26:38:174] Flushing timed movement. Direction: AllAllowed
+[14:26:42:623] [Singular] Casting Crusader Strike on Kriechender Schlick
+[14:26:42:624] Spell_C::CastSpell(35395, 0, 0xF1302FBE00006222, 0) [88]
+[14:26:44:311] [Singular] Casting Exorcism on Kriechender Schlick
+[14:26:44:311] Spell_C::CastSpell(879, 0, 0xF1302FBE00006222, 0) [89]
+[14:26:46:219] [Singular] Casting Judgement on Kriechender Schlick
+[14:26:46:219] Spell_C::CastSpell(20271, 0, 0xF1302FBE00006222, 0) [90]
+[14:26:47:846] [Singular] Casting Crusader Strike on Kriechender Schlick
+[14:26:47:847] Spell_C::CastSpell(35395, 0, 0xF1302FBE00006222, 0) [91]
+[14:26:48:327] [Singular] No viable target! NOT GOOD!
+[14:27:06:108] [Instancebuddy v3.0.1.315]:Waiting for 2 seconds before accepting role check
+[14:27:07:835] [Instancebuddy v3.0.1.315]:Role Check is in progress
+[14:27:26:854] [Instancebuddy v3.0.1.315]:There are 3 or less online players in party. Waiting for 61 seconds before leaving.
+[14:28:08:908] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Cannot run injection routines while not in game! (Crash Prevention)
+   at Styx.StyxWoW.Call[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.WoWInternals.WoWObjects.WoWObject.get_Location()
+   at Styx.WoWInternals.WoWObjects.WoWObject.get_Distance()
+   at Bots.Grind.LevelBot.LevelbotIncludeLootsFilter(List`1 incomingObjects, HashSet`1 outgoingObjects)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[14:28:08:908] Changed tilemap to Azeroth, Tiled: True
+[14:28:08:914] [Singular] Context changed. New context: Normal. Rebuilding behaviors.
+[14:28:08:918] [Singular] Using CreateRetributionPaladinCombat for Retribution Paladin - Combat (Priority: 0)
+[14:28:08:923] [Singular] Using CreateRetributionPaladinPull for Retribution Paladin - Pull (Priority: 0)
+[14:28:08:929] [Singular] Using default rest behavior.
+[14:28:08:933] [Singular] Using CreateRetributionPaladinCombatBuffs for Retribution Paladin - CombatBuffs (Priority: 0)
+[14:28:08:948] [Singular] Using CreatePaladinPreCombatBuffs for Retribution Paladin - PreCombatBuffs (Priority: 0)
+[14:28:09:027] Not in game
+[14:28:13:054] Updating repair cost for current equipped items. New value: [0g20s23c]
+[14:28:13:065] [Instancebuddy v3.0.1.315]:Anti AFK jump
+[14:31:14:119] Sync
+[14:32:19:967] Not in game
+[14:32:25:238] Changed tilemap to Mauradon, Tiled: False
+[14:32:25:240] Activity: Loading Tile/s
+[14:32:25:240] Loading Mauradon
+[14:32:25:465] [Singular] Context changed. New context: Instances. Rebuilding behaviors.
+[14:32:25:469] [Singular] Using CreateRetributionPaladinCombat for Retribution Paladin - Combat (Priority: 0)
+[14:32:25:474] [Singular] Using CreateRetributionPaladinPull for Retribution Paladin - Pull (Priority: 0)
+[14:32:25:480] [Singular] Using default rest behavior.
+[14:32:25:483] [Singular] Using CreateRetributionPaladinCombatBuffs for Retribution Paladin - CombatBuffs (Priority: 0)
+[14:32:25:495] [Singular] Using CreatePaladinPreCombatBuffs for Retribution Paladin - PreCombatBuffs (Priority: 0)
+[14:32:25:749] [Instancebuddy v3.0.1.315]:Tank is set to: Warrior with MaxHP: 2508
+[14:33:26:725] [AutoEquip]: Loot roll in progress
+[14:33:26:801] [AutoEquip]: Equipped item in slot:WristSlot scored 274.5 while loot-roll item scored:511
+[14:33:26:822] [AutoEquip]: Rolling Greed
+[14:33:26:844] [AutoEquip]: Loot roll in progress
+[14:33:26:917] [AutoEquip]: Equipped item in slot:WristSlot scored 274.5 while loot-roll item scored:511
+[14:33:26:939] [AutoEquip]: Rolling Greed
+[14:33:27:260] [AutoEquip]: Confirming Loot Roll
+[14:33:27:260] [AutoEquip]: RollId:1 RollType:2
+[14:33:27:268] [AutoEquip]: Confirming Loot Roll
+[14:33:27:268] [AutoEquip]: RollId:1 RollType:2
+[14:33:27:295] [AutoEquip]: Confirming Loot Roll
+[14:33:27:295] [AutoEquip]: RollId:1 RollType:2
+[14:33:27:314] [AutoEquip]: Confirming Loot Roll
+[14:33:27:314] [AutoEquip]: RollId:1 RollType:2
+[14:33:56:997] [Singular] No viable target! NOT GOOD!
+[14:33:58:269] [Singular] Casting Divine Storm on Elende Larve
+[14:33:58:269] Spell_C::CastSpell(53385, 0, 0xF1302FBA0000620E, 0) [92]
+[14:33:58:937] Activity: Combat
+[14:33:59:933] [Singular] No viable target! NOT GOOD!
+[14:34:01:004] [Singular] Casting Judgement on Elende Larve
+[14:34:01:004] Spell_C::CastSpell(20271, 0, 0xF1302FBA0000620D, 0) [93]
+[14:34:01:866] [Singular] No viable target! NOT GOOD!
+[14:34:14:444] [Singular] Casting Crusader Strike on Stachelpeitscher
+[14:34:14:444] Spell_C::CastSpell(35395, 0, 0xF1302FBB000062D2, 0) [94]
+[14:34:16:376] [Singular] Casting Judgement on Stachelpeitscher
+[14:34:16:377] Spell_C::CastSpell(20271, 0, 0xF1302FBB000062D2, 0) [95]
+[14:34:18:077] [Singular] No viable target! NOT GOOD!
+[14:34:25:745] [Singular] Casting Crusader Strike on Würgeranke
+[14:34:25:753] Spell_C::CastSpell(35395, 0, 0xF1302FBC0000624F, 0) [96]
+[14:34:27:666] [Singular] Casting Judgement on Würgeranke
+[14:34:27:667] Spell_C::CastSpell(20271, 0, 0xF1302FBC0000624F, 0) [97]
+[14:34:29:285] [Singular] Casting Holy Wrath on Würgeranke
+[14:34:29:286] Spell_C::CastSpell(2812, 0, 0xF1302FBC0000624F, 0) [98]
+[14:34:31:122] [Singular] Casting Hammer of Justice on Würgeranke
+[14:34:31:123] Spell_C::CastSpell(853, 0, 0xF1302FBC0000624F, 0) [99]
+[14:34:32:740] [Singular] Casting Divine Storm on Würgeranke
+[14:34:32:746] Spell_C::CastSpell(53385, 0, 0xF1302FBC00006250, 0) [100]
+[14:34:34:764] [Singular] Casting Consecration on Würgeranke
+[14:34:34:765] Spell_C::CastSpell(26573, 0, 0xF1302FBC00006250, 0) [101]
+[14:34:36:569] [Singular] Casting Judgement on Würgeranke
+[14:34:36:569] Spell_C::CastSpell(20271, 0, 0xF1302FBC0000624E, 0) [102]
+[14:34:38:571] [Singular] Casting Crusader Strike on Würgeranke
+[14:34:38:572] Spell_C::CastSpell(35395, 0, 0xF1302FBC0000624E, 0) [103]
+[14:34:40:336] [Singular] Casting Templar's Verdict on Würgeranke
+[14:34:40:337] Spell_C::CastSpell(85256, 0, 0xF1302FBC0000624E, 0) [104]
+[14:34:40:917] [Singular] No viable target! NOT GOOD!
+[14:34:41:925] [Singular] Casting Templar's Verdict on Würgeranke
+[14:34:41:926] Spell_C::CastSpell(85256, 0, 0xF1302FBC0000624F, 0) [105]
+[14:34:43:279] [Singular] No viable target! NOT GOOD!
+[14:34:46:858] [Singular] Casting Divine Storm on Würgeranke
+[14:34:46:858] Spell_C::CastSpell(53385, 0, 0xF1302FBC000061A0, 0) [106]
+[14:34:48:809] [Singular] Casting Judgement on Würgeranke
+[14:34:48:810] Spell_C::CastSpell(20271, 0, 0xF1302FBC000061A0, 0) [107]
+[14:34:50:410] [Singular] Casting Holy Wrath on Würgeranke
+[14:34:50:411] Spell_C::CastSpell(2812, 0, 0xF1302FBC000061A0, 0) [108]
+[14:34:52:230] [Singular] Casting Divine Storm on Würgeranke
+[14:34:52:230] Spell_C::CastSpell(53385, 0, 0xF1302FBC000061A0, 0) [109]
+[14:34:54:041] [Singular] Casting Exorcism on Stachelpeitscher
+[14:34:54:041] Spell_C::CastSpell(879, 0, 0xF1302FBB000061E7, 0) [110]
+[14:34:57:039] [Singular] Casting Divine Storm on Stachelpeitscher
+[14:34:57:040] Spell_C::CastSpell(53385, 0, 0xF1302FBB000061E7, 0) [111]
+[14:34:58:678] [Singular] Casting Judgement on Würgeranke
+[14:34:58:679] Spell_C::CastSpell(20271, 0, 0xF1302FBC0000619F, 0) [112]
+[14:35:03:164] [Singular] No viable target! NOT GOOD!
+[14:35:06:616] [STUCK] Got stuck at <971.0192, -179.5963, -61.95233> on map 349
+[14:35:06:641] [STUCK][HITTEST] LD/LU: False
+[14:35:06:641] [STUCK][HITTEST] Left: False
+[14:35:06:641] [STUCK][HITTEST] RD/RU: False
+[14:35:06:641] [STUCK][HITTEST] Right: False
+[14:35:06:641] [STUCK][HITTEST] Behind: False
+[14:35:06:641] [STUCK][HITTEST] Behind Left: False
+[14:35:06:641] [STUCK][HITTEST] Behind Right: False
+[14:35:10:137] [STUCK] Strafing worked!
+[14:35:10:318] Flushing timed movement. Direction: AllAllowed
+[14:35:14:421] [Singular] Casting Crusader Strike on Schwester von Celebras
+[14:35:14:421] Spell_C::CastSpell(35395, 0, 0xF1302E120000629D, 0) [113]
+[14:35:16:021] [Singular] Casting Exorcism on Schwester von Celebras
+[14:35:16:021] Spell_C::CastSpell(879, 0, 0xF1302E120000629D, 0) [114]
+[14:35:17:308] [Singular] No viable target! NOT GOOD!
+[14:35:38:891] [Singular] Casting Divine Storm on Stachelpeitscher
+[14:35:38:892] Spell_C::CastSpell(53385, 0, 0xF1302FBB000062D3, 0) [115]
+[14:35:41:050] [Singular] Casting Exorcism on Stachelpeitscher
+[14:35:41:054] Spell_C::CastSpell(879, 0, 0xF1302FBB000062D3, 0) [116]
+[14:35:43:494] [Singular] Casting Judgement on Würgeranke
+[14:35:43:495] Spell_C::CastSpell(20271, 0, 0xF1302FBC00006257, 0) [117]
+[14:35:45:093] [Singular] Casting Consecration on Würgeranke
+[14:35:45:093] Spell_C::CastSpell(26573, 0, 0xF1302FBC00006257, 0) [118]
+[14:35:46:665] [Singular] Casting Divine Storm on Würgeranke
+[14:35:46:666] Spell_C::CastSpell(53385, 0, 0xF1302FBC00006257, 0) [119]
+[14:35:49:069] [Singular] Casting Exorcism on Stachelpeitscher
+[14:35:49:069] Spell_C::CastSpell(879, 0, 0xF1302FBB000062D3, 0) [120]
+[14:35:49:673] [Singular] No viable target! NOT GOOD!
+[14:35:50:614] [Singular] Casting Exorcism on Würgeranke
+[14:35:50:615] Spell_C::CastSpell(879, 0, 0xF1302FBC00006257, 0) [121]
+[14:35:51:918] [Singular] Casting Crusader Strike on Würgeranke
+[14:35:51:919] Spell_C::CastSpell(35395, 0, 0xF1302FBC00006258, 0) [122]
+[14:35:53:675] [Singular] Casting Exorcism on Würgeranke
+[14:35:53:675] Spell_C::CastSpell(879, 0, 0xF1302FBC00006258, 0) [123]
+[14:35:54:265] [Singular] No viable target! NOT GOOD!
+[14:35:58:458] Sync
+[14:36:04:192] [Singular] Casting Crusader Strike on Schlingwurzler
+[14:36:04:192] Spell_C::CastSpell(35395, 0, 0xF1302FE20000613C, 0) [124]
+[14:36:05:823] [Singular] Casting Exorcism on Schlingwurzler
+[14:36:05:824] Spell_C::CastSpell(879, 0, 0xF1302FE20000613C, 0) [125]
+[14:36:07:599] Spell_C::CastSpell(879, 0, 0xF1302FE20000613C, 0) [126]
+[14:36:09:424] [Singular] Casting Crusader Strike on Schlingwurzler
+[14:36:09:424] Spell_C::CastSpell(35395, 0, 0xF1302FE20000613C, 0) [127]
+[14:36:11:158] [Singular] Casting Templar's Verdict on Schlingwurzler
+[14:36:11:162] Spell_C::CastSpell(85256, 0, 0xF1302FE20000613C, 0) [128]
+[14:36:12:925] [Singular] Casting Judgement on Schlingwurzler
+[14:36:12:926] Spell_C::CastSpell(20271, 0, 0xF1302FE20000613C, 0) [129]
+[14:36:14:703] [Singular] Casting Crusader Strike on Schlingwurzler
+[14:36:14:704] Spell_C::CastSpell(35395, 0, 0xF1302FE20000613C, 0) [130]
+[14:36:16:450] [Singular] Casting Exorcism on Schlingwurzler
+[14:36:16:451] Spell_C::CastSpell(879, 0, 0xF1302FE20000613C, 0) [131]
+[14:36:18:238] Spell_C::CastSpell(879, 0, 0xF1302FE20000613C, 0) [132]
+[14:36:19:979] [Singular] Casting Crusader Strike on Schlingwurzler
+[14:36:19:980] Spell_C::CastSpell(35395, 0, 0xF1302FE20000613C, 0) [133]
+[14:36:21:790] [Singular] Casting Exorcism on Schlingwurzler
+[14:36:21:790] Spell_C::CastSpell(879, 0, 0xF1302FE20000613C, 0) [134]
+[14:36:23:483] [Singular] Casting Judgement on Schlingwurzler
+[14:36:23:484] Spell_C::CastSpell(20271, 0, 0xF1302FE20000613C, 0) [135]
+[14:36:25:255] [Singular] Casting Crusader Strike on Schlingwurzler
+[14:36:25:255] Spell_C::CastSpell(35395, 0, 0xF1302FE20000613C, 0) [136]
+[14:36:26:944] [Singular] Casting Holy Wrath on Schlingwurzler
+[14:36:26:945] Spell_C::CastSpell(2812, 0, 0xF1302FE20000613C, 0) [137]
+[14:36:28:650] [Singular] Casting Exorcism on Schlingwurzler
+[14:36:28:651] Spell_C::CastSpell(879, 0, 0xF1302FE20000613C, 0) [138]
+[14:36:30:364] [Singular] Casting Crusader Strike on Schlingwurzler
+[14:36:30:365] Spell_C::CastSpell(35395, 0, 0xF1302FE20000613C, 0) [139]
+[14:36:32:021] [Singular] Casting Templar's Verdict on Schlingwurzler
+[14:36:32:022] Spell_C::CastSpell(85256, 0, 0xF1302FE20000613C, 0) [140]
+[14:36:33:813] [Singular] Casting Exorcism on Schlingwurzler
+[14:36:33:814] Spell_C::CastSpell(879, 0, 0xF1302FE20000613C, 0) [141]
+[14:36:34:608] [Singular] No viable target! NOT GOOD!
+[14:36:34:790] [Instancebuddy v3.0.1.315]:Random dungeon is completed. Will leave in 36 seconds
+[14:36:34:968] [Singular] No viable target! NOT GOOD!
+[14:36:35:557] [AutoEquip]: Loot roll in progress
+[14:36:35:637] [AutoEquip]: Equipped item in slot:ShoulderSlot scored 73.5 while loot-roll item scored:64
+[14:36:35:637] [AutoEquip]: Rolling Greed
+[14:36:35:663] [AutoEquip]: Loot roll in progress
+[14:36:35:739] [AutoEquip]: Equipped item in slot:ShoulderSlot scored 73.5 while loot-roll item scored:64
+[14:36:35:739] [AutoEquip]: Rolling Greed
+[14:36:35:977] [AutoEquip]: Confirming Loot Roll
+[14:36:35:977] [AutoEquip]: RollId:2 RollType:2
+[14:36:36:000] [AutoEquip]: Confirming Loot Roll
+[14:36:36:000] [AutoEquip]: RollId:2 RollType:2
+[14:36:36:022] [AutoEquip]: Confirming Loot Roll
+[14:36:36:022] [AutoEquip]: RollId:2 RollType:2
+[14:36:36:054] [AutoEquip]: Confirming Loot Roll
+[14:36:36:054] [AutoEquip]: RollId:2 RollType:2
+[14:37:08:403] [Instancebuddy v3.0.1.315]:Waiting for 4 seconds before accepting dungeon invite
+[14:37:12:079] [Instancebuddy v3.0.1.315]:Accepting dungeon invite
+[14:37:12:279] [Instancebuddy v3.0.1.315]:Random dungeon is completed. Will leave in 38 seconds
+[14:37:18:644] [Instancebuddy v3.0.1.315]:Dungeon run is over. Teleporting out.
+[14:37:28:094] Not in game
+[14:37:31:876] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Cannot run injection routines while not in game! (Crash Prevention)
+   at Styx.StyxWoW.Call[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.StyxWoW._SLc[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.WoWInternals.WoWObjects.WoWUnit.GetReactionTowards(WoWUnit otherUnit)
+   at Styx.WoWInternals.WoWObjects.WoWUnit.get_MyReaction()
+   at Styx.WoWInternals.WoWObjects.WoWUnit.get_IsFriendly()
+   at Styx.Logic.Targeting.DefaultRemoveTargetsFilter(List`1 units)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[14:37:31:893] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Cannot run injection routines while not in game! (Crash Prevention)
+   at Styx.StyxWoW.Call[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.StyxWoW._SLc[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.WoWInternals.WoWObjects.WoWUnit.GetReactionTowards(WoWUnit otherUnit)
+   at Styx.WoWInternals.WoWObjects.WoWUnit.get_MyReaction()
+   at Styx.WoWInternals.WoWObjects.WoWUnit.get_IsFriendly()
+   at Instancebuddy.Instancebuddy._mtc(List`1 units)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[14:37:31:971] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Cannot run injection routines while not in game! (Crash Prevention)
+   at Styx.StyxWoW.Call[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.StyxWoW._SLc[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.WoWInternals.WoWObjects.WoWUnit.GetReactionTowards(WoWUnit otherUnit)
+   at Styx.WoWInternals.WoWObjects.WoWUnit.get_MyReaction()
+   at Styx.Logic.Targeting.DefaultTargetWeight(List`1 units)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[14:37:32:424] System.InvalidOperationException: Cannot run injection routines while not in game! (Crash Prevention)
+   at Styx.StyxWoW.Call[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.WoWInternals.WoWObjects.WoWObject.get_Location()
+   at Styx.WoWInternals.WoWObjects.WoWUnit.get_Location()
+   at Styx.WoWInternals.WoWObjects.WoWObject.get_Distance()
+   at Styx.Logic.Targeting.Pulse()
+[14:37:32:424] Changed tilemap to Azeroth, Tiled: True
+[14:37:32:431] [Singular] Context changed. New context: Normal. Rebuilding behaviors.
+[14:37:32:438] [Singular] Using CreateRetributionPaladinCombat for Retribution Paladin - Combat (Priority: 0)
+[14:37:32:447] [Singular] Using CreateRetributionPaladinPull for Retribution Paladin - Pull (Priority: 0)
+[14:37:32:454] [Singular] Using default rest behavior.
+[14:37:32:456] [Singular] Using CreateRetributionPaladinCombatBuffs for Retribution Paladin - CombatBuffs (Priority: 0)
+[14:37:32:469] [Singular] Using CreatePaladinPreCombatBuffs for Retribution Paladin - PreCombatBuffs (Priority: 0)
+[14:37:32:472] Cleared POI - Reason Player Died
+[14:37:32:472] Cleared POI
+[14:37:32:548] Not in game
+[14:37:35:941] Updating repair cost for current equipped items. New value: [0g20s39c]
+[14:37:35:952] [Instancebuddy v3.0.1.315]:Anti AFK jump
+[14:37:41:046] [Instancebuddy v3.0.1.315]:Waiting for Dungeon Cooldown to end
+[14:38:12:939] Stopping the bot!
+[14:38:12:940] Stop called!
+[14:38:12:986] Activity: Honorbuddy Stopped
+[14:38:12:992] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[14:38:12:993] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[14:38:14:499] Starting the bot!
+[14:38:14:801] Cleared POI - Reason Starting up
+[14:38:14:801] Cleared POI
+[14:38:37:758] Stopping the bot!
+[14:38:37:758] Stop called!
+[14:38:37:816] Exception in DoString: Thread was being aborted. StackTrace:   at System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at BlueMagic.ExecutorRand.Execute()
+   at Styx.WoWInternals.Lua.DoString(String lua, String luaFile, UInt32 pState)
+[14:38:37:839] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.WoWInternals.Lua.DoString(String lua, String luaFile, UInt32 pState)
+   at Styx.WoWInternals.Lua.DoString(String szLua)
+   at Styx.WoWInternals.LuaEvents.Pulse()
+   at Styx.WoWInternals.Lua.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[14:38:37:840] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[14:38:44:492] Starting the bot!
+[14:38:44:544] Can not start quest bot - this profile does not contain a quest order!
+[14:38:44:544] Stop called!
+[14:38:46:095] Starting the bot!
+[14:38:46:098] Can not start quest bot - this profile does not contain a quest order!
+[14:38:47:355] Activity: Loading Profile...
+[14:38:49:725] Changing current profile to [A - Quest] Human 1-60 [Kick]
+[14:38:59:556] Starting the bot!
+[14:38:59:955] Changing current profile to [A - Quest] Human 1-60 [Kick]
+[14:39:00:060] Cleared POI - Reason Starting up
+[14:39:00:060] Cleared POI
+[14:39:00:331] Compiling quest behavior from 'C:\Users\samy\Desktop\HB und GB\Quest Behaviors\Message.cs'
+[14:39:01:505] [Profile Message]: Compiling Eastern Plaguelands Quests
+[14:39:01:511] Compiling expression 'Me.GetSkill(Styx.SkillLine.Riding).CurrentValue < 150' @ line 5881
+[14:39:02:384] Compiling quest behavior from 'C:\Users\samy\Desktop\HB und GB\Quest Behaviors\UserSettings.cs'
+[14:39:03:371] Goal: Moving to <-8780.128, 380.0052, 100.8152>
+[14:39:04:620] Mounting: Elekk des Exarchen
+[14:39:04:824] Spell_C::CastSpell(73629, 0, 0x0, 0) [142]
+[14:39:06:846] Activity: Loading Tile/s
+[14:39:06:846] Loading Azeroth_40_28
+[14:39:07:058] Loading Azeroth_31_48
+[14:39:07:285] Loading Azeroth_39_28
+[14:39:07:454] Loading Azeroth_38_28
+[14:39:07:623] Loading Azeroth_39_29
+[14:39:07:800] Loading Azeroth_38_29
+[14:39:07:961] Loading Azeroth_40_27
+[14:39:08:117] Loading Azeroth_40_29
+[14:39:08:295] Loading Azeroth_39_27
+[14:39:08:486] Loading Azeroth_41_28
+[14:39:08:658] Loading Azeroth_37_28
+[14:39:08:844] Loading Azeroth_38_27
+[14:39:09:095] Loading Azeroth_41_27
+[14:39:09:276] Loading Azeroth_37_29
+[14:39:09:378] Loading Azeroth_41_29
+[14:39:09:528] Loading Azeroth_36_28
+[14:39:09:725] Loading Azeroth_37_30
+[14:39:09:897] Loading Azeroth_37_27
+[14:39:10:047] Loading Azeroth_40_26
+[14:39:10:222] Loading Azeroth_36_29
+[14:39:10:341] Loading Azeroth_39_26
+[14:39:10:521] Loading Azeroth_35_28
+[14:39:10:699] Loading Azeroth_42_27
+[14:39:10:984] Loading Azeroth_42_28
+[14:39:11:368] Loading Azeroth_35_29
+[14:39:11:570] Loading Azeroth_41_26
+[14:39:11:776] Loading Azeroth_36_27
+[14:39:11:958] Loading Azeroth_36_30
+[14:39:12:182] Loading Azeroth_34_28
+[14:39:12:351] Loading Azeroth_42_29
+[14:39:12:535] Loading Azeroth_34_29
+[14:39:12:858] Loading Azeroth_35_30
+[14:39:13:033] Loading Azeroth_34_30
+[14:39:13:211] Loading Azeroth_33_28
+[14:39:13:383] Loading Azeroth_33_29
+[14:39:13:552] Loading Azeroth_38_26
+[14:39:13:851] Loading Azeroth_39_25
+[14:39:14:020] Loading Azeroth_34_31
+[14:39:14:235] Loading Azeroth_40_25
+[14:39:14:415] Loading Azeroth_33_30
+[14:39:14:673] Loading Azeroth_35_27
+[14:39:14:870] Loading Azeroth_36_31
+[14:39:15:107] Loading Azeroth_35_31
+[14:39:15:311] Loading Azeroth_38_25
+[14:39:15:563] Loading Azeroth_33_31
+[14:39:15:734] Loading Azeroth_42_26
+[14:39:15:965] Loading Azeroth_37_26
+[14:39:16:196] Loading Azeroth_32_28
+[14:39:16:359] Loading Azeroth_32_29
+[14:39:16:511] Loading Azeroth_34_27
+[14:39:16:759] Loading Azeroth_34_32
+[14:39:16:945] Loading Azeroth_37_25
+[14:39:17:209] Loading Azeroth_33_32
+[14:39:17:361] Loading Azeroth_37_31
+[14:39:17:601] Loading Azeroth_41_25
+[14:39:17:785] Loading Azeroth_36_32
+[14:39:17:970] Loading Azeroth_36_26
+[14:39:18:141] Loading Azeroth_32_31
+[14:39:18:320] Loading Azeroth_34_33
+[14:39:18:476] Loading Azeroth_33_33
+[14:39:18:683] Loading Azeroth_37_32
+[14:39:18:895] Loading Azeroth_32_32
+[14:39:19:112] Loading Azeroth_35_32
+[14:39:19:287] Loading Azeroth_32_30
+[14:39:19:524] Loading Azeroth_31_28
+[14:39:19:901] Loading Azeroth_33_27
+[14:39:20:041] Loading Azeroth_36_33
+[14:39:20:170] Loading Azeroth_32_33
+[14:39:20:314] Loading Azeroth_43_27
+[14:39:20:417] Loading Azeroth_32_27
+[14:39:20:603] Loading Azeroth_34_34
+[14:39:20:750] Loading Azeroth_31_29
+[14:39:20:988] Loading Azeroth_33_34
+[14:39:21:040] Loading Azeroth_35_33
+[14:39:21:157] Loading Azeroth_31_27
+[14:39:21:301] Loading Azeroth_30_28
+[14:39:21:429] Loading Azeroth_30_29
+[14:39:21:543] Loading Azeroth_43_28
+[14:39:21:672] Loading Azeroth_35_26
+[14:39:21:897] Loading Azeroth_35_34
+[14:39:22:096] Loading Azeroth_32_34
+[14:39:22:114] Loading Azeroth_38_31
+[14:39:22:265] Loading Azeroth_36_34
+[14:39:22:374] Loading Azeroth_38_32
+[14:39:22:572] Loading Azeroth_33_35
+[14:39:22:585] Loading Azeroth_29_29
+[14:39:22:766] Loading Azeroth_30_30
+[14:39:22:903] Loading Azeroth_31_32
+[14:39:23:054] Loading Azeroth_31_31
+[14:39:23:234] Loading Azeroth_43_29
+[14:39:23:319] Loading Azeroth_29_30
+[14:39:23:505] Loading Azeroth_34_35
+[14:39:23:592] Loading Azeroth_35_35
+[14:39:23:794] Loading Azeroth_29_31
+[14:39:23:965] Loading Azeroth_29_32
+[14:39:24:129] Loading Azeroth_31_33
+[14:39:24:271] Loading Azeroth_37_34
+[14:39:24:348] Loading Azeroth_30_27
+[14:39:24:494] Loading Azeroth_37_33
+[14:39:24:661] Loading Azeroth_30_32
+[14:39:24:865] Loading Azeroth_31_30
+[14:39:24:928] Loading Azeroth_29_33
+[14:39:25:106] Loading Azeroth_30_33
+[14:39:25:263] Loading Azeroth_36_35
+[14:39:25:412] Loading Azeroth_30_31
+[14:39:25:564] Loading Azeroth_28_31
+[14:39:25:673] Loading Azeroth_31_34
+[14:39:25:742] Loading Azeroth_36_36
+[14:39:25:931] Loading Azeroth_34_26
+[14:39:26:183] Loading Azeroth_36_37
+[14:39:26:308] Loading Azeroth_28_30
+[14:39:26:444] Loading Azeroth_36_38
+[14:39:26:609] Loading Azeroth_37_35
+[14:39:26:788] Loading Azeroth_44_27
+[14:39:26:793] Loading Azeroth_44_28
+[14:39:26:813] Loading Azeroth_28_29
+[14:39:27:000] Loading Azeroth_29_28
+[14:39:27:197] Loading Azeroth_29_27
+[14:39:27:330] Loading Azeroth_35_38
+[14:39:27:500] Loading Azeroth_37_36
+[14:39:27:638] Loading Azeroth_37_38
+[14:39:27:754] Loading Azeroth_35_37
+[14:39:27:892] Loading Azeroth_39_31
+[14:39:28:062] Loading Azeroth_37_37
+[14:39:28:259] Loading Azeroth_28_32
+[14:39:28:341] Loading Azeroth_32_35
+[14:39:28:350] Loading Azeroth_33_26
+[14:39:28:567] Loading Azeroth_37_39
+[14:39:28:702] Loading Azeroth_28_33
+[14:39:28:853] Loading Azeroth_35_36
+[14:39:28:952] Loading Azeroth_36_39
+[14:39:29:144] Loading Azeroth_31_26
+[14:39:29:247] Loading Azeroth_43_30
+[14:39:29:253] Loading Azeroth_32_26
+[14:39:29:376] Loading Azeroth_38_30
+[14:39:29:563] Loading Azeroth_38_34
+[14:39:29:693] Loading Azeroth_34_36
+[14:39:29:705] Loading Azeroth_39_32
+[14:39:29:955] Loading Azeroth_34_38
+[14:39:30:123] Loading Azeroth_33_36
+[14:39:30:134] Loading Azeroth_37_40
+[14:39:30:295] Loading Azeroth_36_40
+[14:39:30:435] Loading Azeroth_30_26
+[14:39:30:594] Loading Azeroth_29_34
+[14:39:30:789] Loading Azeroth_28_34
+[14:39:30:962] Loading Azeroth_28_28
+[14:39:31:152] Loading Azeroth_30_34
+[14:39:31:250] Loading Azeroth_34_37
+[14:39:31:318] Loading Azeroth_31_35
+[14:39:31:332] Loading Azeroth_38_33
+[14:39:31:502] Loading Azeroth_38_35
+[14:39:31:732] Loading Azeroth_33_38
+[14:39:31:824] Loading Azeroth_27_30
+[14:39:31:839] Loading Azeroth_42_30
+[14:39:31:867] Loading Azeroth_33_39
+[14:39:32:007] Loading Azeroth_40_32
+[14:39:32:147] Loading Azeroth_27_31
+[14:39:32:151] Loading Azeroth_44_29
+[14:39:32:157] Loading Azeroth_34_39
+[14:39:32:352] Loading Azeroth_39_30
+[14:39:32:566] Loading Azeroth_43_26
+[14:39:32:688] Loading Azeroth_28_27
+[14:39:32:846] Loading Azeroth_40_31
+[14:39:33:065] Loading Azeroth_38_38
+[14:39:33:230] Loading Azeroth_28_35
+[14:39:33:451] Loading Azeroth_40_33
+[14:39:33:530] Loading Azeroth_32_39
+[14:39:33:550] Loading Azeroth_33_37
+[14:39:33:660] Loading Azeroth_44_30
+[14:39:33:673] Loading Azeroth_29_35
+[14:39:33:895] Loading Azeroth_32_36
+[14:39:33:906] Loading Azeroth_37_41
+[14:39:34:084] Loading Azeroth_27_29
+[14:39:34:158] Loading Azeroth_36_41
+[14:39:34:365] Loading Azeroth_44_26
+[14:39:34:376] Loading Azeroth_29_26
+[14:39:34:436] Loading Azeroth_38_39
+[14:39:34:656] Loading Azeroth_30_35
+[14:39:34:777] Loading Azeroth_38_37
+[14:39:34:934] Loading Azeroth_27_34
+[14:39:35:092] Loading Azeroth_32_38
+[14:39:35:108] Loading Azeroth_36_42
+[14:39:35:321] Loading Azeroth_35_42
+[14:39:35:483] Loading Azeroth_37_42
+[14:39:35:734] Loading Azeroth_35_41
+[14:39:35:902] Loading Azeroth_36_43
+[14:39:36:084] Loading Azeroth_43_31
+[14:39:36:088] Loading Azeroth_27_33
+[14:39:36:179] Loading Azeroth_41_33
+[14:39:36:192] Loading Azeroth_34_42
+[14:39:36:388] Loading Azeroth_39_34
+[14:39:36:517] Loading Azeroth_40_34
+[14:39:36:539] Loading Azeroth_28_36
+[14:39:36:649] Loading Azeroth_39_33
+[14:39:36:870] Loading Azeroth_37_43
+[14:39:37:078] Loading Azeroth_41_32
+[14:39:37:089] Loading Azeroth_32_25
+[14:39:37:093] Loading Azeroth_38_36
+[14:39:37:236] Loading Azeroth_31_25
+[14:39:37:242] Loading Azeroth_35_43
+[14:39:37:412] Loading Azeroth_31_36
+[14:39:37:426] Loading Azeroth_42_31
+[14:39:37:439] Loading Azeroth_34_43
+[14:39:37:604] Loading Azeroth_27_32
+[14:39:37:621] Loading Azeroth_40_30
+[14:39:37:873] Loading Azeroth_33_42
+[14:39:38:067] Loading Azeroth_33_43
+[14:39:38:210] Loading Azeroth_32_40
+[14:39:38:339] Loading Azeroth_33_40
+[14:39:38:487] Loading Azeroth_38_41
+[14:39:38:578] Loading Azeroth_30_36
+[14:39:38:608] Loading Azeroth_41_30
+[14:39:38:719] Loading Azeroth_28_26
+[14:39:38:758] Loading Azeroth_32_37
+[14:39:38:762] Loading Azeroth_29_36
+[14:39:38:911] Loading Azeroth_38_40
+[14:39:39:083] Loading Azeroth_28_37
+[14:39:39:088] Loading Azeroth_30_25
+[14:39:39:094] Loading Azeroth_38_42
+[14:39:39:221] Loading Azeroth_33_25
+[14:39:39:276] Loading Azeroth_41_31
+[14:39:39:290] Loading Azeroth_41_34
+[14:39:39:306] Loading Azeroth_33_41
+[14:39:39:533] Loading Azeroth_29_37
+[14:39:39:556] Loading Azeroth_39_38
+[14:39:39:724] Loading Azeroth_26_30
+[14:39:39:732] Loading Azeroth_32_43
+[14:39:39:894] Loading Azeroth_40_35
+[14:39:39:909] Loading Azeroth_34_41
+[14:39:40:168] Loading Azeroth_26_31
+[14:39:40:178] Loading Azeroth_29_25
+[14:39:40:182] Loading Azeroth_31_39
+[14:39:40:227] Loading Azeroth_32_42
+[14:39:40:444] Loading Azeroth_32_41
+[14:39:40:605] Loading Azeroth_38_43
+[14:39:40:762] Loading Azeroth_27_36
+[14:39:40:812] Loading Azeroth_26_32
+[14:39:40:819] Loading Azeroth_26_34
+[14:39:40:913] Loading Azeroth_43_32
+[14:39:41:093] Loading Azeroth_26_29
+[14:39:41:110] Loading Azeroth_31_38
+[14:39:41:115] Loading Azeroth_39_35
+[14:39:41:295] Loading Azeroth_31_37
+[14:39:41:309] Loading Azeroth_27_35
+[14:39:41:430] Loading Azeroth_27_37
+[14:39:41:436] Loading Azeroth_42_32
+[14:39:41:441] Loading Azeroth_31_43
+[14:39:41:678] Loading Azeroth_30_37
+[14:39:41:694] Loading Azeroth_31_42
+[14:39:41:875] Loading Azeroth_26_33
+[14:39:41:894] Loading Azeroth_39_39
+[14:39:42:111] Loading Azeroth_44_25
+[14:39:42:123] Loading Azeroth_39_42
+[14:39:42:297] Loading Azeroth_28_38
+[14:39:42:301] Loading Azeroth_39_41
+[14:39:42:522] Loading Azeroth_39_36
+[14:39:42:585] Loading Azeroth_28_25
+[14:39:42:589] Loading Azeroth_31_40
+[14:39:42:712] Loading Azeroth_27_26
+[14:39:42:717] Loading Azeroth_42_33
+[14:39:42:723] Loading Azeroth_29_38
+[14:39:42:731] Loading Azeroth_31_41
+[14:39:42:900] Loading Azeroth_41_35
+[14:39:42:918] Loading Azeroth_43_25
+[14:39:43:000] Loading Azeroth_31_44
+[14:39:43:143] Loading Azeroth_38_44
+[14:39:43:300] Loading Azeroth_39_43
+[14:39:43:475] Loading Azeroth_32_24
+[14:39:43:484] Loading Azeroth_37_44
+[14:39:43:641] Loading Azeroth_40_36
+[14:39:43:758] Loading Azeroth_40_39
+[14:39:43:983] Loading Azeroth_31_24
+[14:39:43:989] Loading Azeroth_30_24
+[14:39:43:996] Loading Azeroth_42_34
+[14:39:44:000] Loading Azeroth_26_35
+[14:39:44:043] Loading Azeroth_43_33
+[14:39:44:064] Loading Azeroth_30_44
+[14:39:44:207] Loading Azeroth_30_43
+[14:39:44:322] Loading Azeroth_33_24
+[14:39:44:326] Loading Azeroth_39_40
+[14:39:44:484] Loading Azeroth_27_38
+[14:39:44:490] Loading Azeroth_27_27
+[14:39:44:588] Loading Azeroth_30_39
+[14:39:44:607] Loading Azeroth_30_38
+[14:39:44:614] Loading Azeroth_30_42
+[14:39:44:865] Loading Azeroth_25_30
+[14:39:44:876] Loading Azeroth_34_40
+[14:39:45:039] Loading Azeroth_36_44
+[14:39:45:255] Loading Azeroth_39_44
+[14:39:45:408] Loading Azeroth_25_34
+[14:39:45:415] Loading Azeroth_25_31
+[14:39:45:421] Loading Azeroth_37_45
+[14:39:45:631] Loading Azeroth_38_45
+[14:39:45:778] Loading Azeroth_26_28
+[14:39:45:839] Loading Azeroth_25_35
+[14:39:45:846] Loading Azeroth_28_39
+[14:39:45:852] Loading Azeroth_27_25
+[14:39:45:856] Loading Azeroth_34_25
+[14:39:45:975] Loading Azeroth_30_41
+[14:39:46:136] Loading Azeroth_26_36
+[14:39:46:142] Loading Azeroth_25_32
+[14:39:46:146] Loading Azeroth_40_38
+[14:39:46:359] Loading Azeroth_36_45
+[14:39:46:512] Loading Azeroth_25_29
+[14:39:46:518] Loading Azeroth_26_37
+[14:39:46:525] Loading Azeroth_29_39
+[14:39:46:530] Loading Azeroth_42_35
+[14:39:46:537] Loading Azeroth_27_28
+[14:39:46:665] Loading Azeroth_29_24
+[14:39:46:674] Loading Azeroth_41_36
+[14:39:46:857] Loading Azeroth_25_33
+[14:39:46:868] Loading Azeroth_40_42
+[14:39:47:082] Loading Azeroth_39_37
+[14:39:47:220] Loading Azeroth_40_41
+[14:39:47:540] Loading Azeroth_35_44
+[14:39:47:708] Loading Azeroth_35_45
+[14:39:47:867] Loading Azeroth_26_38
+[14:39:47:874] Loading Azeroth_26_26
+[14:39:47:881] Loading Azeroth_40_40
+[14:39:48:185] Loading Azeroth_30_40
+[14:39:48:297] Loading Azeroth_26_27
+[14:39:48:319] Loading Azeroth_34_24
+[14:39:48:325] Loading Azeroth_36_46
+[14:39:48:500] Loading Azeroth_41_39
+[14:39:48:708] Loading Azeroth_27_39
+[14:39:48:714] Loading Azeroth_43_24
+[14:39:48:747] Loading Azeroth_43_34
+[14:39:48:752] Loading Azeroth_39_45
+[14:39:48:910] Loading Azeroth_34_44
+[14:39:49:195] Loading Azeroth_41_40
+[14:39:49:447] Loading Azeroth_34_45
+[14:39:49:615] Loading Azeroth_41_38
+[14:39:49:886] Loading Azeroth_28_24
+[14:39:49:890] Loading Azeroth_25_36
+[14:39:49:897] Loading Azeroth_25_28
+[14:39:49:916] Loading Azeroth_28_40
+[14:39:50:035] Loading Azeroth_29_40
+[14:39:50:146] Loading Azeroth_40_44
+[14:39:50:274] Loading Azeroth_42_36
+[14:39:50:375] Loading Azeroth_41_41
+[14:39:50:593] Loading Azeroth_32_23
+[14:39:50:600] Loading Azeroth_40_37
+[14:39:50:802] Loading Azeroth_31_23
+[14:39:50:808] Loading Azeroth_26_25
+[14:39:50:812] Loading Azeroth_33_45
+[14:39:51:007] Loading Azeroth_30_23
+[14:39:51:014] Loading Azeroth_42_25
+[14:39:51:102] Loading Azeroth_40_43
+[14:39:51:249] Loading Azeroth_26_39
+[14:39:51:258] Loading Azeroth_24_34
+[14:39:51:262] Loading Azeroth_43_35
+[14:39:51:269] Loading Azeroth_33_23
+[14:39:51:277] Loading Azeroth_27_24
+[14:39:51:285] Loading Azeroth_24_35
+[14:39:51:304] Loading Azeroth_33_46
+[14:39:51:477] Loading Azeroth_34_46
+[14:39:51:736] Loading Azeroth_42_24
+[14:39:51:927] Loading Azeroth_25_37
+[14:39:51:939] Loading Azeroth_27_40
+[14:39:51:946] Loading Azeroth_41_37
+[14:39:52:263] Loading Azeroth_35_25
+[14:39:52:405] Loading Azeroth_24_36
+[14:39:52:410] Loading Azeroth_33_44
+[14:39:52:645] Loading Azeroth_42_39
+[14:39:52:939] Loading Azeroth_24_33
+[14:39:52:944] Loading Azeroth_29_42
+[14:39:53:053] Loading Azeroth_25_38
+[14:39:53:067] Loading Azeroth_35_24
+[14:39:53:104] Loading Azeroth_25_26
+[14:39:53:120] Loading Azeroth_25_27
+[14:39:53:132] Loading Azeroth_29_23
+[14:39:53:153] Loading Azeroth_34_23
+[14:39:53:162] Could not generate full path from {1911.001, -4274.067, 81.41115} to {-8780.128, 380.0052, 100.8152} (time used: 45.874 seconds)
+[14:39:56:060] Unloading tiles!
+[14:39:56:300] Loading Azeroth_40_28
+[14:39:56:456] Loading Azeroth_31_48
+[14:39:56:684] Loading Azeroth_39_28
+[14:39:56:853] Loading Azeroth_38_28
+[14:39:57:015] Loading Azeroth_39_29
+[14:39:57:193] Loading Azeroth_38_29
+[14:39:57:348] Loading Azeroth_40_27
+[14:39:57:499] Loading Azeroth_40_29
+[14:39:57:680] Loading Azeroth_39_27
+[14:39:57:938] Loading Azeroth_41_28
+[14:39:58:143] Loading Azeroth_37_28
+[14:39:58:357] Loading Azeroth_38_27
+[14:39:58:536] Loading Azeroth_41_27
+[14:39:58:779] Loading Azeroth_37_29
+[14:39:58:879] Loading Azeroth_41_29
+[14:39:59:042] Loading Azeroth_36_28
+[14:39:59:247] Loading Azeroth_37_30
+[14:39:59:398] Loading Azeroth_37_27
+[14:39:59:555] Loading Azeroth_40_26
+[14:39:59:734] Loading Azeroth_36_29
+[14:39:59:956] Loading Azeroth_39_26
+[14:40:00:136] Loading Azeroth_35_28
+[14:40:00:338] Loading Azeroth_42_27
+[14:40:00:621] Loading Azeroth_42_28
+[14:40:00:827] Loading Azeroth_35_29
+[14:40:01:035] Loading Azeroth_41_26
+[14:40:01:208] Loading Azeroth_36_27
+[14:40:01:390] Loading Azeroth_36_30
+[14:40:01:546] Loading Azeroth_34_28
+[14:40:01:737] Loading Azeroth_42_29
+[14:40:01:927] Loading Azeroth_34_29
+[14:40:02:249] Loading Azeroth_35_30
+[14:40:02:424] Loading Azeroth_34_30
+[14:40:02:602] Loading Azeroth_33_28
+[14:40:02:779] Loading Azeroth_33_29
+[14:40:02:972] Loading Azeroth_38_26
+[14:40:03:279] Loading Azeroth_39_25
+[14:40:03:506] Loading Azeroth_34_31
+[14:40:03:658] Loading Azeroth_40_25
+[14:40:03:847] Loading Azeroth_33_30
+[14:40:04:069] Loading Azeroth_35_27
+[14:40:04:265] Loading Azeroth_36_31
+[14:40:04:504] Loading Azeroth_35_31
+[14:40:04:705] Loading Azeroth_38_25
+[14:40:04:949] Loading Azeroth_33_31
+[14:40:05:125] Loading Azeroth_42_26
+[14:40:05:297] Loading Azeroth_37_26
+[14:40:05:506] Loading Azeroth_32_28
+[14:40:05:622] Loading Azeroth_32_29
+[14:40:05:769] Loading Azeroth_34_27
+[14:40:05:972] Loading Azeroth_34_32
+[14:40:06:155] Loading Azeroth_37_25
+[14:40:06:358] Loading Azeroth_33_32
+[14:40:06:511] Loading Azeroth_37_31
+[14:40:06:723] Loading Azeroth_41_25
+[14:40:06:903] Loading Azeroth_36_32
+[14:40:07:080] Loading Azeroth_36_26
+[14:40:07:273] Loading Azeroth_32_31
+[14:40:07:449] Loading Azeroth_34_33
+[14:40:07:589] Loading Azeroth_33_33
+[14:40:07:731] Loading Azeroth_37_32
+[14:40:07:952] Loading Azeroth_32_32
+[14:40:08:128] Loading Azeroth_35_32
+[14:40:08:327] Loading Azeroth_32_30
+[14:40:08:485] Loading Azeroth_31_28
+[14:40:08:903] Loading Azeroth_33_27
+[14:40:09:048] Loading Azeroth_36_33
+[14:40:09:172] Loading Azeroth_43_27
+[14:40:09:273] Loading Azeroth_32_33
+[14:40:09:423] Loading Azeroth_32_27
+[14:40:09:536] Loading Azeroth_34_34
+[14:40:09:702] Loading Azeroth_31_29
+[14:40:09:920] Loading Azeroth_33_34
+[14:40:09:980] Loading Azeroth_35_33
+[14:40:10:166] Loading Azeroth_31_27
+[14:40:10:334] Loading Azeroth_30_28
+[14:40:10:467] Loading Azeroth_30_29
+[14:40:10:582] Loading Azeroth_43_28
+[14:40:10:709] Loading Azeroth_35_26
+[14:40:10:937] Loading Azeroth_35_34
+[14:40:11:112] Loading Azeroth_32_34
+[14:40:11:122] Loading Azeroth_38_31
+[14:40:11:377] Loading Azeroth_36_34
+[14:40:11:496] Loading Azeroth_38_32
+[14:40:11:682] Loading Azeroth_33_35
+[14:40:11:696] Loading Azeroth_29_29
+[14:40:11:865] Loading Azeroth_30_30
+[14:40:11:989] Loading Azeroth_31_32
+[14:40:12:128] Loading Azeroth_31_31
+[14:40:12:320] Loading Azeroth_43_29
+[14:40:12:402] Loading Azeroth_29_30
+[14:40:12:623] Loading Azeroth_34_35
+[14:40:12:688] Loading Azeroth_35_35
+[14:40:12:924] Loading Azeroth_29_31
+[14:40:13:119] Loading Azeroth_29_32
+[14:40:13:309] Loading Azeroth_31_33
+[14:40:13:459] Loading Azeroth_37_34
+[14:40:13:538] Loading Azeroth_30_27
+[14:40:13:707] Loading Azeroth_37_33
+[14:40:13:868] Loading Azeroth_30_32
+[14:40:14:066] Loading Azeroth_31_30
+[14:40:14:136] Loading Azeroth_29_33
+[14:40:14:313] Loading Azeroth_30_33
+[14:40:14:470] Loading Azeroth_36_35
+[14:40:14:608] Loading Azeroth_30_31
+[14:40:14:774] Loading Azeroth_28_31
+[14:40:14:886] Loading Azeroth_31_34
+[14:40:14:989] Loading Azeroth_36_36
+[14:40:15:167] Loading Azeroth_34_26
+[14:40:15:432] Loading Azeroth_36_37
+[14:40:15:590] Loading Azeroth_28_30
+[14:40:15:710] Loading Azeroth_36_38
+[14:40:15:860] Loading Azeroth_37_35
+[14:40:16:006] Loading Azeroth_44_27
+[14:40:16:011] Loading Azeroth_44_28
+[14:40:16:030] Loading Azeroth_28_29
+[14:40:16:243] Loading Azeroth_29_28
+[14:40:16:435] Loading Azeroth_29_27
+[14:40:16:562] Loading Azeroth_35_38
+[14:40:16:743] Loading Azeroth_37_36
+[14:40:16:876] Loading Azeroth_37_38
+[14:40:16:989] Loading Azeroth_35_37
+[14:40:17:079] Loading Azeroth_39_31
+[14:40:17:307] Loading Azeroth_37_37
+[14:40:17:441] Loading Azeroth_28_32
+[14:40:17:586] Loading Azeroth_32_35
+[14:40:17:598] Loading Azeroth_33_26
+[14:40:17:818] Loading Azeroth_37_39
+[14:40:17:924] Loading Azeroth_28_33
+[14:40:18:072] Loading Azeroth_35_36
+[14:40:18:181] Loading Azeroth_36_39
+[14:40:18:396] Loading Azeroth_31_26
+[14:40:18:498] Loading Azeroth_43_30
+[14:40:18:504] Loading Azeroth_32_26
+[14:40:18:658] Loading Azeroth_38_30
+[14:40:18:838] Loading Azeroth_38_34
+[14:40:18:999] Loading Azeroth_34_36
+[14:40:19:012] Loading Azeroth_39_32
+[14:40:19:244] Loading Azeroth_34_38
+[14:40:19:366] Loading Azeroth_33_36
+[14:40:19:384] Loading Azeroth_37_40
+[14:40:19:539] Loading Azeroth_36_40
+[14:40:19:679] Loading Azeroth_30_26
+[14:40:19:849] Loading Azeroth_29_34
+[14:40:20:053] Loading Azeroth_28_34
+[14:40:20:228] Loading Azeroth_28_28
+[14:40:20:410] Loading Azeroth_30_34
+[14:40:20:526] Loading Azeroth_34_37
+[14:40:20:603] Loading Azeroth_31_35
+[14:40:20:625] Loading Azeroth_38_33
+[14:40:20:790] Loading Azeroth_38_35
+[14:40:20:991] Loading Azeroth_33_38
+[14:40:21:069] Loading Azeroth_27_30
+[14:40:21:077] Loading Azeroth_42_30
+[14:40:21:105] Loading Azeroth_33_39
+[14:40:21:251] Loading Azeroth_40_32
+[14:40:21:473] Loading Azeroth_27_31
+[14:40:21:477] Loading Azeroth_44_29
+[14:40:21:488] Loading Azeroth_34_39
+[14:40:21:632] Loading Azeroth_43_26
+[14:40:21:772] Loading Azeroth_39_30
+[14:40:21:986] Loading Azeroth_28_27
+[14:40:22:221] Loading Azeroth_40_31
+[14:40:22:381] Loading Azeroth_38_38
+[14:40:22:534] Loading Azeroth_28_35
+[14:40:22:745] Loading Azeroth_40_33
+[14:40:22:829] Loading Azeroth_32_39
+[14:40:22:834] Loading Azeroth_33_37
+[14:40:22:890] Loading Azeroth_44_30
+[14:40:22:911] Loading Azeroth_29_35
+[14:40:23:132] Loading Azeroth_32_36
+[14:40:23:142] Loading Azeroth_37_41
+[14:40:23:320] Loading Azeroth_27_29
+[14:40:23:387] Loading Azeroth_44_26
+[14:40:23:394] Loading Azeroth_36_41
+[14:40:23:587] Loading Azeroth_29_26
+[14:40:23:654] Loading Azeroth_38_39
+[14:40:23:835] Loading Azeroth_30_35
+[14:40:23:969] Loading Azeroth_38_37
+[14:40:24:139] Loading Azeroth_27_34
+[14:40:24:309] Loading Azeroth_32_38
+[14:40:24:328] Loading Azeroth_36_42
+[14:40:24:563] Loading Azeroth_35_42
+[14:40:24:756] Loading Azeroth_37_42
+[14:40:24:958] Loading Azeroth_35_41
+[14:40:25:135] Loading Azeroth_36_43
+[14:40:25:333] Loading Azeroth_43_31
+[14:40:25:339] Loading Azeroth_27_33
+[14:40:25:428] Loading Azeroth_41_33
+[14:40:25:440] Loading Azeroth_34_42
+[14:40:25:642] Loading Azeroth_39_34
+[14:40:25:866] Loading Azeroth_40_34
+[14:40:25:893] Loading Azeroth_28_36
+[14:40:25:997] Loading Azeroth_39_33
+[14:40:26:240] Loading Azeroth_37_43
+[14:40:26:508] Loading Azeroth_41_32
+[14:40:26:529] Loading Azeroth_32_25
+[14:40:26:534] Loading Azeroth_38_36
+[14:40:26:687] Loading Azeroth_31_25
+[14:40:26:694] Loading Azeroth_35_43
+[14:40:26:833] Loading Azeroth_31_36
+[14:40:26:840] Loading Azeroth_42_31
+[14:40:26:847] Loading Azeroth_34_43
+[14:40:27:012] Loading Azeroth_27_32
+[14:40:27:022] Loading Azeroth_40_30
+[14:40:27:200] Loading Azeroth_33_42
+[14:40:27:391] Loading Azeroth_33_43
+[14:40:27:557] Loading Azeroth_32_40
+[14:40:27:684] Loading Azeroth_33_40
+[14:40:27:853] Loading Azeroth_38_41
+[14:40:27:962] Loading Azeroth_41_30
+[14:40:28:043] Loading Azeroth_30_36
+[14:40:28:106] Loading Azeroth_28_26
+[14:40:28:183] Loading Azeroth_32_37
+[14:40:28:193] Loading Azeroth_29_36
+[14:40:28:362] Loading Azeroth_38_40
+[14:40:28:575] Loading Azeroth_28_37
+[14:40:28:580] Loading Azeroth_30_25
+[14:40:28:585] Loading Azeroth_38_42
+[14:40:28:724] Loading Azeroth_33_25
+[14:40:28:777] Loading Azeroth_41_31
+[14:40:28:803] Loading Azeroth_41_34
+[14:40:28:841] Loading Azeroth_33_41
+[14:40:29:094] Loading Azeroth_29_37
+[14:40:29:110] Loading Azeroth_39_38
+[14:40:29:288] Loading Azeroth_26_30
+[14:40:29:300] Loading Azeroth_32_43
+[14:40:29:454] Loading Azeroth_40_35
+[14:40:29:471] Loading Azeroth_34_41
+[14:40:29:705] Loading Azeroth_26_31
+[14:40:29:715] Loading Azeroth_29_25
+[14:40:29:719] Loading Azeroth_31_39
+[14:40:29:759] Loading Azeroth_32_42
+[14:40:30:012] Loading Azeroth_32_41
+[14:40:30:248] Loading Azeroth_38_43
+[14:40:30:401] Loading Azeroth_27_36
+[14:40:30:462] Loading Azeroth_26_32
+[14:40:30:468] Loading Azeroth_26_34
+[14:40:30:512] Loading Azeroth_43_32
+[14:40:30:541] Loading Azeroth_26_29
+[14:40:30:550] Loading Azeroth_31_38
+[14:40:30:553] Loading Azeroth_39_35
+[14:40:30:671] Loading Azeroth_31_37
+[14:40:30:677] Loading Azeroth_27_35
+[14:40:30:782] Loading Azeroth_27_37
+[14:40:30:788] Loading Azeroth_42_32
+[14:40:30:792] Loading Azeroth_31_43
+[14:40:31:000] Loading Azeroth_30_37
+[14:40:31:010] Loading Azeroth_31_42
+[14:40:31:188] Loading Azeroth_26_33
+[14:40:31:205] Loading Azeroth_39_39
+[14:40:31:462] Loading Azeroth_44_25
+[14:40:31:474] Loading Azeroth_39_42
+[14:40:31:646] Loading Azeroth_28_38
+[14:40:31:650] Loading Azeroth_39_41
+[14:40:31:879] Loading Azeroth_39_36
+[14:40:31:939] Loading Azeroth_28_25
+[14:40:31:943] Loading Azeroth_31_40
+[14:40:32:069] Loading Azeroth_27_26
+[14:40:32:074] Loading Azeroth_42_33
+[14:40:32:082] Loading Azeroth_29_38
+[14:40:32:091] Loading Azeroth_31_41
+[14:40:32:234] Loading Azeroth_41_35
+[14:40:32:258] Loading Azeroth_43_25
+[14:40:32:353] Loading Azeroth_31_44
+[14:40:32:481] Loading Azeroth_38_44
+[14:40:32:634] Loading Azeroth_39_43
+[14:40:32:813] Loading Azeroth_32_24
+[14:40:32:823] Loading Azeroth_37_44
+[14:40:33:025] Loading Azeroth_40_36
+[14:40:33:144] Loading Azeroth_40_39
+[14:40:33:362] Loading Azeroth_31_24
+[14:40:33:368] Loading Azeroth_30_24
+[14:40:33:373] Loading Azeroth_42_34
+[14:40:33:379] Loading Azeroth_26_35
+[14:40:33:432] Loading Azeroth_43_33
+[14:40:33:464] Loading Azeroth_30_44
+[14:40:33:592] Loading Azeroth_30_43
+[14:40:33:726] Loading Azeroth_33_24
+[14:40:33:731] Loading Azeroth_39_40
+[14:40:33:886] Loading Azeroth_27_38
+[14:40:33:893] Loading Azeroth_27_27
+[14:40:33:984] Loading Azeroth_30_39
+[14:40:34:009] Loading Azeroth_30_38
+[14:40:34:015] Loading Azeroth_30_42
+[14:40:34:156] Loading Azeroth_25_30
+[14:40:34:166] Loading Azeroth_34_40
+[14:40:34:326] Loading Azeroth_36_44
+[14:40:34:544] Loading Azeroth_39_44
+[14:40:34:713] Loading Azeroth_25_34
+[14:40:34:720] Loading Azeroth_25_31
+[14:40:34:725] Loading Azeroth_37_45
+[14:40:34:952] Loading Azeroth_38_45
+[14:40:35:096] Loading Azeroth_26_28
+[14:40:35:150] Loading Azeroth_25_35
+[14:40:35:157] Loading Azeroth_28_39
+[14:40:35:170] Loading Azeroth_27_25
+[14:40:35:174] Loading Azeroth_34_25
+[14:40:35:307] Loading Azeroth_30_41
+[14:40:35:473] Loading Azeroth_26_36
+[14:40:35:478] Loading Azeroth_25_32
+[14:40:35:483] Loading Azeroth_40_38
+[14:40:35:675] Loading Azeroth_36_45
+[14:40:35:831] Loading Azeroth_25_29
+[14:40:35:837] Loading Azeroth_26_37
+[14:40:35:844] Loading Azeroth_29_39
+[14:40:35:848] Loading Azeroth_42_35
+[14:40:35:856] Loading Azeroth_27_28
+[14:40:35:983] Loading Azeroth_29_24
+[14:40:35:991] Loading Azeroth_41_36
+[14:40:36:144] Loading Azeroth_25_33
+[14:40:36:149] Loading Azeroth_40_42
+[14:40:36:349] Loading Azeroth_39_37
+[14:40:36:497] Loading Azeroth_40_41
+[14:40:36:794] Loading Azeroth_35_44
+[14:40:36:956] Loading Azeroth_35_45
+[14:40:37:140] Loading Azeroth_26_38
+[14:40:37:153] Loading Azeroth_26_26
+[14:40:37:160] Loading Azeroth_40_40
+[14:40:37:452] Loading Azeroth_30_40
+[14:40:37:567] Loading Azeroth_26_27
+[14:40:37:599] Loading Azeroth_34_24
+[14:40:37:605] Loading Azeroth_36_46
+[14:40:37:821] Loading Azeroth_41_39
+[14:40:38:030] Loading Azeroth_27_39
+[14:40:38:035] Loading Azeroth_43_24
+[14:40:38:059] Loading Azeroth_43_34
+[14:40:38:064] Loading Azeroth_39_45
+[14:40:38:201] Loading Azeroth_34_44
+[14:40:38:461] Loading Azeroth_41_40
+[14:40:38:689] Loading Azeroth_34_45
+[14:40:38:857] Loading Azeroth_41_38
+[14:40:39:138] Loading Azeroth_28_24
+[14:40:39:149] Loading Azeroth_25_36
+[14:40:39:168] Loading Azeroth_25_28
+[14:40:39:178] Loading Azeroth_28_40
+[14:40:39:288] Loading Azeroth_29_40
+[14:40:39:513] Loading Azeroth_40_44
+[14:40:39:675] Loading Azeroth_42_36
+[14:40:39:778] Loading Azeroth_41_41
+[14:40:40:039] Loading Azeroth_32_23
+[14:40:40:052] Loading Azeroth_40_37
+[14:40:40:270] Loading Azeroth_31_23
+[14:40:40:280] Loading Azeroth_26_25
+[14:40:40:284] Loading Azeroth_33_45
+[14:40:40:516] Loading Azeroth_30_23
+[14:40:40:528] Loading Azeroth_42_25
+[14:40:40:598] Loading Azeroth_40_43
+[14:40:40:745] Loading Azeroth_26_39
+[14:40:40:760] Loading Azeroth_24_34
+[14:40:40:766] Loading Azeroth_43_35
+[14:40:40:772] Loading Azeroth_33_23
+[14:40:40:779] Loading Azeroth_27_24
+[14:40:40:785] Loading Azeroth_24_35
+[14:40:40:790] Loading Azeroth_33_46
+[14:40:40:965] Loading Azeroth_34_46
+[14:40:41:197] Loading Azeroth_42_24
+[14:40:41:277] Loading Azeroth_25_37
+[14:40:41:282] Loading Azeroth_27_40
+[14:40:41:291] Loading Azeroth_41_37
+[14:40:41:526] Loading Azeroth_35_25
+[14:40:41:661] Loading Azeroth_24_36
+[14:40:41:668] Loading Azeroth_33_44
+[14:40:41:828] Loading Azeroth_42_39
+[14:40:42:030] Loading Azeroth_24_33
+[14:40:42:035] Loading Azeroth_29_42
+[14:40:42:146] Loading Azeroth_25_38
+[14:40:42:149] Loading Azeroth_35_24
+[14:40:42:171] Loading Azeroth_25_26
+[14:40:42:186] Loading Azeroth_25_27
+[14:40:42:191] Loading Azeroth_29_23
+[14:40:42:194] Loading Azeroth_34_23
+[14:40:42:198] Could not generate full path from {1911.044, -4268.899, 83.3712} to {-8780.128, 380.0052, 100.8152} (time used: 45.516 seconds)
+[14:40:42:467] Updating repair cost for current equipped items. New value: [0g20s39c]
+[14:40:46:362] [STUCK] Got stuck at <1911.477, -4269.174, 90.82553> on map 0
+[14:40:46:397] [STUCK][HITTEST] LD/LU: False
+[14:40:46:397] [STUCK][HITTEST] Left: False
+[14:40:46:397] [STUCK][HITTEST] RD/RU: False
+[14:40:46:397] [STUCK][HITTEST] Right: False
+[14:40:46:397] [STUCK][HITTEST] Behind: False
+[14:40:46:397] [STUCK][HITTEST] Behind Left: False
+[14:40:46:397] [STUCK][HITTEST] Behind Right: False
+[14:40:46:399] Stop and dismount... Reason: [STUCK] Dismounting
+[14:40:47:418] [STUCK] Moving Forward for 750ms.
+[14:40:48:201] [STUCK][DISMOUNT] Moved 0.8255888. Need: 4.025. Result: False
+[14:40:51:615] [STUCK] Strafing worked!
+[14:40:52:934] Could not generate full path from {1918.555, -4269.638, 82.79796} to {-8780.128, 380.0052, 100.8152} (time used: 1.064 seconds)
+[14:40:53:666] Spell_C::CastSpell(73629, 0, 0x0, 0) [143]
+[14:41:01:439] Sync
+[14:41:04:301] [STUCK] Got stuck at <1910.181, -4268.375, 86.96667> on map 0
+[14:41:04:324] [STUCK][HITTEST] LD/LU: False
+[14:41:04:324] [STUCK][HITTEST] Left: False
+[14:41:04:324] [STUCK][HITTEST] RD/RU: False
+[14:41:04:324] [STUCK][HITTEST] Right: False
+[14:41:04:324] [STUCK][HITTEST] Behind: False
+[14:41:04:324] [STUCK][HITTEST] Behind Left: False
+[14:41:04:324] [STUCK][HITTEST] Behind Right: False
+[14:41:07:830] [STUCK] Strafing worked!
+[14:41:08:154] Mounting: Elekk des Exarchen
+[14:41:08:354] Spell_C::CastSpell(73629, 0, 0x0, 0) [144]
+[14:41:11:832] Could not generate full path from {1907.451, -4275.579, 81.46849} to {-8780.128, 380.0052, 100.8152} (time used: 1.224 seconds)
+[14:41:26:991] Activity: Setting Seuchenfledermaus at 28 yards as your target
+[14:41:26:991] Dismounting for combat.
+[14:41:26:991] Stop and dismount... Reason: SetTarget
+[14:41:27:406] Changed POI to:Type: Kill, Name: Seuchenfledermaus
+[14:41:27:664] [Singular] Casting Judgement on Seuchenfledermaus
+[14:41:27:665] Spell_C::CastSpell(20271, 0, 0xF13021980039E0BE, 0) [145]
+[14:41:29:838] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:41:29:838] Spell_C::CastSpell(35395, 0, 0xF13021980039E0BE, 0) [146]
+[14:41:31:617] [Singular] Casting Holy Wrath on Seuchenfledermaus
+[14:41:31:618] Spell_C::CastSpell(2812, 0, 0xF13021980039E0BE, 0) [147]
+[14:41:33:438] [Singular] Casting Consecration on Seuchenfledermaus
+[14:41:33:439] Spell_C::CastSpell(26573, 0, 0xF13021980039E0BE, 0) [148]
+[14:41:35:135] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:41:35:135] Spell_C::CastSpell(35395, 0, 0xF13021980039E0BE, 0) [149]
+[14:41:36:929] [Singular] Casting Hammer of Justice on Seuchenfledermaus
+[14:41:36:930] Spell_C::CastSpell(853, 0, 0xF13021980039E0BE, 0) [150]
+[14:41:37:792] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Singular.SingularRoutine.<>c__DisplayClassd0.<CreateMoveToAndFace>b__cb(Object ret) in c:\Users\samy\Desktop\HB und GB\CustomClasses\Singular\SingularRoutine.Movement.cs:line 46
+   at TreeSharp.Decorator.CanRun(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[14:41:37:792] Cleared POI - Reason Exception in Root.Tick()
+[14:41:37:792] Cleared POI
+[14:41:37:997] [Singular] No viable target! NOT GOOD!
+[14:41:43:425] [Singular] Casting Templar's Verdict on Seuchenfledermaus
+[14:41:43:425] Spell_C::CastSpell(85256, 0, 0xF13021980039E0BE, 0) [151]
+[14:41:45:000] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:41:45:001] Spell_C::CastSpell(35395, 0, 0xF13021980039E0BE, 0) [152]
+[14:41:46:842] [Singular] Casting Judgement on Seuchenfledermaus
+[14:41:46:842] Spell_C::CastSpell(20271, 0, 0xF13021980039E0BE, 0) [153]
+[14:41:48:668] [Singular] Casting Holy Wrath on Seuchenfledermaus
+[14:41:48:668] Spell_C::CastSpell(2812, 0, 0xF13021980039E0BE, 0) [154]
+[14:41:50:620] Could not generate full path from {1827.248, -4081.462, 103.7942} to {-8780.128, 380.0052, 100.8152} (time used: 1.065 seconds)
+[14:41:50:758] [Singular] No viable target! NOT GOOD!
+[14:41:54:383] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:41:54:388] Spell_C::CastSpell(35395, 0, 0xF1302198002B0C07, 0) [155]
+[14:41:56:047] [Singular] Casting Exorcism on Seuchenfledermaus
+[14:41:56:047] Spell_C::CastSpell(879, 0, 0xF1302198002B0C07, 0) [156]
+[14:41:57:624] [Singular] Casting Judgement on Seuchenfledermaus
+[14:41:57:626] Spell_C::CastSpell(20271, 0, 0xF1302198002B0C07, 0) [157]
+[14:41:59:284] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:41:59:285] Spell_C::CastSpell(35395, 0, 0xF1302198002B0C07, 0) [158]
+[14:42:01:024] [Singular] Casting Exorcism on Seuchenfledermaus
+[14:42:01:025] Spell_C::CastSpell(879, 0, 0xF1302198002B0C07, 0) [159]
+[14:42:01:268] [Singular] No viable target! NOT GOOD!
+[14:42:05:326] [Singular] Casting Exorcism on Seuchenfledermaus
+[14:42:05:327] Spell_C::CastSpell(879, 0, 0xF1302198002B0C07, 0) [160]
+[14:42:06:411] [Singular] Target is invalid. Switching to Seuchenfledermaus!
+[14:42:06:729] [Singular] No viable target! NOT GOOD!
+[14:42:08:762] [Singular] Casting Word of Glory on Seuchenfledermaus
+[14:42:08:763] Spell_C::CastSpell(85673, 0, 0xF1302198003B5103, 0) [161]
+[14:42:10:308] [Singular] Casting Holy Wrath on Seuchenfledermaus
+[14:42:10:309] Spell_C::CastSpell(2812, 0, 0xF1302198003B5103, 0) [162]
+[14:42:12:055] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:42:12:056] Spell_C::CastSpell(35395, 0, 0xF1302198003B5103, 0) [163]
+[14:42:13:931] [Singular] Casting Exorcism on Seuchenfledermaus
+[14:42:13:932] Spell_C::CastSpell(879, 0, 0xF1302198003B5103, 0) [164]
+[14:42:14:485] [Singular] No viable target! NOT GOOD!
+[14:42:18:398] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:42:18:399] Spell_C::CastSpell(35395, 0, 0xF1302198003B5103, 0) [165]
+[14:42:19:994] [Singular] Casting Exorcism on Seuchenfledermaus
+[14:42:19:994] Spell_C::CastSpell(879, 0, 0xF1302198003B5103, 0) [166]
+[14:42:21:602] Spell_C::CastSpell(879, 0, 0xF1302198003B5103, 0) [167]
+[14:42:22:674] [Singular] Target is invalid. Switching to Seuchenfledermaus!
+[14:42:22:851] [Singular] No viable target! NOT GOOD!
+[14:42:23:295] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:23:398] InteractDebug:437877904
+[14:42:23:419] Interact Done:437877904
+[14:42:24:350] Looting Seuchenfledermaus Guid:0xF1302198003B5103
+[14:42:24:443] Cleared POI - Reason Waiting for loot flag
+[14:42:24:443] Cleared POI
+[14:42:24:920] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:25:056] Cleared POI - Reason Already looted
+[14:42:25:056] Cleared POI
+[14:42:25:197] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:25:333] Cleared POI - Reason Already looted
+[14:42:25:333] Cleared POI
+[14:42:25:495] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:25:636] Cleared POI - Reason Already looted
+[14:42:25:636] Cleared POI
+[14:42:25:783] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:25:929] Cleared POI - Reason Already looted
+[14:42:25:929] Cleared POI
+[14:42:26:078] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:26:252] Moving to Type: Loot, Name: Seuchenfledermaus
+[14:42:27:949] InteractDebug:437779304
+[14:42:27:954] Interact Done:437779304
+[14:42:28:878] Looting Seuchenfledermaus Guid:0xF1302198002B0C07
+[14:42:28:979] Cleared POI - Reason Waiting for loot flag
+[14:42:28:979] Cleared POI
+[14:42:29:431] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:29:552] Cleared POI - Reason Already looted
+[14:42:29:552] Cleared POI
+[14:42:29:695] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:29:844] Cleared POI - Reason Already looted
+[14:42:29:844] Cleared POI
+[14:42:29:989] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:30:128] Moving to Type: Loot, Name: Seuchenfledermaus
+[14:42:33:285] InteractDebug:437785104
+[14:42:33:296] Interact Done:437785104
+[14:42:34:436] Looting Seuchenfledermaus Guid:0xF13021980039E0BE
+[14:42:34:547] Cleared POI - Reason Waiting for loot flag
+[14:42:34:547] Cleared POI
+[14:42:35:026] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:35:174] Cleared POI - Reason Already looted
+[14:42:35:174] Cleared POI
+[14:42:35:336] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:35:458] Cleared POI - Reason Already looted
+[14:42:35:458] Cleared POI
+[14:42:35:598] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:35:751] Cleared POI - Reason Already looted
+[14:42:35:751] Cleared POI
+[14:42:35:885] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:42:36:007] Cleared POI - Reason Already looted
+[14:42:36:007] Cleared POI
+[14:42:36:313] Mounting: Elekk des Exarchen
+[14:42:36:513] Spell_C::CastSpell(73629, 0, 0x0, 0) [168]
+[14:42:39:558] Could not generate full path from {1830.271, -4077.895, 104.3888} to {-8780.128, 380.0052, 100.8152} (time used: 1.035 seconds)
+[14:42:45:203] Dismounting for combat.
+[14:42:45:203] Stop and dismount... Reason: SetTarget
+[14:42:45:732] Changed POI to:Type: Kill, Name: Seuchenfledermaus
+[14:42:46:042] [Singular] Casting Judgement on Seuchenfledermaus
+[14:42:46:042] Spell_C::CastSpell(20271, 0, 0xF1302198003B4CE2, 0) [169]
+[14:42:48:382] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:42:48:383] Spell_C::CastSpell(35395, 0, 0xF1302198003B4CE2, 0) [170]
+[14:42:50:036] [Singular] Casting Holy Wrath on Seuchenfledermaus
+[14:42:50:036] Spell_C::CastSpell(2812, 0, 0xF1302198003B4CE2, 0) [171]
+[14:42:51:817] [Singular] Casting Hammer of Justice on Seuchenfledermaus
+[14:42:51:818] Spell_C::CastSpell(853, 0, 0xF1302198003B4CE2, 0) [172]
+[14:42:53:381] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:42:53:382] Spell_C::CastSpell(35395, 0, 0xF1302198003B4CE2, 0) [173]
+[14:42:55:004] [Singular] Casting Judgement on Seuchenfledermaus
+[14:42:55:004] Spell_C::CastSpell(20271, 0, 0xF1302198003B4CE2, 0) [174]
+[14:42:56:716] [Singular] Casting Consecration on Seuchenfledermaus
+[14:42:56:716] Spell_C::CastSpell(26573, 0, 0xF1302198003B4CE2, 0) [175]
+[14:42:58:473] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:42:58:473] Spell_C::CastSpell(35395, 0, 0xF1302198003B4CE2, 0) [176]
+[14:43:00:058] [Singular] Casting Templar's Verdict on Seuchenfledermaus
+[14:43:00:059] Spell_C::CastSpell(85256, 0, 0xF1302198003B4CE2, 0) [177]
+[14:43:03:412] [Singular] Casting Judgement on Seuchenfledermaus
+[14:43:03:413] Spell_C::CastSpell(20271, 0, 0xF1302198003B4CE2, 0) [178]
+[14:43:05:084] Cleared POI - Reason POI is dead from Combat
+[14:43:05:084] Cleared POI
+[14:43:05:183] [Singular] Target is invalid. Switching to Seuchenfledermaus!
+[14:43:05:286] [Singular] No viable target! NOT GOOD!
+[14:43:05:391] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:43:05:488] Moving to Type: Loot, Name: Seuchenfledermaus
+[14:43:06:079] InteractDebug:437964904
+[14:43:06:108] Interact Done:437964904
+[14:43:06:829] Looting Seuchenfledermaus Guid:0xF1302198003B4CE2
+[14:43:06:938] Cleared POI - Reason Waiting for loot flag
+[14:43:06:938] Cleared POI
+[14:43:07:446] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:43:07:579] Cleared POI - Reason Already looted
+[14:43:07:579] Cleared POI
+[14:43:07:714] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:43:07:876] Cleared POI - Reason Already looted
+[14:43:07:876] Cleared POI
+[14:43:09:113] Could not generate full path from {1806.569, -3997.185, 118.8091} to {-8780.128, 380.0052, 100.8152} (time used: 1.061 seconds)
+[14:43:10:410] Mounting: Elekk des Exarchen
+[14:43:10:610] Spell_C::CastSpell(73629, 0, 0x0, 0) [179]
+[14:43:12:860] Activity: Setting Seuchenfledermaus at 29 yards as your target
+[14:43:12:860] Dismounting for combat.
+[14:43:12:860] Stop and dismount... Reason: SetTarget
+[14:43:13:608] Changed POI to:Type: Kill, Name: Seuchenfledermaus
+[14:43:14:485] [Singular] Casting Judgement on Seuchenfledermaus
+[14:43:14:487] Spell_C::CastSpell(20271, 0, 0xF1302198003B4FED, 0) [180]
+[14:43:16:280] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:43:16:281] Spell_C::CastSpell(35395, 0, 0xF1302198003B4FED, 0) [181]
+[14:43:18:170] [Singular] Casting Holy Wrath on Seuchenfledermaus
+[14:43:18:171] Spell_C::CastSpell(2812, 0, 0xF1302198003B4FED, 0) [182]
+[14:43:19:788] [Singular] Casting Exorcism on Seuchenfledermaus
+[14:43:19:789] Spell_C::CastSpell(879, 0, 0xF1302198003B4FED, 0) [183]
+[14:43:21:622] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:43:21:623] Spell_C::CastSpell(35395, 0, 0xF1302198003B4FED, 0) [184]
+[14:43:23:486] [Singular] Casting Judgement on Seuchenfledermaus
+[14:43:23:486] Spell_C::CastSpell(20271, 0, 0xF1302198003B4FED, 0) [185]
+[14:43:25:127] Cleared POI - Reason POI is dead from Combat
+[14:43:25:127] Cleared POI
+[14:43:25:291] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:43:25:441] InteractDebug:437808304
+[14:43:25:467] Interact Done:437808304
+[14:43:26:521] Looting Seuchenfledermaus Guid:0xF1302198003B4FED
+[14:43:26:635] Cleared POI - Reason Waiting for loot flag
+[14:43:26:635] Cleared POI
+[14:43:27:140] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:43:27:291] Cleared POI - Reason Already looted
+[14:43:27:291] Cleared POI
+[14:43:28:576] Could not generate full path from {1807.183, -3967.236, 125.4086} to {-8780.128, 380.0052, 100.8152} (time used: 1.095 seconds)
+[14:43:30:418] Mounting: Elekk des Exarchen
+[14:43:30:618] Spell_C::CastSpell(73629, 0, 0x0, 0) [186]
+[14:43:41:746] Activity: Setting Seuchenfledermaus at 28 yards as your target
+[14:43:41:747] Dismounting for combat.
+[14:43:41:747] Stop and dismount... Reason: SetTarget
+[14:43:42:283] Changed POI to:Type: Kill, Name: Seuchenfledermaus
+[14:43:42:564] [Singular] Casting Judgement on Seuchenfledermaus
+[14:43:42:565] Spell_C::CastSpell(20271, 0, 0xF1302198003B4709, 0) [187]
+[14:43:44:189] [Singular] Casting Holy Wrath on Seuchenfledermaus
+[14:43:44:189] Spell_C::CastSpell(2812, 0, 0xF1302198003B4709, 0) [188]
+[14:43:45:871] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:43:45:871] Spell_C::CastSpell(35395, 0, 0xF1302198003B4709, 0) [189]
+[14:43:47:451] [Singular] Casting Consecration on Seuchenfledermaus
+[14:43:47:452] Spell_C::CastSpell(26573, 0, 0xF1302198003B4709, 0) [190]
+[14:43:50:996] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:43:50:997] Spell_C::CastSpell(35395, 0, 0xF1302198003B4709, 0) [191]
+[14:43:52:668] [Singular] Casting Hammer of Justice on Seuchenfledermaus
+[14:43:52:669] Spell_C::CastSpell(853, 0, 0xF1302198003B4709, 0) [192]
+[14:43:54:420] [Singular] Casting Templar's Verdict on Seuchenfledermaus
+[14:43:54:420] Spell_C::CastSpell(85256, 0, 0xF1302198003B4709, 0) [193]
+[14:43:56:278] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:43:56:278] Spell_C::CastSpell(35395, 0, 0xF1302198003B4709, 0) [194]
+[14:43:58:170] [Singular] Casting Exorcism on Seuchenfledermaus
+[14:43:58:171] Spell_C::CastSpell(879, 0, 0xF1302198003B4709, 0) [195]
+[14:43:59:283] Cleared POI - Reason POI is dead from Combat
+[14:43:59:283] Cleared POI
+[14:43:59:387] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:43:59:487] Moving to Type: Loot, Name: Seuchenfledermaus
+[14:44:00:210] InteractDebug:437970704
+[14:44:00:246] Interact Done:437970704
+[14:44:01:139] Looting Seuchenfledermaus Guid:0xF1302198003B4709
+[14:44:01:316] Cleared POI - Reason Waiting for loot flag
+[14:44:01:316] Cleared POI
+[14:44:01:838] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:44:01:990] Cleared POI - Reason Already looted
+[14:44:01:990] Cleared POI
+[14:44:02:138] Updating repair cost for current equipped items. New value: [0g20s66c]
+[14:44:03:155] Could not generate full path from {1773.689, -3845.762, 127.0731} to {-8780.128, 380.0052, 100.8152} (time used: 1.016 seconds)
+[14:44:04:485] Mounting: Elekk des Exarchen
+[14:44:04:685] Spell_C::CastSpell(73629, 0, 0x0, 0) [196]
+[14:44:09:523] Activity: Setting Seuchenfledermaus at 25 yards as your target
+[14:44:09:524] Dismounting for combat.
+[14:44:09:524] Stop and dismount... Reason: SetTarget
+[14:44:10:004] Changed POI to:Type: Kill, Name: Seuchenfledermaus
+[14:44:10:497] [Singular] Casting Judgement on Seuchenfledermaus
+[14:44:10:498] Spell_C::CastSpell(20271, 0, 0xF1302198003B4A7A, 0) [197]
+[14:44:12:707] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:44:12:707] Spell_C::CastSpell(35395, 0, 0xF1302198003B4A7A, 0) [198]
+[14:44:14:429] [Singular] Casting Holy Wrath on Seuchenfledermaus
+[14:44:14:430] Spell_C::CastSpell(2812, 0, 0xF1302198003B4A7A, 0) [199]
+[14:44:16:036] [Singular] Casting Exorcism on Seuchenfledermaus
+[14:44:16:037] Spell_C::CastSpell(879, 0, 0xF1302198003B4A7A, 0) [200]
+[14:44:17:676] [Singular] Casting Crusader Strike on Seuchenfledermaus
+[14:44:17:677] Spell_C::CastSpell(35395, 0, 0xF1302198003B4A7A, 0) [201]
+[14:44:19:242] [Singular] Casting Consecration on Seuchenfledermaus
+[14:44:19:243] Spell_C::CastSpell(26573, 0, 0xF1302198003B4A7A, 0) [202]
+[14:44:20:363] Cleared POI - Reason POI is dead from Combat
+[14:44:20:363] Cleared POI
+[14:44:20:464] [Singular] Target is invalid. Switching to Seuchenfledermaus!
+[14:44:20:571] Changed POI to:Type: Loot, Name: Seuchenfledermaus
+[14:44:20:665] Moving to Type: Loot, Name: Seuchenfledermaus
+[14:44:21:222] InteractDebug:437883704
+[14:44:21:225] Interact Done:437883704
+[14:44:22:266] Looting Seuchenfledermaus Guid:0xF1302198003B4A7A
+[14:44:22:365] Cleared POI - Reason Waiting for loot flag
+[14:44:22:365] Cleared POI
+[14:44:22:789] [Singular] We have no food/drink. Waiting to recover our health/mana back
+[14:44:38:860] Mounting: Elekk des Exarchen
+[14:44:39:060] Spell_C::CastSpell(73629, 0, 0x0, 0) [203]
+[14:44:42:434] Could not generate full path from {1814.004, -3809.828, 132.072} to {-8780.128, 380.0052, 100.8152} (time used: 1.094 seconds)
+[14:44:56:179] Unloading tiles!
+[14:44:56:446] Activity: Loading Tile/s
+[14:44:56:446] Loading Azeroth_38_28
+[14:45:36:067] Activity: Setting Zombie der Moosschinder at 29 yards as your target
+[14:45:36:068] Dismounting for combat.
+[14:45:36:068] Stop and dismount... Reason: SetTarget
+[14:45:36:606] Changed POI to:Type: Kill, Name: Zombie der Moosschinder
+[14:45:37:172] [Singular] Casting Judgement on Zombie der Moosschinder
+[14:45:37:174] Spell_C::CastSpell(20271, 0, 0xF1302C1A003B3E19, 0) [204]
+[14:45:39:231] [Singular] Casting Crusader Strike on Zombie der Moosschinder
+[14:45:39:232] Spell_C::CastSpell(35395, 0, 0xF1302C1A003B3E19, 0) [205]
+[14:45:41:043] [Singular] Casting Holy Wrath on Zombie der Moosschinder
+[14:45:41:043] Spell_C::CastSpell(2812, 0, 0xF1302C1A003B3E19, 0) [206]
+[14:45:42:856] [Singular] Casting Exorcism on Zombie der Moosschinder
+[14:45:42:856] Spell_C::CastSpell(879, 0, 0xF1302C1A003B3E19, 0) [207]
+[14:45:44:485] Cleared POI - Reason POI is dead from Combat
+[14:45:44:485] Cleared POI
+[14:45:44:612] [Singular] Target is invalid. Switching to Zombie der Moosschinder!
+[14:45:44:704] [Singular] No viable target! NOT GOOD!
+[14:45:45:306] Changed POI to:Type: Loot, Name: Zombie der Moosschinder
+[14:45:45:403] InteractDebug:437999704
+[14:45:45:431] Interact Done:437999704
+[14:45:46:368] Looting Zombie der Moosschinder Guid:0xF1302C1A003B3E19
+[14:45:46:468] Cleared POI - Reason Waiting for loot flag
+[14:45:46:468] Cleared POI
+[14:45:46:957] Changed POI to:Type: Loot, Name: Zombie der Moosschinder
+[14:45:47:109] Cleared POI - Reason Already looted
+[14:45:47:109] Cleared POI
+[14:45:47:252] Activity: Loading Tile/s
+[14:45:47:252] Loading Azeroth_31_48
+[14:45:47:544] Loading Azeroth_37_28
+[14:45:47:735] Loading Azeroth_38_29
+[14:45:47:951] Loading Azeroth_37_29
+[14:45:48:085] Loading Azeroth_37_30
+[14:45:48:270] Loading Azeroth_36_28
+[14:45:48:473] Loading Azeroth_36_29
+[14:45:48:658] Loading Azeroth_39_29
+[14:45:48:913] Loading Azeroth_39_28
+[14:45:49:121] Loading Azeroth_35_28
+[14:45:49:407] Loading Azeroth_36_30
+[14:45:49:589] Loading Azeroth_35_29
+[14:45:49:839] Loading Azeroth_37_27
+[14:45:50:041] Loading Azeroth_36_27
+[14:45:50:266] Loading Azeroth_34_28
+[14:45:50:498] Loading Azeroth_38_27
+[14:45:50:717] Loading Azeroth_34_29
+[14:45:51:070] Loading Azeroth_35_30
+[14:45:51:284] Loading Azeroth_34_30
+[14:45:51:532] Loading Azeroth_39_27
+[14:45:51:747] Loading Azeroth_33_28
+[14:45:52:004] Loading Azeroth_33_29
+[14:45:52:349] Loading Azeroth_36_31
+[14:45:52:547] Loading Azeroth_34_31
+[14:45:52:793] Loading Azeroth_33_30
+[14:45:53:034] Loading Azeroth_40_28
+[14:45:53:231] Loading Azeroth_35_27
+[14:45:53:455] Loading Azeroth_35_31
+[14:45:53:738] Loading Azeroth_33_31
+[14:45:53:935] Loading Azeroth_32_28
+[14:45:54:086] Loading Azeroth_32_29
+[14:45:54:309] Loading Azeroth_37_31
+[14:45:54:496] Loading Azeroth_34_27
+[14:45:54:770] Loading Azeroth_40_29
+[14:45:54:970] Loading Azeroth_40_27
+[14:45:55:279] Loading Azeroth_34_32
+[14:45:55:506] Loading Azeroth_36_32
+[14:45:55:699] Loading Azeroth_33_32
+[14:45:55:940] Loading Azeroth_37_32
+[14:45:56:172] Loading Azeroth_36_26
+[14:45:56:392] Loading Azeroth_35_32
+[14:45:56:615] Loading Azeroth_32_31
+[14:45:56:932] Loading Azeroth_34_33
+[14:45:57:103] Loading Azeroth_33_33
+[14:45:57:257] Loading Azeroth_32_32
+[14:45:57:510] Loading Azeroth_41_28
+[14:45:57:724] Loading Azeroth_38_26
+[14:45:58:118] Loading Azeroth_32_30
+[14:45:58:330] Loading Azeroth_36_33
+[14:45:58:489] Loading Azeroth_31_28
+[14:45:58:915] Loading Azeroth_41_27
+[14:45:59:117] Loading Azeroth_35_33
+[14:45:59:336] Loading Azeroth_41_29
+[14:45:59:512] Loading Azeroth_33_27
+[14:45:59:658] Loading Azeroth_32_33
+[14:45:59:931] Loading Azeroth_32_27
+[14:46:00:057] Loading Azeroth_34_34
+[14:46:00:243] Loading Azeroth_31_29
+[14:46:00:568] Loading Azeroth_33_34
+[14:46:00:643] Loading Azeroth_31_27
+[14:46:00:827] Loading Azeroth_37_26
+[14:46:01:046] Loading Azeroth_38_31
+[14:46:01:330] Loading Azeroth_36_34
+[14:46:01:473] Loading Azeroth_38_32
+[14:46:01:668] Loading Azeroth_30_28
+[14:46:01:846] Loading Azeroth_30_29
+[14:46:02:031] Loading Azeroth_35_26
+[14:46:02:368] Loading Azeroth_35_34
+[14:46:02:597] Loading Azeroth_32_34
+[14:46:02:635] Loading Azeroth_39_26
+[14:46:02:848] Loading Azeroth_33_35
+[14:46:02:931] Loading Azeroth_40_26
+[14:46:03:183] Loading Azeroth_37_34
+[14:46:03:333] Loading Azeroth_37_33
+[14:46:03:562] Loading Azeroth_29_29
+[14:46:03:781] Loading Azeroth_30_30
+[14:46:03:952] Loading Azeroth_31_32
+[14:46:04:107] Loading Azeroth_31_31
+[14:46:04:319] Loading Azeroth_29_30
+[14:46:04:551] Loading Azeroth_36_35
+[14:46:04:712] Loading Azeroth_34_35
+[14:46:04:808] Loading Azeroth_35_35
+[14:46:05:035] Loading Azeroth_29_31
+[14:46:05:251] Loading Azeroth_36_36
+[14:46:05:423] Loading Azeroth_42_27
+[14:46:05:735] Loading Azeroth_29_32
+[14:46:05:920] Loading Azeroth_31_33
+[14:46:06:151] Loading Azeroth_30_27
+[14:46:06:389] Loading Azeroth_30_32
+[14:46:06:679] Loading Azeroth_31_30
+[14:46:06:729] Loading Azeroth_42_28
+[14:46:06:949] Loading Azeroth_29_33
+[14:46:07:140] Loading Azeroth_36_37
+[14:46:07:262] Loading Azeroth_30_33
+[14:46:07:412] Loading Azeroth_41_26
+[14:46:07:642] Loading Azeroth_36_38
+[14:46:07:801] Loading Azeroth_37_35
+[14:46:07:931] Loading Azeroth_30_31
+[14:46:08:116] Loading Azeroth_28_31
+[14:46:08:225] Loading Azeroth_31_34
+[14:46:08:306] Loading Azeroth_34_26
+[14:46:08:571] Loading Azeroth_28_30
+[14:46:08:720] Loading Azeroth_35_38
+[14:46:08:964] Loading Azeroth_37_36
+[14:46:09:083] Loading Azeroth_37_38
+[14:46:09:200] Loading Azeroth_42_29
+[14:46:09:454] Loading Azeroth_35_37
+[14:46:09:539] Loading Azeroth_39_31
+[14:46:09:728] Loading Azeroth_38_25
+[14:46:09:971] Loading Azeroth_37_37
+[14:46:10:151] Loading Azeroth_37_39
+[14:46:10:250] Loading Azeroth_28_29
+[14:46:10:497] Loading Azeroth_29_28
+[14:46:10:691] Loading Azeroth_29_27
+[14:46:10:884] Loading Azeroth_36_39
+[14:46:11:090] Loading Azeroth_37_25
+[14:46:11:451] Loading Azeroth_38_30
+[14:46:11:632] Loading Azeroth_38_34
+[14:46:11:733] Loading Azeroth_39_32
+[14:46:12:006] Loading Azeroth_34_38
+[14:46:12:114] Loading Azeroth_28_32
+[14:46:12:204] Loading Azeroth_32_35
+[14:46:12:208] Loading Azeroth_33_26
+[14:46:12:496] Loading Azeroth_39_25
+[14:46:12:698] Loading Azeroth_28_33
+[14:46:12:857] Loading Azeroth_37_40
+[14:46:13:017] Loading Azeroth_36_40
+[14:46:13:157] Loading Azeroth_35_36
+[14:46:13:264] Loading Azeroth_31_26
+[14:46:13:371] Loading Azeroth_32_26
+[14:46:13:498] Loading Azeroth_34_36
+[14:46:13:514] Loading Azeroth_34_37
+[14:46:13:598] Loading Azeroth_38_33
+[14:46:13:784] Loading Azeroth_33_36
+[14:46:13:789] Loading Azeroth_40_25
+[14:46:13:912] Sync
+[14:46:13:996] Loading Azeroth_38_35
+[14:46:14:176] Loading Azeroth_33_38
+[14:46:14:280] Loading Azeroth_30_26
+[14:46:14:480] Loading Azeroth_29_34
+[14:46:14:706] Loading Azeroth_28_34
+[14:46:14:860] Loading Azeroth_33_39
+[14:46:15:054] Loading Azeroth_28_28
+[14:46:15:235] Loading Azeroth_40_32
+[14:46:15:342] Loading Azeroth_30_34
+[14:46:15:547] Loading Azeroth_31_35
+[14:46:15:564] Loading Azeroth_34_39
+[14:46:15:716] Loading Azeroth_39_30
+[14:46:15:936] Loading Azeroth_27_30
+[14:46:15:941] Loading Azeroth_42_26
+[14:46:16:128] Loading Azeroth_40_31
+[14:46:16:371] Loading Azeroth_38_38
+[14:46:16:648] Loading Azeroth_27_31
+[14:46:16:658] Loading Azeroth_40_33
+[14:46:16:736] Loading Azeroth_28_27
+[14:46:16:971] Loading Azeroth_32_39
+[14:46:16:982] Loading Azeroth_33_37
+[14:46:17:078] Loading Azeroth_37_41
+[14:46:17:291] Loading Azeroth_36_41
+[14:46:17:551] Loading Azeroth_38_39
+[14:46:17:703] Loading Azeroth_28_35
+[14:46:17:883] Loading Azeroth_38_37
+[14:46:18:043] Loading Azeroth_41_25
+[14:46:18:291] Loading Azeroth_29_35
+[14:46:18:518] Loading Azeroth_32_36
+[14:46:18:529] Loading Azeroth_32_38
+[14:46:18:542] Loading Azeroth_36_42
+[14:46:18:756] Loading Azeroth_35_42
+[14:46:18:926] Loading Azeroth_27_29
+[14:46:19:001] Loading Azeroth_37_42
+[14:46:19:203] Loading Azeroth_35_41
+[14:46:19:356] Loading Azeroth_29_26
+[14:46:19:424] Loading Azeroth_36_43
+[14:46:19:575] Loading Azeroth_30_35
+[14:46:19:692] Loading Azeroth_27_34
+[14:46:19:835] Loading Azeroth_41_33
+[14:46:19:841] Loading Azeroth_34_42
+[14:46:20:078] Loading Azeroth_39_34
+[14:46:20:213] Loading Azeroth_40_34
+[14:46:20:259] Loading Azeroth_39_33
+[14:46:20:517] Loading Azeroth_37_43
+[14:46:20:720] Loading Azeroth_41_32
+[14:46:20:734] Loading Azeroth_38_36
+[14:46:20:897] Loading Azeroth_35_43
+[14:46:21:032] Loading Azeroth_27_33
+[14:46:21:165] Loading Azeroth_34_43
+[14:46:21:309] Loading Azeroth_40_30
+[14:46:21:524] Loading Azeroth_28_36
+[14:46:21:635] Loading Azeroth_33_42
+[14:46:21:836] Loading Azeroth_32_25
+[14:46:21:853] Loading Azeroth_31_25
+[14:46:21:867] Loading Azeroth_33_43
+[14:46:22:071] Loading Azeroth_31_36
+[14:46:22:089] Loading Azeroth_32_40
+[14:46:22:274] Loading Azeroth_33_40
+[14:46:22:425] Loading Azeroth_38_41
+[14:46:22:521] Loading Azeroth_27_32
+[14:46:22:530] Loading Azeroth_43_27
+[14:46:22:663] Loading Azeroth_32_37
+[14:46:22:673] Loading Azeroth_38_40
+[14:46:22:846] Loading Azeroth_38_42
+[14:46:22:975] Loading Azeroth_30_36
+[14:46:23:002] Loading Azeroth_43_28
+[14:46:23:121] Loading Azeroth_28_26
+[14:46:23:146] Loading Azeroth_29_36
+[14:46:23:282] Loading Azeroth_41_31
+[14:46:23:310] Loading Azeroth_28_37
+[14:46:23:315] Loading Azeroth_30_25
+[14:46:23:325] Loading Azeroth_41_34
+[14:46:23:338] Loading Azeroth_33_41
+[14:46:23:597] Loading Azeroth_39_38
+[14:46:23:783] Loading Azeroth_33_25
+[14:46:23:830] Loading Azeroth_32_43
+[14:46:23:984] Loading Azeroth_40_35
+[14:46:24:011] Loading Azeroth_34_41
+[14:46:24:243] Loading Azeroth_31_39
+[14:46:24:284] Loading Azeroth_32_42
+[14:46:24:573] Loading Azeroth_43_29
+[14:46:24:669] Loading Azeroth_32_41
+[14:46:24:842] Loading Azeroth_29_37
+[14:46:24:866] Loading Azeroth_26_30
+[14:46:24:876] Loading Azeroth_38_43
+[14:46:25:037] Loading Azeroth_26_31
+[14:46:25:040] Loading Azeroth_29_25
+[14:46:25:051] Loading Azeroth_31_38
+[14:46:25:059] Loading Azeroth_39_35
+[14:46:25:193] Loading Azeroth_27_36
+[14:46:25:249] Loading Azeroth_26_32
+[14:46:25:256] Loading Azeroth_26_34
+[14:46:25:288] Loading Azeroth_26_29
+[14:46:25:293] Loading Azeroth_31_43
+[14:46:25:559] Loading Azeroth_31_37
+[14:46:25:563] Loading Azeroth_44_27
+[14:46:25:568] Loading Azeroth_44_28
+[14:46:25:573] Loading Azeroth_31_42
+[14:46:25:783] Loading Azeroth_27_35
+[14:46:25:945] Loading Azeroth_27_37
+[14:46:25:950] Loading Azeroth_39_39
+[14:46:26:112] Loading Azeroth_39_42
+[14:46:26:321] Loading Azeroth_30_37
+[14:46:26:327] Loading Azeroth_39_41
+[14:46:26:533] Loading Azeroth_39_36
+[14:46:26:594] Loading Azeroth_31_40
+[14:46:26:763] Loading Azeroth_42_33
+[14:46:26:775] Loading Azeroth_26_33
+[14:46:26:791] Loading Azeroth_43_30
+[14:46:26:797] Loading Azeroth_28_38
+[14:46:26:802] Loading Azeroth_41_30
+[14:46:26:888] Loading Azeroth_31_41
+[14:46:27:064] Loading Azeroth_28_25
+[14:46:27:069] Loading Azeroth_27_26
+[14:46:27:076] Loading Azeroth_41_35
+[14:46:27:140] Loading Azeroth_31_44
+[14:46:27:298] Loading Azeroth_29_38
+[14:46:27:301] Loading Azeroth_38_44
+[14:46:27:472] Loading Azeroth_42_32
+[14:46:27:484] Loading Azeroth_39_43
+[14:46:27:698] Loading Azeroth_37_44
+[14:46:27:851] Loading Azeroth_40_36
+[14:46:27:948] Loading Azeroth_40_39
+[14:46:28:152] Loading Azeroth_42_31
+[14:46:28:165] Loading Azeroth_42_34
+[14:46:28:170] Loading Azeroth_42_30
+[14:46:28:198] Loading Azeroth_32_24
+[14:46:28:202] Loading Azeroth_44_29
+[14:46:28:210] Loading Azeroth_43_26
+[14:46:28:340] Loading Azeroth_30_44
+[14:46:28:479] Loading Azeroth_30_43
+[14:46:28:623] Loading Azeroth_31_24
+[14:46:28:627] Loading Azeroth_39_40
+[14:46:28:818] Loading Azeroth_30_24
+[14:46:28:824] Loading Azeroth_26_35
+[14:46:28:864] Loading Azeroth_30_39
+[14:46:28:892] Loading Azeroth_30_42
+[14:46:29:046] Loading Azeroth_33_24
+[14:46:29:050] Loading Azeroth_27_38
+[14:46:29:055] Loading Azeroth_44_30
+[14:46:29:063] Loading Azeroth_34_40
+[14:46:29:269] Loading Azeroth_36_44
+[14:46:29:483] Loading Azeroth_39_44
+[14:46:29:644] Loading Azeroth_27_27
+[14:46:29:752] Loading Azeroth_37_45
+[14:46:29:906] Loading Azeroth_38_45
+[14:46:30:074] Loading Azeroth_44_26
+[14:46:30:100] Loading Azeroth_30_38
+[14:46:30:114] Loading Azeroth_25_30
+[14:46:30:127] Loading Azeroth_30_41
+[14:46:30:291] Loading Azeroth_25_34
+[14:46:30:298] Loading Azeroth_40_38
+[14:46:30:506] Loading Azeroth_25_31
+[14:46:30:517] Loading Azeroth_36_45
+[14:46:30:676] Loading Azeroth_26_28
+[14:46:30:729] Loading Azeroth_42_35
+[14:46:30:739] Loading Azeroth_25_35
+[14:46:30:747] Loading Azeroth_28_39
+[14:46:30:753] Loading Azeroth_27_25
+[14:46:30:756] Loading Azeroth_34_25
+[14:46:30:948] Loading Azeroth_43_31
+[14:46:30:961] Loading Azeroth_26_36
+[14:46:30:973] Loading Azeroth_41_36
+[14:46:31:154] Loading Azeroth_25_32
+[14:46:31:167] Loading Azeroth_40_42
+[14:46:31:366] Loading Azeroth_25_29
+[14:46:31:373] Loading Azeroth_26_37
+[14:46:31:379] Loading Azeroth_29_39
+[14:46:31:387] Loading Azeroth_39_37
+[14:46:31:528] Loading Azeroth_40_41
+[14:46:31:831] Loading Azeroth_35_44
+[14:46:31:991] Loading Azeroth_27_28
+[14:46:32:122] Loading Azeroth_35_45
+[14:46:32:269] Loading Azeroth_29_24
+[14:46:32:279] Loading Azeroth_25_33
+[14:46:32:290] Loading Azeroth_40_40
+[14:46:32:580] Loading Azeroth_30_40
+[14:46:32:691] Loading Azeroth_36_46
+[14:46:32:866] Loading Azeroth_26_38
+[14:46:32:871] Loading Azeroth_41_39
+[14:46:33:074] Loading Azeroth_26_26
+[14:46:33:079] Loading Azeroth_39_45
+[14:46:33:284] Loading Azeroth_26_27
+[14:46:33:313] Loading Azeroth_43_33
+[14:46:33:326] Loading Azeroth_34_24
+[14:46:33:331] Loading Azeroth_34_44
+[14:46:33:622] Loading Azeroth_41_40
+[14:46:33:880] Loading Azeroth_34_45
+[14:46:34:101] Loading Azeroth_27_39
+[14:46:34:112] Loading Azeroth_41_38
+[14:46:34:425] Loading Azeroth_43_32
+[14:46:34:447] Loading Azeroth_28_24
+[14:46:34:450] Loading Azeroth_25_36
+[14:46:34:459] Loading Azeroth_25_28
+[14:46:34:468] Loading Azeroth_40_44
+[14:46:34:612] Loading Azeroth_28_40
+[14:46:34:688] Loading Azeroth_42_36
+[14:46:34:789] Loading Azeroth_43_34
+[14:46:34:796] Loading Azeroth_41_41
+[14:46:35:035] Loading Azeroth_40_37
+[14:46:35:229] Loading Azeroth_29_40
+[14:46:35:333] Loading Azeroth_33_45
+[14:46:35:532] Loading Azeroth_40_43
+[14:46:35:667] Loading Azeroth_32_23
+[14:46:35:673] Loading Azeroth_43_35
+[14:46:35:680] Loading Azeroth_31_23
+[14:46:35:684] Loading Azeroth_26_25
+[14:46:35:692] Loading Azeroth_30_23
+[14:46:35:699] Loading Azeroth_33_46
+[14:46:35:872] Loading Azeroth_34_46
+[14:46:36:098] Loading Azeroth_26_39
+[14:46:36:106] Loading Azeroth_24_34
+[14:46:36:114] Loading Azeroth_44_25
+[14:46:36:122] Loading Azeroth_33_23
+[14:46:36:169] Loading Azeroth_27_24
+[14:46:36:197] Loading Azeroth_41_37
+[14:46:36:468] Loading Azeroth_24_35
+[14:46:36:475] Loading Azeroth_33_44
+[14:46:36:664] Loading Azeroth_42_39
+[14:46:36:877] Loading Azeroth_29_42
+[14:46:36:993] Loading Azeroth_25_37
+[14:46:36:998] Loading Azeroth_27_40
+[14:46:37:002] Loading Azeroth_24_36
+[14:46:37:006] Loading Azeroth_24_33
+[14:46:37:011] Loading Azeroth_43_25
+[14:46:37:079] Loading Azeroth_25_38
+[14:46:37:082] Activity: Downloading Mesh...
+[14:46:59:723] Downloaded Azeroth_43_36
+[14:46:59:729] Activity: Loading Tile/s
+[14:46:59:729] Loading Azeroth_43_36
+[14:46:59:783] Loading Azeroth_35_24
+[14:46:59:809] Loading Azeroth_25_26
+[14:46:59:816] Loading Azeroth_25_27
+[14:46:59:823] Loading Azeroth_29_23
+[14:46:59:826] Loading Azeroth_34_23
+[14:46:59:830] Could not generate full path from {1655.888, -3227.141, 81.40298} to {-8780.128, 380.0052, 100.8152} (time used: 1 minutes and 12.287 seconds)
+[14:47:00:241] Mounting: Elekk des Exarchen
+[14:47:00:441] Spell_C::CastSpell(73629, 0, 0x0, 0) [208]
+[14:47:02:636] Updating repair cost for current equipped items. New value: [0g20s66c]
+[14:47:20:393] Activity: Setting Verderberin der Treppe des Schnitters at 29 yards as your target
+[14:47:20:393] Dismounting for combat.
+[14:47:20:393] Stop and dismount... Reason: SetTarget
+[14:47:20:742] Changed POI to:Type: Kill, Name: Verderberin der Treppe des Schnitters
+[14:47:21:352] [Singular] Casting Judgement on Verderberin der Treppe des Schnitters
+[14:47:21:352] Spell_C::CastSpell(20271, 0, 0xF130B183003B3FC6, 0) [209]
+[14:47:24:668] [Singular] Casting Crusader Strike on Verderberin der Treppe des Schnitters
+[14:47:24:669] Spell_C::CastSpell(35395, 0, 0xF130B183003B3FC6, 0) [210]
+[14:47:26:274] [Singular] Casting Consecration on Verderberin der Treppe des Schnitters
+[14:47:26:275] Spell_C::CastSpell(26573, 0, 0xF130B183003B3FC6, 0) [211]
+[14:47:27:913] [Singular] Casting Hammer of Justice on Verderberin der Treppe des Schnitters
+[14:47:27:914] Spell_C::CastSpell(853, 0, 0xF130B183003B3FC6, 0) [212]
+[14:47:29:589] [Singular] Casting Divine Storm on Verderberin der Treppe des Schnitters
+[14:47:29:590] Spell_C::CastSpell(53385, 0, 0xF130B183003B3FC6, 0) [213]
+[14:47:31:355] [Singular] Casting Judgement on Verderberin der Treppe des Schnitters
+[14:47:31:355] Spell_C::CastSpell(20271, 0, 0xF130B183003B3FC6, 0) [214]
+[14:47:33:172] [Singular] Casting Holy Wrath on Verderberin der Treppe des Schnitters
+[14:47:33:173] Spell_C::CastSpell(2812, 0, 0xF130B183003B3FC6, 0) [215]
+[14:47:34:685] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Singular.SingularRoutine.<>c__DisplayClassd0.<CreateMoveToAndFace>b__c9(Object ret) in c:\Users\samy\Desktop\HB und GB\CustomClasses\Singular\SingularRoutine.Movement.cs:line 41
+   at TreeSharp.Decorator.CanRun(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[14:47:34:685] Cleared POI - Reason Exception in Root.Tick()
+[14:47:34:685] Cleared POI
+[14:47:34:823] [Singular] No viable target! NOT GOOD!
+[14:47:37:399] [Singular] Casting Divine Protection on Myself
+[14:47:37:400] Spell_C::CastSpell(498, 0, 0x2800000032B7ECB, 0) [216]
+[14:47:37:600] Spell_C::CastSpell(498, 0, 0x2800000032B7ECB, 0) [217]
+[14:47:37:838] Spell_C::CastSpell(498, 0, 0x2800000032B7ECB, 0) [218]
+[14:47:38:072] Spell_C::CastSpell(498, 0, 0x2800000032B7ECB, 0) [219]
+[14:47:39:021] [Singular] Casting Crusader Strike on Missgeburt der Treppe des Schnitters
+[14:47:39:021] Spell_C::CastSpell(35395, 0, 0xF130B184003B3FC5, 0) [220]
+[14:47:40:702] [Singular] Casting Exorcism on Missgeburt der Treppe des Schnitters
+[14:47:40:708] Spell_C::CastSpell(879, 0, 0xF130B184003B3FC5, 0) [221]
+[14:47:42:396] Spell_C::CastSpell(879, 0, 0xF130B184003B3FC5, 0) [222]
+[14:47:43:633] [Singular] Target is invalid. Switching to Missgeburt der Treppe des Schnitters!
+[14:47:43:736] [Singular] No viable target! NOT GOOD!
+[14:47:48:102] [Singular] Casting Word of Glory on Verderberin der Treppe des Schnitters
+[14:47:48:102] Spell_C::CastSpell(85673, 0, 0xF130B183003B3FC7, 0) [223]
+[14:47:49:689] [Singular] Casting Judgement on Verderberin der Treppe des Schnitters
+[14:47:49:690] Spell_C::CastSpell(20271, 0, 0xF130B183003B3FC7, 0) [224]
+[14:47:51:258] [Singular] Casting Crusader Strike on Verderberin der Treppe des Schnitters
+[14:47:51:259] Spell_C::CastSpell(35395, 0, 0xF130B183003B3FC7, 0) [225]
+[14:47:52:860] [Singular] Casting Holy Wrath on Verderberin der Treppe des Schnitters
+[14:47:52:860] Spell_C::CastSpell(2812, 0, 0xF130B183003B3FC7, 0) [226]
+[14:47:53:667] [Singular] Target is invalid. Switching to Verderberin der Treppe des Schnitters!
+[14:47:54:002] [Singular] No viable target! NOT GOOD!
+[14:47:54:093] Changed POI to:Type: Loot, Name: Verderberin der Treppe des Schnitters
+[14:47:54:186] InteractDebug:437976504
+[14:47:54:214] Interact Done:437976504
+[14:47:55:339] Looting Verderberin der Treppe des Schnitters Guid:0xF130B183003B3FC6
+[14:47:55:435] Cleared POI - Reason Waiting for loot flag
+[14:47:55:435] Cleared POI
+[14:47:55:877] Changed POI to:Type: Loot, Name: Verderberin der Treppe des Schnitters
+[14:47:56:023] Cleared POI - Reason Already looted
+[14:47:56:023] Cleared POI
+[14:47:56:201] Changed POI to:Type: Loot, Name: Missgeburt der Treppe des Schnitters
+[14:47:56:350] Moving to Type: Loot, Name: Missgeburt der Treppe des Schnitters
+[14:47:56:994] InteractDebug:437767704
+[14:47:56:998] Interact Done:437767704
+[14:47:57:654] Looting Missgeburt der Treppe des Schnitters Guid:0xF130B184003B3FC5
+[14:47:57:749] Cleared POI - Reason Waiting for loot flag
+[14:47:57:749] Cleared POI
+[14:47:58:165] Changed POI to:Type: Loot, Name: Missgeburt der Treppe des Schnitters
+[14:47:58:303] Cleared POI - Reason Already looted
+[14:47:58:303] Cleared POI
+[14:47:58:430] Changed POI to:Type: Loot, Name: Missgeburt der Treppe des Schnitters
+[14:47:58:578] Cleared POI - Reason Already looted
+[14:47:58:578] Cleared POI
+[14:47:58:737] Changed POI to:Type: Loot, Name: Missgeburt der Treppe des Schnitters
+[14:47:58:884] Cleared POI - Reason Already looted
+[14:47:58:884] Cleared POI
+[14:47:59:008] Changed POI to:Type: Loot, Name: Verderberin der Treppe des Schnitters
+[14:47:59:164] InteractDebug:437756104
+[14:47:59:187] Interact Done:437756104
+[14:47:59:999] Looting Verderberin der Treppe des Schnitters Guid:0xF130B183003B3FC7
+[14:48:00:091] Cleared POI - Reason Waiting for loot flag
+[14:48:00:091] Cleared POI
+[14:48:00:514] Changed POI to:Type: Loot, Name: Verderberin der Treppe des Schnitters
+[14:48:04:034] Cleared POI - Reason Waiting for loot flag
+[14:48:04:034] Cleared POI
+[14:48:04:606] Mounting: Elekk des Exarchen
+[14:48:04:806] Spell_C::CastSpell(73629, 0, 0x0, 0) [227]
+[14:48:07:685] Activity: Loading Tile/s
+[14:48:07:685] Loading Azeroth_42_40
+[14:48:07:877] Could not generate full path from {1489.624, -3059.409, 76.49882} to {-8780.128, 380.0052, 100.8152} (time used: 1.316 seconds)
+[14:50:02:736] Updating repair cost for current equipped items. New value: [0g20s87c]
+[14:50:37:504] Activity: Setting Räudige Silbermähne at 24 yards as your target
+[14:50:37:504] Dismounting for combat.
+[14:50:37:504] Stop and dismount... Reason: SetTarget
+[14:50:39:139] Changed POI to:Type: Kill, Name: Räudige Silbermähne
+[14:50:39:347] [Singular] Casting Seal of Righteousness on Myself
+[14:50:39:348] Spell_C::CastSpell(20154, 0, 0x2800000032B7ECB, 0) [228]
+[14:50:40:076] Unloading tiles!
+[14:50:40:319] Activity: Loading Tile/s
+[14:50:40:319] Loading Azeroth_36_31
+[14:50:40:502] Loading Azeroth_31_48
+[14:50:40:736] Loading Azeroth_36_32
+[14:50:41:051] Loading Azeroth_35_31
+[14:50:41:283] Loading Azeroth_37_31
+[14:50:41:447] Loading Azeroth_37_32
+[14:50:41:657] Loading Azeroth_35_32
+[14:50:41:823] Loading Azeroth_36_33
+[14:50:41:953] Loading Azeroth_34_32
+[14:50:42:128] Loading Azeroth_35_33
+[14:50:42:254] Loading Azeroth_34_33
+[14:50:42:408] Loading Azeroth_36_30
+[14:50:42:630] Loading Azeroth_38_31
+[14:50:42:782] Loading Azeroth_36_34
+[14:50:42:906] Loading Azeroth_38_32
+[14:50:43:081] Loading Azeroth_35_34
+[14:50:43:248] Loading Azeroth_34_34
+[14:50:43:407] Loading Azeroth_37_34
+[14:50:43:501] Loading Azeroth_37_33
+[14:50:43:671] Loading Azeroth_33_33
+[14:50:43:800] Loading Azeroth_36_35
+[14:50:43:924] Loading Azeroth_33_32
+[14:50:44:103] Loading Azeroth_35_35
+[14:50:44:361] Loading Azeroth_36_36
+[14:50:44:517] Loading Azeroth_34_35
+[14:50:44:589] Loading Azeroth_33_34
+[14:50:44:629] Loading Azeroth_36_37
+[14:50:44:758] Loading Azeroth_34_31
+[14:50:44:920] Loading Azeroth_36_38
+[14:50:45:073] Loading Azeroth_37_35
+[14:50:45:226] Loading Azeroth_35_38
+[14:50:45:402] Loading Azeroth_33_35
+[14:50:45:405] Loading Azeroth_37_36
+[14:50:45:564] Loading Azeroth_37_38
+[14:50:45:672] Loading Azeroth_35_37
+[14:50:45:754] Loading Azeroth_39_31
+[14:50:45:907] Loading Azeroth_37_37
+[14:50:46:040] Loading Azeroth_37_39
+[14:50:46:137] Loading Azeroth_37_30
+[14:50:46:332] Loading Azeroth_33_31
+[14:50:46:511] Loading Azeroth_36_39
+[14:50:46:726] Loading Azeroth_38_30
+[14:50:46:882] Loading Azeroth_38_34
+[14:50:47:049] Loading Azeroth_39_32
+[14:50:47:295] Loading Azeroth_34_38
+[14:50:47:391] Loading Azeroth_32_33
+[14:50:47:567] Loading Azeroth_37_40
+[14:50:47:725] Loading Azeroth_32_32
+[14:50:47:870] Loading Azeroth_36_40
+[14:50:48:012] Loading Azeroth_35_36
+[14:50:48:119] Loading Azeroth_32_34
+[14:50:48:131] Loading Azeroth_34_37
+[14:50:48:192] Loading Azeroth_38_33
+[14:50:48:359] Loading Azeroth_38_35
+[14:50:48:538] Loading Azeroth_36_29
+[14:50:48:679] Loading Azeroth_35_30
+[14:50:48:923] Loading Azeroth_33_38
+[14:50:49:034] Loading Azeroth_33_39
+[14:50:49:173] Loading Azeroth_40_32
+[14:50:49:322] Loading Azeroth_34_39
+[14:50:49:492] Loading Azeroth_39_30
+[14:50:49:703] Loading Azeroth_35_29
+[14:50:49:964] Loading Azeroth_40_31
+[14:50:50:115] Loading Azeroth_38_38
+[14:50:50:317] Loading Azeroth_34_36
+[14:50:50:334] Loading Azeroth_40_33
+[14:50:50:423] Loading Azeroth_32_39
+[14:50:50:430] Loading Azeroth_33_37
+[14:50:50:532] Loading Azeroth_37_29
+[14:50:50:657] Loading Azeroth_37_41
+[14:50:50:869] Loading Azeroth_32_35
+[14:50:50:874] Loading Azeroth_36_41
+[14:50:51:066] Loading Azeroth_38_39
+[14:50:51:260] Loading Azeroth_31_33
+[14:50:51:426] Loading Azeroth_33_36
+[14:50:51:432] Loading Azeroth_38_37
+[14:50:51:615] Loading Azeroth_31_34
+[14:50:51:657] Loading Azeroth_32_38
+[14:50:51:661] Loading Azeroth_34_30
+[14:50:51:828] Loading Azeroth_36_42
+[14:50:52:060] Loading Azeroth_35_42
+[14:50:52:225] Loading Azeroth_32_31
+[14:50:52:420] Loading Azeroth_37_42
+[14:50:52:631] Loading Azeroth_35_41
+[14:50:52:788] Loading Azeroth_31_32
+[14:50:53:009] Loading Azeroth_36_43
+[14:50:53:181] Loading Azeroth_41_33
+[14:50:53:186] Loading Azeroth_34_42
+[14:50:53:415] Loading Azeroth_39_34
+[14:50:53:551] Loading Azeroth_40_34
+[14:50:53:593] Loading Azeroth_34_29
+[14:50:53:911] Loading Azeroth_39_33
+[14:50:54:103] Loading Azeroth_37_43
+[14:50:54:316] Loading Azeroth_41_32
+[14:50:54:326] Loading Azeroth_38_36
+[14:50:54:459] Loading Azeroth_35_43
+[14:50:54:598] Loading Azeroth_34_43
+[14:50:54:744] Loading Azeroth_40_30
+[14:50:54:917] Loading Azeroth_33_30
+[14:50:55:127] Loading Azeroth_33_42
+[14:50:55:318] Loading Azeroth_32_36
+[14:50:55:323] Loading Azeroth_33_43
+[14:50:55:484] Loading Azeroth_32_40
+[14:50:55:609] Loading Azeroth_33_40
+[14:50:55:795] Loading Azeroth_38_41
+[14:50:55:910] Loading Azeroth_32_37
+[14:50:55:914] Loading Azeroth_38_40
+[14:50:56:105] Loading Azeroth_33_29
+[14:50:56:302] Loading Azeroth_38_42
+[14:50:56:425] Loading Azeroth_31_31
+[14:50:56:606] Loading Azeroth_31_35
+[14:50:56:614] Loading Azeroth_39_29
+[14:50:56:816] Loading Azeroth_30_33
+[14:50:56:977] Loading Azeroth_32_30
+[14:50:57:146] Loading Azeroth_41_31
+[14:50:57:153] Loading Azeroth_30_34
+[14:50:57:261] Loading Azeroth_34_28
+[14:50:57:443] Loading Azeroth_41_34
+[14:50:57:469] Loading Azeroth_30_32
+[14:50:57:732] Loading Azeroth_33_41
+[14:50:57:950] Loading Azeroth_39_38
+[14:50:58:121] Loading Azeroth_32_43
+[14:50:58:285] Loading Azeroth_35_28
+[14:50:58:558] Loading Azeroth_40_35
+[14:50:58:566] Loading Azeroth_34_41
+[14:50:58:646] Sync
+[14:50:58:787] Loading Azeroth_31_39
+[14:50:58:823] Loading Azeroth_32_42
+[14:50:59:025] Loading Azeroth_36_28
+[14:50:59:280] Loading Azeroth_32_41
+[14:50:59:440] Loading Azeroth_38_43
+[14:50:59:611] Loading Azeroth_33_28
+[14:50:59:831] Loading Azeroth_29_32
+[14:51:00:007] Loading Azeroth_31_38
+[14:51:00:010] Loading Azeroth_40_29
+[14:51:00:227] Loading Azeroth_39_35
+[14:51:00:355] Loading Azeroth_29_33
+[14:51:00:559] Loading Azeroth_37_28
+[14:51:00:743] Loading Azeroth_30_35
+[14:51:00:927] Loading Azeroth_31_43
+[14:51:01:111] Loading Azeroth_30_31
+[14:51:01:352] Loading Azeroth_31_42
+[14:51:01:496] Loading Azeroth_31_30
+[14:51:01:553] Loading Azeroth_39_39
+[14:51:01:755] Loading Azeroth_31_36
+[14:51:01:771] Loading Azeroth_39_42
+[14:51:02:140] Loading Azeroth_32_28
+[14:51:02:339] Loading Azeroth_38_29
+[14:51:02:556] Loading Azeroth_39_41
+[14:51:02:801] Loading Azeroth_39_36
+[14:51:02:866] Loading Azeroth_32_29
+[14:51:03:117] Loading Azeroth_31_40
+[14:51:03:285] Loading Azeroth_42_33
+[14:51:03:292] Loading Azeroth_38_28
+[14:51:03:608] Loading Azeroth_41_30
+[14:51:03:681] Loading Azeroth_31_41
+[14:51:03:865] Loading Azeroth_41_35
+[14:51:04:021] Loading Azeroth_31_44
+[14:51:04:198] Loading Azeroth_38_44
+[14:51:04:337] Loading Azeroth_42_32
+[14:51:04:340] Loading Azeroth_31_37
+[14:51:04:463] Loading Azeroth_39_43
+[14:51:04:703] Loading Azeroth_29_34
+[14:51:05:052] Loading Azeroth_37_44
+[14:51:05:209] Loading Azeroth_28_33
+[14:51:05:330] Loading Azeroth_40_36
+[14:51:05:532] Loading Azeroth_40_39
+[14:51:05:763] Loading Azeroth_34_27
+[14:51:05:970] Loading Azeroth_42_31
+[14:51:05:973] Loading Azeroth_29_31
+[14:51:06:236] Loading Azeroth_29_35
+[14:51:06:470] Loading Azeroth_42_34
+[14:51:06:477] Loading Azeroth_35_27
+[14:51:06:824] Loading Azeroth_28_32
+[14:51:06:910] Loading Azeroth_36_27
+[14:51:07:098] Loading Azeroth_28_34
+[14:51:07:264] Loading Azeroth_30_44
+[14:51:07:396] Loading Azeroth_30_43
+[14:51:07:505] Loading Azeroth_39_40
+[14:51:07:680] Loading Azeroth_31_28
+[14:51:08:104] Loading Azeroth_30_39
+[14:51:08:132] Loading Azeroth_30_42
+[14:51:08:424] Loading Azeroth_34_40
+[14:51:08:663] Loading Azeroth_36_44
+[14:51:08:975] Loading Azeroth_33_27
+[14:51:09:108] Loading Azeroth_39_44
+[14:51:09:250] Loading Azeroth_30_36
+[14:51:09:292] Loading Azeroth_37_27
+[14:51:09:495] Loading Azeroth_30_30
+[14:51:09:630] Loading Azeroth_37_45
+[14:51:09:786] Loading Azeroth_32_27
+[14:51:09:896] Loading Azeroth_38_45
+[14:51:10:032] Loading Azeroth_31_29
+[14:51:10:259] Loading Azeroth_31_27
+[14:51:10:395] Loading Azeroth_30_38
+[14:51:10:407] Loading Azeroth_30_41
+[14:51:10:572] Loading Azeroth_30_28
+[14:51:10:692] Loading Azeroth_30_29
+[14:51:10:814] Loading Azeroth_28_35
+[14:51:10:997] Loading Azeroth_40_38
+[14:51:11:303] Loading Azeroth_36_45
+[14:51:11:497] Loading Azeroth_39_28
+[14:51:11:717] Loading Azeroth_29_36
+[14:51:11:857] Loading Azeroth_42_35
+[14:51:11:886] Loading Azeroth_41_36
+[14:51:12:083] Loading Azeroth_40_42
+[14:51:12:297] Loading Azeroth_27_34
+[14:51:12:444] Loading Azeroth_39_37
+[14:51:12:612] Loading Azeroth_29_29
+[14:51:12:785] Loading Azeroth_40_41
+[14:51:13:113] Loading Azeroth_29_30
+[14:51:13:358] Loading Azeroth_35_44
+[14:51:13:526] Loading Azeroth_38_27
+[14:51:13:720] Loading Azeroth_35_45
+[14:51:13:912] Loading Azeroth_28_31
+[14:51:14:074] Loading Azeroth_30_37
+[14:51:14:088] Loading Azeroth_27_33
+[14:51:14:161] Loading Azeroth_30_27
+[14:51:14:325] Loading Azeroth_42_30
+[14:51:14:355] Loading Azeroth_40_40
+[14:51:14:665] Loading Azeroth_30_40
+[14:51:14:839] Loading Azeroth_28_36
+[14:51:15:130] Loading Azeroth_36_46
+[14:51:15:330] Loading Azeroth_41_39
+[14:51:15:553] Loading Azeroth_39_45
+[14:51:15:686] Loading Azeroth_39_27
+[14:51:15:901] Loading Azeroth_28_30
+[14:51:16:003] Loading Azeroth_43_33
+[14:51:16:011] Loading Azeroth_34_44
+[14:51:16:282] Loading Azeroth_41_40
+[14:51:16:581] Loading Azeroth_34_45
+[14:51:16:746] Loading Azeroth_41_38
+[14:51:16:994] Loading Azeroth_35_26
+[14:51:17:223] Loading Azeroth_28_29
+[14:51:17:395] Loading Azeroth_29_28
+[14:51:17:582] Loading Azeroth_29_27
+[14:51:17:719] Loading Azeroth_29_37
+[14:51:17:746] Loading Azeroth_43_32
+[14:51:17:757] Loading Azeroth_28_37
+[14:51:17:769] Loading Azeroth_36_26
+[14:51:17:950] Loading Azeroth_40_28
+[14:51:18:129] Loading Azeroth_33_26
+[14:51:18:344] Loading Azeroth_43_31
+[14:51:18:370] Loading Azeroth_31_26
+[14:51:18:480] Loading Azeroth_32_26
+[14:51:18:579] Loading Azeroth_40_44
+[14:51:18:723] Loading Azeroth_42_36
+[14:51:18:825] Loading Azeroth_43_34
+[14:51:18:830] Loading Azeroth_29_39
+[14:51:18:838] Loading Azeroth_41_41
+[14:51:19:118] Loading Azeroth_40_37
+[14:51:19:419] Loading Azeroth_30_26
+[14:51:19:574] Loading Azeroth_34_26
+[14:51:19:883] Loading Azeroth_33_45
+[14:51:20:095] Loading Azeroth_40_27
+[14:51:20:266] Loading Azeroth_28_28
+[14:51:20:469] Loading Azeroth_27_32
+[14:51:20:484] Loading Azeroth_40_43
+[14:51:20:640] Loading Azeroth_29_38
+[14:51:20:650] Loading Azeroth_43_35
+[14:51:20:666] Loading Azeroth_27_30
+[14:51:20:704] Loading Azeroth_27_36
+[14:51:20:802] Loading Azeroth_29_40
+[14:51:20:926] Loading Azeroth_26_34
+[14:51:21:026] Loading Azeroth_33_46
+[14:51:21:186] Loading Azeroth_27_31
+[14:51:21:190] Loading Azeroth_34_46
+[14:51:21:456] Loading Azeroth_28_27
+[14:51:21:640] Loading Azeroth_27_35
+[14:51:21:751] Loading Azeroth_27_37
+[14:51:21:763] Loading Azeroth_41_37
+[14:51:22:047] Loading Azeroth_33_44
+[14:51:22:232] Loading Azeroth_42_39
+[14:51:22:478] Loading Azeroth_29_42
+[14:51:22:604] Loading Azeroth_41_28
+[14:51:22:782] Loading Azeroth_38_26
+[14:51:23:082] Loading Azeroth_37_26
+[14:51:23:332] Loading Azeroth_42_40
+[14:51:23:523] Loading Azeroth_26_33
+[14:51:23:549] Loading Azeroth_27_29
+[14:51:23:706] Loading Azeroth_42_38
+[14:51:24:015] Loading Azeroth_29_26
+[14:51:24:085] Loading Azeroth_41_27
+[14:51:24:362] Loading Azeroth_28_38
+[14:51:24:383] Loading Azeroth_41_29
+[14:51:24:540] Loading Azeroth_42_41
+[14:51:24:782] Loading Azeroth_43_30
+[14:51:24:794] Loading Azeroth_43_36
+[14:51:24:834] Loading Azeroth_29_41
+[14:51:25:078] Loading Azeroth_34_47
+[14:51:25:277] Loading Azeroth_32_25
+[14:51:25:288] Loading Azeroth_31_25
+[14:51:25:300] Loading Azeroth_39_26
+[14:51:25:500] Loading Azeroth_33_47
+[14:51:25:768] Loading Azeroth_40_26
+[14:51:25:978] Loading Azeroth_26_35
+[14:51:26:003] Loading Azeroth_42_37
+[14:51:26:378] Loading Azeroth_37_25
+[14:51:26:587] Loading Azeroth_27_38
+[14:51:26:592] Loading Azeroth_42_27
+[14:51:26:968] Loading Azeroth_28_26
+[14:51:27:013] Loading Azeroth_28_39
+[14:51:27:056] Loading Azeroth_42_28
+[14:51:27:351] Loading Azeroth_30_25
+[14:51:27:368] Loading Azeroth_41_26
+[14:51:27:620] Loading Azeroth_26_32
+[14:51:27:633] Loading Azeroth_42_29
+[14:51:28:021] Loading Azeroth_33_25
+[14:51:28:150] Loading Azeroth_42_42
+[14:51:28:218] Loading Azeroth_25_34
+[14:51:28:225] Loading Azeroth_25_35
+[14:51:28:229] Loading Azeroth_26_30
+[14:51:28:235] Loading Azeroth_26_36
+[14:51:28:265] Loading Azeroth_26_31
+[14:51:28:273] Loading Azeroth_26_37
+[14:51:28:278] Loading Azeroth_44_35
+[14:51:28:285] Loading Azeroth_28_40
+[14:51:28:519] Loading Azeroth_43_29
+[14:51:28:637] Could not generate full path from {170.677, -2434.1, 126.2249} to {-8780.128, 380.0052, 100.8152} (time used: 47.903 seconds)
+[14:51:29:457] [Singular] Casting Judgement on Räudige Silbermähne
+[14:51:29:458] Spell_C::CastSpell(20271, 0, 0xF1300B6B003B65D7, 0) [229]
+[14:51:31:651] [Singular] Casting Crusader Strike on Räudige Silbermähne
+[14:51:31:668] Spell_C::CastSpell(35395, 0, 0xF1300B6B003B65D7, 0) [230]
+[14:51:33:519] [Singular] Casting Exorcism on Räudige Silbermähne
+[14:51:33:519] Spell_C::CastSpell(879, 0, 0xF1300B6B003B65D7, 0) [231]
+[14:51:34:403] Cleared POI - Reason POI is dead from Combat
+[14:51:34:403] Cleared POI
+[14:51:34:498] [Singular] Target is invalid. Switching to Räudige Silbermähne!
+[14:51:34:849] Changed POI to:Type: Loot, Name: Räudige Silbermähne
+[14:51:34:961] InteractDebug:438063504
+[14:51:34:993] Interact Done:438063504
+[14:51:35:689] Looting Räudige Silbermähne Guid:0xF1300B6B003B65D7
+[14:51:35:808] Cleared POI - Reason Waiting for loot flag
+[14:51:35:808] Cleared POI
+[14:51:36:262] Changed POI to:Type: Loot, Name: Räudige Silbermähne
+[14:51:36:397] Cleared POI - Reason Already looted
+[14:51:36:397] Cleared POI
+[14:51:37:693] Loading Azeroth_41_42
+[14:52:03:415] Could not generate full path from {159.1415, -2450.054, 126.9424} to {-8780.128, 380.0052, 100.8152} (time used: 26.86 seconds)
+[14:52:04:013] Mounting: Elekk des Exarchen
+[14:52:04:213] Spell_C::CastSpell(73629, 0, 0x0, 0) [232]
+[14:53:02:768] Updating repair cost for current equipped items. New value: [0g21s8c]
+[14:55:52:064] Unloading tiles!
+[14:55:52:314] Loading Azeroth_36_36
+[14:55:52:501] Loading Azeroth_36_37
+[14:56:05:413] Sync
+[14:57:59:588] Wow exited, Honorbuddy stopped!
+[14:57:59:588] Stop called!
+[14:58:02:849] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   at BlueMagic.ExecutorRand.Execute()
+   at Styx.WoWInternals.World.GameWorld.MassTraceLine(WorldLine[] lines, CGWorldFrameHitFlags[] flags, Boolean[]& hitResults, WoWPoint[]& hitPoints)
+   at Styx.WoWInternals.World.GameWorld.MassTraceLine(WorldLine[] lines, CGWorldFrameHitFlags[] flags, Boolean[]& hitResults)
+   at Styx.WoWInternals.World.GameWorld.MassTraceLine(WorldLine[] lines, CGWorldFrameHitFlags flag, Boolean[]& hitResults)
+   at Styx.Logic.Targeting.DefaultTargetWeight(List`1 units)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[14:58:02:849] Cleared POI - Reason Player Died
+[14:58:02:849] Cleared POI
+[14:58:02:849] Plugin Refreshment Detection threw an exception in 'Pulse'! Exception:
+[14:58:02:927] System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlueMagic.Memory.ReadStruct[T](UInt32 dwAddress)
+   at Styx.WoWInternals.WoWObjects.LocalPlayer.get_Inventory()
+   at Styx.WoWInternals.WoWObjects.LocalPlayer.get_BagItemGuids()
+   at Styx.WoWInternals.WoWObjects.LocalPlayer.get_BagItems()
+   at Styx.Logic.Inventory.Consumable.GetDrinks()
+   at Styx.Logic.Inventory.Consumable.GetBestDrink(Boolean includeSpecialtyItems)
+   at QuickPlugins.RefreshmentDetector.Pulse() in c:\Users\samy\Desktop\HB und GB\Plugins\Apoc Refreshment.cs:line 17
+   at Styx.Plugins.PluginWrapper.Pulse()
+[14:58:02:927] Activity: Releasing from corpse
+[14:58:02:927] Activity: Releasing corpse
+[14:58:02:927] I died!
+[14:58:02:942] Activity: Releasing from corpse
+[14:58:02:942] System.Exception: Could not write the specified bytes! 00000000 [5]
+   at BlueMagic.Memory.WriteBytes(UInt32 address, Byte[] val)
+   at Styx.Helpers.AllocatedMemory.WriteBytes(Int32 offsetInBytes, Byte[] bytes)
+   at Styx.WoWInternals.Lua.GetReturnValues(String lua, String scriptName)
+   at Styx.WoWInternals.Lua.GetReturnVal[T](String lua, UInt32 retVal)
+   at Styx.WoWInternals.WoWObjects.LocalPlayer.get_IsIndoors()
+   at Bots.Grind.LevelBot._Hic()
+   at Bots.Grind.LevelBot._Dxc(Object ret)
+   at TreeSharp.Action.RunAction(Object context)
+   at TreeSharp.Action._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Sequence._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[14:58:02:942] Cleared POI - Reason Exception in Root.Tick()
+[14:58:02:942] Cleared POI
+[14:58:03:020] Not in game
+[14:58:09:681] System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   bei BlueMagic.ExecutorRand.GrabFrame()
+   bei Styx.Logic.BehaviorTree.TreeRoot.Stop()

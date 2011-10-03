@@ -1,0 +1,148 @@
+[06:18:59:875] http://www.codemplosion.com
+[06:18:59:875] Version: 1.0.2.26
+[06:19:44:318] Logging in...
+[06:19:46:638] Forum is back online.
+[06:19:46:641] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[06:19:50:327] Attached to WoW with ID 4348
+[06:20:00:387] System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.WoWObjects.WoWObject.GetObjectName()
+[06:20:40:631] Honorbuddy v2.0.0.5354 started!
+[06:20:40:632] Using WoW with process ID 4348
+[06:20:40:632] Platform: Microsoft Windows NT 6.1.7600.0
+[06:20:40:632] Executable Path: C:\Users\samy\Desktop\HB und GB\Honorbuddy.exe
+[06:20:40:639] Character is a level 1 Human Warlock
+[06:20:40:641] Current zone is Elwynn Forest
+[06:20:50:675] System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.WoWObjects.WoWObject.GetObjectName()
+[06:20:50:744] New bot added!: ArchaeologyBuddy
+[06:21:01:049] System.Reflection.TargetInvocationException: Ein Aufrufziel hat einen Ausnahmefehler verursacht. ---> System.TypeInitializationException: Der Typeninitialisierer für "Instancebuddy.Instancebuddy" hat eine Ausnahme verursacht. ---> System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.Lua.GetReturnValues(String lua, String scriptName)
+   bei Styx.WoWInternals.Lua.GetReturnVal[T](String lua, UInt32 retVal)
+   bei Instancebuddy.TalentManager.get_ActiveGroup()
+   bei Instancebuddy.TalentManager..ctor()
+   bei Instancebuddy.Instancebuddy..cctor()
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei Instancebuddy.Instancebuddy..ctor()
+   bei Honorbuddy.MainWindow._RUc()
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   bei System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   bei System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   bei System.Delegate.DynamicInvokeImpl(Object[] args)
+   bei System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Boolean isSingleParameter)
+   bei System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Boolean isSingleParameter, Delegate catchHandler)
+[06:21:01:082] MeshesFolderPath: C:\Users\samy\AppData\Local\HonorbuddyMeshes
+[06:21:01:082] KillBetweenHotspots: True
+[06:21:01:082] AdvancedSettingsMode: False
+[06:21:01:082] LogoutForInactivity: True
+[06:21:01:082] LogoutInactivityTimer: 10
+[06:21:01:082] LogoutInactivityUseForceQuit: False
+[06:21:01:082] ProfileDebuggingMode: False
+[06:21:01:082] FoodAmount: 0
+[06:21:01:082] DrinkAmount: 0
+[06:21:01:082] FormLocationX: -2
+[06:21:01:082] FormLocationY: 16
+[06:21:01:082] FormWidth: 396
+[06:21:01:082] FormHeight: 302
+[06:21:01:082] SelectedBotIndex: 0
+[06:21:01:082] UseFlightPaths: False
+[06:21:01:082] FindMountAutomatically: True
+[06:21:01:082] UseRandomMount: True
+[06:21:01:082] FoodName has no value yet!
+[06:21:01:082] DrinkName has no value yet!
+[06:21:01:082] MountName has no value yet!
+[06:21:01:082] LootMobs: True
+[06:21:01:082] SkinMobs: False
+[06:21:01:082] NinjaSkin: False
+[06:21:01:082] LootChests: True
+[06:21:01:082] HarvestMinerals: False
+[06:21:01:082] HarvestHerbs: False
+[06:21:01:082] UseMount: True
+[06:21:01:082] PullDistance: 30
+[06:21:01:082] LootRadius: 45
+[06:21:01:082] FindVendorsAutomatically: False
+[06:21:01:082] TrainNewSkills: False
+[06:21:01:082] LearnFlightPaths: True
+[06:21:01:082] LastUsedPath has no value yet!
+[06:21:01:082] MountDistance: 75
+[06:21:01:082] RessAtSpiritHealers: False
+[06:21:01:082] GroundMountFarmingMode: False
+[06:21:01:082] FoodAmount: 0
+[06:21:01:082] DrinkAmount: 0
+[06:21:01:082] FormLocationX: -2
+[06:21:01:082] FormLocationY: 16
+[06:21:01:082] SelectedBotIndex: 0
+[06:21:01:082] UseFlightPaths: False
+[06:21:01:082] FindMountAutomatically: True
+[06:21:01:082] UseRandomMount: True
+[06:21:01:082] FoodName has no value yet!
+[06:21:01:082] DrinkName has no value yet!
+[06:21:01:082] MountName has no value yet!
+[06:21:01:082] LootMobs: True
+[06:21:01:082] SkinMobs: False
+[06:21:01:082] NinjaSkin: False
+[06:21:01:082] LootChests: True
+[06:21:01:082] HarvestMinerals: False
+[06:21:01:082] HarvestHerbs: False
+[06:21:01:082] UseMount: True
+[06:21:01:082] PullDistance: 30
+[06:21:01:082] LootRadius: 45
+[06:21:01:082] FindVendorsAutomatically: False
+[06:21:01:082] TrainNewSkills: False
+[06:21:01:082] LearnFlightPaths: True
+[06:21:01:082] LastUsedPath has no value yet!
+[06:21:01:082] MountDistance: 75
+[06:21:01:082] RessAtSpiritHealers: False
+[06:21:01:084] Please wait a few seconds while Honorbuddy initializes.
+[06:21:01:085] Activity: Initializing.
+[06:21:01:087] Activity: Loading memory management & tables
+[06:21:01:118] Activity: Loading Spells
+[06:21:01:245] Activity: Initializing Spell Manager
+[06:21:01:310] Activity: Initializing Plugins
+[06:21:01:592] 
+[06:21:15:637] Exception in DoString: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired. StackTrace:   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.Lua.DoString(String lua, String luaFile, UInt32 pState)
+[06:24:47:721] Sync
+[06:26:26:002] Could not construct instance of AutoEquip! Exception was thrown. Exception:
+[06:26:26:002] Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+[06:26:26:684] Plugin from C:\Users\samy\Desktop\HB und GB\Plugins\Instancebuddy could not be compiled! Compiler errors:
+[06:26:26:684] File: Instancebuddy.cs Line: 530 Error: Der Name "SequenceManager" ist im aktuellen Kontext nicht vorhanden.
+File: Instancebuddy.cs Line: 530 Error: Der Name "Sequence" ist im aktuellen Kontext nicht vorhanden.
+
+[06:26:30:970] [ProfileUpdater] v1.0.0 By KillaKaZ Loaded.
+[06:26:31:760] Activity: Initializing Navigator
+[06:26:31:901] Activity: Initializing Blackspot Manager
+[06:26:31:907] Activity: Initializing Battlegrounds
+[06:26:41:923] Exception in DoString: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired. StackTrace:   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.Lua.DoString(String lua, String luaFile, UInt32 pState)
+[06:26:51:929] Activity: Initializing Flight Paths
+[06:27:01:954] Exception in DoString: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired. StackTrace:   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.Lua.DoString(String lua, String luaFile, UInt32 pState)
+[06:27:21:960] System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.WoWObjects.WoWObject.GetObjectName()
+[06:27:31:965] Exception in DoString: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired. StackTrace:   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.Lua.DoString(String lua, String luaFile, UInt32 pState)
+[06:27:41:967] Activity: Initializing Routines
+[06:27:41:980] Building spell book
+[06:27:41:985] Spell book built
+[06:27:41:988] Compiling C:\Users\samy\Desktop\HB und GB\CustomClasses\ShamWOW
+[06:27:43:329] Compiling C:\Users\samy\Desktop\HB und GB\CustomClasses\Singular
+[06:27:45:592] Activity: Initialization complete
+[06:27:45:592] Initialization complete.
+[06:27:45:594] Activity: Honorbuddy Startup Complete
+[06:28:02:536] Chose Singular $Revision: 254 $ as your combat class!
+[06:28:02:538] [Singular] Starting Singular v0.0.0.0
+[06:28:12:539] Exception in DoString: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired. StackTrace:   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.Lua.DoString(String lua, String luaFile, UInt32 pState)
+[06:28:32:543] [Singular] Determining talent spec.
+[06:29:40:332] [Singular] Current spec is  Lowbie
+[06:29:50:343] System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.WoWObjects.WoWObject.GetObjectName()
+[06:29:53:089] Sync

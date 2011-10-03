@@ -1,0 +1,230 @@
+[14:34:53:081] http://www.codemplosion.com
+[14:34:53:081] Version: 1.0.2.26
+[14:34:56:841] Logging in...
+[14:35:05:958] Forum is back online.
+[14:35:05:960] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[14:35:11:385] Attached to WoW with ID 3260
+[14:35:11:956] Honorbuddy v2.0.0.5354 started!
+[14:35:11:957] Using WoW with process ID 3260
+[14:35:11:957] Platform: Microsoft Windows NT 6.1.7600.0
+[14:35:11:957] Executable Path: C:\Users\samy\Desktop\01a804f0\Honorbuddy.exe
+[14:35:11:972] Character is a level 76 Draenei Mage
+[14:35:11:974] Current zone is Zul'Drak
+[14:35:12:003] New bot added!: ArchaeologyBuddy
+[14:35:12:467] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[14:35:12:471] [Instancebuddy v3.0.1.315]:Currently supported tanking dungeons :
+[14:35:12:471] [Instancebuddy v3.0.1.315]:(This list will update itself automatically)
+[14:35:12:471] [Instancebuddy v3.0.1.315]:
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Deadmines
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Ragefire Chasm
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 16 - 26) Shadowfang Keep
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 20 - 30) The Stockade
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 26 - 36) Scarlet Monastery - Graveyard
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 29 - 39) Scarlet Monastery - Library
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 32 - 42) Scarlet Monastery - Armory
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 35 - 45) Scarlet Monastery - Cathedral
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 38 - 48) Scholomance
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 42 - 52) Stratholme - Main Gate
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 46 - 56) Stratholme - Service Entrance
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 57 - 67) Hellfire Ramparts
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 59 - 68) The Blood Furnace
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 62 - 71) Mana Tombs
+[14:35:12:471] [Instancebuddy v3.0.1.315]: (Level 65 - 73) Sethekk Halls
+[14:35:12:471] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[14:35:12:748] New bot added!: Instancebuddy
+[14:35:12:808] New bot added!: Gatherbuddy2
+[14:35:12:813] New bot added!: Grind Bot
+[14:35:12:818] New bot added!: Questing
+[14:35:12:823] New bot added!: PvP
+[14:35:12:827] New bot added!: BG Bot [Beta]
+[14:35:12:833] New bot added!: Mixed Mode
+[14:35:12:838] New bot added!: PartyBot
+[14:35:15:911] New bot added!: Combat Bot
+[14:35:16:019] MeshesFolderPath: C:\Users\samy\AppData\Local\HonorbuddyMeshes
+[14:35:16:019] KillBetweenHotspots: True
+[14:35:16:019] AdvancedSettingsMode: False
+[14:35:16:019] LogoutForInactivity: True
+[14:35:16:019] LogoutInactivityTimer: 10
+[14:35:16:019] LogoutInactivityUseForceQuit: False
+[14:35:16:019] ProfileDebuggingMode: False
+[14:35:16:019] FoodAmount: 0
+[14:35:16:019] DrinkAmount: 0
+[14:35:16:019] EnabledPlugins:
+[14:35:16:019]     Bug Submitter
+[14:35:16:019]     Profiles
+[14:35:16:019]     Refreshment Detection
+[14:35:16:019] FormLocationX: -2
+[14:35:16:019] FormLocationY: 16
+[14:35:16:019] FormWidth: 396
+[14:35:16:019] FormHeight: 302
+[14:35:16:019] SelectedBotIndex: 1
+[14:35:16:019] UseFlightPaths: False
+[14:35:16:019] FindMountAutomatically: True
+[14:35:16:019] UseRandomMount: True
+[14:35:16:019] FoodName: 43518
+[14:35:16:019] DrinkName: 43518
+[14:35:16:019] MountName: 35711
+[14:35:16:019] LootMobs: True
+[14:35:16:019] SkinMobs: False
+[14:35:16:019] NinjaSkin: False
+[14:35:16:019] LootChests: True
+[14:35:16:019] HarvestMinerals: False
+[14:35:16:019] HarvestHerbs: False
+[14:35:16:019] UseMount: True
+[14:35:16:019] PullDistance: 30
+[14:35:16:019] LootRadius: 45
+[14:35:16:019] FindVendorsAutomatically: True
+[14:35:16:019] TrainNewSkills: False
+[14:35:16:019] LearnFlightPaths: False
+[14:35:16:019] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\Zuldrak75-78\Zuldrak75-78.xml
+[14:35:16:019] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\Zuldrak75-78\Zuldrak75-78.xml
+[14:35:16:019] MountDistance: 75
+[14:35:16:019] RessAtSpiritHealers: False
+[14:35:16:019] GroundMountFarmingMode: False
+[14:35:16:019] FoodAmount: 0
+[14:35:16:019] DrinkAmount: 0
+[14:35:16:019] FormLocationX: -2
+[14:35:16:019] FormLocationY: 16
+[14:35:16:019] SelectedBotIndex: 1
+[14:35:16:019] UseFlightPaths: False
+[14:35:16:019] FindMountAutomatically: True
+[14:35:16:019] UseRandomMount: True
+[14:35:16:019] FoodName: 43518
+[14:35:16:019] DrinkName: 43518
+[14:35:16:019] MountName: 35711
+[14:35:16:019] LootMobs: True
+[14:35:16:019] SkinMobs: False
+[14:35:16:019] NinjaSkin: False
+[14:35:16:019] LootChests: True
+[14:35:16:019] HarvestMinerals: False
+[14:35:16:019] HarvestHerbs: False
+[14:35:16:019] UseMount: True
+[14:35:16:019] PullDistance: 30
+[14:35:16:019] LootRadius: 45
+[14:35:16:019] FindVendorsAutomatically: True
+[14:35:16:019] TrainNewSkills: False
+[14:35:16:019] LearnFlightPaths: False
+[14:35:16:019] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\Zuldrak75-78\Zuldrak75-78.xml
+[14:35:16:019] MountDistance: 75
+[14:35:16:019] RessAtSpiritHealers: False
+[14:35:16:020] Please wait a few seconds while Honorbuddy initializes.
+[14:35:16:022] Activity: Initializing.
+[14:35:16:024] Activity: Loading memory management & tables
+[14:35:16:126] Activity: Loading Spells
+[14:35:16:306] Activity: Initializing Spell Manager
+[14:35:16:380] Activity: Initializing Plugins
+[14:35:17:294] 
+[14:35:21:252] [WeigtSet] Selected weight set: Mage-Arcane
+[14:35:22:291] Plugin from C:\Users\samy\Desktop\01a804f0\Plugins\Instancebuddy could not be compiled! Compiler errors:
+[14:35:22:291] File: Instancebuddy.cs Line: 530 Error: Der Name "SequenceManager" ist im aktuellen Kontext nicht vorhanden.
+File: Instancebuddy.cs Line: 530 Error: Der Name "Sequence" ist im aktuellen Kontext nicht vorhanden.
+
+[14:35:25:150] Activity: Initializing Navigator
+[14:35:25:406] Activity: Initializing Blackspot Manager
+[14:35:25:415] Activity: Initializing Battlegrounds
+[14:35:25:449] Activity: Initializing Flight Paths
+[14:35:25:530] Activity: Initializing Routines
+[14:35:25:539] Building spell book
+[14:35:25:546] Spell book built
+[14:35:25:547] Compiling C:\Users\samy\Desktop\01a804f0\CustomClasses\ShamWOW
+[14:35:27:323] Compiling C:\Users\samy\Desktop\01a804f0\CustomClasses\Singular
+[14:35:29:022] Activity: Initialization complete
+[14:35:29:026] Initialization complete.
+[14:35:29:029] Activity: Honorbuddy Startup Complete
+[14:35:47:910] Activity: Loading Profile...
+[14:40:24:540] Sync
+[14:40:58:012] Starting the bot!
+[14:41:26:851] Downloaded tilemap DeathKnightStart
+[14:41:26:857] Changed tilemap to DeathKnightStart, Tiled: True
+[14:41:26:991] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[14:41:27:107] This profile does not contain any profiles fitting the character!
+[14:41:27:108] Stop called!
+[14:41:27:120] Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+[14:42:46:216] Starting the bot!
+[14:42:46:284] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[14:42:46:314] Chose Singular $Revision: 254 $ as your combat class!
+[14:42:46:316] [Singular] Starting Singular v0.0.0.0
+[14:42:46:447] [Singular] Determining talent spec.
+[14:42:46:643] [Singular] Current spec is  Blood Death Knight
+[14:42:46:683] [Singular] Using CreateBloodDeathKnightCombat for Blood Death Knight - Combat (Priority: 0)
+[14:42:46:720] [Singular] Using CreateDeathKnightPvpNormalPull for Blood Death Knight - Pull (Priority: 0)
+[14:42:46:730] [Singular] Using default rest behavior.
+[14:42:46:745] [Singular] Using CreateDeathKnightPreCombatBuffs for Blood Death Knight - PreCombatBuffs (Priority: 0)
+[14:42:46:751] [Singular] Behaviors created!
+[14:42:46:861] Cleared POI
+[14:42:46:862] Cleared POI - Reason Starting up
+[14:42:46:864] Cleared POI
+[14:42:46:865] Building spell book
+[14:42:46:866] Adding: Dual Wield
+[14:42:46:866] Adding: Journeyman Riding
+[14:42:46:866] Adding: Runeforging
+[14:42:46:866] Adding: Blood Rites
+[14:42:46:866] Adding: Blood Strike
+[14:42:46:866] Adding: Heart Strike
+[14:42:46:866] Adding: Parry
+[14:42:46:866] Adding: Vengeance
+[14:42:46:867] Adding: Veteran of the Third War
+[14:42:46:867] Adding: Icy Touch
+[14:42:46:867] Adding: Frost Fever
+[14:42:46:867] Adding: Frost Presence
+[14:42:46:867] Adding: Runic Focus
+[14:42:46:867] Adding: Blood Plague
+[14:42:46:867] Adding: Plague Strike
+[14:42:46:867] Adding: Death Grip
+[14:42:46:867] Adding: Death Coil
+[14:42:46:867] Spell book built
+[14:42:47:792] This profile does not contain any profiles fitting the character!
+[14:42:47:792] Stop called!
+[14:42:47:849] Activity: Honorbuddy Stopped
+[14:42:47:933] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort()
+   at Styx.Logic.BehaviorTree.TreeRoot.Stop()
+   at Styx.Logic.Profiles.ProfileManager.get_CurrentProfile()
+   at Styx.Logic.AreaManagement.AreaManager.get_CurrentGrindArea()
+   at Styx.Logic.Targeting.Pulse()
+[14:42:47:938] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[14:42:47:938] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[14:43:00:678] Starting the bot!
+[14:43:00:707] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[14:43:00:708] This profile does not contain any profiles fitting the character!
+[14:43:00:708] Stop called!
+[14:43:00:709] Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+[14:43:02:352] Starting the bot!
+[14:43:02:383] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[14:43:02:384] This profile does not contain any profiles fitting the character!
+[14:43:02:384] Stop called!
+[14:43:02:384] Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+[14:43:09:045] Starting the bot!
+[14:43:09:104] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[14:43:09:138] Cleared POI - Reason Starting up
+[14:43:09:138] Cleared POI
+[14:43:09:186] This profile does not contain any profiles fitting the character!
+[14:43:09:186] Stop called!
+[14:43:09:247] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort()
+   at Styx.Logic.BehaviorTree.TreeRoot.Stop()
+   at Styx.Logic.Profiles.ProfileManager.get_CurrentProfile()
+   at Styx.Logic.AreaManagement.AreaManager.get_CurrentGrindArea()
+   at Styx.Logic.Targeting.Pulse()
+[14:43:09:250] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[14:43:09:250] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[14:45:36:505] Das Öffnen wurde nicht innerhalb des zugewiesenen Zeitlimits von 00:00:29.9990000 abgeschlossen. Der für diesen Vorgang zugewiesene Zeitraum war möglicherweise ein Teil eines längeren Zeitlimits.
+[14:50:41:965] Sync
+[15:00:36:483] Das Öffnen wurde nicht innerhalb des zugewiesenen Zeitlimits von 00:00:30 abgeschlossen. Der für diesen Vorgang zugewiesene Zeitraum war möglicherweise ein Teil eines längeren Zeitlimits.
+[15:10:39:450] Sync
+[15:20:36:506] Das Öffnen wurde nicht innerhalb des zugewiesenen Zeitlimits von 00:00:30 abgeschlossen. Der für diesen Vorgang zugewiesene Zeitraum war möglicherweise ein Teil eines längeren Zeitlimits.
+[15:25:25:880] Sync

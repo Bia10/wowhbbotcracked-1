@@ -1,0 +1,243 @@
+[13:29:29:186] http://www.codemplosion.com
+[13:29:29:186] Version: 1.0.2.26
+[13:29:35:763] Logging in...
+[13:29:45:447] Forum is back online.
+[13:29:45:450] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[13:29:55:639] Attached to WoW with ID 768
+[13:29:55:752] Honorbuddy v2.0.0.5354 started!
+[13:29:55:753] Using WoW with process ID 768
+[13:29:55:753] Platform: Microsoft Windows NT 6.1.7600.0
+[13:29:55:753] Executable Path: C:\Users\samy\Desktop\01a804f0\Honorbuddy.exe
+[13:29:55:760] Character is a level 75 Draenei Mage
+[13:29:55:762] Current zone is Grizzlyhügel
+[13:29:55:765] New bot added!: ArchaeologyBuddy
+[13:29:56:029] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[13:29:56:033] [Instancebuddy v3.0.1.315]:Currently supported tanking dungeons :
+[13:29:56:033] [Instancebuddy v3.0.1.315]:(This list will update itself automatically)
+[13:29:56:033] [Instancebuddy v3.0.1.315]:
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Deadmines
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Ragefire Chasm
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 16 - 26) Shadowfang Keep
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 20 - 30) The Stockade
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 26 - 36) Scarlet Monastery - Graveyard
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 29 - 39) Scarlet Monastery - Library
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 32 - 42) Scarlet Monastery - Armory
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 35 - 45) Scarlet Monastery - Cathedral
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 38 - 48) Scholomance
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 42 - 52) Stratholme - Main Gate
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 46 - 56) Stratholme - Service Entrance
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 57 - 67) Hellfire Ramparts
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 59 - 68) The Blood Furnace
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 62 - 71) Mana Tombs
+[13:29:56:033] [Instancebuddy v3.0.1.315]: (Level 65 - 73) Sethekk Halls
+[13:29:56:033] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[13:29:56:262] New bot added!: Instancebuddy
+[13:29:56:312] New bot added!: Gatherbuddy2
+[13:29:56:316] New bot added!: Grind Bot
+[13:29:56:320] New bot added!: Questing
+[13:29:56:324] New bot added!: PvP
+[13:29:56:328] New bot added!: BG Bot [Beta]
+[13:29:56:333] New bot added!: Mixed Mode
+[13:29:56:338] New bot added!: PartyBot
+[13:29:56:744] New bot added!: Combat Bot
+[13:29:56:776] MeshesFolderPath: C:\Users\samy\AppData\Local\HonorbuddyMeshes
+[13:29:56:776] KillBetweenHotspots: True
+[13:29:56:776] AdvancedSettingsMode: False
+[13:29:56:776] LogoutForInactivity: True
+[13:29:56:776] LogoutInactivityTimer: 10
+[13:29:56:776] LogoutInactivityUseForceQuit: False
+[13:29:56:776] ProfileDebuggingMode: False
+[13:29:56:776] FoodAmount: 0
+[13:29:56:776] DrinkAmount: 0
+[13:29:56:776] EnabledPlugins:
+[13:29:56:776]     Bug Submitter
+[13:29:56:776]     Profiles
+[13:29:56:776]     Refreshment Detection
+[13:29:56:776] FormLocationX: -2
+[13:29:56:776] FormLocationY: 16
+[13:29:56:776] FormWidth: 396
+[13:29:56:776] FormHeight: 302
+[13:29:56:776] SelectedBotIndex: 1
+[13:29:56:776] UseFlightPaths: False
+[13:29:56:776] FindMountAutomatically: True
+[13:29:56:776] UseRandomMount: True
+[13:29:56:776] FoodName: 43518
+[13:29:56:776] DrinkName: 43518
+[13:29:56:776] MountName: 32292
+[13:29:56:776] LootMobs: True
+[13:29:56:776] SkinMobs: False
+[13:29:56:776] NinjaSkin: False
+[13:29:56:776] LootChests: True
+[13:29:56:776] HarvestMinerals: False
+[13:29:56:776] HarvestHerbs: False
+[13:29:56:776] UseMount: True
+[13:29:56:776] PullDistance: 30
+[13:29:56:776] LootRadius: 45
+[13:29:56:776] FindVendorsAutomatically: False
+[13:29:56:776] TrainNewSkills: False
+[13:29:56:776] LearnFlightPaths: False
+[13:29:56:776] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\alc70to80.xml
+[13:29:56:776] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\alc70to80.xml
+[13:29:56:776] MountDistance: 75
+[13:29:56:776] RessAtSpiritHealers: False
+[13:29:56:776] GroundMountFarmingMode: False
+[13:29:56:777] FoodAmount: 0
+[13:29:56:777] DrinkAmount: 0
+[13:29:56:777] FormLocationX: -2
+[13:29:56:777] FormLocationY: 16
+[13:29:56:777] SelectedBotIndex: 1
+[13:29:56:777] UseFlightPaths: False
+[13:29:56:777] FindMountAutomatically: True
+[13:29:56:777] UseRandomMount: True
+[13:29:56:777] FoodName: 43518
+[13:29:56:777] DrinkName: 43518
+[13:29:56:777] MountName: 32292
+[13:29:56:777] LootMobs: True
+[13:29:56:777] SkinMobs: False
+[13:29:56:777] NinjaSkin: False
+[13:29:56:777] LootChests: True
+[13:29:56:777] HarvestMinerals: False
+[13:29:56:777] HarvestHerbs: False
+[13:29:56:777] UseMount: True
+[13:29:56:777] PullDistance: 30
+[13:29:56:777] LootRadius: 45
+[13:29:56:777] FindVendorsAutomatically: False
+[13:29:56:777] TrainNewSkills: False
+[13:29:56:777] LearnFlightPaths: False
+[13:29:56:777] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\alc70to80.xml
+[13:29:56:777] MountDistance: 75
+[13:29:56:777] RessAtSpiritHealers: False
+[13:29:56:778] Please wait a few seconds while Honorbuddy initializes.
+[13:29:56:780] Activity: Initializing.
+[13:29:56:782] Activity: Loading memory management & tables
+[13:29:56:817] Activity: Loading Spells
+[13:29:56:974] Activity: Initializing Spell Manager
+[13:29:57:014] Activity: Initializing Plugins
+[13:29:57:034] 
+[13:29:58:040] [WeigtSet] Selected weight set: Mage-Arcane
+[13:29:58:700] Plugin from C:\Users\samy\Desktop\01a804f0\Plugins\Instancebuddy could not be compiled! Compiler errors:
+[13:29:58:700] File: Instancebuddy.cs Line: 530 Error: Der Name "SequenceManager" ist im aktuellen Kontext nicht vorhanden.
+File: Instancebuddy.cs Line: 530 Error: Der Name "Sequence" ist im aktuellen Kontext nicht vorhanden.
+
+[13:30:00:288] Activity: Initializing Navigator
+[13:30:00:394] Activity: Initializing Blackspot Manager
+[13:30:00:399] Activity: Initializing Battlegrounds
+[13:30:00:426] Activity: Initializing Flight Paths
+[13:30:00:483] Activity: Initializing Routines
+[13:30:00:490] Building spell book
+[13:30:00:496] Spell book built
+[13:30:00:497] Compiling C:\Users\samy\Desktop\01a804f0\CustomClasses\ShamWOW
+[13:30:01:291] Compiling C:\Users\samy\Desktop\01a804f0\CustomClasses\Singular
+[13:30:02:148] Activity: Initialization complete
+[13:30:02:148] Initialization complete.
+[13:30:02:151] Activity: Honorbuddy Startup Complete
+[13:31:22:387] Starting the bot!
+[13:31:24:839] Downloaded tilemap Northrend
+[13:31:24:847] Changed tilemap to Northrend, Tiled: True
+[13:31:24:951] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[13:31:24:952] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:31:24:952] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:31:25:047] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[13:31:25:047] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:31:25:047] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:31:25:050] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[13:31:25:050] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:31:25:050] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:31:25:050] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[13:31:25:050] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:31:25:050] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:31:25:075] Changing current profile to Dragonblight
+[13:31:25:095] Changing current profile to Empty Profile
+[13:31:25:927] Chose Singular $Revision: 254 $ as your combat class!
+[13:31:25:928] [Singular] Starting Singular v0.0.0.0
+[13:31:25:989] [Singular] Determining talent spec.
+[13:31:26:216] [Singular] Current spec is  Arcane Mage
+[13:31:26:245] [Singular] Using CreateArcaneMageCombat for Arcane Mage - Combat (Priority: 0)
+[13:31:26:272] [Singular] Using CreateArcaneMagePull for Arcane Mage - Pull (Priority: 0)
+[13:31:26:278] [Singular] Using default rest behavior.
+[13:31:26:295] [Singular] Using CreateMageBuffs for Arcane Mage - PreCombatBuffs (Priority: 0)
+[13:31:26:299] [Singular] Behaviors created!
+[13:31:26:549] Cleared POI
+[13:31:26:551] Cleared POI - Reason Starting up
+[13:31:26:552] Cleared POI
+[13:31:28:361] Activity: Loading Tile/s
+[13:31:28:361] Loading Northrend_38_24
+[13:31:28:672] Loading Northrend_39_23
+[13:31:28:866] Loading Northrend_38_23
+[13:31:29:078] Loading Northrend_39_24
+[13:31:29:306] Loading Northrend_40_23
+[13:31:33:247] [Instancebuddy v3.0.1.315]:Queueing at dungeon finder
+[13:31:59:836] Loading Northrend_37_25
+[13:32:00:035] Loading Northrend_37_24
+[13:32:19:873] [Singular] Target is invalid. Switching to Großhornhirsch!
+[13:32:20:297] [Singular] No viable target! NOT GOOD!
+[13:32:21:143] Changed POI to:Type: Loot, Name: Großhornhirsch
+[13:32:21:363] Moving to Type: Loot, Name: Großhornhirsch
+[13:32:24:031] InteractDebug:574071000
+[13:32:24:070] Interact Done:574071000
+[13:32:27:292] Cleared POI - Reason Waiting for loot flag
+[13:32:27:292] Cleared POI
+[13:32:36:246] [Singular] Casting Frost Nova on Großhornhirsch
+[13:32:36:249] Spell_C::CastSpell(122, 0, 0xF13066FB00818E8E, 0) [1]
+[13:32:37:096] [Singular] Getting away from frozen target
+[13:32:40:659] [Singular] Target is invalid. Switching to Großhornhirsch!
+[13:32:40:920] [Singular] No viable target! NOT GOOD!
+[13:32:41:544] Changed POI to:Type: Loot, Name: Großhornhirsch
+[13:32:41:731] Moving to Type: Loot, Name: Großhornhirsch
+[13:32:42:991] InteractDebug:574134800
+[13:32:43:063] Interact Done:574134800
+[13:32:43:992] Looting Großhornhirsch Guid:0xF13066FB00818E8E
+[13:32:44:179] Cleared POI - Reason Waiting for loot flag
+[13:32:44:179] Cleared POI
+[13:32:44:676] Changed POI to:Type: Loot, Name: Großhornhirsch
+[13:32:44:972] Cleared POI - Reason Already looted
+[13:32:44:972] Cleared POI
+[13:33:10:320] [Singular] Target is invalid. Switching to Großhornhirsch!
+[13:33:10:805] Changed POI to:Type: Loot, Name: Großhornhirsch
+[13:33:11:017] Moving to Type: Loot, Name: Großhornhirsch
+[13:33:11:733] InteractDebug:574146400
+[13:33:11:764] Interact Done:574146400
+[13:33:12:439] Looting Unkown Object Guid:0x0000000000000000
+[13:33:12:573] Cleared POI - Reason Waiting for loot flag
+[13:33:12:573] Cleared POI
+[13:33:12:991] Changed POI to:Type: Loot, Name: Großhornhirsch
+[13:33:13:182] Cleared POI - Reason Already looted
+[13:33:13:182] Cleared POI
+[13:33:31:740] [Singular] Target is invalid. Switching to Großhornhirsch!
+[13:33:32:352] Changed POI to:Type: Loot, Name: Großhornhirsch
+[13:33:32:564] Moving to Type: Loot, Name: Großhornhirsch
+[13:33:33:164] InteractDebug:574024600
+[13:33:33:188] Interact Done:574024600
+[13:33:33:999] Looting Großhornhirsch Guid:0xF13066FB0068E864
+[13:33:34:130] Cleared POI - Reason Waiting for loot flag
+[13:33:34:131] Cleared POI
+[13:33:34:679] Changed POI to:Type: Loot, Name: Großhornhirsch
+[13:33:34:903] Cleared POI - Reason Already looted
+[13:33:34:903] Cleared POI
+[13:34:28:758] [Instancebuddy v3.0.1.315]:Anti AFK jump
+[13:34:29:738] Updating repair cost for current equipped items. New value: [0g3s46c]
+[13:34:49:527] Sync
+[13:36:57:093] Stopping the bot!
+[13:36:57:094] Stop called!
+[13:36:57:137] Changed tilemap to Northrend, Tiled: True
+[13:36:57:143] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:143] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:143] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:144] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:144] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:144] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:144] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:144] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:144] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:146] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:146] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:146] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[13:36:57:146] Changing current profile to Dragonblight
+[13:36:57:227] Activity: Honorbuddy Stopped
+[13:36:57:260] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[13:36:57:261] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()

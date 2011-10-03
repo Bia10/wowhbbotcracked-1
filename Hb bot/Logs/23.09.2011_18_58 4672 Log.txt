@@ -1,0 +1,13 @@
+[18:58:25:436] http://www.codemplosion.com
+[18:58:25:436] Version: 1.0.2.26
+[18:58:30:667] Logging in...
+[18:58:36:283] Forum is back online.
+[18:58:36:288] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[18:58:41:196] -------------------------------
+[18:58:41:196] You have not selected a valid instance of WoW to attach to!
+[18:58:41:197] Please restart Honorbuddy and choose a valid instance of WoW to use Honorbuddy with!
+[18:58:41:197] This version of Honorbuddy only supports WoW Build #14545
+[18:58:41:197] You are currently on build #0
+[18:58:41:197] -------------------------------

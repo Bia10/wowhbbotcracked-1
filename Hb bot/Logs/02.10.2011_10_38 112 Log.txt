@@ -1,0 +1,229 @@
+[10:38:08:071] http://www.codemplosion.com
+[10:38:08:072] Version: 1.0.2.26
+[10:38:14:771] Logging in...
+[10:38:18:153] Forum is back online.
+[10:38:18:156] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[10:38:22:082] Attached to WoW with ID 3252
+[10:38:22:847] Honorbuddy v2.0.0.5354 started!
+[10:38:22:850] Using WoW with process ID 3252
+[10:38:22:869] Platform: Microsoft Windows NT 6.1.7600.0
+[10:38:22:869] Executable Path: C:\Users\samy\Desktop\HB und GB\Honorbuddy.exe
+[10:38:22:880] Character is a level 46 Human Warlock
+[10:38:22:883] Current zone is Ödland
+[10:38:22:908] New bot added!: ArchaeologyBuddy
+[10:38:23:243] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[10:38:23:249] [Instancebuddy v3.0.1.315]:Currently supported tanking dungeons :
+[10:38:23:249] [Instancebuddy v3.0.1.315]:(This list will update itself automatically)
+[10:38:23:249] [Instancebuddy v3.0.1.315]:
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Deadmines
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Ragefire Chasm
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 16 - 26) Shadowfang Keep
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 20 - 30) The Stockade
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 26 - 36) Scarlet Monastery - Graveyard
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 29 - 39) Scarlet Monastery - Library
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 32 - 42) Scarlet Monastery - Armory
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 35 - 45) Scarlet Monastery - Cathedral
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 38 - 48) Scholomance
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 42 - 52) Stratholme - Main Gate
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 46 - 56) Stratholme - Service Entrance
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 57 - 67) Hellfire Ramparts
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 59 - 68) The Blood Furnace
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 62 - 71) Mana Tombs
+[10:38:23:249] [Instancebuddy v3.0.1.315]: (Level 65 - 73) Sethekk Halls
+[10:38:23:249] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[10:38:23:783] New bot added!: Instancebuddy
+[10:38:23:851] New bot added!: Gatherbuddy2
+[10:38:23:856] New bot added!: Grind Bot
+[10:38:23:860] New bot added!: Questing
+[10:38:23:880] New bot added!: PvP
+[10:38:23:885] New bot added!: BG Bot [Beta]
+[10:38:23:891] New bot added!: Mixed Mode
+[10:38:23:895] New bot added!: PartyBot
+[10:38:25:892] An error occured while loading PoolFishingBuddy!
+[10:38:25:935] System.Reflection.ReflectionTypeLoadException: Mindestens ein Typ in der Assembly kann nicht geladen werden. Rufen Sie die LoaderExceptions-Eigenschaft ab, wenn Sie weitere Informationen benötigen.
+   bei System.Reflection.Module._GetTypesInternal(StackCrawlMark& stackMark)
+   bei System.Reflection.Assembly.GetTypes()
+   bei Styx.Bot.Plugins.PFBLoader..ctor() in c:\Users\samy\Desktop\HB und GB\Bots\PoolFishingBuddy\PFBLoader.cs:Zeile 30.
+[10:38:25:935] New bot added!: Combat Bot
+[10:38:25:935] A bot could not be added because it threw an exception when 'Name' was accessed.
+[10:38:25:995] MeshesFolderPath: C:\Users\samy\AppData\Local\HonorbuddyMeshes
+[10:38:25:995] KillBetweenHotspots: True
+[10:38:25:995] AdvancedSettingsMode: False
+[10:38:25:995] LogoutForInactivity: True
+[10:38:25:995] LogoutInactivityTimer: 10
+[10:38:25:995] LogoutInactivityUseForceQuit: False
+[10:38:25:995] ProfileDebuggingMode: False
+[10:38:25:995] FoodAmount: 0
+[10:38:25:995] DrinkAmount: 0
+[10:38:25:995] EnabledPlugins:
+[10:38:25:995]     AutoEquip2
+[10:38:25:995]     Bug Submitter
+[10:38:25:995]     Profiles
+[10:38:25:995]     Refreshment Detection
+[10:38:25:995] FormLocationX: -2
+[10:38:25:995] FormLocationY: 16
+[10:38:25:995] FormWidth: 396
+[10:38:25:995] FormHeight: 302
+[10:38:25:995] SelectedBotIndex: 4
+[10:38:25:995] UseFlightPaths: False
+[10:38:25:995] FindMountAutomatically: True
+[10:38:25:995] UseRandomMount: True
+[10:38:25:995] FoodName: 61383
+[10:38:25:995] DrinkName: 61382
+[10:38:25:995] MountName: 5784
+[10:38:25:995] LootMobs: True
+[10:38:25:995] SkinMobs: False
+[10:38:25:995] NinjaSkin: False
+[10:38:25:995] LootChests: True
+[10:38:25:995] HarvestMinerals: False
+[10:38:25:995] HarvestHerbs: False
+[10:38:25:995] UseMount: True
+[10:38:25:995] PullDistance: 30
+[10:38:25:995] LootRadius: 45
+[10:38:25:995] FindVendorsAutomatically: True
+[10:38:25:995] TrainNewSkills: False
+[10:38:25:995] LearnFlightPaths: True
+[10:38:25:995] LastUsedPath: C:\Users\samy\Desktop\HB und GB\kicks profiler\kicks-scripts\Kick's Profiles\1-85 Questing Profile Pack\Classic\[A - Quest] Human 1-60 [Kick].xml
+[10:38:25:995] LastUsedPath: C:\Users\samy\Desktop\HB und GB\kicks profiler\kicks-scripts\Kick's Profiles\1-85 Questing Profile Pack\Classic\[A - Quest] Human 1-60 [Kick].xml
+[10:38:25:995] MountDistance: 75
+[10:38:25:995] RessAtSpiritHealers: False
+[10:38:25:995] GroundMountFarmingMode: True
+[10:38:25:995] FoodAmount: 0
+[10:38:25:995] DrinkAmount: 0
+[10:38:25:995] FormLocationX: -2
+[10:38:25:995] FormLocationY: 16
+[10:38:25:995] SelectedBotIndex: 4
+[10:38:25:995] UseFlightPaths: False
+[10:38:25:995] FindMountAutomatically: True
+[10:38:25:995] UseRandomMount: True
+[10:38:25:995] FoodName: 61383
+[10:38:25:995] DrinkName: 61382
+[10:38:25:995] MountName: 5784
+[10:38:25:995] LootMobs: True
+[10:38:25:995] SkinMobs: False
+[10:38:25:995] NinjaSkin: False
+[10:38:25:995] LootChests: True
+[10:38:25:995] HarvestMinerals: False
+[10:38:25:995] HarvestHerbs: False
+[10:38:25:995] UseMount: True
+[10:38:25:995] PullDistance: 30
+[10:38:25:995] LootRadius: 45
+[10:38:25:995] FindVendorsAutomatically: True
+[10:38:25:995] TrainNewSkills: False
+[10:38:25:995] LearnFlightPaths: True
+[10:38:25:995] LastUsedPath: C:\Users\samy\Desktop\HB und GB\kicks profiler\kicks-scripts\Kick's Profiles\1-85 Questing Profile Pack\Classic\[A - Quest] Human 1-60 [Kick].xml
+[10:38:25:995] MountDistance: 75
+[10:38:25:995] RessAtSpiritHealers: False
+[10:38:26:007] Please wait a few seconds while Honorbuddy initializes.
+[10:38:26:008] Activity: Initializing.
+[10:38:26:010] Activity: Loading memory management & tables
+[10:38:26:053] Activity: Loading Spells
+[10:38:26:131] Activity: Initializing Spell Manager
+[10:38:26:196] Activity: Initializing Plugins
+[10:38:26:270] 
+[10:38:28:174] [WeigtSet] Selected weight set: Warlock-Demonology
+[10:38:28:928] Plugin from C:\Users\samy\Desktop\HB und GB\Plugins\Instancebuddy could not be compiled! Compiler errors:
+[10:38:28:928] File: Instancebuddy.cs Line: 530 Error: Der Name "SequenceManager" ist im aktuellen Kontext nicht vorhanden.
+File: Instancebuddy.cs Line: 530 Error: Der Name "Sequence" ist im aktuellen Kontext nicht vorhanden.
+
+[10:38:29:822] ItemForAura: Loading config file: C:\Users\samy\Desktop\HB und GB\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[10:38:29:900] ItemForAura: Active1=True
+[10:38:29:901] ItemForAura: Active2=True
+[10:38:29:901] ItemForAura: Active3=True
+[10:38:29:901] ItemForAura: Active4=True
+[10:38:29:901] ItemForAura: Active5=True
+[10:38:29:901] ItemForAura: Active6=True
+[10:38:29:901] ItemForAura: Item1=58165
+[10:38:29:901] ItemForAura: Item2=38619
+[10:38:29:901] ItemForAura: Item3=38512
+[10:38:29:901] ItemForAura: Item4=38622
+[10:38:29:901] ItemForAura: Item5=38623
+[10:38:29:901] ItemForAura: Item6=38624
+[10:38:29:901] ItemForAura: Aura1=79651
+[10:38:29:901] ItemForAura: Aura2=54178
+[10:38:29:901] ItemForAura: Aura3=54176
+[10:38:29:901] ItemForAura: Aura4=51623
+[10:38:29:901] ItemForAura: Aura5=51623
+[10:38:29:901] ItemForAura: Aura6=51623
+[10:38:29:901] ItemForAura: Quest11=0
+[10:38:29:901] ItemForAura: Quest21=0
+[10:38:29:901] ItemForAura: Quest31=0
+[10:38:29:901] ItemForAura: Quest41=0
+[10:38:29:901] ItemForAura: Quest51=0
+[10:38:29:901] ItemForAura: Quest61=0
+[10:38:29:901] ItemForAura: Quest12=0
+[10:38:29:901] ItemForAura: Quest22=0
+[10:38:29:901] ItemForAura: Quest32=0
+[10:38:29:901] ItemForAura: Quest42=0
+[10:38:29:901] ItemForAura: Quest52=0
+[10:38:29:901] ItemForAura: Quest62=0
+[10:38:29:901] ItemForAura: Quest13=0
+[10:38:29:901] ItemForAura: Quest23=0
+[10:38:29:902] ItemForAura: Quest33=0
+[10:38:29:902] ItemForAura: Quest43=0
+[10:38:29:902] ItemForAura: Quest53=0
+[10:38:29:902] ItemForAura: Quest63=0
+[10:38:29:902] ItemForAura: Combat1=True
+[10:38:29:902] ItemForAura: Combat2=False
+[10:38:29:902] ItemForAura: Combat3=False
+[10:38:29:902] ItemForAura: Combat4=False
+[10:38:29:902] ItemForAura: Combat5=False
+[10:38:29:902] ItemForAura: Combat6=False
+[10:38:29:902] ItemForAura - Questhelper - Version 2.0 Loaded.
+[10:38:29:903] ItemForAura: Loading config file: C:\Users\samy\Desktop\HB und GB\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[10:38:29:904] ItemForAura: Active1=True
+[10:38:29:904] ItemForAura: Active2=True
+[10:38:29:904] ItemForAura: Active3=True
+[10:38:29:904] ItemForAura: Active4=True
+[10:38:29:904] ItemForAura: Active5=True
+[10:38:29:904] ItemForAura: Active6=True
+[10:38:29:904] ItemForAura: Item1=58165
+[10:38:29:904] ItemForAura: Item2=38619
+[10:38:29:904] ItemForAura: Item3=38512
+[10:38:29:904] ItemForAura: Item4=38622
+[10:38:29:904] ItemForAura: Item5=38623
+[10:38:29:904] ItemForAura: Item6=38624
+[10:38:29:904] ItemForAura: Aura1=79651
+[10:38:29:904] ItemForAura: Aura2=54178
+[10:38:29:904] ItemForAura: Aura3=54176
+[10:38:29:904] ItemForAura: Aura4=51623
+[10:38:29:904] ItemForAura: Aura5=51623
+[10:38:29:904] ItemForAura: Aura6=51623
+[10:38:29:904] ItemForAura: Quest11=0
+[10:38:29:905] ItemForAura: Quest21=0
+[10:38:29:905] ItemForAura: Quest31=0
+[10:38:29:905] ItemForAura: Quest41=0
+[10:38:29:905] ItemForAura: Quest51=0
+[10:38:29:905] ItemForAura: Quest61=0
+[10:38:29:905] ItemForAura: Quest12=0
+[10:38:29:905] ItemForAura: Quest22=0
+[10:38:29:905] ItemForAura: Quest32=0
+[10:38:29:905] ItemForAura: Quest42=0
+[10:38:29:905] ItemForAura: Quest52=0
+[10:38:29:905] ItemForAura: Quest62=0
+[10:38:29:905] ItemForAura: Quest13=0
+[10:38:29:905] ItemForAura: Quest23=0
+[10:38:29:905] ItemForAura: Quest33=0
+[10:38:29:905] ItemForAura: Quest43=0
+[10:38:29:905] ItemForAura: Quest53=0
+[10:38:29:905] ItemForAura: Quest63=0
+[10:38:29:905] ItemForAura: Combat1=True
+[10:38:29:905] ItemForAura: Combat2=False
+[10:38:29:905] ItemForAura: Combat3=False
+[10:38:29:905] ItemForAura: Combat4=False
+[10:38:29:905] ItemForAura: Combat5=False
+[10:38:29:905] ItemForAura: Combat6=False
+[10:38:34:195] Activity: Initializing Navigator
+[10:38:34:371] Activity: Initializing Blackspot Manager
+[10:38:34:402] Activity: Initializing Battlegrounds
+[10:38:34:440] Activity: Initializing Flight Paths
+[10:38:34:492] Activity: Initializing Routines
+[10:38:34:500] Building spell book
+[10:38:34:503] Spell book built
+[10:38:34:505] Compiling C:\Users\samy\Desktop\HB und GB\CustomClasses\ShamWOW
+[10:38:35:629] Compiling C:\Users\samy\Desktop\HB und GB\CustomClasses\Singular
+[10:38:37:450] Activity: Initialization complete
+[10:38:37:450] Initialization complete.
+[10:38:37:510] Activity: Honorbuddy Startup Complete

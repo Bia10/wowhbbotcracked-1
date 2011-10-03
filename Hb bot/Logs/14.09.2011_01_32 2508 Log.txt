@@ -1,0 +1,1940 @@
+[01:32:23:744] http://www.codemplosion.com
+[01:32:23:744] Version: 1.0.2.26
+[01:32:25:930] Logging in...
+[01:32:29:009] Forum is back online.
+[01:32:29:011] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[01:32:33:730] Attached to WoW with ID 6072
+[01:32:34:463] Honorbuddy v2.0.0.5354 started!
+[01:32:34:465] Using WoW with process ID 6072
+[01:32:34:465] Platform: Microsoft Windows NT 6.1.7600.0
+[01:32:34:465] Executable Path: C:\Users\samy\Desktop\01a804f0\Honorbuddy.exe
+[01:32:34:473] Character is a level 76 Draenei Mage
+[01:32:34:477] Current zone is Darnassus
+[01:32:34:551] New bot added!: ArchaeologyBuddy
+[01:32:34:892] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[01:32:34:896] [Instancebuddy v3.0.1.315]:Currently supported tanking dungeons :
+[01:32:34:897] [Instancebuddy v3.0.1.315]:(This list will update itself automatically)
+[01:32:34:897] [Instancebuddy v3.0.1.315]:
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Deadmines
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Ragefire Chasm
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 16 - 26) Shadowfang Keep
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 20 - 30) The Stockade
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 26 - 36) Scarlet Monastery - Graveyard
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 29 - 39) Scarlet Monastery - Library
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 32 - 42) Scarlet Monastery - Armory
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 35 - 45) Scarlet Monastery - Cathedral
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 38 - 48) Scholomance
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 42 - 52) Stratholme - Main Gate
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 46 - 56) Stratholme - Service Entrance
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 57 - 67) Hellfire Ramparts
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 59 - 68) The Blood Furnace
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 62 - 71) Mana Tombs
+[01:32:34:897] [Instancebuddy v3.0.1.315]: (Level 65 - 73) Sethekk Halls
+[01:32:34:897] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[01:32:36:777] New bot added!: Instancebuddy
+[01:32:36:911] New bot added!: Gatherbuddy2
+[01:32:36:926] New bot added!: Grind Bot
+[01:32:36:933] New bot added!: Questing
+[01:32:36:940] New bot added!: PvP
+[01:32:36:948] New bot added!: BG Bot [Beta]
+[01:32:36:967] New bot added!: Mixed Mode
+[01:32:36:974] New bot added!: PartyBot
+[01:32:39:730] New bot added!: Combat Bot
+[01:32:39:762] MeshesFolderPath: C:\Users\samy\AppData\Local\HonorbuddyMeshes
+[01:32:39:762] KillBetweenHotspots: True
+[01:32:39:762] AdvancedSettingsMode: False
+[01:32:39:762] LogoutForInactivity: True
+[01:32:39:762] LogoutInactivityTimer: 10
+[01:32:39:762] LogoutInactivityUseForceQuit: False
+[01:32:39:762] ProfileDebuggingMode: False
+[01:32:39:762] FoodAmount: 0
+[01:32:39:762] DrinkAmount: 0
+[01:32:39:762] EnabledPlugins:
+[01:32:39:762]     Bug Submitter
+[01:32:39:762]     Profiles
+[01:32:39:762]     Refreshment Detection
+[01:32:39:762] FormLocationX: -2
+[01:32:39:762] FormLocationY: 16
+[01:32:39:762] FormWidth: 396
+[01:32:39:762] FormHeight: 302
+[01:32:39:762] SelectedBotIndex: 1
+[01:32:39:762] UseFlightPaths: False
+[01:32:39:762] FindMountAutomatically: True
+[01:32:39:762] UseRandomMount: True
+[01:32:39:762] FoodName: 43518
+[01:32:39:762] DrinkName: 43518
+[01:32:39:762] MountName: 35711
+[01:32:39:762] LootMobs: True
+[01:32:39:762] SkinMobs: False
+[01:32:39:762] NinjaSkin: False
+[01:32:39:762] LootChests: True
+[01:32:39:762] HarvestMinerals: False
+[01:32:39:762] HarvestHerbs: False
+[01:32:39:762] UseMount: True
+[01:32:39:762] PullDistance: 30
+[01:32:39:762] LootRadius: 45
+[01:32:39:762] FindVendorsAutomatically: True
+[01:32:39:762] TrainNewSkills: False
+[01:32:39:762] LearnFlightPaths: False
+[01:32:39:762] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\Alliance - All Cloth Farming\cloth\Silk Cloth - Badlands.xml
+[01:32:39:762] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\Alliance - All Cloth Farming\cloth\Silk Cloth - Badlands.xml
+[01:32:39:762] MountDistance: 75
+[01:32:39:762] RessAtSpiritHealers: False
+[01:32:39:762] GroundMountFarmingMode: False
+[01:32:39:762] FoodAmount: 0
+[01:32:39:762] DrinkAmount: 0
+[01:32:39:762] FormLocationX: -2
+[01:32:39:762] FormLocationY: 16
+[01:32:39:763] SelectedBotIndex: 1
+[01:32:39:763] UseFlightPaths: False
+[01:32:39:763] FindMountAutomatically: True
+[01:32:39:763] UseRandomMount: True
+[01:32:39:763] FoodName: 43518
+[01:32:39:763] DrinkName: 43518
+[01:32:39:763] MountName: 35711
+[01:32:39:763] LootMobs: True
+[01:32:39:763] SkinMobs: False
+[01:32:39:763] NinjaSkin: False
+[01:32:39:763] LootChests: True
+[01:32:39:763] HarvestMinerals: False
+[01:32:39:763] HarvestHerbs: False
+[01:32:39:763] UseMount: True
+[01:32:39:763] PullDistance: 30
+[01:32:39:763] LootRadius: 45
+[01:32:39:763] FindVendorsAutomatically: True
+[01:32:39:763] TrainNewSkills: False
+[01:32:39:763] LearnFlightPaths: False
+[01:32:39:763] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\Alliance - All Cloth Farming\cloth\Silk Cloth - Badlands.xml
+[01:32:39:763] MountDistance: 75
+[01:32:39:763] RessAtSpiritHealers: False
+[01:32:39:765] Please wait a few seconds while Honorbuddy initializes.
+[01:32:39:767] Activity: Initializing.
+[01:32:39:769] Activity: Loading memory management & tables
+[01:32:39:844] Activity: Loading Spells
+[01:32:40:043] Activity: Initializing Spell Manager
+[01:32:40:449] Activity: Initializing Plugins
+[01:32:40:851] 
+[01:32:43:617] [WeigtSet] Selected weight set: Mage-Arcane
+[01:32:44:323] Plugin from C:\Users\samy\Desktop\01a804f0\Plugins\Instancebuddy could not be compiled! Compiler errors:
+[01:32:44:323] File: Instancebuddy.cs Line: 530 Error: Der Name "SequenceManager" ist im aktuellen Kontext nicht vorhanden.
+File: Instancebuddy.cs Line: 530 Error: Der Name "Sequence" ist im aktuellen Kontext nicht vorhanden.
+
+[01:32:47:388] Activity: Initializing Navigator
+[01:32:47:606] Activity: Initializing Blackspot Manager
+[01:32:47:613] Activity: Initializing Battlegrounds
+[01:32:47:687] Activity: Initializing Flight Paths
+[01:32:47:703] Activity: Initializing Routines
+[01:32:47:712] Building spell book
+[01:32:47:723] Spell book built
+[01:32:47:725] Compiling C:\Users\samy\Desktop\01a804f0\CustomClasses\ShamWOW
+[01:32:49:222] Compiling C:\Users\samy\Desktop\01a804f0\CustomClasses\Singular
+[01:32:51:677] Activity: Initialization complete
+[01:32:51:698] Initialization complete.
+[01:32:51:730] Activity: Honorbuddy Startup Complete
+[01:33:26:497] Starting the bot!
+[01:33:27:787] Downloaded tilemap Kalimdor
+[01:33:27:796] Changed tilemap to Kalimdor, Tiled: True
+[01:33:28:026] Changing current profile to Silk Cloth - Badlands
+[01:33:28:049] Changing current profile to Empty Profile
+[01:33:28:534] Chose Singular $Revision: 254 $ as your combat class!
+[01:33:28:535] [Singular] Starting Singular v0.0.0.0
+[01:33:28:563] [Singular] Determining talent spec.
+[01:33:29:751] [Singular] Current spec is  Arcane Mage
+[01:33:29:777] [Singular] Using CreateArcaneMageCombat for Arcane Mage - Combat (Priority: 0)
+[01:33:29:820] [Singular] Using CreateArcaneMagePull for Arcane Mage - Pull (Priority: 0)
+[01:33:29:826] [Singular] Using default rest behavior.
+[01:33:29:869] [Singular] Using CreateMageBuffs for Arcane Mage - PreCombatBuffs (Priority: 0)
+[01:33:29:874] [Singular] Behaviors created!
+[01:33:30:065] Cleared POI
+[01:33:30:066] Cleared POI - Reason Starting up
+[01:33:30:067] Cleared POI
+[01:33:32:693] Activity: Downloading Mesh...
+[01:33:38:527] Downloaded Kalimdor_27_13
+[01:33:38:535] Activity: Honorbuddy Startup Complete
+[01:33:38:540] Activity: Loading Tile/s
+[01:33:38:541] Loading Kalimdor_27_13
+[01:33:39:073] Updating repair cost for current equipped items. New value: [0g58s32c]
+[01:33:39:367] [Instancebuddy v3.0.1.315]:Queueing at dungeon finder
+[01:34:13:096] Not in game
+[01:34:28:018] Downloaded tilemap Northrend
+[01:34:28:022] Changed tilemap to Northrend, Tiled: True
+[01:34:28:140] Loading Northrend_38_21
+[01:34:29:602] [Instancebuddy v3.0.1.315]:Waiting for 6 seconds before accepting dungeon invite
+[01:34:35:118] [Instancebuddy v3.0.1.315]:Accepting dungeon invite
+[01:35:10:233] Loading Northrend_37_21
+[01:35:11:332] Loading Northrend_36_21
+[01:35:20:205] Loading Northrend_37_22
+[01:35:20:588] Loading Northrend_36_22
+[01:35:27:538] Loading Northrend_35_21
+[01:35:37:683] Loading Northrend_34_22
+[01:36:11:866] [Singular] Target is invalid. Switching to Bluttrinker von Drakuru!
+[01:36:12:567] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:36:13:038] Moving to Type: Loot, Name: Bluttrinker von Drakuru
+[01:36:15:923] InteractDebug:566970232
+[01:36:15:944] Interact Done:566970232
+[01:36:16:817] Looting Bluttrinker von Drakuru Guid:0xF13073D600964108
+[01:36:16:910] Cleared POI - Reason Waiting for loot flag
+[01:36:16:910] Cleared POI
+[01:36:17:389] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:36:17:632] Cleared POI - Reason Already looted
+[01:36:17:632] Cleared POI
+[01:36:33:713] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:36:33:977] Moving to Type: Loot, Name: Bluttrinker von Drakuru
+[01:36:37:442] [Singular] Casting Frost Nova on Berserker von Drakuru
+[01:36:37:446] Spell_C::CastSpell(122, 0, 0xF13073D800999EF7, 0) [1]
+[01:36:38:080] [Singular] Getting away from frozen target
+[01:36:39:903] [Singular] Casting Arcane Missiles on Berserker von Drakuru
+[01:36:39:903] Spell_C::CastSpell(5143, 0, 0xF13073D800999EF7, 0) [2]
+[01:36:42:203] Moving to Type: Loot, Name: Bluttrinker von Drakuru
+[01:36:43:589] InteractDebug:566999232
+[01:36:43:606] Interact Done:566999232
+[01:36:44:430] Looting Bluttrinker von Drakuru Guid:0xF13073D600994736
+[01:36:44:586] Cleared POI - Reason Waiting for loot flag
+[01:36:44:586] Cleared POI
+[01:36:45:142] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:36:45:341] Cleared POI - Reason Already looted
+[01:36:45:341] Cleared POI
+[01:36:45:551] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:36:45:783] Cleared POI - Reason Already looted
+[01:36:45:783] Cleared POI
+[01:36:46:043] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:36:46:330] Moving to Type: Loot, Name: Berserker von Drakuru
+[01:36:48:093] InteractDebug:566976032
+[01:36:48:109] Interact Done:566976032
+[01:36:49:092] Looting Berserker von Drakuru Guid:0xF13073D800999EF7
+[01:36:49:244] Cleared POI - Reason Waiting for loot flag
+[01:36:49:244] Cleared POI
+[01:36:49:849] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:36:50:055] Cleared POI - Reason Already looted
+[01:36:50:055] Cleared POI
+[01:36:50:287] Updating repair cost for current equipped items. New value: [0g66s50c]
+[01:37:04:275] [Singular] Casting Mirror Image on Bluttrinker von Drakuru
+[01:37:04:275] Spell_C::CastSpell(55342, 0, 0xF13073D6009A01E2, 0) [3]
+[01:37:06:107] [Singular] Casting Presence of Mind on Myself
+[01:37:06:107] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [4]
+[01:37:07:100] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[01:37:07:100] Spell_C::CastSpell(30451, 0, 0xF13073D6009A01E2, 0) [5]
+[01:37:08:763] [Singular] Casting Shoot on Bluttrinker von Drakuru
+[01:37:08:763] Spell_C::CastSpell(5019, 0, 0xF13073D6009A01E2, 0) [6]
+[01:37:09:377] [Singular] Casting Arcane Missiles on Bluttrinker von Drakuru
+[01:37:09:377] Spell_C::CastSpell(5143, 0, 0xF13073D6009A01E2, 0) [7]
+[01:37:11:952] [Instancebuddy v3.0.1.315]:Anti AFK jump
+[01:37:12:462] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:37:12:671] Moving to Type: Loot, Name: Bluttrinker von Drakuru
+[01:37:14:101] InteractDebug:567080432
+[01:37:14:133] Interact Done:567080432
+[01:37:15:188] Looting Bluttrinker von Drakuru Guid:0xF13073D6009A01E2
+[01:37:15:349] Cleared POI - Reason Waiting for loot flag
+[01:37:15:349] Cleared POI
+[01:37:15:926] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:37:16:163] Cleared POI - Reason Already looted
+[01:37:16:163] Cleared POI
+[01:37:16:425] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:37:16:782] Cleared POI - Reason Already looted
+[01:37:16:782] Cleared POI
+[01:37:27:391] [Singular] Casting Arcane Blast on Berserker von Drakuru
+[01:37:27:391] Spell_C::CastSpell(30451, 0, 0xF13073D8009959B7, 0) [8]
+[01:37:30:340] [Singular] Casting Arcane Missiles on Berserker von Drakuru
+[01:37:30:340] Spell_C::CastSpell(5143, 0, 0xF13073D8009959B7, 0) [9]
+[01:37:31:187] Sync
+[01:37:32:663] [Singular] Casting Slow on Berserker von Drakuru
+[01:37:32:663] Spell_C::CastSpell(31589, 0, 0xF13073D8009959B7, 0) [10]
+[01:37:32:963] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:37:33:209] Moving to Type: Loot, Name: Berserker von Drakuru
+[01:37:34:594] InteractDebug:716408056
+[01:37:34:640] Interact Done:716408056
+[01:37:35:935] Looting Berserker von Drakuru Guid:0xF13073D8009959B7
+[01:37:36:119] Cleared POI - Reason Waiting for loot flag
+[01:37:36:119] Cleared POI
+[01:37:36:626] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:37:37:038] Cleared POI - Reason Already looted
+[01:37:37:038] Cleared POI
+[01:37:37:505] Loading Northrend_37_25
+[01:37:37:800] Loading Northrend_36_23
+[01:37:38:111] Loading Northrend_35_22
+[01:37:38:516] Loading Northrend_35_23
+[01:37:39:060] Loading Northrend_37_23
+[01:37:39:381] Loading Northrend_38_22
+[01:37:39:675] Loading Northrend_34_23
+[01:37:39:857] Loading Northrend_38_23
+[01:37:40:136] Loading Northrend_38_24
+[01:37:40:551] Loading Northrend_37_24
+[01:37:40:877] Loading Northrend_39_23
+[01:37:41:071] Loading Northrend_34_21
+[01:37:48:506] [Singular] Casting Slow on Bluttrinker von Drakuru
+[01:37:48:506] Spell_C::CastSpell(31589, 0, 0xF13073D6009A014B, 0) [11]
+[01:37:50:175] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[01:37:50:175] Spell_C::CastSpell(30451, 0, 0xF13073D6009A014B, 0) [12]
+[01:37:52:483] [Singular] Casting Frost Nova on Bluttrinker von Drakuru
+[01:37:52:484] Spell_C::CastSpell(122, 0, 0xF13073D6009A014B, 0) [13]
+[01:37:54:178] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[01:37:54:178] Spell_C::CastSpell(30451, 0, 0xF13073D6009A014B, 0) [14]
+[01:37:56:606] [Singular] Casting Arcane Missiles on Bluttrinker von Drakuru
+[01:37:56:606] Spell_C::CastSpell(5143, 0, 0xF13073D6009A014B, 0) [15]
+[01:37:58:463] [Singular] Target is invalid. Switching to Bluttrinker von Drakuru!
+[01:37:58:931] [Singular] No viable target! NOT GOOD!
+[01:38:02:413] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[01:38:02:414] Spell_C::CastSpell(30451, 0, 0xF13073D6009952DF, 0) [16]
+[01:38:05:390] Unloading tiles!
+[01:38:05:433] Loading Northrend_36_22
+[01:38:05:686] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:38:05:900] Moving to Type: Loot, Name: Bluttrinker von Drakuru
+[01:38:07:217] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[01:38:07:217] Spell_C::CastSpell(30451, 0, 0xF13073D6009952DF, 0) [17]
+[01:38:10:806] Spell_C::CastSpell(30451, 0, 0xF13073D6009952DF, 0) [18]
+[01:38:14:193] [Singular] Casting Mana Shield on Myself
+[01:38:14:193] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [19]
+[01:38:14:527] [Singular] Target is invalid. Switching to Bluttrinker von Drakuru!
+[01:38:14:754] [Singular] No viable target! NOT GOOD!
+[01:38:15:584] InteractDebug:716384856
+[01:38:15:630] Interact Done:716384856
+[01:38:16:555] Looting Bluttrinker von Drakuru Guid:0xF13073D6009A014B
+[01:38:16:737] Cleared POI - Reason Waiting for loot flag
+[01:38:16:737] Cleared POI
+[01:38:17:429] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:38:17:674] InteractDebug:716286256
+[01:38:17:719] Interact Done:716286256
+[01:38:18:567] Looting Bluttrinker von Drakuru Guid:0xF13073D6009952DF
+[01:38:18:663] Cleared POI - Reason Waiting for loot flag
+[01:38:18:663] Cleared POI
+[01:38:19:176] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:38:19:465] Cleared POI - Reason Already looted
+[01:38:19:465] Cleared POI
+[01:38:38:477] [Singular] Casting Slow on Berserker von Drakuru
+[01:38:38:477] Spell_C::CastSpell(31589, 0, 0xF13073D8009BFA7A, 0) [20]
+[01:38:40:610] [Singular] Casting Presence of Mind on Myself
+[01:38:40:610] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [21]
+[01:38:41:441] [Singular] Casting Arcane Blast on Berserker von Drakuru
+[01:38:41:441] Spell_C::CastSpell(30451, 0, 0xF13073D8009BFA7A, 0) [22]
+[01:38:43:140] [Singular] Casting Frost Nova on Berserker von Drakuru
+[01:38:43:140] Spell_C::CastSpell(122, 0, 0xF13073D8009BFA7A, 0) [23]
+[01:38:43:947] [Singular] Getting away from frozen target
+[01:38:45:286] [Singular] Casting Arcane Blast on Berserker von Drakuru
+[01:38:45:286] Spell_C::CastSpell(30451, 0, 0xF13073D8009BFA7A, 0) [24]
+[01:38:47:732] [Singular] Casting Arcane Missiles on Berserker von Drakuru
+[01:38:47:732] Spell_C::CastSpell(5143, 0, 0xF13073D8009BFA7A, 0) [25]
+[01:38:48:242] [Singular] Casting Slow on Berserker von Drakuru
+[01:38:48:242] Spell_C::CastSpell(31589, 0, 0xF13073D8009BFA7A, 0) [26]
+[01:38:48:480] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:38:48:781] Moving to Type: Loot, Name: Berserker von Drakuru
+[01:38:49:905] InteractDebug:716106456
+[01:38:49:958] Interact Done:716106456
+[01:38:51:327] Looting Berserker von Drakuru Guid:0xF13073D8009BFA7A
+[01:38:51:478] Cleared POI - Reason Waiting for loot flag
+[01:38:51:478] Cleared POI
+[01:39:00:955] [Singular] Casting Arcane Blast on Berserker von Drakuru
+[01:39:00:955] Spell_C::CastSpell(30451, 0, 0xF13073D8009BFBE5, 0) [27]
+[01:39:03:823] Spell_C::CastSpell(30451, 0, 0xF13073D8009BFBE5, 0) [28]
+[01:39:06:289] [Singular] Casting Arcane Missiles on Berserker von Drakuru
+[01:39:06:289] Spell_C::CastSpell(5143, 0, 0xF13073D8009BFBE5, 0) [29]
+[01:39:06:593] [Singular] Target is invalid. Switching to Berserker von Drakuru!
+[01:39:07:034] [Singular] No viable target! NOT GOOD!
+[01:39:07:366] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:39:07:612] InteractDebug:566860032
+[01:39:07:644] Interact Done:566860032
+[01:39:08:778] Looting Berserker von Drakuru Guid:0xF13073D8009BFBE5
+[01:39:08:874] Cleared POI - Reason Waiting for loot flag
+[01:39:08:874] Cleared POI
+[01:39:27:331] [Singular] Casting Frost Nova on Berserker von Drakuru
+[01:39:27:331] Spell_C::CastSpell(122, 0, 0xF13073D8009BFD3A, 0) [30]
+[01:39:28:485] [Singular] Getting away from frozen target
+[01:39:30:091] [Singular] Casting Slow on Berserker von Drakuru
+[01:39:30:091] Spell_C::CastSpell(31589, 0, 0xF13073D8009BFD3A, 0) [31]
+[01:39:31:771] [Singular] Casting Arcane Blast on Berserker von Drakuru
+[01:39:31:771] Spell_C::CastSpell(30451, 0, 0xF13073D8009BFD3A, 0) [32]
+[01:39:34:517] Spell_C::CastSpell(30451, 0, 0xF13073D8009BFD3A, 0) [33]
+[01:39:35:181] Spell_C::CastSpell(30451, 0, 0xF13073D8009BFD3A, 0) [34]
+[01:39:37:620] [Singular] Casting Arcane Missiles on Berserker von Drakuru
+[01:39:37:620] Spell_C::CastSpell(5143, 0, 0xF13073D8009BFD3A, 0) [35]
+[01:39:39:652] [Singular] Casting Slow on Berserker von Drakuru
+[01:39:39:652] Spell_C::CastSpell(31589, 0, 0xF13073D8009BFD3A, 0) [36]
+[01:39:39:980] [Singular] No viable target! NOT GOOD!
+[01:39:40:795] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:39:41:695] InteractDebug:567034032
+[01:39:41:716] Interact Done:567034032
+[01:39:44:966] Cleared POI - Reason Waiting for loot flag
+[01:39:44:966] Cleared POI
+[01:39:45:486] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:39:45:782] Cleared POI - Reason Already looted
+[01:39:45:782] Cleared POI
+[01:39:46:015] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:39:46:242] Cleared POI - Reason Already looted
+[01:39:46:242] Cleared POI
+[01:39:46:473] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:39:46:702] Cleared POI - Reason Already looted
+[01:39:46:702] Cleared POI
+[01:39:46:934] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:39:47:176] Cleared POI - Reason Already looted
+[01:39:47:176] Cleared POI
+[01:39:47:423] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:39:47:680] Cleared POI - Reason Already looted
+[01:39:47:680] Cleared POI
+[01:39:47:911] Changed POI to:Type: Loot, Name: Berserker von Drakuru
+[01:39:48:142] Cleared POI - Reason Already looted
+[01:39:48:142] Cleared POI
+[01:39:50:408] Updating repair cost for current equipped items. New value: [0g74s29c]
+[01:40:00:540] [Singular] Casting Slow on Prophet von Drakuru
+[01:40:00:540] Spell_C::CastSpell(31589, 0, 0xF13074010096531F, 0) [37]
+[01:40:02:672] [Singular] Casting Arcane Blast on Prophet von Drakuru
+[01:40:02:672] Spell_C::CastSpell(30451, 0, 0xF13074010096531F, 0) [38]
+[01:40:05:022] [Singular] Casting Mirror Image on Prophet von Drakuru
+[01:40:05:022] Spell_C::CastSpell(55342, 0, 0xF13074010096531F, 0) [39]
+[01:40:06:906] [Singular] Casting Arcane Blast on Prophet von Drakuru
+[01:40:06:906] Spell_C::CastSpell(30451, 0, 0xF13074010096531F, 0) [40]
+[01:40:09:153] [Singular] Casting Frost Nova on Prophet von Drakuru
+[01:40:09:153] Spell_C::CastSpell(122, 0, 0xF13074010096531F, 0) [41]
+[01:40:10:412] Changed POI to:Type: Loot, Name: Prophet von Drakuru
+[01:40:10:722] Moving to Type: Loot, Name: Prophet von Drakuru
+[01:40:11:821] InteractDebug:566854232
+[01:40:11:842] Interact Done:566854232
+[01:40:12:842] Looting Prophet von Drakuru Guid:0xF13074010096531F
+[01:40:12:971] Cleared POI - Reason Waiting for loot flag
+[01:40:12:971] Cleared POI
+[01:40:13:446] Changed POI to:Type: Loot, Name: Prophet von Drakuru
+[01:40:13:756] Cleared POI - Reason Already looted
+[01:40:13:756] Cleared POI
+[01:40:17:553] [Instancebuddy v3.0.1.315]:Anti AFK jump
+[01:40:22:019] [Singular] Casting Slow on Bluttrinker von Drakuru
+[01:40:22:020] Spell_C::CastSpell(31589, 0, 0xF13073D600994F55, 0) [42]
+[01:40:23:562] [Singular] Casting Presence of Mind on Myself
+[01:40:23:562] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [43]
+[01:40:24:405] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[01:40:24:405] Spell_C::CastSpell(30451, 0, 0xF13073D600994F55, 0) [44]
+[01:40:26:299] Spell_C::CastSpell(30451, 0, 0xF13073D600994F55, 0) [45]
+[01:40:28:915] [Singular] Casting Slow on Bluttrinker von Drakuru
+[01:40:28:916] Spell_C::CastSpell(31589, 0, 0xF13073D600994F55, 0) [46]
+[01:40:30:013] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:40:30:245] Moving to Type: Loot, Name: Bluttrinker von Drakuru
+[01:40:31:339] InteractDebug:716187656
+[01:40:31:359] Interact Done:716187656
+[01:40:32:282] Looting Bluttrinker von Drakuru Guid:0xF13073D600994F55
+[01:40:32:437] Cleared POI - Reason Waiting for loot flag
+[01:40:32:437] Cleared POI
+[01:40:32:994] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:40:33:236] Cleared POI - Reason Already looted
+[01:40:33:236] Cleared POI
+[01:40:33:611] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[01:40:33:879] Cleared POI - Reason Already looted
+[01:40:33:879] Cleared POI
+[01:40:53:290] [Instancebuddy v3.0.1.315]:Waiting for 4 seconds before accepting dungeon invite
+[01:40:57:095] [Instancebuddy v3.0.1.315]:Accepting dungeon invite
+[01:41:02:465] [Instancebuddy v3.0.1.315]:Queueing at dungeon finder
+[01:41:04:556] Not in game
+[01:41:23:897] Downloaded tilemap Azjol_LowerCity
+[01:41:23:904] Changed tilemap to Azjol_LowerCity, Tiled: True
+[01:41:23:911] [Singular] Context changed. New context: Instances. Rebuilding behaviors.
+[01:41:23:923] [Singular] Using CreateArcaneMageCombat for Arcane Mage - Combat (Priority: 0)
+[01:41:23:929] [Singular] Using CreateArcaneMagePull for Arcane Mage - Pull (Priority: 0)
+[01:41:23:939] [Singular] Using default rest behavior.
+[01:41:23:956] [Singular] Using CreateMageBuffs for Arcane Mage - PreCombatBuffs (Priority: 0)
+[01:41:24:120] [Instancebuddy v3.0.1.315]:Loading dungeon script for 'Ahnkahet The Old Kingdom'
+[01:41:24:392] [Instancebuddy v3.0.1.315]:Tank is set to: Druid with MaxHP: 14188
+[01:41:25:019] [Instancebuddy v3.0.1.315]:Waiting for 1 seconds before accepting role check
+[01:41:26:365] [Instancebuddy v3.0.1.315]:Role Check is in progress
+[01:41:27:419] [Instancebuddy v3.0.1.315]:Waiting for 4 seconds before accepting dungeon invite
+[01:41:31:054] [Instancebuddy v3.0.1.315]:Accepting dungeon invite
+[01:41:35:792] Loading Azjol_LowerCity_34_31
+[01:41:41:493] Loading Azjol_LowerCity_33_31
+[01:41:41:892] Successfully generated path from {356.7411, -1095.377, 51.37951} to {365.7823, -1089.41, 47.89911} in 389 milliseconds
+[01:42:15:415] [Singular] Casting Slow on Tiefenkriecher
+[01:42:15:415] Spell_C::CastSpell(31589, 0, 0xF130764700000584, 0) [47]
+[01:42:16:266] Activity: Combat
+[01:42:17:204] [Singular] Casting Presence of Mind on Myself
+[01:42:17:204] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [48]
+[01:42:18:026] [Singular] Casting Arcane Blast on Tiefenkriecher
+[01:42:18:027] Spell_C::CastSpell(30451, 0, 0xF130764700000584, 0) [49]
+[01:42:26:754] [Singular] Casting Slow on Tiefenkriecher
+[01:42:26:755] Spell_C::CastSpell(31589, 0, 0xF13076470000059F, 0) [50]
+[01:42:29:914] [Singular] Casting Arcane Blast on Tiefenkriecher
+[01:42:29:914] Spell_C::CastSpell(30451, 0, 0xF13076470000059F, 0) [51]
+[01:42:30:790] Sync
+[01:42:32:421] [Singular] Casting Slow on Tiefenkriecher
+[01:42:32:421] Spell_C::CastSpell(31589, 0, 0xF13076470000059F, 0) [52]
+[01:42:33:236] [Singular] No viable target! NOT GOOD!
+[01:42:38:880] Activity: Loading Tile/s
+[01:42:38:880] Loading Azjol_LowerCity_33_30
+[01:42:39:190] Successfully generated path from {514.0754, -1007.654, 37.71437} to {527.0731, -1009.11, 38.04124} in 311 milliseconds
+[01:42:58:225] [Singular] Casting Slow on Schlitzer der Ahn'kahar
+[01:42:58:225] Spell_C::CastSpell(31589, 0, 0xF130764500000596, 0) [53]
+[01:42:59:917] [Singular] Casting Arcane Blast on Schlitzer der Ahn'kahar
+[01:42:59:917] Spell_C::CastSpell(30451, 0, 0xF130764500000566, 0) [54]
+[01:43:02:753] Spell_C::CastSpell(30451, 0, 0xF130764500000596, 0) [55]
+[01:43:06:154] [Singular] No viable target! NOT GOOD!
+[01:43:06:854] [Singular] Casting Mirror Image on Schlitzer der Ahn'kahar
+[01:43:06:855] Spell_C::CastSpell(55342, 0, 0xF130764500000594, 0) [56]
+[01:43:07:885] Activity: Combat
+[01:43:09:655] [Singular] Casting Slow on Schlitzer der Ahn'kahar
+[01:43:09:655] Spell_C::CastSpell(31589, 0, 0xF130764500000566, 0) [57]
+[01:43:11:999] [Singular] Casting Arcane Blast on Schlitzer der Ahn'kahar
+[01:43:11:999] Spell_C::CastSpell(30451, 0, 0xF130764500000566, 0) [58]
+[01:43:15:022] Spell_C::CastSpell(30451, 0, 0xF130764500000566, 0) [59]
+[01:43:17:681] [Singular] Casting Slow on Zauberwerfer der Ahn'kahar
+[01:43:17:681] Spell_C::CastSpell(31589, 0, 0xF130764600000567, 0) [60]
+[01:43:19:514] [Singular] Casting Arcane Missiles on Zauberwerfer der Ahn'kahar
+[01:43:19:514] Spell_C::CastSpell(5143, 0, 0xF130764600000567, 0) [61]
+[01:43:22:715] [Singular] Casting Slow on Schlitzer der Ahn'kahar
+[01:43:22:715] Spell_C::CastSpell(31589, 0, 0xF130764500000566, 0) [62]
+[01:43:24:985] [Singular] Casting Slow on Netzwinder der Ahn'kahar
+[01:43:24:985] Spell_C::CastSpell(31589, 0, 0xF130764400000568, 0) [63]
+[01:43:26:703] [Singular] Casting Arcane Blast on Netzwinder der Ahn'kahar
+[01:43:26:703] Spell_C::CastSpell(30451, 0, 0xF130764400000568, 0) [64]
+[01:43:29:490] [Singular] Casting Slow on Netzwinder der Ahn'kahar
+[01:43:29:490] Spell_C::CastSpell(31589, 0, 0xF130764400000568, 0) [65]
+[01:43:29:988] [Singular] No viable target! NOT GOOD!
+[01:43:31:318] Unloading tiles!
+[01:43:31:322] Activity: Loading Tile/s
+[01:43:31:322] Loading Azjol_LowerCity_33_30
+[01:43:47:410] [Singular] Casting Slow on Schlitzer der Ahn'kahar
+[01:43:47:410] Spell_C::CastSpell(31589, 0, 0xF130764500000572, 0) [66]
+[01:43:48:574] Activity: Combat
+[01:43:49:416] [Singular] Casting Presence of Mind on Myself
+[01:43:49:416] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [67]
+[01:43:50:439] [Singular] Casting Arcane Blast on Schlitzer der Ahn'kahar
+[01:43:50:440] Spell_C::CastSpell(30451, 0, 0xF130764500000572, 0) [68]
+[01:43:52:178] Spell_C::CastSpell(30451, 0, 0xF130764500000572, 0) [69]
+[01:43:54:565] [Singular] Casting Arcane Missiles on Schlitzer der Ahn'kahar
+[01:43:54:565] Spell_C::CastSpell(5143, 0, 0xF130764500000572, 0) [70]
+[01:43:55:557] [Singular] No viable target! NOT GOOD!
+[01:43:56:534] [Singular] Casting Slow on Seuchenwandler
+[01:43:56:534] Spell_C::CastSpell(31589, 0, 0xF130764B00000570, 0) [71]
+[01:43:58:827] [Singular] Casting Counterspell on Zauberwerfer der Ahn'kahar
+[01:43:58:827] Spell_C::CastSpell(2139, 0, 0xF130764600000571, 0) [72]
+[01:44:00:042] [Singular] Casting Arcane Missiles on Seuchenwandler
+[01:44:00:042] Spell_C::CastSpell(5143, 0, 0xF130764B00000570, 0) [73]
+[01:44:03:093] [Singular] Casting Slow on Zauberwerfer der Ahn'kahar
+[01:44:03:093] Spell_C::CastSpell(31589, 0, 0xF130764600000571, 0) [74]
+[01:44:05:191] [Singular] Casting Arcane Blast on Zauberwerfer der Ahn'kahar
+[01:44:05:191] Spell_C::CastSpell(30451, 0, 0xF130764600000571, 0) [75]
+[01:44:07:928] Spell_C::CastSpell(30451, 0, 0xF130764600000571, 0) [76]
+[01:44:09:846] [Singular] No viable target! NOT GOOD!
+[01:44:17:474] [Singular] Casting Slow on Zauberwerfer der Ahn'kahar
+[01:44:17:474] Spell_C::CastSpell(31589, 0, 0xF13076460000057A, 0) [77]
+[01:44:20:261] [Singular] Casting Arcane Blast on Zauberwerfer der Ahn'kahar
+[01:44:20:262] Spell_C::CastSpell(30451, 0, 0xF13076460000057A, 0) [78]
+[01:44:23:276] [Singular] Casting Counterspell on Zauberwerfer der Ahn'kahar
+[01:44:23:276] Spell_C::CastSpell(2139, 0, 0xF13076460000057A, 0) [79]
+[01:44:24:349] [Singular] Casting Arcane Blast on Zauberwerfer der Ahn'kahar
+[01:44:24:349] Spell_C::CastSpell(30451, 0, 0xF13076460000057A, 0) [80]
+[01:44:27:298] [Singular] Casting Slow on Schlitzer der Ahn'kahar
+[01:44:27:298] Spell_C::CastSpell(31589, 0, 0xF13076450000057B, 0) [81]
+[01:44:29:395] [Singular] Casting Slow on Seuchenwandler
+[01:44:29:395] Spell_C::CastSpell(31589, 0, 0xF130764B00000579, 0) [82]
+[01:44:31:535] [Singular] Casting Slow on Schlitzer der Ahn'kahar
+[01:44:31:535] Spell_C::CastSpell(31589, 0, 0xF13076450000057B, 0) [83]
+[01:44:33:988] [Singular] Casting Arcane Blast on Schlitzer der Ahn'kahar
+[01:44:33:988] Spell_C::CastSpell(30451, 0, 0xF13076450000057B, 0) [84]
+[01:44:36:550] Spell_C::CastSpell(30451, 0, 0xF13076450000057B, 0) [85]
+[01:44:37:401] [Singular] No viable target! NOT GOOD!
+[01:44:38:218] [Singular] Casting Slow on Netzwinder der Ahn'kahar
+[01:44:38:218] Spell_C::CastSpell(31589, 0, 0xF13076440000057C, 0) [86]
+[01:44:39:898] [Singular] Casting Arcane Blast on Netzwinder der Ahn'kahar
+[01:44:39:898] Spell_C::CastSpell(30451, 0, 0xF13076440000057C, 0) [87]
+[01:44:42:249] [Singular] Casting Arcane Missiles on Netzwinder der Ahn'kahar
+[01:44:42:249] Spell_C::CastSpell(5143, 0, 0xF13076440000057C, 0) [88]
+[01:44:44:008] [Singular] No viable target! NOT GOOD!
+[01:44:44:710] [Singular] Casting Slow on Seuchenwandler
+[01:44:44:710] Spell_C::CastSpell(31589, 0, 0xF130764B00000579, 0) [89]
+[01:44:46:258] [Singular] No viable target! NOT GOOD!
+[01:45:08:596] [Singular] Casting Slow on Urahne Nadox
+[01:45:08:596] Spell_C::CastSpell(31589, 0, 0xF130727D000004E1, 0) [90]
+[01:45:10:748] [Singular] Casting Arcane Blast on Urahne Nadox
+[01:45:10:748] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [91]
+[01:45:13:472] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [92]
+[01:45:16:314] [Singular] Casting Arcane Missiles on Urahne Nadox
+[01:45:16:314] Spell_C::CastSpell(5143, 0, 0xF130727D000004E1, 0) [93]
+[01:45:19:410] [Singular] Casting Frost Nova on Urahne Nadox
+[01:45:19:410] Spell_C::CastSpell(122, 0, 0xF130727D000004E1, 0) [94]
+[01:45:20:991] [Singular] Casting Shoot on Urahne Nadox
+[01:45:20:991] Spell_C::CastSpell(5019, 0, 0xF130727D000004E1, 0) [95]
+[01:45:22:067] [Singular] Casting Presence of Mind on Myself
+[01:45:22:067] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [96]
+[01:45:23:009] [Singular] Casting Arcane Blast on Urahne Nadox
+[01:45:23:009] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [97]
+[01:45:25:010] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [98]
+[01:45:27:655] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [99]
+[01:45:30:271] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [100]
+[01:45:31:981] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [101]
+[01:45:35:144] [Singular] Casting Slow on Wächter der Ahn'kahar
+[01:45:35:144] Spell_C::CastSpell(31589, 0, 0xF13075E000000813, 0) [102]
+[01:45:37:273] [Singular] Casting Arcane Blast on Wächter der Ahn'kahar
+[01:45:37:273] Spell_C::CastSpell(30451, 0, 0xF13075E000000813, 0) [103]
+[01:45:38:355] [Singular] No viable target! NOT GOOD!
+[01:45:39:408] [Singular] Casting Arcane Blast on Urahne Nadox
+[01:45:39:408] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [104]
+[01:45:42:122] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [105]
+[01:45:44:885] [Singular] Casting Arcane Missiles on Urahne Nadox
+[01:45:44:885] Spell_C::CastSpell(5143, 0, 0xF130727D000004E1, 0) [106]
+[01:45:48:351] [Singular] Casting Frost Nova on Urahne Nadox
+[01:45:48:351] Spell_C::CastSpell(122, 0, 0xF130727D000004E1, 0) [107]
+[01:45:50:602] [Singular] Casting Arcane Blast on Urahne Nadox
+[01:45:50:602] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [108]
+[01:45:53:023] Spell_C::CastSpell(30451, 0, 0xF130727D000004E1, 0) [109]
+[01:45:55:156] [Singular] No viable target! NOT GOOD!
+[01:46:22:420] Activity: Loading Tile/s
+[01:46:22:420] Loading Azjol_LowerCity_33_31
+[01:46:22:700] Loading Azjol_LowerCity_34_31
+[01:46:22:899] Loading Azjol_LowerCity_32_31
+[01:46:23:033] Loading Azjol_LowerCity_32_30
+[01:46:23:339] Could not generate full path from {672.0419, -855.2858, 10.13654} to {667.5153, -847.1045, -2.728071} (time used: 920 milliseconds)
+[01:46:27:305] [Singular] Casting Mirror Image on Plündernder Spuk
+[01:46:27:305] Spell_C::CastSpell(55342, 0, 0xF130764F00000513, 0) [110]
+[01:46:28:491] Activity: Combat
+[01:46:29:276] [Singular] Casting Slow on Plündernder Spuk
+[01:46:29:276] Spell_C::CastSpell(31589, 0, 0xF130764F00000513, 0) [111]
+[01:46:31:804] [Singular] Casting Frost Nova on Plündernder Spuk
+[01:46:31:804] Spell_C::CastSpell(122, 0, 0xF130764F00000512, 0) [112]
+[01:46:33:771] [Singular] Casting Slow on Plündernder Spuk
+[01:46:33:771] Spell_C::CastSpell(31589, 0, 0xF130764F00000512, 0) [113]
+[01:46:36:704] [Singular] Casting Slow on Auge von Taldaram
+[01:46:36:704] Spell_C::CastSpell(31589, 0, 0xF130764D00000519, 0) [114]
+[01:46:38:886] [Singular] Casting Arcane Blast on Auge von Taldaram
+[01:46:38:887] Spell_C::CastSpell(30451, 0, 0xF130764D00000519, 0) [115]
+[01:46:41:526] Spell_C::CastSpell(30451, 0, 0xF130764D00000519, 0) [116]
+[01:46:44:036] [Singular] No viable target! NOT GOOD!
+[01:46:45:206] [Singular] Casting Counterspell on Frostbringer
+[01:46:45:206] Spell_C::CastSpell(2139, 0, 0xF130764E0000051A, 0) [117]
+[01:46:46:232] [Singular] Casting Slow on Frostbringer
+[01:46:46:232] Spell_C::CastSpell(31589, 0, 0xF130764E0000051A, 0) [118]
+[01:46:48:646] [Singular] Casting Arcane Blast on Frostbringer
+[01:46:48:647] Spell_C::CastSpell(30451, 0, 0xF130764E0000051A, 0) [119]
+[01:46:51:476] Spell_C::CastSpell(30451, 0, 0xF130764E0000051A, 0) [120]
+[01:46:54:106] [Singular] No viable target! NOT GOOD!
+[01:46:54:888] [Singular] Casting Slow on Frostbringer
+[01:46:54:888] Spell_C::CastSpell(31589, 0, 0xF130764E00000518, 0) [121]
+[01:46:56:445] [Singular] Casting Presence of Mind on Myself
+[01:46:56:445] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [122]
+[01:46:57:257] [Singular] Casting Arcane Blast on Frostbringer
+[01:46:57:257] Spell_C::CastSpell(30451, 0, 0xF130764E00000518, 0) [123]
+[01:46:58:584] [Singular] No viable target! NOT GOOD!
+[01:47:10:338] [Singular] Casting Slow on Knochenschinder
+[01:47:10:339] Spell_C::CastSpell(31589, 0, 0xF130764C00000521, 0) [124]
+[01:47:11:862] [Singular] Casting Arcane Blast on Knochenschinder
+[01:47:11:862] Spell_C::CastSpell(30451, 0, 0xF130764C00000521, 0) [125]
+[01:47:14:450] Spell_C::CastSpell(30451, 0, 0xF130764C00000521, 0) [126]
+[01:47:16:917] [Singular] Casting Arcane Missiles on Knochenschinder
+[01:47:16:917] Spell_C::CastSpell(5143, 0, 0xF130764C00000521, 0) [127]
+[01:47:19:674] [Singular] Casting Frost Nova on Knochenschinder
+[01:47:19:674] Spell_C::CastSpell(122, 0, 0xF130764C00000521, 0) [128]
+[01:47:20:660] [Singular] No viable target! NOT GOOD!
+[01:47:21:021] [Singular] Getting away from frozen target
+[01:47:23:622] [Singular] Casting Slow on Plündernder Spuk
+[01:47:23:622] Spell_C::CastSpell(31589, 0, 0xF130764F0000050A, 0) [129]
+[01:47:25:233] [Singular] Casting Shoot on Plündernder Spuk
+[01:47:25:233] Spell_C::CastSpell(5019, 0, 0xF130764F0000050A, 0) [130]
+[01:47:26:482] [Singular] Casting Arcane Blast on Plündernder Spuk
+[01:47:26:482] Spell_C::CastSpell(30451, 0, 0xF130764F0000050A, 0) [131]
+[01:47:29:126] Spell_C::CastSpell(30451, 0, 0xF130764F0000050A, 0) [132]
+[01:47:30:738] [Singular] Casting Slow on Plündernder Spuk
+[01:47:30:738] Spell_C::CastSpell(31589, 0, 0xF130764F00000509, 0) [133]
+[01:47:33:134] Spell_C::CastSpell(31589, 0, 0xF130764F00000508, 0) [134]
+[01:47:34:683] [Singular] Casting Arcane Blast on Plündernder Spuk
+[01:47:34:683] Spell_C::CastSpell(30451, 0, 0xF130764F00000508, 0) [135]
+[01:47:38:496] [Singular] No viable target! NOT GOOD!
+[01:47:39:633] [Singular] Casting Slow on Auge von Taldaram
+[01:47:39:633] Spell_C::CastSpell(31589, 0, 0xF130764D00000507, 0) [136]
+[01:47:41:436] [Singular] Casting Slow on Frostbringer
+[01:47:41:436] Spell_C::CastSpell(31589, 0, 0xF130764E00000506, 0) [137]
+[01:47:43:753] [Singular] Casting Arcane Blast on Frostbringer
+[01:47:43:753] Spell_C::CastSpell(30451, 0, 0xF130764E00000506, 0) [138]
+[01:47:46:564] [Singular] Casting Counterspell on Frostbringer
+[01:47:46:565] Spell_C::CastSpell(2139, 0, 0xF130764E00000506, 0) [139]
+[01:47:47:512] [Singular] Casting Arcane Blast on Frostbringer
+[01:47:47:513] Spell_C::CastSpell(30451, 0, 0xF130764E00000506, 0) [140]
+[01:47:50:062] [Singular] Casting Arcane Missiles on Frostbringer
+[01:47:50:062] Spell_C::CastSpell(5143, 0, 0xF130764E00000506, 0) [141]
+[01:47:53:636] [Singular] Casting Slow on Auge von Taldaram
+[01:47:53:636] Spell_C::CastSpell(31589, 0, 0xF130764D00000505, 0) [142]
+[01:47:55:838] [Singular] Casting Arcane Blast on Auge von Taldaram
+[01:47:55:838] Spell_C::CastSpell(30451, 0, 0xF130764D00000505, 0) [143]
+[01:47:58:677] [Singular] Casting Shoot on Auge von Taldaram
+[01:47:58:677] Spell_C::CastSpell(5019, 0, 0xF130764D00000505, 0) [144]
+[01:47:59:646] Spell_C::CastSpell(5019, 0, 0xF130764D00000505, 0) [145]
+[01:48:00:483] Spell_C::CastSpell(5019, 0, 0xF130764D00000505, 0) [146]
+[01:48:01:493] Spell_C::CastSpell(5019, 0, 0xF130764D00000505, 0) [147]
+[01:48:02:665] [Singular] Casting Shoot on Plündernder Spuk
+[01:48:02:665] Spell_C::CastSpell(5019, 0, 0xF130764F0000050C, 0) [148]
+[01:48:03:367] Spell_C::CastSpell(5019, 0, 0xF130764F0000050C, 0) [149]
+[01:48:04:079] [Singular] No viable target! NOT GOOD!
+[01:48:04:914] [Singular] Casting Shoot on Auge von Taldaram
+[01:48:04:914] Spell_C::CastSpell(5019, 0, 0xF130764D00000507, 0) [150]
+[01:48:05:691] [Singular] Casting Slow on Auge von Taldaram
+[01:48:05:691] Spell_C::CastSpell(31589, 0, 0xF130764D00000507, 0) [151]
+[01:48:07:624] Spell_C::CastSpell(31589, 0, 0xF130764D00000507, 0) [152]
+[01:48:08:034] [Singular] No viable target! NOT GOOD!
+[01:48:15:710] Could not generate full path from {626.9229, -802.0509, -2.369445} to {632.0662, -799.4472, -16.40875} (time used: 5 milliseconds)
+[01:48:16:754] Sync
+[01:48:23:542] [Singular] Casting Counterspell on Frostbringer
+[01:48:23:542] Spell_C::CastSpell(2139, 0, 0xF130764E00000510, 0) [153]
+[01:48:24:505] [Singular] Casting Slow on Frostbringer
+[01:48:24:505] Spell_C::CastSpell(31589, 0, 0xF130764E00000510, 0) [154]
+[01:48:26:277] [Singular] Casting Arcane Blast on Frostbringer
+[01:48:26:277] Spell_C::CastSpell(30451, 0, 0xF130764E00000510, 0) [155]
+[01:48:28:524] [Singular] Casting Presence of Mind on Myself
+[01:48:28:524] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [156]
+[01:48:29:230] [Singular] Casting Arcane Blast on Frostbringer
+[01:48:29:230] Spell_C::CastSpell(30451, 0, 0xF130764E00000510, 0) [157]
+[01:48:30:614] [Singular] No viable target! NOT GOOD!
+[01:48:31:553] [Singular] Casting Slow on Frostbringer
+[01:48:31:553] Spell_C::CastSpell(31589, 0, 0xF130764E0000050E, 0) [158]
+[01:48:33:868] [Singular] Casting Arcane Missiles on Frostbringer
+[01:48:33:868] Spell_C::CastSpell(5143, 0, 0xF130764E0000050E, 0) [159]
+[01:48:37:512] [Singular] Casting Slow on Frostbringer
+[01:48:37:512] Spell_C::CastSpell(31589, 0, 0xF130764E0000050E, 0) [160]
+[01:48:38:633] [Singular] Casting Slow on Auge von Taldaram
+[01:48:38:633] Spell_C::CastSpell(31589, 0, 0xF130764D0000050F, 0) [161]
+[01:48:41:067] [Singular] Casting Arcane Blast on Auge von Taldaram
+[01:48:41:067] Spell_C::CastSpell(30451, 0, 0xF130764D0000050F, 0) [162]
+[01:48:43:686] Spell_C::CastSpell(30451, 0, 0xF130764D0000050F, 0) [163]
+[01:48:46:405] [Singular] Casting Slow on Auge von Taldaram
+[01:48:46:405] Spell_C::CastSpell(31589, 0, 0xF130764D00000511, 0) [164]
+[01:48:48:006] [Singular] Casting Arcane Blast on Auge von Taldaram
+[01:48:48:006] Spell_C::CastSpell(30451, 0, 0xF130764D00000511, 0) [165]
+[01:48:50:359] Spell_C::CastSpell(30451, 0, 0xF130764D00000511, 0) [166]
+[01:48:51:288] [Singular] No viable target! NOT GOOD!
+[01:48:51:846] [Singular] Casting Arcane Brilliance on Myself
+[01:48:51:846] Spell_C::CastSpell(1459, 0, 0x280000003203301, 0) [167]
+[01:48:56:682] Unloading tiles!
+[01:48:56:694] Activity: Loading Tile/s
+[01:48:56:694] Loading Azjol_LowerCity_33_30
+[01:49:03:258] [Singular] Casting Slow on Plündernder Spuk
+[01:49:03:258] Spell_C::CastSpell(31589, 0, 0xF130764F00000520, 0) [168]
+[01:49:03:946] Activity: Combat
+[01:49:04:850] [Singular] Casting Arcane Blast on Plündernder Spuk
+[01:49:04:850] Spell_C::CastSpell(30451, 0, 0xF130764F00000520, 0) [169]
+[01:49:06:262] [Singular] No viable target! NOT GOOD!
+[01:49:07:715] [Singular] Casting Slow on Plündernder Spuk
+[01:49:07:715] Spell_C::CastSpell(31589, 0, 0xF130764F0000051C, 0) [170]
+[01:49:09:576] [Singular] Casting Arcane Blast on Plündernder Spuk
+[01:49:09:576] Spell_C::CastSpell(30451, 0, 0xF130764F0000051C, 0) [171]
+[01:49:12:107] [Singular] Casting Slow on Plündernder Spuk
+[01:49:12:107] Spell_C::CastSpell(31589, 0, 0xF130764F0000051C, 0) [172]
+[01:49:12:853] [Singular] No viable target! NOT GOOD!
+[01:49:14:168] [Singular] Casting Frost Nova on Plündernder Spuk
+[01:49:14:168] Spell_C::CastSpell(122, 0, 0xF130764F0000051D, 0) [173]
+[01:49:16:207] [Singular] Casting Slow on Plündernder Spuk
+[01:49:16:207] Spell_C::CastSpell(31589, 0, 0xF130764F0000051D, 0) [174]
+[01:49:18:167] [Singular] No viable target! NOT GOOD!
+[01:49:19:044] [Singular] Casting Slow on Plündernder Spuk
+[01:49:19:044] Spell_C::CastSpell(31589, 0, 0xF130764F0000051B, 0) [175]
+[01:49:20:843] Spell_C::CastSpell(31589, 0, 0xF130764F0000051B, 0) [176]
+[01:49:22:432] [Singular] Casting Arcane Blast on Plündernder Spuk
+[01:49:22:432] Spell_C::CastSpell(30451, 0, 0xF130764F0000051B, 0) [177]
+[01:49:23:156] [Singular] No viable target! NOT GOOD!
+[01:49:28:915] Activity: Loading Tile/s
+[01:49:28:915] Loading Azjol_LowerCity_33_31
+[01:49:29:163] Loading Azjol_LowerCity_34_31
+[01:49:29:318] Loading Azjol_LowerCity_32_31
+[01:49:29:439] Loading Azjol_LowerCity_32_30
+[01:49:29:652] Could not generate full path from {625.4032, -779.1265, -2.708012} to {627.9626, -771.7999, 0.08077526} (time used: 738 milliseconds)
+[01:49:38:018] [Singular] Casting Counterspell on Frostbringer
+[01:49:38:018] Spell_C::CastSpell(2139, 0, 0xF130764E00000501, 0) [178]
+[01:49:38:589] [Singular] Casting Mirror Image on Frostbringer
+[01:49:38:589] Spell_C::CastSpell(55342, 0, 0xF130764E00000501, 0) [179]
+[01:49:39:629] Activity: Combat
+[01:49:40:722] [Singular] Casting Slow on Frostbringer
+[01:49:40:722] Spell_C::CastSpell(31589, 0, 0xF130764E00000501, 0) [180]
+[01:49:42:493] [Singular] Casting Arcane Blast on Frostbringer
+[01:49:42:494] Spell_C::CastSpell(30451, 0, 0xF130764E00000501, 0) [181]
+[01:49:45:320] Spell_C::CastSpell(30451, 0, 0xF130764E00000501, 0) [182]
+[01:49:46:998] [Singular] Casting Slow on Frostbringer
+[01:49:46:998] Spell_C::CastSpell(31589, 0, 0xF130764E00000503, 0) [183]
+[01:49:48:805] [Singular] Casting Arcane Blast on Frostbringer
+[01:49:48:805] Spell_C::CastSpell(30451, 0, 0xF130764E00000503, 0) [184]
+[01:49:51:608] [Singular] Casting Slow on Auge von Taldaram
+[01:49:51:609] Spell_C::CastSpell(31589, 0, 0xF130764D00000504, 0) [185]
+[01:49:53:564] [Singular] Casting Arcane Blast on Auge von Taldaram
+[01:49:53:564] Spell_C::CastSpell(30451, 0, 0xF130764D00000504, 0) [186]
+[01:49:56:406] [Singular] Casting Arcane Missiles on Auge von Taldaram
+[01:49:56:407] Spell_C::CastSpell(5143, 0, 0xF130764D00000504, 0) [187]
+[01:49:59:774] [Singular] Casting Slow on Auge von Taldaram
+[01:49:59:774] Spell_C::CastSpell(31589, 0, 0xF130764D00000502, 0) [188]
+[01:50:01:496] [Singular] Casting Presence of Mind on Myself
+[01:50:01:496] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [189]
+[01:50:02:155] [Singular] Casting Arcane Blast on Auge von Taldaram
+[01:50:02:156] Spell_C::CastSpell(30451, 0, 0xF130764D00000502, 0) [190]
+[01:50:03:902] Spell_C::CastSpell(30451, 0, 0xF130764D00000502, 0) [191]
+[01:50:31:398] [Singular] No viable target! NOT GOOD!
+[01:50:32:111] [Singular] Casting Slow on Knochenschinder
+[01:50:32:111] Spell_C::CastSpell(31589, 0, 0xF130764C00000500, 0) [192]
+[01:50:35:388] [Singular] Casting Arcane Blast on Knochenschinder
+[01:50:35:389] Spell_C::CastSpell(30451, 0, 0xF130764C00000500, 0) [193]
+[01:50:37:640] [Singular] No viable target! NOT GOOD!
+[01:50:55:195] [Singular] Casting Slow on Prinz Taldaram
+[01:50:55:195] Spell_C::CastSpell(31589, 0, 0xF130727C0000053C, 0) [194]
+[01:50:57:283] [Singular] Casting Arcane Blast on Prinz Taldaram
+[01:50:57:283] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [195]
+[01:51:00:161] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [196]
+[01:51:01:437] [Singular] No viable target! NOT GOOD!
+[01:51:05:422] [Singular] Casting Arcane Blast on Prinz Taldaram
+[01:51:05:422] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [197]
+[01:51:07:960] [Singular] Casting Counterspell on Prinz Taldaram
+[01:51:07:960] Spell_C::CastSpell(2139, 0, 0xF130727C0000053C, 0) [198]
+[01:51:09:178] [Singular] Casting Arcane Blast on Prinz Taldaram
+[01:51:09:178] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [199]
+[01:51:12:042] [Singular] Casting Arcane Missiles on Prinz Taldaram
+[01:51:12:042] Spell_C::CastSpell(5143, 0, 0xF130727C0000053C, 0) [200]
+[01:51:14:963] [Singular] Casting Arcane Blast on Prinz Taldaram
+[01:51:14:963] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [201]
+[01:51:15:429] [Singular] No viable target! NOT GOOD!
+[01:51:18:797] [Singular] Casting Arcane Blast on Prinz Taldaram
+[01:51:18:797] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [202]
+[01:51:22:298] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [203]
+[01:51:24:923] [Singular] Casting Arcane Missiles on Prinz Taldaram
+[01:51:24:923] Spell_C::CastSpell(5143, 0, 0xF130727C0000053C, 0) [204]
+[01:51:28:287] [Singular] Casting Arcane Blast on Prinz Taldaram
+[01:51:28:287] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [205]
+[01:51:30:981] [Singular] Casting Arcane Blast
+[01:51:30:981] Spell_C::CastSpell(30451, 0, 0x0, 0) [206]
+[01:51:31:388] [Singular] No viable target! NOT GOOD!
+[01:51:34:479] [Singular] Casting Presence of Mind on Myself
+[01:51:34:479] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [207]
+[01:51:35:248] [Singular] Casting Counterspell on Prinz Taldaram
+[01:51:35:248] Spell_C::CastSpell(2139, 0, 0xF130727C0000053C, 0) [208]
+[01:51:35:985] [Singular] Casting Arcane Blast on Prinz Taldaram
+[01:51:35:985] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [209]
+[01:51:37:652] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [210]
+[01:51:40:154] Spell_C::CastSpell(30451, 0, 0xF130727C0000053C, 0) [211]
+[01:51:42:316] [Singular] Casting Arcane Missiles on Prinz Taldaram
+[01:51:42:316] Spell_C::CastSpell(5143, 0, 0xF130727C0000053C, 0) [212]
+[01:51:43:961] [Singular] No viable target! NOT GOOD!
+[01:51:55:731] Could not generate full path from {545.0084, -852.0336, 11.89238} to {547.7933, -869.4755, 23.19124} (time used: 3 milliseconds)
+[01:51:56:293] Could not generate full path from {545.3881, -850.5485, 11.96736} to {547.4869, -872.6089, 23.19124} (time used: 3 milliseconds)
+[01:52:07:979] [STUCK] Got stuck at <539.521, -861.2441, 16.97119> on map 619
+[01:52:08:017] [STUCK][HITTEST] LD/LU: False
+[01:52:08:017] [STUCK][HITTEST] Left: False
+[01:52:08:017] [STUCK][HITTEST] RD/RU: False
+[01:52:08:017] [STUCK][HITTEST] Right: False
+[01:52:08:017] [STUCK][HITTEST] Behind: False
+[01:52:08:017] [STUCK][HITTEST] Behind Left: False
+[01:52:08:017] [STUCK][HITTEST] Behind Right: False
+[01:52:09:126] [STUCK] Jumping worked!
+[01:52:39:859] [Singular] Casting Mirror Image on Zwielichtapostel
+[01:52:39:859] Spell_C::CastSpell(55342, 0, 0xF13075E30000054D, 0) [213]
+[01:52:42:734] [Singular] Casting Slow on Zwielichtdunkelzauberer
+[01:52:42:734] Spell_C::CastSpell(31589, 0, 0xF130766F0000054E, 0) [214]
+[01:52:45:208] [Singular] Casting Arcane Blast on Zwielichtdunkelzauberer
+[01:52:45:208] Spell_C::CastSpell(30451, 0, 0xF130766F0000054E, 0) [215]
+[01:52:48:223] Spell_C::CastSpell(30451, 0, 0xF130766F0000054E, 0) [216]
+[01:52:50:764] [Singular] Casting Slow on Zwielichtapostel
+[01:52:50:764] Spell_C::CastSpell(31589, 0, 0xF13075E30000054D, 0) [217]
+[01:52:53:030] [Singular] Casting Slow on Zwielichtdunkelzauberer
+[01:52:53:030] Spell_C::CastSpell(31589, 0, 0xF130766F0000054E, 0) [218]
+[01:52:54:292] [Singular] No viable target! NOT GOOD!
+[01:52:55:145] [Singular] Casting Slow on Zwielichtapostel
+[01:52:55:145] Spell_C::CastSpell(31589, 0, 0xF13075E30000054D, 0) [219]
+[01:52:56:977] [Singular] Casting Arcane Blast on Zwielichtapostel
+[01:52:56:977] Spell_C::CastSpell(30451, 0, 0xF13075E30000054D, 0) [220]
+[01:52:57:918] [Singular] No viable target! NOT GOOD!
+[01:52:59:785] Das Öffnen wurde nicht innerhalb des zugewiesenen Zeitlimits von 00:00:30 abgeschlossen. Der für diesen Vorgang zugewiesene Zeitraum war möglicherweise ein Teil eines längeren Zeitlimits.
+[01:53:04:877] [Singular] Casting Slow on Zwielichtanbeterin
+[01:53:04:877] Spell_C::CastSpell(31589, 0, 0xF130759F00000544, 0) [221]
+[01:53:06:643] [Singular] Casting Counterspell on Zwielichtanbeterin
+[01:53:06:643] Spell_C::CastSpell(2139, 0, 0xF130759F00000544, 0) [222]
+[01:53:07:613] [Singular] Casting Presence of Mind on Myself
+[01:53:07:613] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [223]
+[01:53:08:744] [Singular] Casting Arcane Blast on Zwielichtanbeterin
+[01:53:08:745] Spell_C::CastSpell(30451, 0, 0xF130759F00000544, 0) [224]
+[01:53:10:764] Spell_C::CastSpell(30451, 0, 0xF130759F00000544, 0) [225]
+[01:53:12:931] [Singular] Casting Frost Nova on Zwielichtanbeterin
+[01:53:12:931] Spell_C::CastSpell(122, 0, 0xF130759F00000544, 0) [226]
+[01:53:15:102] [Singular] Casting Slow on Zwielichtdunkelzauberer
+[01:53:15:102] Spell_C::CastSpell(31589, 0, 0xF130766F00000542, 0) [227]
+[01:53:17:019] [Singular] Casting Arcane Missiles on Zwielichtapostel
+[01:53:17:019] Spell_C::CastSpell(5143, 0, 0xF13075E300000543, 0) [228]
+[01:53:17:864] [Singular] No viable target! NOT GOOD!
+[01:53:18:774] [Singular] Casting Arcane Missiles on Zwielichtdunkelzauberer
+[01:53:18:774] Spell_C::CastSpell(5143, 0, 0xF130766F00000542, 0) [229]
+[01:53:22:253] [Singular] Casting Arcane Blast on Zwielichtdunkelzauberer
+[01:53:22:253] Spell_C::CastSpell(30451, 0, 0xF130766F00000542, 0) [230]
+[01:53:23:924] Spell_C::CastSpell(30451, 0, 0xF130766F00000542, 0) [231]
+[01:53:24:848] [Singular] Casting Slow on Zwielichtanbeterin
+[01:53:24:848] Spell_C::CastSpell(31589, 0, 0xF130759F00000544, 0) [232]
+[01:53:38:613] [Singular] Casting Slow on Zwielichtapostel
+[01:53:38:613] Spell_C::CastSpell(31589, 0, 0xF13075E300000547, 0) [233]
+[01:53:40:650] [Singular] Casting Frost Nova on Zwielichtdunkelzauberer
+[01:53:40:650] Spell_C::CastSpell(122, 0, 0xF130766F00000548, 0) [234]
+[01:53:42:288] [Singular] Casting Slow on Zwielichtdunkelzauberer
+[01:53:42:288] Spell_C::CastSpell(31589, 0, 0xF130766F00000548, 0) [235]
+[01:53:43:174] Spell_C::CastSpell(31589, 0, 0xF130766F00000548, 0) [236]
+[01:53:43:943] [Singular] No viable target! NOT GOOD!
+[01:53:46:566] [Singular] Casting Arcane Blast on Zwielichtapostel
+[01:53:46:566] Spell_C::CastSpell(30451, 0, 0xF13075E300000547, 0) [237]
+[01:53:49:201] Spell_C::CastSpell(30451, 0, 0xF13075E300000547, 0) [238]
+[01:53:51:814] [Singular] Casting Slow on Zwielichtapostel
+[01:53:51:814] Spell_C::CastSpell(31589, 0, 0xF13075E300000547, 0) [239]
+[01:53:53:504] [Singular] Casting Slow on Zwielichtanbeterin
+[01:53:53:504] Spell_C::CastSpell(31589, 0, 0xF130759F00000549, 0) [240]
+[01:53:55:144] [Singular] Casting Shoot on Zwielichtanbeterin
+[01:53:55:144] Spell_C::CastSpell(5019, 0, 0xF130759F00000549, 0) [241]
+[01:53:55:800] [Singular] Casting Arcane Blast on Zwielichtanbeterin
+[01:53:55:800] Spell_C::CastSpell(30451, 0, 0xF130759F00000549, 0) [242]
+[01:53:58:253] [Singular] Casting Counterspell on Zwielichtanbeter
+[01:53:58:253] Spell_C::CastSpell(2139, 0, 0xF130759F00000546, 0) [243]
+[01:53:59:389] [Singular] Casting Slow on Zwielichtanbeter
+[01:53:59:389] Spell_C::CastSpell(31589, 0, 0xF130759F00000546, 0) [244]
+[01:54:01:297] [Singular] Casting Arcane Blast on Zwielichtanbeter
+[01:54:01:297] Spell_C::CastSpell(30451, 0, 0xF130759F00000546, 0) [245]
+[01:54:03:709] [Singular] Casting Arcane Missiles on Zwielichtanbeter
+[01:54:03:709] Spell_C::CastSpell(5143, 0, 0xF130759F00000546, 0) [246]
+[01:54:05:856] [Singular] Casting Slow on Zwielichtanbeter
+[01:54:05:856] Spell_C::CastSpell(31589, 0, 0xF130759F00000546, 0) [247]
+[01:54:06:280] [Singular] No viable target! NOT GOOD!
+[01:54:19:097] Unloading tiles!
+[01:54:19:108] Activity: Loading Tile/s
+[01:54:19:108] Loading Azjol_LowerCity_33_31
+[01:54:22:237] [Singular] Casting Slow on Zwielichtapostel
+[01:54:22:237] Spell_C::CastSpell(31589, 0, 0xF13075E30000054B, 0) [248]
+[01:54:23:320] Activity: Combat
+[01:54:24:495] [Singular] Casting Arcane Blast on Zwielichtapostel
+[01:54:24:495] Spell_C::CastSpell(30451, 0, 0xF13075E30000054B, 0) [249]
+[01:54:26:984] [Singular] Casting Counterspell on Zwielichtapostel
+[01:54:26:984] Spell_C::CastSpell(2139, 0, 0xF13075E30000054B, 0) [250]
+[01:54:27:895] [Singular] Casting Arcane Blast on Zwielichtapostel
+[01:54:27:895] Spell_C::CastSpell(30451, 0, 0xF13075E30000054B, 0) [251]
+[01:54:30:152] [Singular] Casting Slow on Zwielichtapostel
+[01:54:30:152] Spell_C::CastSpell(31589, 0, 0xF13075E30000054B, 0) [252]
+[01:54:30:919] [Singular] No viable target! NOT GOOD!
+[01:54:31:590] [Singular] Casting Slow on Zwielichtanbeter
+[01:54:31:591] Spell_C::CastSpell(31589, 0, 0xF130759F0000054C, 0) [253]
+[01:54:33:339] [Singular] Casting Arcane Blast on Zwielichtanbeter
+[01:54:33:339] Spell_C::CastSpell(30451, 0, 0xF130759F0000054C, 0) [254]
+[01:54:33:568] [Singular] Casting Slow on Zwielichtanbeter
+[01:54:33:569] Spell_C::CastSpell(31589, 0, 0xF130759F0000054C, 0) [255]
+[01:54:34:257] [Singular] No viable target! NOT GOOD!
+[01:54:43:517] Activity: Loading Tile/s
+[01:54:43:517] Loading Azjol_LowerCity_33_30
+[01:54:43:715] Successfully generated path from {520.3964, -735.9313, -30.64787} to {525.2926, -726.9938, -28.79147} in 200 milliseconds
+[01:55:06:891] [Singular] Casting Slow on Vergessener
+[01:55:06:891] Spell_C::CastSpell(31589, 0, 0xF13076CE00000540, 0) [256]
+[01:55:07:730] Activity: Combat
+[01:55:08:962] [Singular] Casting Presence of Mind on Myself
+[01:55:08:962] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [257]
+[01:55:09:778] [Singular] Casting Arcane Blast on Vergessener
+[01:55:09:778] Spell_C::CastSpell(30451, 0, 0xF13076CE00000540, 0) [258]
+[01:55:11:507] Spell_C::CastSpell(30451, 0, 0xF13076CE00000540, 0) [259]
+[01:55:13:697] [Singular] Casting Counterspell on Vergessener
+[01:55:13:697] Spell_C::CastSpell(2139, 0, 0xF13076CE00000540, 0) [260]
+[01:55:14:293] [Singular] Casting Arcane Blast on Vergessener
+[01:55:14:293] Spell_C::CastSpell(30451, 0, 0xF13076CE00000540, 0) [261]
+[01:55:16:640] [Singular] Casting Slow on Vergessener
+[01:55:16:640] Spell_C::CastSpell(31589, 0, 0xF13076CE00000540, 0) [262]
+[01:55:17:260] [Singular] No viable target! NOT GOOD!
+[01:55:32:664] [Singular] Casting Mage Armor on Myself
+[01:55:32:664] Spell_C::CastSpell(6117, 0, 0x280000003203301, 0) [263]
+[01:55:42:452] [Singular] Casting Mana Shield on Myself
+[01:55:42:452] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [264]
+[01:55:43:032] [Singular] No viable target! NOT GOOD!
+[01:55:44:229] [Singular] Casting Mirror Image on Vergessener
+[01:55:44:229] Spell_C::CastSpell(55342, 0, 0xF13076CE0000053E, 0) [265]
+[01:55:46:105] [Singular] Casting Slow on Vergessener
+[01:55:46:105] Spell_C::CastSpell(31589, 0, 0xF13076CE0000053E, 0) [266]
+[01:55:47:885] [Singular] Casting Arcane Blast on Vergessener
+[01:55:47:886] Spell_C::CastSpell(30451, 0, 0xF13076CE0000053E, 0) [267]
+[01:55:50:283] Spell_C::CastSpell(30451, 0, 0xF13076CE0000053E, 0) [268]
+[01:55:52:465] [Singular] Casting Arcane Missiles on Vergessener
+[01:55:52:465] Spell_C::CastSpell(5143, 0, 0xF13076CE0000053E, 0) [269]
+[01:55:54:883] [Singular] No viable target! NOT GOOD!
+[01:55:56:365] Activity: Loading Tile/s
+[01:55:56:365] Loading Azjol_LowerCity_32_31
+[01:55:56:504] Successfully generated path from {523.8213, -547.6934, 26.51608} to {515.6177, -541.1748, 27.04649} in 140 milliseconds
+[01:55:58:212] Loading Azjol_LowerCity_32_30
+[01:55:58:453] Successfully generated path from {514.454, -540.2295, 26.36445} to {513.8898, -526.1743, 26.79122} in 242 milliseconds
+[01:56:03:929] [Singular] Casting Slow on Herold Volazj
+[01:56:03:929] Spell_C::CastSpell(31589, 0, 0xF130727F000004F6, 0) [270]
+[01:56:04:558] Activity: Combat
+[01:56:05:811] [Singular] Casting Counterspell on Herold Volazj
+[01:56:05:811] Spell_C::CastSpell(2139, 0, 0xF130727F000004F6, 0) [271]
+[01:56:06:969] [Singular] Casting Arcane Blast on Herold Volazj
+[01:56:06:969] Spell_C::CastSpell(30451, 0, 0xF130727F000004F6, 0) [272]
+[01:56:09:549] Spell_C::CastSpell(30451, 0, 0xF130727F000004F6, 0) [273]
+[01:56:12:249] [Singular] Casting Arcane Missiles on Herold Volazj
+[01:56:12:249] Spell_C::CastSpell(5143, 0, 0xF130727F000004F6, 0) [274]
+[01:56:15:937] [Singular] Casting Arcane Blast on Herold Volazj
+[01:56:15:937] Spell_C::CastSpell(30451, 0, 0xF130727F000004F6, 0) [275]
+[01:56:18:824] Spell_C::CastSpell(30451, 0, 0xF130727F000004F6, 0) [276]
+[01:56:21:601] [Singular] Casting Arcane Missiles on Herold Volazj
+[01:56:21:601] Spell_C::CastSpell(5143, 0, 0xF130727F000004F6, 0) [277]
+[01:56:24:978] [Singular] Casting Arcane Blast on Herold Volazj
+[01:56:24:978] Spell_C::CastSpell(30451, 0, 0xF130727F000004F6, 0) [278]
+[01:56:25:972] [Singular] No viable target! NOT GOOD!
+[01:56:28:003] [Singular] Casting Frost Nova on Phyren-Alexstrasza
+[01:56:28:003] Spell_C::CastSpell(122, 0, 0xF130779F00000A5E, 0) [279]
+[01:56:29:781] [Singular] Casting Polymorph on Babras
+[01:56:29:781] Spell_C::CastSpell(118, 0, 0xF130779F00000A67, 0) [280]
+[01:56:33:058] [Singular] Casting Polymorph on Phyren-Alexstrasza
+[01:56:33:058] Spell_C::CastSpell(118, 0, 0xF130779F00000A5E, 0) [281]
+[01:56:37:356] [Singular] Casting Polymorph on Babras
+[01:56:37:356] Spell_C::CastSpell(118, 0, 0xF130779F00000A67, 0) [282]
+[01:56:40:339] [Singular] Casting Polymorph on Dihora-Kil'jaeden
+[01:56:40:339] Spell_C::CastSpell(118, 0, 0xF130779F00000A5A, 0) [283]
+[01:56:44:396] [Singular] Casting Polymorph on Phyren-Alexstrasza
+[01:56:44:396] Spell_C::CastSpell(118, 0, 0xF130779F00000A5E, 0) [284]
+[01:56:48:012] [Singular] Casting Polymorph on Dihora-Kil'jaeden
+[01:56:48:012] Spell_C::CastSpell(118, 0, 0xF130779F00000A5A, 0) [285]
+[01:56:51:844] [Singular] Casting Polymorph on Babras
+[01:56:51:844] Spell_C::CastSpell(118, 0, 0xF130779F00000A67, 0) [286]
+[01:56:54:636] [Singular] Casting Frost Nova on Justiin-Blackhand
+[01:56:54:636] Spell_C::CastSpell(122, 0, 0xF130779F00000A6B, 0) [287]
+[01:56:55:214] [Singular] Getting away from frozen target
+[01:56:57:564] [Instancebuddy v3.0.1.315]:Tank is set to: Druid with MaxHP: 15962
+[01:56:59:458] [Singular] Casting Polymorph on Justiin-Blackhand
+[01:56:59:458] Spell_C::CastSpell(118, 0, 0xF130779F00000A6B, 0) [288]
+[01:57:02:896] [Singular] Casting Slow on Justiin-Blackhand
+[01:57:02:896] Spell_C::CastSpell(31589, 0, 0xF130779F00000A6B, 0) [289]
+[01:57:03:490] [Singular] Casting Presence of Mind on Myself
+[01:57:03:491] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [290]
+[01:57:04:091] [Singular] No viable target! NOT GOOD!
+[01:57:06:552] [Singular] Casting Slow on Herold Volazj
+[01:57:06:553] Spell_C::CastSpell(31589, 0, 0xF130727F000004F6, 0) [291]
+[01:57:08:411] [Singular] Casting Arcane Blast on Herold Volazj
+[01:57:08:411] Spell_C::CastSpell(30451, 0, 0xF130727F000004F6, 0) [292]
+[01:57:10:107] Spell_C::CastSpell(30451, 0, 0xF130727F000004F6, 0) [293]
+[01:57:12:320] [Singular] Casting Counterspell on Herold Volazj
+[01:57:12:320] Spell_C::CastSpell(2139, 0, 0xF130727F000004F6, 0) [294]
+[01:57:13:037] [Singular] Casting Arcane Missiles on Herold Volazj
+[01:57:13:037] Spell_C::CastSpell(5143, 0, 0xF130727F000004F6, 0) [295]
+[01:57:15:959] [Singular] Casting Arcane Blast on Herold Volazj
+[01:57:15:959] Spell_C::CastSpell(30451, 0, 0xF130727F000004F6, 0) [296]
+[01:57:17:783] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Singular.SingularRoutine.<>c__DisplayClass86.<CreateApproachToCast>b__84(Object ret) in c:\Users\samy\Desktop\01a804f0\CustomClasses\Singular\SingularRoutine.CompositeHelpers.cs:line 565
+   at TreeSharp.Decorator.CanRun(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Sequence._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[01:57:17:783] Cleared POI - Reason Exception in Root.Tick()
+[01:57:17:784] Cleared POI
+[01:57:18:331] [Singular] No viable target! NOT GOOD!
+[01:57:20:978] [Singular] Casting Frost Nova on Justiin-Blackhand
+[01:57:20:978] Spell_C::CastSpell(122, 0, 0xF130779F00000A86, 0) [297]
+[01:57:21:703] [Singular] Getting away from frozen target
+[01:57:23:326] [Singular] Casting Polymorph on Phyren-Alexstrasza
+[01:57:23:327] Spell_C::CastSpell(118, 0, 0xF130779F00000A97, 0) [298]
+[01:57:26:973] [Singular] Casting Polymorph on Babras
+[01:57:26:973] Spell_C::CastSpell(118, 0, 0xF130779F00000A93, 0) [299]
+[01:57:30:262] [Singular] Casting Polymorph on Phyren-Alexstrasza
+[01:57:30:262] Spell_C::CastSpell(118, 0, 0xF130779F00000A97, 0) [300]
+[01:57:33:612] [Singular] Casting Polymorph on Babras
+[01:57:33:612] Spell_C::CastSpell(118, 0, 0xF130779F00000A93, 0) [301]
+[01:57:37:425] [Singular] Casting Polymorph on Phyren-Alexstrasza
+[01:57:37:425] Spell_C::CastSpell(118, 0, 0xF130779F00000A97, 0) [302]
+[01:57:40:501] [Singular] Casting Polymorph on Justiin-Blackhand
+[01:57:40:501] Spell_C::CastSpell(118, 0, 0xF130779F00000A86, 0) [303]
+[01:57:44:258] [Instancebuddy v3.0.1.315]:Tank is set to: Druid with MaxHP: 15962
+[01:57:44:450] [Singular] Casting Mana Shield on Myself
+[01:57:44:450] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [304]
+[01:57:46:242] [Singular] Casting Slow on Phyren-Alexstrasza
+[01:57:46:242] Spell_C::CastSpell(31589, 0, 0xF130779F00000A97, 0) [305]
+[01:57:47:521] [Singular] No viable target! NOT GOOD!
+[01:57:57:447] [Singular] Casting Slow on Herold Volazj
+[01:57:57:447] Spell_C::CastSpell(31589, 0, 0xF130727F000004F6, 0) [306]
+[01:57:58:502] Sync
+[01:57:59:164] [Singular] Casting Counterspell on Herold Volazj
+[01:57:59:164] Spell_C::CastSpell(2139, 0, 0xF130727F000004F6, 0) [307]
+[01:57:59:791] [Singular] Casting Arcane Blast on Herold Volazj
+[01:57:59:791] Spell_C::CastSpell(30451, 0, 0xF130727F000004F6, 0) [308]
+[01:58:02:230] Spell_C::CastSpell(30451, 0, 0xF130727F000004F6, 0) [309]
+[01:58:04:131] [Instancebuddy v3.0.1.315]:Random dungeon is completed. Will leave in 36 seconds
+[01:58:04:387] [Singular] No viable target! NOT GOOD!
+[01:58:12:644] [Instancebuddy v3.0.1.315]:Tank is set to: Hunter with MaxHP: 14476
+[01:58:40:147] [Instancebuddy v3.0.1.315]:Dungeon run is over. Teleporting out.
+[01:58:43:225] Not in game
+[01:58:49:922] Changed tilemap to Northrend, Tiled: True
+[01:58:49:933] [Singular] Context changed. New context: Normal. Rebuilding behaviors.
+[01:58:49:938] [Singular] Using CreateArcaneMageCombat for Arcane Mage - Combat (Priority: 0)
+[01:58:49:944] [Singular] Using CreateArcaneMagePull for Arcane Mage - Pull (Priority: 0)
+[01:58:49:952] [Singular] Using default rest behavior.
+[01:58:49:976] [Singular] Using CreateMageBuffs for Arcane Mage - PreCombatBuffs (Priority: 0)
+[01:58:50:129] Updating repair cost for current equipped items. New value: [1g29s33c]
+[01:58:50:135] [Instancebuddy v3.0.1.315]:Anti AFK jump
+[01:58:55:169] [Instancebuddy v3.0.1.315]:Reseting saved instances.
+[01:58:55:207] [Instancebuddy v3.0.1.315]:Queueing at dungeon finder
+[01:59:03:296] [Instancebuddy v3.0.1.315]:Waiting for 5 seconds before accepting dungeon invite
+[01:59:08:118] [Instancebuddy v3.0.1.315]:Accepting dungeon invite
+[02:00:05:183] Downloaded tilemap GunDrak
+[02:00:05:192] Changed tilemap to GunDrak, Tiled: True
+[02:00:05:203] [Singular] Context changed. New context: Instances. Rebuilding behaviors.
+[02:00:05:210] [Singular] Using CreateArcaneMageCombat for Arcane Mage - Combat (Priority: 0)
+[02:00:05:223] [Singular] Using CreateArcaneMagePull for Arcane Mage - Pull (Priority: 0)
+[02:00:05:293] [Singular] Using default rest behavior.
+[02:00:05:313] [Singular] Using CreateMageBuffs for Arcane Mage - PreCombatBuffs (Priority: 0)
+[02:00:05:317] Cleared POI - Reason Player Died
+[02:00:05:317] Cleared POI
+[02:00:05:368] System.InvalidOperationException: Cannot run injection routine on address 0
+   at Styx.StyxWoW.Call[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.WoWInternals.WoWObjects.WoWObject.get_Location()
+   at Styx.WoWInternals.WoWObjects.WoWUnit.get_Location()
+   at Instancebuddy.Instancebuddy._kic()
+   at Instancebuddy.Instancebuddy._Bxc(Object ret)
+   at TreeSharp.Action.RunAction(Object context)
+   at TreeSharp.Action._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector._nF.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[02:00:05:368] Cleared POI - Reason Exception in Root.Tick()
+[02:00:05:368] Cleared POI
+[02:00:05:615] [Instancebuddy v3.0.1.315]:Loading dungeon script for 'Gundrak'
+[02:00:05:618] [Instancebuddy v3.0.1.315]:Tank is set to: Druid with MaxHP: 17353
+[02:00:05:621] Stop and dismount...
+[02:00:06:068] Activity: Downloading Mesh...
+[02:00:44:899] Error downloading tile: GunDrak/GunDrak_30_28.etm [This request operation sent to net.tcp://auth.codemplosion.com:5123/test.scv did not receive a reply within the configured timeout (00:00:30).  The time allotted to this operation may have been a portion of a longer timeout.  This may be because the service is still processing the operation or because the service was unable to send a reply message.  Please consider increasing the operation timeout (by casting the channel/proxy to IContextChannel and setting the OperationTimeout property) and ensure that the service is able to connect to the client.]
+
+[02:00:44:900] Received error code from mesh server when attempting to download GunDrak_30_28: 
+[02:00:44:900] Failed to download GunDrak_30_28.etm
+[02:00:44:900] No data for GunDrak_30_28.etm
+[02:00:44:900] Activity: Combat
+[02:00:44:901] Activity: Downloading Mesh...
+[02:01:15:471] Error downloading tile: GunDrak/GunDrak_30_28.etm [The open operation did not complete within the allotted timeout of 00:00:30. The time allotted to this operation may have been a portion of a longer timeout.]
+
+[02:01:15:471] Received error code from mesh server when attempting to download GunDrak_30_28: 
+[02:01:15:471] Failed to download GunDrak_30_28.etm
+[02:01:15:471] No data for GunDrak_30_28.etm
+[02:01:15:471] Activity: Combat
+[02:01:15:472] Activity: Downloading Mesh...
+[02:02:01:298] Downloaded GunDrak_30_28
+[02:02:01:300] Activity: Combat
+[02:02:01:300] Activity: Loading Tile/s
+[02:02:01:300] Loading GunDrak_30_28
+[02:02:09:978] [Instancebuddy v3.0.1.315]:Waiting for 1 seconds before accepting role check
+[02:02:11:077] [Instancebuddy v3.0.1.315]:Role Check is in progress
+[02:02:13:675] [Singular] Casting Slow on Speikobra
+[02:02:13:675] Spell_C::CastSpell(31589, 0, 0xF130744E0000CA0F, 0) [310]
+[02:02:15:055] Activity: Combat
+[02:02:18:144] [Singular] Casting Mirror Image on Unnachgiebiger Würger
+[02:02:18:144] Spell_C::CastSpell(55342, 0, 0xF13074480000CA10, 0) [311]
+[02:02:19:821] [Singular] Casting Slow on Unnachgiebiger Würger
+[02:02:19:821] Spell_C::CastSpell(31589, 0, 0xF13074480000CA10, 0) [312]
+[02:02:20:651] [Singular] Casting Presence of Mind on Myself
+[02:02:20:651] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [313]
+[02:02:23:399] [Singular] Casting Arcane Blast on Speikobra
+[02:02:23:399] Spell_C::CastSpell(30451, 0, 0xF130744E0000CA0F, 0) [314]
+[02:02:26:076] [Singular] Casting Counterspell on Speikobra
+[02:02:26:076] Spell_C::CastSpell(2139, 0, 0xF130744E0000CA0F, 0) [315]
+[02:02:27:081] [Singular] Casting Arcane Missiles on Speikobra
+[02:02:27:081] Spell_C::CastSpell(5143, 0, 0xF130744E0000CA0F, 0) [316]
+[02:02:30:295] [Singular] Casting Arcane Blast on Speikobra
+[02:02:30:295] Spell_C::CastSpell(30451, 0, 0xF130744E0000CA0F, 0) [317]
+[02:02:33:024] Spell_C::CastSpell(30451, 0, 0xF130744E0000CA0F, 0) [318]
+[02:02:35:734] [Singular] No viable target! NOT GOOD!
+[02:02:58:832] Sync
+[02:03:00:137] [Singular] No viable target! NOT GOOD!
+[02:03:01:141] [Singular] Casting Frost Nova on Slad'ran
+[02:03:01:141] Spell_C::CastSpell(122, 0, 0xF13072780000CA65, 0) [319]
+[02:03:02:942] [Singular] Casting Slow on Slad'ran
+[02:03:02:942] Spell_C::CastSpell(31589, 0, 0xF13072780000CA65, 0) [320]
+[02:03:05:060] [Singular] Casting Arcane Blast on Slad'ran
+[02:03:05:060] Spell_C::CastSpell(30451, 0, 0xF13072780000CA65, 0) [321]
+[02:03:08:148] Spell_C::CastSpell(30451, 0, 0xF13072780000CA65, 0) [322]
+[02:03:11:348] Spell_C::CastSpell(30451, 0, 0xF13072780000CA65, 0) [323]
+[02:03:13:783] [Singular] Casting Arcane Barrage on Slad'ran
+[02:03:13:783] Spell_C::CastSpell(44425, 0, 0xF13072780000CA65, 0) [324]
+[02:03:16:088] [Singular] Casting Arcane Blast on Slad'ran
+[02:03:16:088] Spell_C::CastSpell(30451, 0, 0xF13072780000CA65, 0) [325]
+[02:03:19:084] Spell_C::CastSpell(30451, 0, 0xF13072780000CA65, 0) [326]
+[02:03:21:552] [Singular] Casting Counterspell on Slad'ran
+[02:03:21:552] Spell_C::CastSpell(2139, 0, 0xF13072780000CA65, 0) [327]
+[02:03:22:497] [Singular] Casting Arcane Missiles on Slad'ran
+[02:03:22:497] Spell_C::CastSpell(5143, 0, 0xF13072780000CA65, 0) [328]
+[02:03:25:796] [Singular] Casting Arcane Blast on Slad'ran
+[02:03:25:796] Spell_C::CastSpell(30451, 0, 0xF13072780000CA65, 0) [329]
+[02:03:28:382] [Singular] Casting Frost Nova on Slad'ran
+[02:03:28:382] Spell_C::CastSpell(122, 0, 0xF13072780000CA65, 0) [330]
+[02:03:30:423] [Singular] Casting Arcane Blast on Slad'ran
+[02:03:30:424] Spell_C::CastSpell(30451, 0, 0xF13072780000CA65, 0) [331]
+[02:03:32:605] [Singular] No viable target! NOT GOOD!
+[02:04:21:197] [Singular] Casting Slow on Speikobra
+[02:04:21:197] Spell_C::CastSpell(31589, 0, 0xF130744E0000C9D9, 0) [332]
+[02:04:23:398] [Singular] Casting Slow on Unnachgiebiger Würger
+[02:04:23:398] Spell_C::CastSpell(31589, 0, 0xF13074480000C9DA, 0) [333]
+[02:04:25:221] [Singular] Casting Presence of Mind on Myself
+[02:04:25:221] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [334]
+[02:04:26:228] [Singular] Casting Arcane Blast on Unnachgiebiger Würger
+[02:04:26:228] Spell_C::CastSpell(30451, 0, 0xF13074480000C9DA, 0) [335]
+[02:04:28:335] Spell_C::CastSpell(30451, 0, 0xF13074480000C9DA, 0) [336]
+[02:04:30:646] [Singular] Casting Arcane Missiles on Unnachgiebiger Würger
+[02:04:30:646] Spell_C::CastSpell(5143, 0, 0xF13074480000C9DA, 0) [337]
+[02:04:33:822] [Singular] Casting Arcane Blast on Unnachgiebiger Würger
+[02:04:33:822] Spell_C::CastSpell(30451, 0, 0xF13074480000C9DA, 0) [338]
+[02:04:35:144] [Singular] Casting Frost Nova on Speikobra
+[02:04:35:144] Spell_C::CastSpell(122, 0, 0xF130744E0000C9D9, 0) [339]
+[02:04:36:570] [Singular] No viable target! NOT GOOD!
+[02:04:37:300] [Singular] Casting Slow on Speikobra
+[02:04:37:300] Spell_C::CastSpell(31589, 0, 0xF130744E0000C9DB, 0) [340]
+[02:04:39:320] [Singular] Casting Counterspell on Speikobra
+[02:04:39:320] Spell_C::CastSpell(2139, 0, 0xF130744E0000C9DB, 0) [341]
+[02:04:40:145] [Singular] Casting Arcane Blast on Speikobra
+[02:04:40:145] Spell_C::CastSpell(30451, 0, 0xF130744E0000C9DB, 0) [342]
+[02:04:42:648] Spell_C::CastSpell(30451, 0, 0xF130744E0000C9DB, 0) [343]
+[02:04:43:723] [Singular] No viable target! NOT GOOD!
+[02:05:07:490] [Singular] Casting Frost Nova on Unnachgiebiger Würger
+[02:05:07:490] Spell_C::CastSpell(122, 0, 0xF13074480000C9D7, 0) [344]
+[02:05:09:659] [Singular] Casting Slow on Speikobra
+[02:05:09:659] Spell_C::CastSpell(31589, 0, 0xF130744E0000C9D8, 0) [345]
+[02:05:11:757] [Singular] Casting Slow on Unnachgiebiger Würger
+[02:05:11:757] Spell_C::CastSpell(31589, 0, 0xF13074480000C9D7, 0) [346]
+[02:05:13:757] [Singular] Casting Arcane Blast on Unnachgiebiger Würger
+[02:05:13:758] Spell_C::CastSpell(30451, 0, 0xF13074480000C9D7, 0) [347]
+[02:05:16:443] Spell_C::CastSpell(30451, 0, 0xF13074480000C9D7, 0) [348]
+[02:05:18:463] [Singular] Casting Counterspell on Speikobra
+[02:05:18:463] Spell_C::CastSpell(2139, 0, 0xF130744E0000C9D8, 0) [349]
+[02:05:18:971] [Singular] Casting Slow on Speikobra
+[02:05:18:971] Spell_C::CastSpell(31589, 0, 0xF130744E0000C9D8, 0) [350]
+[02:05:20:054] [Singular] No viable target! NOT GOOD!
+[02:05:20:579] [Singular] Casting Mirror Image on Speikobra
+[02:05:20:579] Spell_C::CastSpell(55342, 0, 0xF130744E0000C9D6, 0) [351]
+[02:05:22:725] [Singular] Casting Slow on Speikobra
+[02:05:22:725] Spell_C::CastSpell(31589, 0, 0xF130744E0000C9D6, 0) [352]
+[02:05:24:334] [Singular] Casting Shoot on Speikobra
+[02:05:24:334] Spell_C::CastSpell(5019, 0, 0xF130744E0000C9D6, 0) [353]
+[02:05:25:276] [Singular] Casting Arcane Blast on Speikobra
+[02:05:25:276] Spell_C::CastSpell(30451, 0, 0xF130744E0000C9D6, 0) [354]
+[02:05:27:917] [Singular] Casting Slow on Speikobra
+[02:05:27:917] Spell_C::CastSpell(31589, 0, 0xF130744E0000C9D6, 0) [355]
+[02:05:28:303] [Singular] No viable target! NOT GOOD!
+[02:05:38:416] [Singular] Casting Slow on Unbekannt
+[02:05:38:416] Spell_C::CastSpell(31589, 0, 0xF130747C0000C9E3, 0) [356]
+[02:05:40:369] [Singular] Casting Arcane Blast on Unbekannt
+[02:05:40:369] Spell_C::CastSpell(30451, 0, 0xF130747C0000C9E3, 0) [357]
+[02:05:43:255] Spell_C::CastSpell(30451, 0, 0xF130747C0000C9E3, 0) [358]
+[02:05:45:969] [Singular] Casting Arcane Missiles on Unbekannt
+[02:05:45:969] Spell_C::CastSpell(5143, 0, 0xF130747C0000C9E3, 0) [359]
+[02:05:49:153] [Singular] Casting Counterspell on Unbekannt
+[02:05:49:153] Spell_C::CastSpell(2139, 0, 0xF13074820000C9E4, 0) [360]
+[02:05:49:437] Spell_C::CastSpell(2139, 0, 0xF13074820000C9E4, 0) [361]
+[02:05:50:211] [Singular] Casting Slow on Unbekannt
+[02:05:50:211] Spell_C::CastSpell(31589, 0, 0xF13074820000C9E4, 0) [362]
+[02:05:52:519] Spell_C::CastSpell(31589, 0, 0xF130747C0000C9E3, 0) [363]
+[02:05:54:355] [Singular] Casting Arcane Blast on Unbekannt
+[02:05:54:355] Spell_C::CastSpell(30451, 0, 0xF130747C0000C9E3, 0) [364]
+[02:05:56:784] [Singular] Casting Presence of Mind on Myself
+[02:05:56:784] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [365]
+[02:05:57:397] [Singular] Casting Arcane Blast on Unbekannt
+[02:05:57:398] Spell_C::CastSpell(30451, 0, 0xF130747C0000C9E3, 0) [366]
+[02:05:57:953] [Singular] Casting Slow on Unbekannt
+[02:05:57:953] Spell_C::CastSpell(31589, 0, 0xF130747C0000C9E3, 0) [367]
+[02:05:58:519] [Singular] No viable target! NOT GOOD!
+[02:06:12:041] [Singular] Casting Slow on Unnachgiebiger Würger
+[02:06:12:041] Spell_C::CastSpell(31589, 0, 0xF13074480000C9DF, 0) [368]
+[02:06:14:053] [Singular] Casting Arcane Blast on Unnachgiebiger Würger
+[02:06:14:053] Spell_C::CastSpell(30451, 0, 0xF13074480000C9DF, 0) [369]
+[02:06:16:272] Spell_C::CastSpell(30451, 0, 0xF13074480000C9DF, 0) [370]
+[02:06:18:957] [Singular] Casting Arcane Missiles on Unnachgiebiger Würger
+[02:06:18:958] Spell_C::CastSpell(5143, 0, 0xF13074480000C9DF, 0) [371]
+[02:06:22:235] [Singular] No viable target! NOT GOOD!
+[02:06:23:369] [Singular] Casting Slow on Speikobra
+[02:06:23:369] Spell_C::CastSpell(31589, 0, 0xF130744E0000C9E0, 0) [372]
+[02:06:25:400] [Singular] Casting Arcane Blast on Speikobra
+[02:06:25:400] Spell_C::CastSpell(30451, 0, 0xF130744E0000C9E0, 0) [373]
+[02:06:27:899] [Singular] No viable target! NOT GOOD!
+[02:06:49:136] Activity: Downloading Mesh...
+[02:07:24:703] Error downloading tile: GunDrak/GunDrak_30_29.etm [This request operation sent to net.tcp://auth.codemplosion.com:5123/test.scv did not receive a reply within the configured timeout (00:00:30).  The time allotted to this operation may have been a portion of a longer timeout.  This may be because the service is still processing the operation or because the service was unable to send a reply message.  Please consider increasing the operation timeout (by casting the channel/proxy to IContextChannel and setting the OperationTimeout property) and ensure that the service is able to connect to the client.]
+
+[02:07:24:703] Received error code from mesh server when attempting to download GunDrak_30_29: 
+[02:07:24:703] Failed to download GunDrak_30_29.etm
+[02:07:24:703] No data for GunDrak_30_29.etm
+[02:07:24:703] Activity: Combat
+[02:07:24:705] Activity: Downloading Mesh...
+[02:07:35:635] Sync
+[02:07:40:395] Downloaded GunDrak_30_29
+[02:07:40:396] Activity: Combat
+[02:07:40:399] Activity: Loading Tile/s
+[02:07:40:400] Loading GunDrak_30_29
+[02:07:40:465] Could not generate full path from {1631.77, 688.6754, 140.0742} to {1629.987, 693.1343, 0.225} (time used: 51.331 seconds)
+[02:07:40:988] Unloading tiles!
+[02:07:40:990] Loading GunDrak_30_28
+[02:07:44:461] [Singular] Casting Slow on Lebendes Mojo
+[02:07:44:461] Spell_C::CastSpell(31589, 0, 0xF13074860000C9BB, 0) [374]
+[02:07:45:317] Activity: Combat
+[02:07:46:046] [Singular] Casting Arcane Blast on Golem der Drakkari
+[02:07:46:046] Spell_C::CastSpell(30451, 0, 0xF13074880000C9BC, 0) [375]
+[02:07:48:471] [Singular] Casting Slow on Golem der Drakkari
+[02:07:48:471] Spell_C::CastSpell(31589, 0, 0xF13074880000C9BC, 0) [376]
+[02:07:50:220] [Singular] Casting Presence of Mind on Myself
+[02:07:50:221] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [377]
+[02:07:50:893] [Singular] Casting Arcane Blast on Golem der Drakkari
+[02:07:50:893] Spell_C::CastSpell(30451, 0, 0xF13074880000C9BC, 0) [378]
+[02:07:52:779] Spell_C::CastSpell(30451, 0, 0xF13074880000C9BC, 0) [379]
+[02:07:54:881] [Singular] Casting Arcane Barrage on Golem der Drakkari
+[02:07:54:881] Spell_C::CastSpell(44425, 0, 0xF13074880000C9BC, 0) [380]
+[02:07:56:536] [Singular] Casting Slow on Golem der Drakkari
+[02:07:56:536] Spell_C::CastSpell(31589, 0, 0xF13074880000C9BD, 0) [381]
+[02:07:58:328] [Singular] Casting Arcane Barrage on Golem der Drakkari
+[02:07:58:329] Spell_C::CastSpell(44425, 0, 0xF13074880000C9BD, 0) [382]
+[02:08:00:342] [Singular] Casting Arcane Blast on Golem der Drakkari
+[02:08:00:342] Spell_C::CastSpell(30451, 0, 0xF13074880000C9BD, 0) [383]
+[02:08:02:919] Spell_C::CastSpell(30451, 0, 0xF13074880000C9BD, 0) [384]
+[02:08:36:897] [Instancebuddy v3.0.1.315]:Accepted shared quest: Einzigartig
+[02:08:44:894] [Singular] Casting Mirror Image on Elementar der Drakkari
+[02:08:44:894] Spell_C::CastSpell(55342, 0, 0xF13073850000CD4B, 0) [385]
+[02:08:47:231] [Singular] Casting Slow on Elementar der Drakkari
+[02:08:47:231] Spell_C::CastSpell(31589, 0, 0xF13073850000CD4B, 0) [386]
+[02:08:49:571] [Singular] Casting Arcane Blast on Elementar der Drakkari
+[02:08:49:571] Spell_C::CastSpell(30451, 0, 0xF13073850000CD4B, 0) [387]
+[02:08:52:167] [Singular] Casting Counterspell on Elementar der Drakkari
+[02:08:52:167] Spell_C::CastSpell(2139, 0, 0xF13073850000CD4B, 0) [388]
+[02:08:53:323] [Singular] Casting Arcane Blast on Elementar der Drakkari
+[02:08:53:324] Spell_C::CastSpell(30451, 0, 0xF13073850000CD4B, 0) [389]
+[02:08:56:103] [Singular] Casting Arcane Missiles on Elementar der Drakkari
+[02:08:56:103] Spell_C::CastSpell(5143, 0, 0xF13073850000CD4B, 0) [390]
+[02:08:59:675] [Singular] Casting Arcane Blast on Elementar der Drakkari
+[02:08:59:675] Spell_C::CastSpell(30451, 0, 0xF13073850000CD4B, 0) [391]
+[02:09:02:527] [Singular] Casting Slow on Koloss der Drakkari
+[02:09:02:527] Spell_C::CastSpell(31589, 0, 0xF130727B0000CA6D, 0) [392]
+[02:09:04:676] [Singular] Casting Arcane Blast on Koloss der Drakkari
+[02:09:04:676] Spell_C::CastSpell(30451, 0, 0xF130727B0000CA6D, 0) [393]
+[02:09:07:084] Spell_C::CastSpell(30451, 0, 0xF130727B0000CA6D, 0) [394]
+[02:09:09:546] [Singular] Casting Arcane Missiles on Koloss der Drakkari
+[02:09:09:546] Spell_C::CastSpell(5143, 0, 0xF130727B0000CA6D, 0) [395]
+[02:09:11:914] [Singular] No viable target! NOT GOOD!
+[02:09:16:228] [Singular] Casting Slow on Elementar der Drakkari
+[02:09:16:228] Spell_C::CastSpell(31589, 0, 0xF13073850000CE46, 0) [396]
+[02:09:17:825] [Singular] Casting Shoot on Elementar der Drakkari
+[02:09:17:825] Spell_C::CastSpell(5019, 0, 0xF13073850000CE46, 0) [397]
+[02:09:18:372] [Singular] Casting Arcane Blast on Elementar der Drakkari
+[02:09:18:372] Spell_C::CastSpell(30451, 0, 0xF13073850000CE46, 0) [398]
+[02:09:21:072] [Singular] Casting Slow on Elementar der Drakkari
+[02:09:21:072] Spell_C::CastSpell(31589, 0, 0xF13073850000CE46, 0) [399]
+[02:09:56:001] Activity: Loading Tile/s
+[02:09:56:001] Loading GunDrak_30_29
+[02:09:56:024] Could not generate full path from {1649.995, 745.7028, 142.817} to {1639.274, 755.1859, 0.225} (time used: 24 milliseconds)
+[02:10:02:964] Could not generate full path from {1644.357, 749.095, 142.7862} to {1636.845, 754.7546, 0.225} (time used: 2 milliseconds)
+[02:10:03:402] Could not generate full path from {1645.685, 749.9418, 142.7862} to {1637.297, 756.7068, 0.225} (time used: 2 milliseconds)
+[02:10:04:551] Could not generate full path from {1654.057, 749.6768, 142.7862} to {1637.201, 759.2725, 0.225} (time used: 2 milliseconds)
+[02:10:05:756] Could not generate full path from {1663.389, 749.3815, 142.7862} to {1637.005, 761.5462, 0.225} (time used: 2 milliseconds)
+[02:10:07:423] Could not generate full path from {1665.517, 750.2439, 142.7862} to {1632.077, 764.3522, 0.225} (time used: 2 milliseconds)
+[02:10:08:330] Could not generate full path from {1669.778, 750.5659, 142.7862} to {1630.581, 767.7923, 0.225} (time used: 3 milliseconds)
+[02:10:08:753] [STUCK] Got stuck at <1673.004, 750.3187, 147.8682> on map 604
+[02:10:08:796] [STUCK][HITTEST] LD/LU: False
+[02:10:08:796] [STUCK][HITTEST] Left: False
+[02:10:08:796] [STUCK][HITTEST] RD/RU: False
+[02:10:08:796] [STUCK][HITTEST] Right: False
+[02:10:08:796] [STUCK][HITTEST] Behind: False
+[02:10:08:796] [STUCK][HITTEST] Behind Left: False
+[02:10:08:796] [STUCK][HITTEST] Behind Right: False
+[02:10:09:892] [STUCK] Jumping worked!
+[02:10:24:645] [Singular] Casting Slow on Erderschütterer der Drakkari
+[02:10:24:645] Spell_C::CastSpell(31589, 0, 0xF13074850000C9F9, 0) [400]
+[02:10:25:547] Activity: Combat
+[02:10:26:649] [Singular] Casting Presence of Mind on Myself
+[02:10:26:649] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [401]
+[02:10:27:540] [Singular] Casting Arcane Blast on Erderschütterer der Drakkari
+[02:10:27:540] Spell_C::CastSpell(30451, 0, 0xF13074850000C9F9, 0) [402]
+[02:10:29:084] [Singular] Casting Shoot on Erderschütterer der Drakkari
+[02:10:29:084] Spell_C::CastSpell(5019, 0, 0xF13074850000C9F9, 0) [403]
+[02:10:29:784] [Singular] Casting Arcane Blast on Erderschütterer der Drakkari
+[02:10:29:784] Spell_C::CastSpell(30451, 0, 0xF13074850000C9F9, 0) [404]
+[02:10:32:270] [Singular] Casting Arcane Missiles on Erderschütterer der Drakkari
+[02:10:32:270] Spell_C::CastSpell(5143, 0, 0xF13074850000C9F9, 0) [405]
+[02:10:34:424] [Singular] Casting Slow on Erderschütterer der Drakkari
+[02:10:34:424] Spell_C::CastSpell(31589, 0, 0xF13074850000C9F9, 0) [406]
+[02:10:44:351] [Singular] Casting Slow on Gottjäger der Drakkari
+[02:10:44:351] Spell_C::CastSpell(31589, 0, 0xF130747C0000C9FC, 0) [407]
+[02:10:46:551] [Singular] Casting Slow on Feuerwirker der Drakkari
+[02:10:46:551] Spell_C::CastSpell(31589, 0, 0xF130747E0000C9FD, 0) [408]
+[02:10:48:569] [Singular] Casting Arcane Blast on Feuerwirker der Drakkari
+[02:10:48:569] Spell_C::CastSpell(30451, 0, 0xF130747E0000C9FD, 0) [409]
+[02:10:51:422] Spell_C::CastSpell(30451, 0, 0xF130747E0000C9FD, 0) [410]
+[02:10:53:807] [Singular] Casting Arcane Missiles on Feuerwirker der Drakkari
+[02:10:53:807] Spell_C::CastSpell(5143, 0, 0xF130747E0000C9FD, 0) [411]
+[02:10:57:316] [Singular] Casting Slow on Gottjäger der Drakkari
+[02:10:57:316] Spell_C::CastSpell(31589, 0, 0xF130747C0000C9FC, 0) [412]
+[02:10:58:922] [Singular] Casting Arcane Blast on Gottjäger der Drakkari
+[02:10:58:922] Spell_C::CastSpell(30451, 0, 0xF130747C0000C9FC, 0) [413]
+[02:11:01:645] Spell_C::CastSpell(30451, 0, 0xF130747C0000C9FC, 0) [414]
+[02:11:04:340] [Singular] Casting Slow on Lanzer der Drakkari
+[02:11:04:340] Spell_C::CastSpell(31589, 0, 0xF130747B0000C9FB, 0) [415]
+[02:11:06:565] [Singular] Casting Arcane Missiles on Lanzer der Drakkari
+[02:11:06:565] Spell_C::CastSpell(5143, 0, 0xF130747B0000C9FB, 0) [416]
+[02:11:24:884] [Singular] No viable target! NOT GOOD!
+[02:11:25:993] [Singular] Casting Slow on Gottjäger der Drakkari
+[02:11:25:993] Spell_C::CastSpell(31589, 0, 0xF130747C0000C9F2, 0) [417]
+[02:11:27:647] [Singular] Casting Arcane Blast on Gottjäger der Drakkari
+[02:11:27:647] Spell_C::CastSpell(30451, 0, 0xF130747C0000C9F2, 0) [418]
+[02:11:30:477] Spell_C::CastSpell(30451, 0, 0xF130747C0000C9F2, 0) [419]
+[02:11:32:955] [Singular] Casting Arcane Missiles on Gottjäger der Drakkari
+[02:11:32:955] Spell_C::CastSpell(5143, 0, 0xF130747C0000C9F2, 0) [420]
+[02:11:36:002] [Singular] Casting Arcane Blast on Gottjäger der Drakkari
+[02:11:36:002] Spell_C::CastSpell(30451, 0, 0xF130747C0000C9F2, 0) [421]
+[02:11:38:877] [Singular] Casting Slow on Lanzer der Drakkari
+[02:11:38:877] Spell_C::CastSpell(31589, 0, 0xF130747B0000C9F1, 0) [422]
+[02:11:40:468] [Singular] Casting Shoot on Feuerwirker der Drakkari
+[02:11:40:468] Spell_C::CastSpell(5019, 0, 0xF130747E0000C9F3, 0) [423]
+[02:11:41:322] [Singular] Casting Slow on Feuerwirker der Drakkari
+[02:11:41:322] Spell_C::CastSpell(31589, 0, 0xF130747E0000C9F3, 0) [424]
+[02:11:42:754] [Singular] No viable target! NOT GOOD!
+[02:11:43:341] [Singular] Casting Counterspell on Feuerwirker der Drakkari
+[02:11:43:341] Spell_C::CastSpell(2139, 0, 0xF130747E0000C9F3, 0) [425]
+[02:11:44:044] [Singular] Casting Slow on Feuerwirker der Drakkari
+[02:11:44:044] Spell_C::CastSpell(31589, 0, 0xF130747E0000C9F3, 0) [426]
+[02:11:44:770] [Singular] No viable target! NOT GOOD!
+[02:11:45:343] [Singular] Casting Mirror Image on Lanzer der Drakkari
+[02:11:45:343] Spell_C::CastSpell(55342, 0, 0xF130747B0000C9F0, 0) [427]
+[02:11:46:921] [Singular] Casting Shoot on Lanzer der Drakkari
+[02:11:46:921] Spell_C::CastSpell(5019, 0, 0xF130747B0000C9F0, 0) [428]
+[02:11:47:689] [Singular] Casting Slow on Lanzer der Drakkari
+[02:11:47:689] Spell_C::CastSpell(31589, 0, 0xF130747B0000C9F0, 0) [429]
+[02:11:49:513] Spell_C::CastSpell(31589, 0, 0xF130747B0000C9F0, 0) [430]
+[02:11:49:872] [Singular] No viable target! NOT GOOD!
+[02:11:53:265] [Singular] Casting Slow on Lanzer der Drakkari
+[02:11:53:265] Spell_C::CastSpell(31589, 0, 0xF130747B0000C9FF, 0) [431]
+[02:11:55:073] [Singular] Casting Arcane Blast on Lanzer der Drakkari
+[02:11:55:073] Spell_C::CastSpell(30451, 0, 0xF130747B0000C9FF, 0) [432]
+[02:11:57:779] [Singular] Casting Presence of Mind on Myself
+[02:11:57:779] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [433]
+[02:11:58:463] [Singular] Casting Arcane Blast on Lanzer der Drakkari
+[02:11:58:464] Spell_C::CastSpell(30451, 0, 0xF130747B0000C9FF, 0) [434]
+[02:12:00:066] [Singular] No viable target! NOT GOOD!
+[02:12:00:908] [Singular] Casting Slow on Feuerwirker der Drakkari
+[02:12:00:909] Spell_C::CastSpell(31589, 0, 0xF130747E0000C9FE, 0) [435]
+[02:12:03:237] [Singular] Casting Arcane Missiles on Feuerwirker der Drakkari
+[02:12:03:237] Spell_C::CastSpell(5143, 0, 0xF130747E0000C9FE, 0) [436]
+[02:12:06:744] [Singular] Casting Arcane Blast on Feuerwirker der Drakkari
+[02:12:06:744] Spell_C::CastSpell(30451, 0, 0xF130747E0000C9FE, 0) [437]
+[02:12:08:806] [Singular] No viable target! NOT GOOD!
+[02:12:23:112] Could not generate full path from {1616.035, 890.0337, 147.2285} to {1636.387, 889.8286, 0.225} (time used: 3 milliseconds)
+[02:12:24:025] Could not generate full path from {1622.875, 890.3986, 146.3562} to {1638.865, 888.2114, 0.225} (time used: 2 milliseconds)
+[02:12:24:852] Could not generate full path from {1629.072, 891.1689, 145.3829} to {1641.16, 887.0696, 0.225} (time used: 2 milliseconds)
+[02:12:29:325] Could not generate full path from {1655.401, 892.7216, 142.7565} to {1637.971, 889.5294, 0.225} (time used: 2 milliseconds)
+[02:12:30:120] Sync
+[02:12:31:527] [Singular] Casting Slow on Feuerwirker der Drakkari
+[02:12:31:527] Spell_C::CastSpell(31589, 0, 0xF130747E0000C9F4, 0) [438]
+[02:12:33:452] [Singular] Casting Arcane Blast on Feuerwirker der Drakkari
+[02:12:33:452] Spell_C::CastSpell(30451, 0, 0xF130747E0000C9F4, 0) [439]
+[02:12:36:546] Spell_C::CastSpell(30451, 0, 0xF130747E0000C9F4, 0) [440]
+[02:12:39:033] [Singular] Casting Counterspell on Feuerwirker der Drakkari
+[02:12:39:033] Spell_C::CastSpell(2139, 0, 0xF130747E0000C9F4, 0) [441]
+[02:12:39:703] [Singular] Casting Arcane Missiles on Feuerwirker der Drakkari
+[02:12:39:703] Spell_C::CastSpell(5143, 0, 0xF130747E0000C9F4, 0) [442]
+[02:12:42:910] [Singular] Casting Arcane Blast on Feuerwirker der Drakkari
+[02:12:42:910] Spell_C::CastSpell(30451, 0, 0xF130747E0000C9F4, 0) [443]
+[02:12:45:212] Spell_C::CastSpell(30451, 0, 0xF130747E0000C9F4, 0) [444]
+[02:12:45:951] [Singular] No viable target! NOT GOOD!
+[02:12:47:144] [Singular] Casting Slow on Feuerwirker der Drakkari
+[02:12:47:144] Spell_C::CastSpell(31589, 0, 0xF130747E0000C9F7, 0) [445]
+[02:12:49:161] [Singular] Casting Arcane Blast on Feuerwirker der Drakkari
+[02:12:49:161] Spell_C::CastSpell(30451, 0, 0xF130747E0000C9F7, 0) [446]
+[02:12:51:617] [Singular] Casting Frost Nova on Feuerwirker der Drakkari
+[02:12:51:617] Spell_C::CastSpell(122, 0, 0xF130747E0000C9F7, 0) [447]
+[02:12:53:794] [Singular] Casting Arcane Blast on Feuerwirker der Drakkari
+[02:12:53:794] Spell_C::CastSpell(30451, 0, 0xF130747E0000C9F7, 0) [448]
+[02:12:56:691] [Singular] Casting Arcane Missiles on Feuerwirker der Drakkari
+[02:12:56:691] Spell_C::CastSpell(5143, 0, 0xF130747E0000C9F7, 0) [449]
+[02:13:00:103] [Singular] Casting Slow on Lanzer der Drakkari
+[02:13:00:103] Spell_C::CastSpell(31589, 0, 0xF130747B0000C9F6, 0) [450]
+[02:13:02:090] [Singular] Casting Arcane Blast on Lanzer der Drakkari
+[02:13:02:090] Spell_C::CastSpell(30451, 0, 0xF130747B0000C9F6, 0) [451]
+[02:13:04:685] [Singular] Casting Slow on Feuerwirker der Drakkari
+[02:13:04:685] Spell_C::CastSpell(31589, 0, 0xF130747E0000C9F7, 0) [452]
+[02:13:06:619] [Singular] Casting Counterspell on Medizinmann der Drakkari
+[02:13:06:619] Spell_C::CastSpell(2139, 0, 0xF13074820000C9F5, 0) [453]
+[02:13:07:404] [Singular] Casting Slow on Medizinmann der Drakkari
+[02:13:07:404] Spell_C::CastSpell(31589, 0, 0xF13074820000C9F5, 0) [454]
+[02:13:09:449] [Singular] Casting Arcane Blast on Medizinmann der Drakkari
+[02:13:09:449] Spell_C::CastSpell(30451, 0, 0xF13074820000C9F5, 0) [455]
+[02:13:11:976] [Singular] Casting Slow on Medizinmann der Drakkari
+[02:13:11:976] Spell_C::CastSpell(31589, 0, 0xF13074820000C9F5, 0) [456]
+[02:13:13:507] Spell_C::CastSpell(31589, 0, 0xF13074820000C9F5, 0) [457]
+[02:13:15:109] [Singular] Casting Slow on Erderschütterer der Drakkari
+[02:13:15:109] Spell_C::CastSpell(31589, 0, 0xF13074850000CA07, 0) [458]
+[02:13:17:015] [Singular] Casting Arcane Blast on Erderschütterer der Drakkari
+[02:13:17:015] Spell_C::CastSpell(30451, 0, 0xF13074850000CA07, 0) [459]
+[02:13:20:048] Spell_C::CastSpell(30451, 0, 0xF13074850000CA07, 0) [460]
+[02:13:22:378] [Singular] Casting Arcane Missiles on Erderschütterer der Drakkari
+[02:13:22:378] Spell_C::CastSpell(5143, 0, 0xF13074850000CA07, 0) [461]
+[02:13:25:495] [Singular] Casting Arcane Blast on Erderschütterer der Drakkari
+[02:13:25:495] Spell_C::CastSpell(30451, 0, 0xF13074850000CA07, 0) [462]
+[02:13:27:996] Spell_C::CastSpell(30451, 0, 0xF13074850000CA07, 0) [463]
+[02:13:29:429] [Singular] Casting Slow on Feuerwirker der Drakkari
+[02:13:29:429] Spell_C::CastSpell(31589, 0, 0xF130747E0000C9F7, 0) [464]
+[02:13:30:979] [Singular] No viable target! NOT GOOD!
+[02:13:31:408] Unloading tiles!
+[02:13:31:409] Activity: Loading Tile/s
+[02:13:31:409] Loading GunDrak_30_28
+[02:13:46:844] Loading GunDrak_30_29
+[02:13:46:865] Could not generate full path from {1644.019, 894.7896, 143.6411} to {1638.317, 891.4785, 0.225} (time used: 24 milliseconds)
+[02:13:47:791] Could not generate full path from {1648.214, 894.5884, 143.0441} to {1639.383, 888.479, 0.225} (time used: 3 milliseconds)
+[02:13:48:195] Could not generate full path from {1651.211, 893.9972, 143.0597} to {1641.422, 887.439, 0.225} (time used: 3 milliseconds)
+[02:14:00:564] Could not generate full path from {1647.369, 883.4118, 141.0692} to {1657.144, 877.7117, 0.225} (time used: 3 milliseconds)
+[02:14:10:754] Could not generate full path from {1675.739, 885.7246, 134.7571} to {1683.948, 887.0084, 0.225} (time used: 2 milliseconds)
+[02:14:11:562] Could not generate full path from {1681.231, 888.35, 133.0062} to {1687.557, 889.269, 0.225} (time used: 2 milliseconds)
+[02:14:29:563] Could not generate full path from {1720.583, 850.59, 129.1984} to {1727.603, 844.8898, 0.225} (time used: 2 milliseconds)
+[02:14:32:390] Could not generate full path from {1708.64, 865.5919, 130.2965} to {1725.077, 845.8283, 0.225} (time used: 2 milliseconds)
+[02:14:39:523] [Singular] Casting Slow on Lanzer der Drakkari
+[02:14:39:524] Spell_C::CastSpell(31589, 0, 0xF130747B0000CA03, 0) [465]
+[02:14:40:668] Activity: Combat
+[02:14:41:709] Spell_C::CastSpell(31589, 0, 0xF130747B0000CA03, 0) [466]
+[02:14:43:402] [Singular] Casting Presence of Mind on Myself
+[02:14:43:402] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [467]
+[02:14:44:208] [Singular] Casting Arcane Blast on Lanzer der Drakkari
+[02:14:44:208] Spell_C::CastSpell(30451, 0, 0xF130747B0000CA03, 0) [468]
+[02:14:46:388] Spell_C::CastSpell(30451, 0, 0xF130747B0000CA03, 0) [469]
+[02:14:48:836] [Singular] Casting Slow on Lanzer der Drakkari
+[02:14:48:836] Spell_C::CastSpell(31589, 0, 0xF130747B0000CA03, 0) [470]
+[02:14:49:636] [Singular] No viable target! NOT GOOD!
+[02:14:50:234] [Singular] Casting Counterspell on Medizinmann der Drakkari
+[02:14:50:234] Spell_C::CastSpell(2139, 0, 0xF13074820000CA04, 0) [471]
+[02:14:50:881] [Singular] Casting Mirror Image on Medizinmann der Drakkari
+[02:14:50:881] Spell_C::CastSpell(55342, 0, 0xF13074820000CA04, 0) [472]
+[02:14:52:674] [Singular] No viable target! NOT GOOD!
+[02:15:04:047] Could not generate full path from {1743.649, 850.2699, 129.1986} to {1749.307, 862.2075, 0.225} (time used: 4 milliseconds)
+[02:15:04:940] Could not generate full path from {1739.998, 851.7201, 129.1986} to {1751.665, 865.2543, 0.225} (time used: 3 milliseconds)
+[02:15:09:180] Could not generate full path from {1751.675, 868.1625, 129.1601} to {1751.33, 856.955, 0.225} (time used: 2 milliseconds)
+[02:15:13:053] [Singular] Casting Slow on Unbekannt
+[02:15:13:053] Spell_C::CastSpell(31589, 0, 0xF13074B20000C9F8, 0) [473]
+[02:15:14:871] [Singular] Casting Frost Nova on Unbekannt
+[02:15:14:871] Spell_C::CastSpell(122, 0, 0xF13074B20000C9F8, 0) [474]
+[02:15:17:442] [Singular] Casting Arcane Blast on Erderschütterer der Drakkari
+[02:15:17:443] Spell_C::CastSpell(30451, 0, 0xF13074850000CA01, 0) [475]
+[02:15:20:464] Spell_C::CastSpell(30451, 0, 0xF13074850000CA01, 0) [476]
+[02:15:23:336] [Singular] Casting Arcane Missiles on Erderschütterer der Drakkari
+[02:15:23:336] Spell_C::CastSpell(5143, 0, 0xF13074850000CA01, 0) [477]
+[02:15:26:659] [Singular] Casting Arcane Blast on Erderschütterer der Drakkari
+[02:15:26:659] Spell_C::CastSpell(30451, 0, 0xF13074850000CA01, 0) [478]
+[02:15:29:291] Spell_C::CastSpell(30451, 0, 0xF13074850000CA01, 0) [479]
+[02:15:31:589] [Singular] Casting Arcane Missiles on Erderschütterer der Drakkari
+[02:15:31:589] Spell_C::CastSpell(5143, 0, 0xF13074850000CA01, 0) [480]
+[02:15:32:244] [Singular] No viable target! NOT GOOD!
+[02:15:33:593] [Singular] Casting Slow on Erderschütterer der Drakkari
+[02:15:33:593] Spell_C::CastSpell(31589, 0, 0xF13074850000CA00, 0) [481]
+[02:15:35:338] [Singular] Casting Arcane Missiles on Erderschütterer der Drakkari
+[02:15:35:338] Spell_C::CastSpell(5143, 0, 0xF13074850000CA00, 0) [482]
+[02:15:38:600] [Singular] Casting Arcane Blast on Erderschütterer der Drakkari
+[02:15:38:600] Spell_C::CastSpell(30451, 0, 0xF13074850000CA00, 0) [483]
+[02:15:41:067] Spell_C::CastSpell(30451, 0, 0xF13074850000CA00, 0) [484]
+[02:15:42:080] [Singular] No viable target! NOT GOOD!
+[02:16:04:260] [Singular] Casting Frost Nova on Unbekannt
+[02:16:04:260] Spell_C::CastSpell(122, 0, 0xF13072790000C9C1, 0) [485]
+[02:16:06:221] [Singular] Casting Slow on Unbekannt
+[02:16:06:222] Spell_C::CastSpell(31589, 0, 0xF13072790000C9C1, 0) [486]
+[02:16:08:155] [Singular] Casting Arcane Blast on Unbekannt
+[02:16:08:155] Spell_C::CastSpell(30451, 0, 0xF13072790000C9C1, 0) [487]
+[02:16:11:082] Spell_C::CastSpell(30451, 0, 0xF13072790000C9C1, 0) [488]
+[02:16:13:719] [Singular] Casting Counterspell on Unbekannt
+[02:16:13:719] Spell_C::CastSpell(2139, 0, 0xF13072790000C9C1, 0) [489]
+[02:16:14:789] [Singular] Casting Arcane Missiles on Unbekannt
+[02:16:14:789] Spell_C::CastSpell(5143, 0, 0xF13072790000C9C1, 0) [490]
+[02:16:17:880] [Singular] Casting Presence of Mind on Myself
+[02:16:17:881] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [491]
+[02:16:18:570] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [492]
+[02:16:19:266] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [493]
+[02:16:19:858] [Singular] Casting Arcane Blast on Unbekannt
+[02:16:19:858] Spell_C::CastSpell(30451, 0, 0xF13072790000C9C1, 0) [494]
+[02:16:21:990] Spell_C::CastSpell(30451, 0, 0xF13072790000C9C1, 0) [495]
+[02:16:24:790] Spell_C::CastSpell(30451, 0, 0xF13072790000C9C1, 0) [496]
+[02:16:27:124] [Singular] Casting Arcane Missiles on Unbekannt
+[02:16:27:124] Spell_C::CastSpell(5143, 0, 0xF13072790000C9C1, 0) [497]
+[02:16:30:410] [Singular] Casting Arcane Blast on Unbekannt
+[02:16:30:410] Spell_C::CastSpell(30451, 0, 0xF13072790000C9C1, 0) [498]
+[02:16:31:129] [Singular] No viable target! NOT GOOD!
+[02:16:46:098] [Instancebuddy v3.0.1.315]:Tank has jumped. Moving to jump
+[02:16:48:889] [Instancebuddy v3.0.1.315]:Jump routine is over
+[02:16:50:052] [Singular] No viable target! NOT GOOD!
+[02:17:24:011] [Singular] Casting Slow on Räuber der Drakkari
+[02:17:24:011] Spell_C::CastSpell(31589, 0, 0xF130751E0000C9ED, 0) [499]
+[02:17:25:887] [Singular] Casting Arcane Blast on Räuber der Drakkari
+[02:17:25:887] Spell_C::CastSpell(30451, 0, 0xF130751E0000C9ED, 0) [500]
+[02:17:28:806] [Singular] Casting Slow on Rhinozeros der Drakkari
+[02:17:28:806] Spell_C::CastSpell(31589, 0, 0xF15074EB0000C9E6, 0) [501]
+[02:17:30:081] Sync
+[02:17:30:683] [Singular] Casting Arcane Blast on Rhinozeros der Drakkari
+[02:17:30:683] Spell_C::CastSpell(30451, 0, 0xF15074EB0000C9E6, 0) [502]
+[02:17:32:854] [Singular] Casting Frost Nova on Rhinozeros der Drakkari
+[02:17:32:854] Spell_C::CastSpell(122, 0, 0xF15074EB0000C9E6, 0) [503]
+[02:17:35:029] [Singular] Casting Arcane Missiles on Rhinozeros der Drakkari
+[02:17:35:029] Spell_C::CastSpell(5143, 0, 0xF15074EB0000C9E6, 0) [504]
+[02:17:36:703] [Singular] No viable target! NOT GOOD!
+[02:17:38:497] [Singular] Casting Arcane Blast on Rhinozeros der Drakkari
+[02:17:38:497] Spell_C::CastSpell(30451, 0, 0xF15074EB0000C9E6, 0) [505]
+[02:17:41:036] Spell_C::CastSpell(30451, 0, 0xF15074EB0000C9E6, 0) [506]
+[02:17:43:540] [Singular] Casting Arcane Missiles on Rhinozeros der Drakkari
+[02:17:43:540] Spell_C::CastSpell(5143, 0, 0xF15074EB0000C9E6, 0) [507]
+[02:17:46:187] [Singular] No viable target! NOT GOOD!
+[02:17:55:501] Could not generate full path from {1745.565, 748.6633, 119.1048} to {1766.021, 746.2724, 119.1016} (time used: 5 milliseconds)
+[02:17:56:280] Could not generate full path from {1743.363, 753.6675, 116.9714} to {1768.842, 748.8729, 117.9788} (time used: 3 milliseconds)
+[02:17:56:654] Could not generate full path from {1742.703, 756.4091, 115.017} to {1772.41, 749.7415, 117.1782} (time used: 2 milliseconds)
+[02:17:57:038] Could not generate full path from {1742.103, 758.9009, 113.3381} to {1776.243, 750.2524, 116.6763} (time used: 2 milliseconds)
+[02:17:57:400] Could not generate full path from {1741.382, 761.8998, 111.2704} to {1781.302, 750.4097, 116.2942} (time used: 3 milliseconds)
+[02:17:58:191] Could not generate full path from {1744.247, 764.526, 107.4369} to {1786.238, 751.1282, 115.014} (time used: 3 milliseconds)
+[02:17:59:103] Could not generate full path from {1747.254, 765.6996, 104.6307} to {1793.757, 750.6451, 114.5596} (time used: 3 milliseconds)
+[02:17:59:830] Could not generate full path from {1750.235, 764.7635, 103.8051} to {1798.745, 749.9837, 116.5362} (time used: 4 milliseconds)
+[02:18:00:199] Could not generate full path from {1751.862, 764.215, 103.4607} to {1808.692, 749.191, 120.266} (time used: 2 milliseconds)
+[02:18:00:605] Could not generate full path from {1752.357, 764.0312, 103.3562} to {1814.28, 749.361, 124.2831} (time used: 2 milliseconds)
+[02:18:00:993] Could not generate full path from {1753.59, 763.2131, 103.0483} to {1816.158, 748.7703, 124.7169} (time used: 2 milliseconds)
+[02:18:01:412] Could not generate full path from {1755.344, 762.4243, 102.6713} to {1811.518, 749.0004, 124.8008} (time used: 3 milliseconds)
+[02:18:02:069] Could not generate full path from {1758.104, 761.183, 102.0782} to {1805.358, 748.8299, 121.6954} (time used: 3 milliseconds)
+[02:18:02:462] Could not generate full path from {1759.646, 760.4891, 101.7467} to {1797.853, 749.9003, 116.0183} (time used: 2 milliseconds)
+[02:18:02:850] Could not generate full path from {1761.37, 759.901, 101.3828} to {1794.95, 750.0358, 112.5965} (time used: 3 milliseconds)
+[02:18:04:965] Could not generate full path from {1770.154, 757.2039, 102.6419} to {1794.51, 750.3684, 111.6555} (time used: 3 milliseconds)
+[02:18:05:755] Could not generate full path from {1773.014, 756.3441, 101.8453} to {1797.507, 749.5, 111.8786} (time used: 2 milliseconds)
+[02:18:07:436] Could not generate full path from {1778.068, 755.1155, 99.99155} to {1797.863, 748.8559, 109.9937} (time used: 3 milliseconds)
+[02:18:08:986] Could not generate full path from {1781.847, 753.2911, 98.60852} to {1796.024, 749.0406, 106.9892} (time used: 2 milliseconds)
+[02:18:10:358] Could not generate full path from {1784.987, 752.6591, 97.50079} to {1799.321, 748.2355, 107.1811} (time used: 2 milliseconds)
+[02:18:11:186] Stopping the bot!
+[02:18:11:187] Stop called!
+[02:18:11:197] Changed tilemap to GunDrak, Tiled: True
+[02:18:11:209] Changing current profile to Silk Cloth - Badlands
+[02:18:11:275] Activity: Honorbuddy Stopped
+[02:18:11:447] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[02:18:11:448] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[02:18:48:333] Starting the bot!
+[02:18:48:390] Changing current profile to Silk Cloth - Badlands
+[02:18:48:397] Changing current profile to Empty Profile
+[02:18:48:498] Cleared POI - Reason Starting up
+[02:18:48:498] Cleared POI
+[02:18:49:239] [Instancebuddy v3.0.1.315]:Tank is set to: Druid with MaxHP: 19852
+[02:18:49:783] [Singular] Casting Mirror Image on Schlachtreiter der Drakkari
+[02:18:49:783] Spell_C::CastSpell(55342, 0, 0xF130748C0000C9EA, 0) [508]
+[02:18:50:735] Activity: Combat
+[02:18:51:742] [Singular] Casting Slow on Rhinozeros der Drakkari
+[02:18:51:742] Spell_C::CastSpell(31589, 0, 0xF150748E0000C9E9, 0) [509]
+[02:18:53:454] [Singular] Casting Presence of Mind on Myself
+[02:18:53:454] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [510]
+[02:18:54:039] [Singular] Casting Arcane Blast on Rhinozeros der Drakkari
+[02:18:54:039] Spell_C::CastSpell(30451, 0, 0xF150748E0000C9E9, 0) [511]
+[02:18:55:675] [Singular] Casting Shoot on Rhinozeros der Drakkari
+[02:18:55:675] Spell_C::CastSpell(5019, 0, 0xF150748E0000C9E9, 0) [512]
+[02:18:56:514] [Singular] Casting Arcane Blast on Rhinozeros der Drakkari
+[02:18:56:514] Spell_C::CastSpell(30451, 0, 0xF150748E0000C9E9, 0) [513]
+[02:18:58:854] [Singular] Casting Arcane Missiles on Rhinozeros der Drakkari
+[02:18:58:854] Spell_C::CastSpell(5143, 0, 0xF150748E0000C9E9, 0) [514]
+[02:19:01:959] [Singular] No viable target! NOT GOOD!
+[02:19:02:650] [Singular] Casting Slow on Schlachtreiter der Drakkari
+[02:19:02:650] Spell_C::CastSpell(31589, 0, 0xF130748C0000C9EA, 0) [515]
+[02:19:04:500] [Singular] Casting Counterspell on Schlachtreiter der Drakkari
+[02:19:04:500] Spell_C::CastSpell(2139, 0, 0xF130748C0000C9EA, 0) [516]
+[02:19:05:590] [Singular] Casting Arcane Blast on Schlachtreiter der Drakkari
+[02:19:05:590] Spell_C::CastSpell(30451, 0, 0xF130748C0000C9EA, 0) [517]
+[02:19:08:470] Spell_C::CastSpell(30451, 0, 0xF130748C0000C9EA, 0) [518]
+[02:19:10:920] [Singular] Casting Slow on Schlachtreiter der Drakkari
+[02:19:10:920] Spell_C::CastSpell(31589, 0, 0xF130748C0000C9EA, 0) [519]
+[02:19:11:564] [Singular] No viable target! NOT GOOD!
+[02:19:11:971] Activity: Loading Tile/s
+[02:19:11:971] Loading GunDrak_30_28
+[02:19:16:706] [Singular] Casting Slow on Rhinozeros der Drakkari
+[02:19:16:706] Spell_C::CastSpell(31589, 0, 0xF150748E0000C9EE, 0) [520]
+[02:19:17:739] Activity: Combat
+[02:19:18:816] [Singular] Casting Arcane Blast on Rhinozeros der Drakkari
+[02:19:18:816] Spell_C::CastSpell(30451, 0, 0xF150748E0000C9EE, 0) [521]
+[02:19:21:725] Spell_C::CastSpell(30451, 0, 0xF150748E0000C9EE, 0) [522]
+[02:19:24:222] [Singular] Casting Arcane Missiles on Rhinozeros der Drakkari
+[02:19:24:222] Spell_C::CastSpell(5143, 0, 0xF150748E0000C9EE, 0) [523]
+[02:19:27:334] [Singular] Casting Arcane Blast on Rhinozeros der Drakkari
+[02:19:27:334] Spell_C::CastSpell(30451, 0, 0xF150748E0000C9EE, 0) [524]
+[02:19:28:014] [Singular] No viable target! NOT GOOD!
+[02:19:30:558] [Singular] Casting Slow on Schlachtreiter der Drakkari
+[02:19:30:558] Spell_C::CastSpell(31589, 0, 0xF130748C0000C9EF, 0) [525]
+[02:19:32:585] [Singular] Casting Arcane Blast on Schlachtreiter der Drakkari
+[02:19:32:586] Spell_C::CastSpell(30451, 0, 0xF130748C0000C9EF, 0) [526]
+[02:19:35:110] [Singular] Casting Counterspell on Schlachtreiter der Drakkari
+[02:19:35:110] Spell_C::CastSpell(2139, 0, 0xF130748C0000C9EF, 0) [527]
+[02:19:36:014] [Singular] No viable target! NOT GOOD!
+[02:19:54:356] [Singular] Casting Slow on Gal'darah
+[02:19:54:356] Spell_C::CastSpell(31589, 0, 0xF150727A0000CA79, 0) [528]
+[02:19:55:983] [Singular] Casting Arcane Blast on Gal'darah
+[02:19:55:983] Spell_C::CastSpell(30451, 0, 0xF150727A0000CA79, 0) [529]
+[02:19:58:635] Spell_C::CastSpell(30451, 0, 0xF150727A0000CA79, 0) [530]
+[02:20:01:204] [Singular] Casting Arcane Missiles on Gal'darah
+[02:20:01:204] Spell_C::CastSpell(5143, 0, 0xF150727A0000CA79, 0) [531]
+[02:20:04:458] [Singular] Casting Arcane Blast on Gal'darah
+[02:20:04:459] Spell_C::CastSpell(30451, 0, 0xF150727A0000CA79, 0) [532]
+[02:20:07:252] Spell_C::CastSpell(30451, 0, 0xF150727A0000CA79, 0) [533]
+[02:20:09:986] [Singular] Casting Arcane Missiles on Gal'darah
+[02:20:09:986] Spell_C::CastSpell(5143, 0, 0xF150727A0000CA79, 0) [534]
+[02:20:13:144] [Singular] Casting Arcane Blast on Gal'darah
+[02:20:13:144] Spell_C::CastSpell(30451, 0, 0xF150727A0000CA79, 0) [535]
+[02:20:15:606] Spell_C::CastSpell(30451, 0, 0xF150727A0000CA79, 0) [536]
+[02:20:18:040] Spell_C::CastSpell(30451, 0, 0xF150727A0000CA79, 0) [537]
+[02:20:20:550] [Singular] Casting Arcane Missiles on Gal'darah
+[02:20:20:550] Spell_C::CastSpell(5143, 0, 0xF150727A0000CA79, 0) [538]
+[02:20:23:549] [Singular] Casting Arcane Blast on Gal'darah
+[02:20:23:549] Spell_C::CastSpell(30451, 0, 0xF150727A0000CA79, 0) [539]
+[02:20:26:043] [Singular] Casting Presence of Mind on Myself
+[02:20:26:043] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [540]
+[02:20:26:579] [Singular] Casting Arcane Blast on Gal'darah
+[02:20:26:580] Spell_C::CastSpell(30451, 0, 0xF150727A0000CA79, 0) [541]
+[02:20:41:323] [Instancebuddy v3.0.1.315]:Random dungeon is completed. Will leave in 36 seconds
+[02:21:04:914] [Instancebuddy v3.0.1.315]:Tank is set to: Druid with MaxHP: 16828
+[02:21:06:769] [Instancebuddy v3.0.1.315]:Tank is set to: Rogue with MaxHP: 15317
+[02:21:11:111] [Instancebuddy v3.0.1.315]:Tank is set to: Mage with MaxHP: 13022
+[02:21:11:114] Could not generate full path from {1888.388, 746.5324, 136.1037} to {1688.285, 731.8793, 142.3487} (time used: 1 milliseconds)
+[02:21:13:513] Could not generate full path from {1871.309, 745.7665, 136.3408} to {1685.297, 733.922, 142.3643} (time used: 1 milliseconds)
+[02:21:14:008] Could not generate full path from {1867.47, 745.4084, 136.3613} to {1682.83, 736.1769, 142.3625} (time used: 1 milliseconds)
+[02:21:14:776] Could not generate full path from {1861.666, 744.8672, 136.2293} to {1681.875, 737.9991, 142.3113} (time used: 1 milliseconds)
+[02:21:17:601] [Instancebuddy v3.0.1.315]:Dungeon run is over. Teleporting out.
+[02:21:20:736] Not in game
+[02:21:29:317] Changed tilemap to Northrend, Tiled: True
+[02:21:29:328] [Singular] Context changed. New context: Normal. Rebuilding behaviors.
+[02:21:29:337] [Singular] Using CreateArcaneMageCombat for Arcane Mage - Combat (Priority: 0)
+[02:21:29:353] [Singular] Using CreateArcaneMagePull for Arcane Mage - Pull (Priority: 0)
+[02:21:29:359] [Singular] Using default rest behavior.
+[02:21:29:378] [Singular] Using CreateMageBuffs for Arcane Mage - PreCombatBuffs (Priority: 0)
+[02:21:29:464] Updating repair cost for current equipped items. New value: [1g56s37c]
+[02:21:30:875] Stopping the bot!
+[02:21:30:875] Stop called!
+[02:21:30:905] Changing current profile to Silk Cloth - Badlands
+[02:21:30:925] Activity: Honorbuddy Stopped
+[02:21:31:027] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at BlueMagic.ExecutorRand.Execute()
+   at Styx.WoWInternals.WoWObjects.WoWObject.GetObjectName()
+[02:21:31:033] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[02:21:31:035] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+   at Styx.Logic.Targeting.Pulse()
+[02:21:31:039] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[02:21:31:040] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[02:21:42:946] Activity: Loading Profile...
+[02:22:30:054] Sync
+[02:22:41:817] Starting the bot!
+[02:22:41:837] Changing current profile to Silk Cloth - Badlands
+[02:22:41:875] Cleared POI - Reason Starting up
+[02:22:41:875] Cleared POI
+[02:22:57:750] Stopping the bot!
+[02:22:57:750] Stop called!
+[02:22:57:782] Activity: Honorbuddy Stopped
+[02:22:57:785] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[02:22:57:786] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[02:23:00:265] Activity: Loading Profile...
+[02:23:15:382] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[02:23:15:385] Changing current profile to Kolramas 75-78
+[02:23:17:634] Starting the bot!
+[02:23:17:663] Changing current profile to Kolramas 75-78
+[02:23:17:727] Can not start quest bot - this profile does not contain a quest order!
+[02:23:17:727] Stop called!
+[02:23:28:922] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[02:23:28:923] Changing current profile to Kolramas 75-78
+[02:23:30:679] Starting the bot!
+[02:23:30:725] Changing current profile to Kolramas 75-78
+[02:23:30:726] Can not start quest bot - this profile does not contain a quest order!
+[02:23:30:726] Stop called!
+[02:23:44:992] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[02:23:45:055] Changing current profile to Kolramas 75-78
+[02:23:51:636] Starting the bot!
+[02:23:51:671] Changing current profile to Kolramas 75-78
+[02:23:51:673] Can not start quest bot - this profile does not contain a quest order!
+[02:23:51:673] Stop called!
+[02:23:54:811] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[02:23:54:812] Changing current profile to Kolramas 75-78
+[02:23:55:965] Starting the bot!
+[02:23:55:989] Changing current profile to Kolramas 75-78
+[02:23:55:991] Can not start quest bot - this profile does not contain a quest order!
+[02:23:55:991] Stop called!
+[02:24:00:404] Starting the bot!
+[02:24:00:456] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[02:24:00:457] Changing current profile to Kolramas 75-78
+[02:24:00:566] Cleared POI - Reason Starting up
+[02:24:00:566] Cleared POI
+[02:24:01:396] Changed POI to:Type: Kill, Name: Bluttrinker von Drakuru
+[02:24:01:612] Activity: Loading Tile/s
+[02:24:01:612] Loading Northrend_36_22
+[02:24:01:798] Activity: Moving towards Bluttrinker von Drakuru
+[02:24:02:865] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[02:24:02:865] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [542]
+[02:24:03:060] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [543]
+[02:24:03:365] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [544]
+[02:24:03:744] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [545]
+[02:24:04:176] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [546]
+[02:24:04:619] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [547]
+[02:24:05:001] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [548]
+[02:24:05:479] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [549]
+[02:24:05:915] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [550]
+[02:24:06:246] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [551]
+[02:24:06:607] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [552]
+[02:24:07:091] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [553]
+[02:24:07:545] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [554]
+[02:24:07:996] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [555]
+[02:24:08:484] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [556]
+[02:24:08:929] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [557]
+[02:24:09:242] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [558]
+[02:24:09:449] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [559]
+[02:24:09:673] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [560]
+[02:24:10:296] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [561]
+[02:24:10:796] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [562]
+[02:24:11:238] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [563]
+[02:24:12:830] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [564]
+[02:24:15:877] [Singular] Casting Mirror Image on Bluttrinker von Drakuru
+[02:24:15:877] Spell_C::CastSpell(55342, 0, 0xF13073D6009C198D, 0) [565]
+[02:24:20:215] [Singular] Casting Frost Nova on Bluttrinker von Drakuru
+[02:24:20:215] Spell_C::CastSpell(122, 0, 0xF13073D6009C198D, 0) [566]
+[02:24:20:896] [Singular] Getting away from frozen target
+[02:24:22:283] [Singular] Casting Presence of Mind on Myself
+[02:24:22:283] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [567]
+[02:24:22:873] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[02:24:22:873] Spell_C::CastSpell(30451, 0, 0xF13073D6009C198D, 0) [568]
+[02:24:24:145] Cleared POI - Reason POI is dead from Combat
+[02:24:24:145] Cleared POI
+[02:24:24:299] Activity: Moving to hotspot
+[02:24:24:303] Activity: Loading Tile/s
+[02:24:24:303] Loading Northrend_38_22
+[02:24:24:660] Loading Northrend_36_23
+[02:24:24:902] Loading Northrend_37_22
+[02:24:25:167] Loading Northrend_35_22
+[02:24:25:573] Loading Northrend_38_23
+[02:24:25:836] Loading Northrend_37_23
+[02:24:26:046] Successfully generated path from {4868.83, -2364.107, 234.5623} to {4885.605, -3285.401, 290.122} in 1.388 seconds
+[02:24:26:795] Unloading tiles!
+[02:24:26:810] Loading Northrend_36_22
+[02:24:27:018] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:27:195] Moving to Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:28:638] InteractDebug:337915992
+[02:24:28:670] Interact Done:337915992
+[02:24:29:870] Looting Bluttrinker von Drakuru Guid:0xF13073D6009C198D
+[02:24:30:030] Cleared POI - Reason Waiting for loot flag
+[02:24:30:030] Cleared POI
+[02:24:30:428] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:30:579] Cleared POI - Reason Already looted
+[02:24:30:579] Cleared POI
+[02:24:30:713] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:30:896] Cleared POI - Reason Already looted
+[02:24:30:896] Cleared POI
+[02:24:31:013] Updating repair cost for current equipped items. New value: [1g56s37c]
+[02:24:31:730] Changed POI to:Type: Kill, Name: Bluttrinker von Drakuru
+[02:24:32:395] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[02:24:32:395] Spell_C::CastSpell(30451, 0, 0xF13073D6009C12FA, 0) [569]
+[02:24:34:956] Spell_C::CastSpell(30451, 0, 0xF13073D6009C12FA, 0) [570]
+[02:24:37:619] [Singular] Casting Arcane Missiles on Bluttrinker von Drakuru
+[02:24:37:619] Spell_C::CastSpell(5143, 0, 0xF13073D6009C12FA, 0) [571]
+[02:24:40:767] [Singular] Casting Slow on Bluttrinker von Drakuru
+[02:24:40:767] Spell_C::CastSpell(31589, 0, 0xF13073D6009C12FA, 0) [572]
+[02:24:40:999] Cleared POI - Reason POI is dead from Combat
+[02:24:40:999] Cleared POI
+[02:24:41:124] [Singular] Target is invalid. Switching to Bluttrinker von Drakuru!
+[02:24:41:294] [Singular] No viable target! NOT GOOD!
+[02:24:41:563] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:41:729] Moving to Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:42:835] InteractDebug:337962392
+[02:24:42:877] Interact Done:337962392
+[02:24:46:128] Cleared POI - Reason Waiting for loot flag
+[02:24:46:128] Cleared POI
+[02:24:46:491] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:46:646] Cleared POI - Reason Already looted
+[02:24:46:646] Cleared POI
+[02:24:46:760] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:46:977] Cleared POI - Reason Already looted
+[02:24:46:977] Cleared POI
+[02:24:47:093] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:47:199] Cleared POI - Reason Already looted
+[02:24:47:199] Cleared POI
+[02:24:47:457] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:47:614] Cleared POI - Reason Already looted
+[02:24:47:614] Cleared POI
+[02:24:47:779] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:48:079] InteractDebug:337962392
+[02:24:48:133] Interact Done:337962392
+[02:24:49:045] Looting Bluttrinker von Drakuru Guid:0xF13073D6009C12FA
+[02:24:49:184] Cleared POI - Reason Waiting for loot flag
+[02:24:49:184] Cleared POI
+[02:24:49:634] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:49:777] Cleared POI - Reason Already looted
+[02:24:49:777] Cleared POI
+[02:24:49:918] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:24:50:050] Cleared POI - Reason Already looted
+[02:24:50:050] Cleared POI
+[02:24:50:765] Changed POI to:Type: Kill, Name: Bluttrinker von Drakuru
+[02:24:51:402] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[02:24:51:402] Spell_C::CastSpell(30451, 0, 0xF13073D600994E77, 0) [573]
+[02:24:54:383] [Singular] Casting Slow on Bluttrinker von Drakuru
+[02:24:54:383] Spell_C::CastSpell(31589, 0, 0xF13073D600994E77, 0) [574]
+[02:24:56:426] [Singular] Casting Arcane Blast on Bluttrinker von Drakuru
+[02:24:56:426] Spell_C::CastSpell(30451, 0, 0xF13073D600994E77, 0) [575]
+[02:24:59:114] [Singular] Casting Arcane Missiles on Bluttrinker von Drakuru
+[02:24:59:114] Spell_C::CastSpell(5143, 0, 0xF13073D600994E77, 0) [576]
+[02:25:01:887] [Singular] Casting Frost Nova on Bluttrinker von Drakuru
+[02:25:01:887] Spell_C::CastSpell(122, 0, 0xF13073D600994E77, 0) [577]
+[02:25:02:675] Cleared POI - Reason POI is dead from Combat
+[02:25:02:675] Cleared POI
+[02:25:02:779] Changed POI to:Type: Loot, Name: Bluttrinker von Drakuru
+[02:25:02:884] Moving to Type: Loot, Name: Bluttrinker von Drakuru
+[02:25:03:712] InteractDebug:338020392
+[02:25:03:785] Interact Done:338020392
+[02:25:04:953] Looting Bluttrinker von Drakuru Guid:0xF13073D600994E77
+[02:25:05:123] Cleared POI - Reason Waiting for loot flag
+[02:25:05:123] Cleared POI
+[02:25:05:632] Activity: Moving to hotspot
+[02:25:05:634] Activity: Loading Tile/s
+[02:25:05:634] Loading Northrend_38_22
+[02:25:05:934] Loading Northrend_36_23
+[02:25:06:194] Loading Northrend_37_22
+[02:25:06:590] Loading Northrend_35_22
+[02:25:07:000] Loading Northrend_38_23
+[02:25:07:262] Loading Northrend_37_23
+[02:25:07:533] Successfully generated path from {4863.784, -2361.844, 234.6199} to {4885.605, -3285.401, 290.122} in 1.601 seconds
+[02:25:09:309] Activity: Moving to hotspot
+[02:25:13:177] Stopping the bot!
+[02:25:13:177] Stop called!
+[02:25:13:227] Activity: Honorbuddy Stopped
+[02:25:13:343] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[02:25:13:344] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()

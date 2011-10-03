@@ -1,0 +1,6 @@
+[14:48:28:424] http://www.codemplosion.com
+[14:48:28:424] Version: 1.0.2.26
+[14:48:46:437] Logging in...
+[14:49:17:031] Login Error: Das Öffnen wurde nicht innerhalb des zugewiesenen Zeitlimits von 00:00:29.9989999 abgeschlossen. Der für diesen Vorgang zugewiesene Zeitraum war möglicherweise ein Teil eines längeren Zeitlimits.
+[14:49:17:031] 
+[14:49:17:033] Authentication failed!

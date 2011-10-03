@@ -1,0 +1,126 @@
+[08:57:13:625] http://www.codemplosion.com
+[08:57:13:626] Version: 1.0.2.26
+[08:57:15:345] Logging in...
+[08:57:17:612] Forum is back online.
+[08:57:17:615] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[08:57:22:827] Attached to WoW with ID 5844
+[08:57:23:318] Honorbuddy v2.0.0.5354 started!
+[08:57:23:320] Using WoW with process ID 5844
+[08:57:23:320] Platform: Microsoft Windows NT 6.1.7600.0
+[08:57:23:320] Executable Path: C:\Users\samy\Desktop\HB und GB\Honorbuddy.exe
+[08:57:23:331] Character is a level 34 Draenei Paladin
+[08:57:23:334] Current zone is Das Schlingendornkap
+[08:57:23:392] New bot added!: ArchaeologyBuddy
+[08:57:24:400] New bot added!: Instancebuddy
+[08:57:24:469] New bot added!: Gatherbuddy2
+[08:57:24:479] New bot added!: Grind Bot
+[08:57:24:487] New bot added!: Questing
+[08:57:24:494] New bot added!: PvP
+[08:57:24:507] New bot added!: BG Bot [Beta]
+[08:57:24:514] New bot added!: Mixed Mode
+[08:57:24:528] New bot added!: PartyBot
+[08:57:26:884] An error occured while loading PoolFishingBuddy!
+[08:57:26:985] System.Reflection.ReflectionTypeLoadException: Mindestens ein Typ in der Assembly kann nicht geladen werden. Rufen Sie die LoaderExceptions-Eigenschaft ab, wenn Sie weitere Informationen benötigen.
+   bei System.Reflection.Module._GetTypesInternal(StackCrawlMark& stackMark)
+   bei System.Reflection.Assembly.GetTypes()
+   bei Styx.Bot.Plugins.PFBLoader..ctor() in c:\Users\samy\Desktop\HB und GB\Bots\PoolFishingBuddy\PFBLoader.cs:Zeile 30.
+[08:57:26:985] New bot added!: Combat Bot
+[08:57:26:985] A bot could not be added because it threw an exception when 'Name' was accessed.
+[08:57:27:029] MeshesFolderPath: C:\Users\samy\AppData\Local\HonorbuddyMeshes
+[08:57:27:029] KillBetweenHotspots: True
+[08:57:27:029] AdvancedSettingsMode: False
+[08:57:27:029] LogoutForInactivity: True
+[08:57:27:029] LogoutInactivityTimer: 10
+[08:57:27:029] LogoutInactivityUseForceQuit: False
+[08:57:27:029] ProfileDebuggingMode: False
+[08:57:27:029] FoodAmount: 0
+[08:57:27:029] DrinkAmount: 0
+[08:57:27:029] FormLocationX: -2
+[08:57:27:029] FormLocationY: 16
+[08:57:27:029] FormWidth: 396
+[08:57:27:029] FormHeight: 302
+[08:57:27:029] SelectedBotIndex: 0
+[08:57:27:029] UseFlightPaths: False
+[08:57:27:029] FindMountAutomatically: True
+[08:57:27:029] UseRandomMount: True
+[08:57:27:029] FoodName has no value yet!
+[08:57:27:029] DrinkName has no value yet!
+[08:57:27:029] MountName has no value yet!
+[08:57:27:029] LootMobs: True
+[08:57:27:029] SkinMobs: False
+[08:57:27:029] NinjaSkin: False
+[08:57:27:029] LootChests: True
+[08:57:27:029] HarvestMinerals: False
+[08:57:27:029] HarvestHerbs: False
+[08:57:27:029] UseMount: True
+[08:57:27:029] PullDistance: 30
+[08:57:27:029] LootRadius: 45
+[08:57:27:029] FindVendorsAutomatically: False
+[08:57:27:029] TrainNewSkills: False
+[08:57:27:029] LearnFlightPaths: True
+[08:57:27:029] LastUsedPath has no value yet!
+[08:57:27:029] MountDistance: 75
+[08:57:27:029] RessAtSpiritHealers: False
+[08:57:27:029] GroundMountFarmingMode: False
+[08:57:27:029] FoodAmount: 0
+[08:57:27:029] DrinkAmount: 0
+[08:57:27:029] FormLocationX: -2
+[08:57:27:029] FormLocationY: 16
+[08:57:27:029] SelectedBotIndex: 0
+[08:57:27:029] UseFlightPaths: False
+[08:57:27:029] FindMountAutomatically: True
+[08:57:27:029] UseRandomMount: True
+[08:57:27:029] FoodName has no value yet!
+[08:57:27:029] DrinkName has no value yet!
+[08:57:27:029] MountName has no value yet!
+[08:57:27:029] LootMobs: True
+[08:57:27:029] SkinMobs: False
+[08:57:27:029] NinjaSkin: False
+[08:57:27:029] LootChests: True
+[08:57:27:029] HarvestMinerals: False
+[08:57:27:029] HarvestHerbs: False
+[08:57:27:029] UseMount: True
+[08:57:27:029] PullDistance: 30
+[08:57:27:029] LootRadius: 45
+[08:57:27:029] FindVendorsAutomatically: False
+[08:57:27:029] TrainNewSkills: False
+[08:57:27:029] LearnFlightPaths: True
+[08:57:27:029] LastUsedPath has no value yet!
+[08:57:27:029] MountDistance: 75
+[08:57:27:029] RessAtSpiritHealers: False
+[08:57:27:031] Please wait a few seconds while Honorbuddy initializes.
+[08:57:27:033] Activity: Initializing.
+[08:57:27:035] Activity: Loading memory management & tables
+[08:57:27:151] Activity: Loading Spells
+[08:57:27:443] Activity: Initializing Spell Manager
+[08:57:27:474] Activity: Initializing Plugins
+[08:57:27:576] 
+[08:57:29:421] [WeigtSet] Selected weight set: Paladin-Retribution
+[08:57:29:954] Plugin from C:\Users\samy\Desktop\HB und GB\Plugins\Instancebuddy could not be compiled! Compiler errors:
+[08:57:29:954] File: Instancebuddy.cs Line: 530 Error: Der Name "SequenceManager" ist im aktuellen Kontext nicht vorhanden.
+File: Instancebuddy.cs Line: 530 Error: Der Name "Sequence" ist im aktuellen Kontext nicht vorhanden.
+
+[08:57:32:648] Activity: Initializing Navigator
+[08:57:32:871] Activity: Initializing Blackspot Manager
+[08:57:32:894] Activity: Initializing Battlegrounds
+[08:57:32:937] Activity: Initializing Flight Paths
+[08:57:33:031] Activity: Initializing Routines
+[08:57:33:040] Building spell book
+[08:57:33:048] Spell book built
+[08:57:33:049] Compiling C:\Users\samy\Desktop\HB und GB\CustomClasses\ShamWOW
+[08:57:34:238] Compiling C:\Users\samy\Desktop\HB und GB\CustomClasses\Singular
+[08:57:35:356] Activity: Initialization complete
+[08:57:35:357] Initialization complete.
+[08:57:35:363] Activity: Honorbuddy Startup Complete
+[08:58:03:976] Chose Singular $Revision: 254 $ as your combat class!
+[08:58:03:978] [Singular] Starting Singular v0.0.0.0
+[08:58:04:018] [Singular] Determining talent spec.
+[08:58:04:200] [Singular] Current spec is  Retribution Paladin
+[08:58:04:247] [Singular] Using CreateRetributionPaladinCombat for Retribution Paladin - Combat (Priority: 0)
+[08:58:04:310] [Singular] Using CreateRetributionPaladinPull for Retribution Paladin - Pull (Priority: 0)
+[08:58:04:316] [Singular] Using default rest behavior.
+[08:58:04:322] [Singular] Using CreateRetributionPaladinCombatBuffs for Retribution Paladin - CombatBuffs (Priority: 0)
+[08:58:04:333] [Singular] Using CreatePaladinPreCombatBuffs for Retribution Paladin - PreCombatBuffs (Priority: 0)
+[08:58:04:340] [Singular] Behaviors created!

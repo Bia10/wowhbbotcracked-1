@@ -1,0 +1,2261 @@
+[02:05:24:443] http://www.codemplosion.com
+[02:05:24:443] Version: 1.0.2.26
+[02:05:26:906] Logging in...
+[02:05:45:780] Forum is back online.
+[02:05:45:781] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[02:05:56:274] Attached to WoW with ID 468
+[02:05:56:397] Honorbuddy v2.0.0.5354 started!
+[02:05:56:399] Using WoW with process ID 468
+[02:05:56:399] Platform: Microsoft Windows NT 6.1.7600.0
+[02:05:56:399] Executable Path: C:\Users\samy\Desktop\01a804f0\Honorbuddy.exe
+[02:05:56:407] Character is a level 77 Draenei Mage
+[02:05:56:409] Current zone is Zul'Drak
+[02:05:56:412] New bot added!: ArchaeologyBuddy
+[02:05:56:693] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[02:05:56:697] [Instancebuddy v3.0.1.315]:Currently supported tanking dungeons :
+[02:05:56:697] [Instancebuddy v3.0.1.315]:(This list will update itself automatically)
+[02:05:56:697] [Instancebuddy v3.0.1.315]:
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Deadmines
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Ragefire Chasm
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 16 - 26) Shadowfang Keep
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 20 - 30) The Stockade
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 26 - 36) Scarlet Monastery - Graveyard
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 29 - 39) Scarlet Monastery - Library
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 32 - 42) Scarlet Monastery - Armory
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 35 - 45) Scarlet Monastery - Cathedral
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 38 - 48) Scholomance
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 42 - 52) Stratholme - Main Gate
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 46 - 56) Stratholme - Service Entrance
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 57 - 67) Hellfire Ramparts
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 59 - 68) The Blood Furnace
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 62 - 71) Mana Tombs
+[02:05:56:697] [Instancebuddy v3.0.1.315]: (Level 65 - 73) Sethekk Halls
+[02:05:56:697] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[02:05:56:809] New bot added!: Instancebuddy
+[02:05:56:851] New bot added!: Gatherbuddy2
+[02:05:56:858] New bot added!: Grind Bot
+[02:05:56:864] New bot added!: Questing
+[02:05:56:868] New bot added!: PvP
+[02:05:56:872] New bot added!: BG Bot [Beta]
+[02:05:56:886] New bot added!: Mixed Mode
+[02:05:56:891] New bot added!: PartyBot
+[02:05:57:318] New bot added!: Combat Bot
+[02:05:57:344] MeshesFolderPath: C:\Users\samy\AppData\Local\HonorbuddyMeshes
+[02:05:57:344] KillBetweenHotspots: True
+[02:05:57:344] AdvancedSettingsMode: False
+[02:05:57:344] LogoutForInactivity: True
+[02:05:57:344] LogoutInactivityTimer: 10
+[02:05:57:344] LogoutInactivityUseForceQuit: False
+[02:05:57:344] ProfileDebuggingMode: False
+[02:05:57:344] FoodAmount: 0
+[02:05:57:344] DrinkAmount: 0
+[02:05:57:344] EnabledPlugins:
+[02:05:57:344]     Bug Submitter
+[02:05:57:344]     Profiles
+[02:05:57:344]     Refreshment Detection
+[02:05:57:344] FormLocationX: -2
+[02:05:57:344] FormLocationY: 16
+[02:05:57:344] FormWidth: 396
+[02:05:57:344] FormHeight: 302
+[02:05:57:344] SelectedBotIndex: 3
+[02:05:57:344] UseFlightPaths: False
+[02:05:57:344] FindMountAutomatically: True
+[02:05:57:344] UseRandomMount: True
+[02:05:57:344] FoodName: 33454
+[02:05:57:344] DrinkName: 43518
+[02:05:57:344] MountName: 32235
+[02:05:57:344] LootMobs: True
+[02:05:57:344] SkinMobs: False
+[02:05:57:344] NinjaSkin: False
+[02:05:57:344] LootChests: True
+[02:05:57:344] HarvestMinerals: False
+[02:05:57:344] HarvestHerbs: False
+[02:05:57:344] UseMount: True
+[02:05:57:344] PullDistance: 30
+[02:05:57:344] LootRadius: 45
+[02:05:57:344] FindVendorsAutomatically: True
+[02:05:57:344] TrainNewSkills: False
+[02:05:57:344] LearnFlightPaths: False
+[02:05:57:344] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\frostweave\ZD Cloth Farm.xml
+[02:05:57:344] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\frostweave\ZD Cloth Farm.xml
+[02:05:57:344] MountDistance: 75
+[02:05:57:344] RessAtSpiritHealers: False
+[02:05:57:344] GroundMountFarmingMode: False
+[02:05:57:344] FoodAmount: 0
+[02:05:57:344] DrinkAmount: 0
+[02:05:57:344] FormLocationX: -2
+[02:05:57:344] FormLocationY: 16
+[02:05:57:344] SelectedBotIndex: 3
+[02:05:57:344] UseFlightPaths: False
+[02:05:57:344] FindMountAutomatically: True
+[02:05:57:344] UseRandomMount: True
+[02:05:57:344] FoodName: 33454
+[02:05:57:344] DrinkName: 43518
+[02:05:57:344] MountName: 32235
+[02:05:57:344] LootMobs: True
+[02:05:57:344] SkinMobs: False
+[02:05:57:344] NinjaSkin: False
+[02:05:57:344] LootChests: True
+[02:05:57:344] HarvestMinerals: False
+[02:05:57:344] HarvestHerbs: False
+[02:05:57:344] UseMount: True
+[02:05:57:344] PullDistance: 30
+[02:05:57:344] LootRadius: 45
+[02:05:57:344] FindVendorsAutomatically: True
+[02:05:57:344] TrainNewSkills: False
+[02:05:57:344] LearnFlightPaths: False
+[02:05:57:344] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Default Profiles\frostweave\ZD Cloth Farm.xml
+[02:05:57:344] MountDistance: 75
+[02:05:57:344] RessAtSpiritHealers: False
+[02:05:57:346] Please wait a few seconds while Honorbuddy initializes.
+[02:05:57:347] Activity: Initializing.
+[02:05:57:353] Activity: Loading memory management & tables
+[02:05:57:386] Activity: Loading Spells
+[02:05:57:481] Activity: Initializing Spell Manager
+[02:05:57:530] Activity: Initializing Plugins
+[02:05:57:543] 
+[02:05:58:602] [WeigtSet] Selected weight set: Mage-Arcane
+[02:05:59:034] Plugin from C:\Users\samy\Desktop\01a804f0\Plugins\Instancebuddy could not be compiled! Compiler errors:
+[02:05:59:034] File: Instancebuddy.cs Line: 530 Error: Der Name "SequenceManager" ist im aktuellen Kontext nicht vorhanden.
+File: Instancebuddy.cs Line: 530 Error: Der Name "Sequence" ist im aktuellen Kontext nicht vorhanden.
+
+[02:06:00:672] Activity: Initializing Navigator
+[02:06:00:785] Activity: Initializing Blackspot Manager
+[02:06:00:791] Activity: Initializing Battlegrounds
+[02:06:00:823] Activity: Initializing Flight Paths
+[02:06:00:883] Activity: Initializing Routines
+[02:06:00:896] Building spell book
+[02:06:00:902] Spell book built
+[02:06:00:903] Compiling C:\Users\samy\Desktop\01a804f0\CustomClasses\ShamWOW
+[02:06:01:753] Compiling C:\Users\samy\Desktop\01a804f0\CustomClasses\Singular
+[02:06:02:662] Activity: Initialization complete
+[02:06:02:663] Initialization complete.
+[02:06:02:667] Activity: Honorbuddy Startup Complete
+[02:07:11:023] Starting the bot!
+[02:07:20:652] Downloaded tilemap Northrend
+[02:07:20:676] Changed tilemap to Northrend, Tiled: True
+[02:07:20:785] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[02:07:20:878] Styx.Logic.Profiles.ProfileAttributeExpectedException`1[Styx.Logic.Profiles.Vendor+VendorType]: XML Error: Value "Vendor" in "Type" attribute is not supported! Expected integral type.
+Valid values are: Repair, Food, Sell, Restock, Train - On line 38 - [Type="Vendor"]
+   bei Styx.Logic.Profiles.Vendor..ctor(XElement xml)
+[02:07:20:905] Changing current profile to Cloth
+[02:07:20:981] Chose Singular $Revision: 254 $ as your combat class!
+[02:07:20:983] [Singular] Starting Singular v0.0.0.0
+[02:07:21:058] [Singular] Determining talent spec.
+[02:07:21:268] [Singular] Current spec is  Arcane Mage
+[02:07:21:327] [Singular] Using CreateArcaneMageCombat for Arcane Mage - Combat (Priority: 0)
+[02:07:21:355] [Singular] Using CreateArcaneMagePull for Arcane Mage - Pull (Priority: 0)
+[02:07:21:406] [Singular] Using default rest behavior.
+[02:07:21:426] [Singular] Using CreateMageBuffs for Arcane Mage - PreCombatBuffs (Priority: 0)
+[02:07:21:430] [Singular] Behaviors created!
+[02:07:21:559] Cleared POI
+[02:07:21:560] Cleared POI - Reason Starting up
+[02:07:21:562] Cleared POI
+[02:07:23:048] [Singular] Target is invalid. Switching to Krieger von Jin'Alai!
+[02:07:25:454] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:07:25:457] Spell_C::CastSpell(31589, 0, 0xF1306EE400109FB1, 0) [1]
+[02:07:27:070] [Singular] Casting Mirror Image on Krieger von Jin'Alai
+[02:07:27:070] Spell_C::CastSpell(55342, 0, 0xF1306EE400109FB1, 0) [2]
+[02:07:28:666] [Singular] Casting Shoot on Krieger von Jin'Alai
+[02:07:28:666] Spell_C::CastSpell(5019, 0, 0xF1306EE400109FB1, 0) [3]
+[02:07:29:366] [Singular] Casting Presence of Mind on Myself
+[02:07:29:366] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [4]
+[02:07:30:147] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:07:30:147] Spell_C::CastSpell(30451, 0, 0xF1306EE400109FB1, 0) [5]
+[02:07:33:019] Updating repair cost for current equipped items. New value: [1g98s21c]
+[02:07:33:129] Activity: Loading Tile/s
+[02:07:33:129] Loading Northrend_38_21
+[02:07:33:716] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:07:33:836] Cleared POI - Reason POI is dead from Combat
+[02:07:33:837] Cleared POI
+[02:07:34:015] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:07:34:125] InteractDebug:252260336
+[02:07:34:157] Interact Done:252260336
+[02:07:34:666] Looting Krieger von Jin'Alai Guid:0xF1306EE400109FB1
+[02:07:34:741] Cleared POI - Reason Waiting for loot flag
+[02:07:34:741] Cleared POI
+[02:07:35:185] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:07:35:312] Cleared POI - Reason Already looted
+[02:07:35:312] Cleared POI
+[02:07:35:494] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:07:35:647] Cleared POI - Reason Already looted
+[02:07:35:647] Cleared POI
+[02:07:35:889] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:07:36:044] Cleared POI - Reason Already looted
+[02:07:36:044] Cleared POI
+[02:07:36:180] Activity: Moving to hotspot
+[02:07:39:476] Activity: Moving towards Krieger von Jin'Alai
+[02:07:44:083] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:07:44:812] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:07:44:812] Spell_C::CastSpell(30451, 0, 0xF1306EE400107F6A, 0) [6]
+[02:07:47:341] Spell_C::CastSpell(30451, 0, 0xF1306EE400107F6A, 0) [7]
+[02:07:49:672] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:07:49:672] Spell_C::CastSpell(2139, 0, 0xF1306EE400107F6A, 0) [8]
+[02:07:50:003] Spell_C::CastSpell(2139, 0, 0xF1306EE400107F6A, 0) [9]
+[02:07:50:251] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:07:50:252] Spell_C::CastSpell(5143, 0, 0xF1306EE400107F6A, 0) [10]
+[02:07:54:347] Cleared POI - Reason POI is dead from Combat
+[02:07:54:347] Cleared POI
+[02:07:54:524] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:07:54:646] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:07:56:519] InteractDebug:252370536
+[02:07:56:521] Interact Done:252370536
+[02:07:57:567] Looting Krieger von Jin'Alai Guid:0xF1306EE400107F6A
+[02:07:57:676] Cleared POI - Reason Waiting for loot flag
+[02:07:57:676] Cleared POI
+[02:07:58:292] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:07:58:429] Cleared POI - Reason Already looted
+[02:07:58:429] Cleared POI
+[02:07:58:563] Activity: Moving towards Medizinmann von Jin'alai
+[02:07:59:262] Activity: Moving towards Krieger von Jin'Alai
+[02:08:00:218] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:08:00:767] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:08:00:767] Spell_C::CastSpell(30451, 0, 0xF1306EE400108657, 0) [11]
+[02:08:03:674] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:08:03:674] Spell_C::CastSpell(31589, 0, 0xF1306EE400108657, 0) [12]
+[02:08:05:748] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:08:05:748] Spell_C::CastSpell(30451, 0, 0xF1306EE400108657, 0) [13]
+[02:08:08:274] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:08:08:274] Spell_C::CastSpell(5143, 0, 0xF1306EE400108657, 0) [14]
+[02:08:11:252] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:08:11:252] Spell_C::CastSpell(30451, 0, 0xF1306EE400108657, 0) [15]
+[02:08:14:515] Spell_C::CastSpell(30451, 0, 0xF1306EE400108657, 0) [16]
+[02:08:16:207] Cleared POI - Reason POI is dead from Combat
+[02:08:16:207] Cleared POI
+[02:08:16:411] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:08:16:509] InteractDebug:252411136
+[02:08:16:546] Interact Done:252411136
+[02:08:17:316] Looting Krieger von Jin'Alai Guid:0xF1306EE400108657
+[02:08:17:454] Cleared POI - Reason Waiting for loot flag
+[02:08:17:454] Cleared POI
+[02:08:17:897] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:08:18:021] Cleared POI - Reason Already looted
+[02:08:18:021] Cleared POI
+[02:08:18:195] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:08:18:354] Cleared POI - Reason Already looted
+[02:08:18:354] Cleared POI
+[02:08:18:521] Activity: Moving towards Medizinmann von Jin'alai
+[02:08:19:383] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:08:20:061] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:08:20:061] Spell_C::CastSpell(30451, 0, 0xF1306F58001085DE, 0) [17]
+[02:08:22:675] Spell_C::CastSpell(30451, 0, 0xF1306F58001085DE, 0) [18]
+[02:08:25:184] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:08:25:184] Spell_C::CastSpell(31589, 0, 0xF1306F58001085DE, 0) [19]
+[02:08:26:930] Cleared POI - Reason POI is dead from Combat
+[02:08:26:930] Cleared POI
+[02:08:27:080] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:08:27:200] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:08:28:854] InteractDebug:252353136
+[02:08:28:876] Interact Done:252353136
+[02:08:29:909] Looting Medizinmann von Jin'alai Guid:0xF1306F58001085DE
+[02:08:30:044] Cleared POI - Reason Waiting for loot flag
+[02:08:30:044] Cleared POI
+[02:08:30:541] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:08:30:679] Cleared POI - Reason Already looted
+[02:08:30:679] Cleared POI
+[02:08:30:812] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:08:30:945] Cleared POI - Reason Already looted
+[02:08:30:945] Cleared POI
+[02:08:31:089] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:08:31:234] Cleared POI - Reason Already looted
+[02:08:31:234] Cleared POI
+[02:08:31:369] Changed POI to:Type: Sell, Name: Ba'kari
+[02:08:32:696] Moving to Type: Sell, Name: Ba'kari
+[02:08:40:603] [Singular] Target is invalid. Switching to Krieger von Jin'Alai!
+[02:08:41:334] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:08:41:334] Spell_C::CastSpell(2139, 0, 0xF1306EE40010760C, 0) [20]
+[02:08:41:873] Spell_C::CastSpell(2139, 0, 0xF1306EE40010760C, 0) [21]
+[02:08:42:681] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:08:42:681] Spell_C::CastSpell(30451, 0, 0xF1306EE40010760C, 0) [22]
+[02:08:46:175] Spell_C::CastSpell(30451, 0, 0xF1306EE40010760C, 0) [23]
+[02:08:49:367] [Singular] Casting Mana Shield on Myself
+[02:08:49:367] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [24]
+[02:08:51:062] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:08:51:062] Spell_C::CastSpell(5143, 0, 0xF1306EE40010760C, 0) [25]
+[02:08:54:350] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:08:54:350] Spell_C::CastSpell(30451, 0, 0xF1306EE40010760C, 0) [26]
+[02:08:54:893] [Singular] Casting Shoot on Krieger von Jin'Alai
+[02:08:54:893] Spell_C::CastSpell(5019, 0, 0xF1306EE40010760C, 0) [27]
+[02:08:57:410] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:08:57:411] Spell_C::CastSpell(31589, 0, 0xF1306EE400108458, 0) [28]
+[02:08:59:442] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:08:59:442] Spell_C::CastSpell(30451, 0, 0xF1306EE400108458, 0) [29]
+[02:09:02:810] [Singular] Casting Mana Shield on Myself
+[02:09:02:810] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [30]
+[02:09:04:507] [Singular] Casting Presence of Mind on Myself
+[02:09:04:507] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [31]
+[02:09:04:849] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [32]
+[02:09:05:187] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:09:05:188] Spell_C::CastSpell(30451, 0, 0xF1306EE400108458, 0) [33]
+[02:09:07:875] Eating Herbeigezauberter Manakuchen
+[02:09:17:949] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:09:18:085] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:09:18:675] InteractDebug:252445936
+[02:09:18:688] Interact Done:252445936
+[02:09:19:932] Looting Krieger von Jin'Alai Guid:0xF1306EE400108458
+[02:09:19:965] Cleared POI - Reason Waiting for loot flag
+[02:09:19:965] Cleared POI
+[02:09:20:424] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:09:20:561] Cleared POI - Reason Already looted
+[02:09:20:561] Cleared POI
+[02:09:20:705] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:09:20:856] Cleared POI - Reason Already looted
+[02:09:20:856] Cleared POI
+[02:09:21:016] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:09:21:141] Cleared POI - Reason Already looted
+[02:09:21:141] Cleared POI
+[02:09:21:301] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:09:21:433] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:09:23:049] InteractDebug:252457536
+[02:09:23:050] Interact Done:252457536
+[02:09:24:570] Looting Krieger von Jin'Alai Guid:0xF1306EE40010760C
+[02:09:24:665] Cleared POI - Reason Waiting for loot flag
+[02:09:24:665] Cleared POI
+[02:09:25:087] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:09:25:215] Cleared POI - Reason Already looted
+[02:09:25:215] Cleared POI
+[02:09:25:399] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:09:25:553] Cleared POI - Reason Already looted
+[02:09:25:553] Cleared POI
+[02:09:25:707] Changed POI to:Type: Sell, Name: Ba'kari
+[02:09:25:917] Moving to Type: Sell, Name: Ba'kari
+[02:09:34:938] [Singular] Target is invalid. Switching to Medizinmann von Jin'alai!
+[02:09:36:437] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:09:36:437] Spell_C::CastSpell(30451, 0, 0xF1306F5800100CBB, 0) [34]
+[02:09:40:214] Spell_C::CastSpell(30451, 0, 0xF1306F5800100CBB, 0) [35]
+[02:09:43:987] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:09:43:987] Spell_C::CastSpell(5143, 0, 0xF1306F5800100CBB, 0) [36]
+[02:09:47:125] [Singular] Target is invalid. Switching to Krieger von Jin'Alai!
+[02:09:48:710] [Singular] Casting Mana Shield on Myself
+[02:09:48:710] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [37]
+[02:09:50:308] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:09:50:308] Spell_C::CastSpell(2139, 0, 0xF1306EE400100690, 0) [38]
+[02:09:50:608] Spell_C::CastSpell(2139, 0, 0xF1306EE400100690, 0) [39]
+[02:09:51:448] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:09:51:448] Spell_C::CastSpell(30451, 0, 0xF1306EE400100690, 0) [40]
+[02:09:54:149] Spell_C::CastSpell(30451, 0, 0xF1306EE400100690, 0) [41]
+[02:09:57:464] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:09:57:464] Spell_C::CastSpell(5143, 0, 0xF1306EE400100690, 0) [42]
+[02:10:00:584] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:10:00:584] Spell_C::CastSpell(30451, 0, 0xF1306EE400100690, 0) [43]
+[02:10:02:367] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:10:02:623] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:10:03:461] InteractDebug:252341536
+[02:10:03:469] Interact Done:252341536
+[02:10:04:338] Looting Medizinmann von Jin'alai Guid:0xF1306F5800100CBB
+[02:10:04:438] Cleared POI - Reason Waiting for loot flag
+[02:10:04:438] Cleared POI
+[02:10:04:911] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:10:05:046] Cleared POI - Reason Already looted
+[02:10:05:046] Cleared POI
+[02:10:05:229] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:10:05:377] Cleared POI - Reason Already looted
+[02:10:05:377] Cleared POI
+[02:10:05:512] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:10:05:665] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:10:06:879] InteractDebug:252237136
+[02:10:06:911] Interact Done:252237136
+[02:10:07:728] Looting Krieger von Jin'Alai Guid:0xF1306EE400100690
+[02:10:07:768] Cleared POI - Reason Waiting for loot flag
+[02:10:07:768] Cleared POI
+[02:10:08:276] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:10:08:407] Cleared POI - Reason Already looted
+[02:10:08:407] Cleared POI
+[02:10:08:537] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:10:08:690] Cleared POI - Reason Already looted
+[02:10:08:690] Cleared POI
+[02:10:08:829] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:10:08:965] Cleared POI - Reason Already looted
+[02:10:08:965] Cleared POI
+[02:10:09:122] Changed POI to:Type: Sell, Name: Ba'kari
+[02:10:09:359] Moving to Type: Sell, Name: Ba'kari
+[02:10:31:926] InteractDebug:252306736
+[02:10:31:934] Interact Done:252306736
+[02:10:33:211] Activity: Selling Items
+[02:10:36:796] Activity: Repairing Items
+[02:10:38:842] Cleared POI - Reason POI is not Mail
+[02:10:38:842] Cleared POI
+[02:10:39:148] Changed POI to:Type: Sell, Name: Ba'kari
+[02:10:39:893] InteractDebug:252306736
+[02:10:39:902] Interact Done:252306736
+[02:10:40:697] Activity: Selling Items
+[02:10:42:803] Activity: Repairing Items
+[02:10:44:899] Cleared POI - Reason POI is not Mail
+[02:10:44:899] Cleared POI
+[02:10:45:414] Mounting: Schneller purpurfarbener Greif
+[02:10:45:633] Spell_C::CastSpell(32292, 0, 0x0, 0) [44]
+[02:10:47:529] Activity: Moving to hotspot
+[02:10:47:533] Activity: Loading Tile/s
+[02:10:47:533] Loading Northrend_38_20
+[02:10:47:789] Loading Northrend_39_21
+[02:10:48:294] Successfully generated path from {5771.172, -3571.407, 387.1634} to {5442.355, -3459.361, 361.9619} in 760 milliseconds
+[02:10:48:644] Activity: Moving to hotspot
+[02:10:54:568] [STUCK] Got stuck at <5730.056, -3597.006, 393.7589> on map 571
+[02:10:54:575] [STUCK][HITTEST] LD/LU: False
+[02:10:54:575] [STUCK][HITTEST] Left: False
+[02:10:54:575] [STUCK][HITTEST] RD/RU: False
+[02:10:54:575] [STUCK][HITTEST] Right: False
+[02:10:54:575] [STUCK][HITTEST] Behind: True
+[02:10:54:575] [STUCK][HITTEST] Behind Left: True
+[02:10:54:575] [STUCK][HITTEST] Behind Right: True
+[02:10:54:579] Stop and dismount... Reason: [STUCK] Dismounting
+[02:10:55:470] [STUCK] Moving Forward for 750ms.
+[02:10:55:609] Sync
+[02:10:56:265] [STUCK][DISMOUNT] Moved 0.2387313. Need: 3.78. Result: False
+[02:10:58:044] [STUCK] Couldn't get unstuck.. Adding blackspot.
+[02:10:58:069] [STUCK] Moving backwards for 3 seconds.
+[02:11:01:135] [STUCK] Clearing current path to regenerate it around our stuck location.
+[02:11:01:549] Mounting: Fliegender Teppich
+[02:11:01:749] Spell_C::CastSpell(61451, 0, 0x0, 0) [45]
+[02:11:03:879] Unloading tiles!
+[02:11:03:886] Activity: Loading Tile/s
+[02:11:03:887] Loading Northrend_38_21
+[02:11:04:285] Loading Northrend_38_20
+[02:11:04:635] Loading Northrend_39_21
+[02:11:04:833] Successfully generated path from {5739.866, -3593.991, 386.9327} to {5442.355, -3459.361, 361.9619} in 550 milliseconds
+[02:11:05:282] Activity: Moving to hotspot
+[02:11:14:688] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:11:15:244] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:11:15:244] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [46]
+[02:11:15:629] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [47]
+[02:11:15:968] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [48]
+[02:11:16:300] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [49]
+[02:11:16:644] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [50]
+[02:11:17:033] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [51]
+[02:11:17:247] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [52]
+[02:11:17:537] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [53]
+[02:11:17:877] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [54]
+[02:11:18:182] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [55]
+[02:11:18:449] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [56]
+[02:11:18:745] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [57]
+[02:11:19:039] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [58]
+[02:11:19:308] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [59]
+[02:11:19:576] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [60]
+[02:11:19:775] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [61]
+[02:11:20:074] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [62]
+[02:11:20:272] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [63]
+[02:11:20:525] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [64]
+[02:11:20:877] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [65]
+[02:11:21:128] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [66]
+[02:11:21:460] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [67]
+[02:11:21:671] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [68]
+[02:11:22:040] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [69]
+[02:11:22:403] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [70]
+[02:11:22:885] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [71]
+[02:11:23:348] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [72]
+[02:11:23:695] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [73]
+[02:11:24:092] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [74]
+[02:11:24:261] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [75]
+[02:11:24:564] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [76]
+[02:11:24:794] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [77]
+[02:11:25:158] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [78]
+[02:11:25:364] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [79]
+[02:11:25:645] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [80]
+[02:11:25:973] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [81]
+[02:11:26:311] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [82]
+[02:11:26:596] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [83]
+[02:11:26:898] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [84]
+[02:11:27:125] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [85]
+[02:11:27:439] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [86]
+[02:11:27:688] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [87]
+[02:11:27:936] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [88]
+[02:11:28:153] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [89]
+[02:11:28:558] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [90]
+[02:11:28:969] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [91]
+[02:11:29:367] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [92]
+[02:11:29:577] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [93]
+[02:11:29:755] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [94]
+[02:11:30:054] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [95]
+[02:11:30:347] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [96]
+[02:11:30:574] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [97]
+[02:11:30:764] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [98]
+[02:11:30:999] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [99]
+[02:11:31:345] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [100]
+[02:11:31:939] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [101]
+[02:11:32:408] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [102]
+[02:11:32:782] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [103]
+[02:11:33:078] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [104]
+[02:11:33:248] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [105]
+[02:11:33:433] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [106]
+[02:11:33:784] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [107]
+[02:11:33:954] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [108]
+[02:11:34:322] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [109]
+[02:11:34:696] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [110]
+[02:11:35:019] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [111]
+[02:11:35:336] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [112]
+[02:11:35:707] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [113]
+[02:11:35:989] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [114]
+[02:11:36:408] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [115]
+[02:11:36:803] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [116]
+[02:11:37:235] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [117]
+[02:11:37:617] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [118]
+[02:11:37:865] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [119]
+[02:11:38:106] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [120]
+[02:11:38:274] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [121]
+[02:11:38:564] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [122]
+[02:11:38:757] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [123]
+[02:11:39:108] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [124]
+[02:11:39:496] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [125]
+[02:11:39:749] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [126]
+[02:11:39:955] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [127]
+[02:11:40:305] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [128]
+[02:11:40:664] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [129]
+[02:11:40:902] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [130]
+[02:11:42:530] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [131]
+[02:11:42:656] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [132]
+[02:11:43:048] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [133]
+[02:11:43:223] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [134]
+[02:11:43:522] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [135]
+[02:11:43:831] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [136]
+[02:11:44:258] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [137]
+[02:11:44:611] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [138]
+[02:11:44:958] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [139]
+[02:11:45:916] [Singular] Casting Mirror Image on Krieger von Jin'Alai
+[02:11:45:916] Spell_C::CastSpell(55342, 0, 0xF1306EE400106D7F, 0) [140]
+[02:11:47:437] [Singular] Casting Presence of Mind on Myself
+[02:11:47:437] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [141]
+[02:11:48:177] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:11:48:177] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [142]
+[02:11:49:793] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [143]
+[02:11:52:175] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:11:52:175] Spell_C::CastSpell(5143, 0, 0xF1306EE400106D7F, 0) [144]
+[02:11:52:662] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:11:52:662] Spell_C::CastSpell(30451, 0, 0xF1306EE400106D7F, 0) [145]
+[02:11:54:505] Cleared POI - Reason POI is dead from Combat
+[02:11:54:505] Cleared POI
+[02:11:54:672] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:11:54:900] InteractDebug:252451736
+[02:11:54:916] Interact Done:252451736
+[02:11:55:945] Looting Krieger von Jin'Alai Guid:0xF1306EE400106D7F
+[02:11:57:097] Cleared POI - Reason Waiting for loot flag
+[02:11:57:097] Cleared POI
+[02:12:00:308] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:12:00:754] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:12:00:754] Spell_C::CastSpell(30451, 0, 0xF1306EE400107D00, 0) [146]
+[02:12:03:006] Spell_C::CastSpell(30451, 0, 0xF1306EE400107D00, 0) [147]
+[02:12:05:567] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:12:05:567] Spell_C::CastSpell(2139, 0, 0xF1306EE400107D00, 0) [148]
+[02:12:05:743] Spell_C::CastSpell(2139, 0, 0xF1306EE400107D00, 0) [149]
+[02:12:06:121] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:12:06:121] Spell_C::CastSpell(5143, 0, 0xF1306EE400107D00, 0) [150]
+[02:12:08:951] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:12:08:951] Spell_C::CastSpell(31589, 0, 0xF1306EE400107D00, 0) [151]
+[02:12:10:646] Cleared POI - Reason POI is dead from Combat
+[02:12:10:646] Cleared POI
+[02:12:10:804] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:12:10:909] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:12:12:930] InteractDebug:252341536
+[02:12:12:948] Interact Done:252341536
+[02:12:13:798] Looting Krieger von Jin'Alai Guid:0xF1306EE400107D00
+[02:12:14:978] Cleared POI - Reason Waiting for loot flag
+[02:12:14:978] Cleared POI
+[02:12:17:436] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:12:18:091] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:12:18:091] Spell_C::CastSpell(30451, 0, 0xF1306F58000FB6E4, 0) [152]
+[02:12:20:483] Spell_C::CastSpell(30451, 0, 0xF1306F58000FB6E4, 0) [153]
+[02:12:23:046] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:12:23:046] Spell_C::CastSpell(5143, 0, 0xF1306F58000FB6E4, 0) [154]
+[02:12:27:289] Cleared POI - Reason POI is dead from Combat
+[02:12:27:289] Cleared POI
+[02:12:27:478] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:12:27:605] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:12:28:604] InteractDebug:252231336
+[02:12:28:613] Interact Done:252231336
+[02:12:29:589] Looting Medizinmann von Jin'alai Guid:0xF1306F58000FB6E4
+[02:12:29:625] Cleared POI - Reason Waiting for loot flag
+[02:12:29:625] Cleared POI
+[02:12:30:178] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:12:30:327] Cleared POI - Reason Already looted
+[02:12:30:327] Cleared POI
+[02:12:30:462] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:12:30:610] Cleared POI - Reason Already looted
+[02:12:30:610] Cleared POI
+[02:12:36:515] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:12:36:937] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:12:36:937] Spell_C::CastSpell(30451, 0, 0xF1306EE4000FBD05, 0) [155]
+[02:12:39:429] Spell_C::CastSpell(30451, 0, 0xF1306EE4000FBD05, 0) [156]
+[02:12:41:721] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:12:41:722] Spell_C::CastSpell(2139, 0, 0xF1306EE4000FBD05, 0) [157]
+[02:12:42:036] Spell_C::CastSpell(2139, 0, 0xF1306EE4000FBD05, 0) [158]
+[02:12:42:227] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:12:42:227] Spell_C::CastSpell(5143, 0, 0xF1306EE4000FBD05, 0) [159]
+[02:12:45:371] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:12:45:371] Spell_C::CastSpell(30451, 0, 0xF1306EE4000FBD05, 0) [160]
+[02:12:47:744] Spell_C::CastSpell(30451, 0, 0xF1306EE4000FBD05, 0) [161]
+[02:12:48:059] Spell_C::CastSpell(30451, 0, 0xF1306EE4000FBD05, 0) [162]
+[02:12:49:998] Cleared POI - Reason POI is dead from Combat
+[02:12:49:998] Cleared POI
+[02:12:50:158] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:12:50:320] InteractDebug:252300936
+[02:12:50:338] Interact Done:252300936
+[02:12:51:291] Looting Krieger von Jin'Alai Guid:0xF1306EE4000FBD05
+[02:12:51:436] Cleared POI - Reason Waiting for loot flag
+[02:12:51:436] Cleared POI
+[02:12:51:950] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:12:52:064] Cleared POI - Reason Already looted
+[02:12:52:064] Cleared POI
+[02:12:57:233] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:12:57:754] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:12:57:754] Spell_C::CastSpell(30451, 0, 0xF1306EE400106953, 0) [163]
+[02:13:00:019] Spell_C::CastSpell(30451, 0, 0xF1306EE400106953, 0) [164]
+[02:13:02:932] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:13:02:932] Spell_C::CastSpell(5143, 0, 0xF1306EE400106953, 0) [165]
+[02:13:07:477] Cleared POI - Reason POI is dead from Combat
+[02:13:07:477] Cleared POI
+[02:13:07:632] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:13:07:810] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:13:08:853] InteractDebug:252405336
+[02:13:08:854] Interact Done:252405336
+[02:13:10:137] Looting Krieger von Jin'Alai Guid:0xF1306EE400106953
+[02:13:10:275] Cleared POI - Reason Waiting for loot flag
+[02:13:10:275] Cleared POI
+[02:13:13:448] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:13:13:667] Activity: Moving towards Krieger von Jin'Alai
+[02:13:18:416] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:13:18:416] Spell_C::CastSpell(30451, 0, 0xF1306EE400106F97, 0) [166]
+[02:13:21:509] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:13:21:509] Spell_C::CastSpell(31589, 0, 0xF1306EE400106F97, 0) [167]
+[02:13:23:056] [Singular] Casting Shoot on Krieger von Jin'Alai
+[02:13:23:056] Spell_C::CastSpell(5019, 0, 0xF1306EE400106F97, 0) [168]
+[02:13:23:702] [Singular] Casting Presence of Mind on Myself
+[02:13:23:702] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [169]
+[02:13:24:362] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:13:24:362] Spell_C::CastSpell(30451, 0, 0xF1306EE400106F97, 0) [170]
+[02:13:26:066] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:13:26:066] Spell_C::CastSpell(5143, 0, 0xF1306EE400106F97, 0) [171]
+[02:13:29:412] Cleared POI - Reason POI is dead from Combat
+[02:13:29:412] Cleared POI
+[02:13:29:566] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:13:29:810] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:13:30:387] InteractDebug:252248736
+[02:13:30:411] Interact Done:252248736
+[02:13:31:965] Looting Krieger von Jin'Alai Guid:0xF1306EE400106F97
+[02:13:32:019] Cleared POI - Reason Waiting for loot flag
+[02:13:32:019] Cleared POI
+[02:13:32:536] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:13:32:662] Cleared POI - Reason Already looted
+[02:13:32:662] Cleared POI
+[02:13:32:808] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:13:32:920] Cleared POI - Reason Already looted
+[02:13:32:920] Cleared POI
+[02:13:33:619] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:13:34:033] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:13:34:033] Spell_C::CastSpell(30451, 0, 0xF1306F5800106BF3, 0) [172]
+[02:13:37:121] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:13:37:121] Spell_C::CastSpell(31589, 0, 0xF1306F5800106BF3, 0) [173]
+[02:13:39:204] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:13:39:204] Spell_C::CastSpell(30451, 0, 0xF1306F5800106BF3, 0) [174]
+[02:13:42:033] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:13:42:033] Spell_C::CastSpell(5143, 0, 0xF1306F5800106BF3, 0) [175]
+[02:13:45:666] Cleared POI - Reason POI is dead from Combat
+[02:13:45:666] Cleared POI
+[02:13:45:825] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:13:45:959] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:13:46:627] InteractDebug:252393736
+[02:13:46:635] Interact Done:252393736
+[02:13:47:600] Looting Medizinmann von Jin'alai Guid:0xF1306F5800106BF3
+[02:13:47:715] Cleared POI - Reason Waiting for loot flag
+[02:13:47:715] Cleared POI
+[02:13:48:200] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:13:48:317] Cleared POI - Reason Already looted
+[02:13:48:317] Cleared POI
+[02:13:48:469] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:13:48:609] Cleared POI - Reason Already looted
+[02:13:48:609] Cleared POI
+[02:13:48:737] Updating repair cost for current equipped items. New value: [0g3s85c]
+[02:13:48:772] Activity: Moving to hotspot
+[02:13:50:523] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:13:51:075] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:13:51:075] Spell_C::CastSpell(30451, 0, 0xF1306F5800108EFE, 0) [176]
+[02:13:53:542] [Singular] Casting Counterspell on Medizinmann von Jin'alai
+[02:13:53:542] Spell_C::CastSpell(2139, 0, 0xF1306F5800108EFE, 0) [177]
+[02:13:53:761] Spell_C::CastSpell(2139, 0, 0xF1306F5800108EFE, 0) [178]
+[02:13:54:490] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:13:54:490] Spell_C::CastSpell(30451, 0, 0xF1306F5800108EFE, 0) [179]
+[02:13:57:066] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:13:57:066] Spell_C::CastSpell(31589, 0, 0xF1306F5800108EFE, 0) [180]
+[02:13:57:433] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:13:57:433] Spell_C::CastSpell(5143, 0, 0xF1306F5800108EFE, 0) [181]
+[02:13:59:228] Cleared POI - Reason POI is dead from Combat
+[02:13:59:228] Cleared POI
+[02:13:59:417] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:13:59:526] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:14:01:376] InteractDebug:252509736
+[02:14:01:394] Interact Done:252509736
+[02:14:02:365] Looting Medizinmann von Jin'alai Guid:0xF1306F5800108EFE
+[02:14:02:478] Cleared POI - Reason Waiting for loot flag
+[02:14:02:478] Cleared POI
+[02:14:02:951] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:14:03:061] Cleared POI - Reason Already looted
+[02:14:03:061] Cleared POI
+[02:14:04:193] [Singular] Casting Mage Armor on Myself
+[02:14:04:193] Spell_C::CastSpell(6117, 0, 0x280000003203301, 0) [182]
+[02:14:06:003] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:14:06:324] Activity: Moving towards Medizinmann von Jin'alai
+[02:14:08:041] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:14:08:041] Spell_C::CastSpell(30451, 0, 0xF1306F5800109138, 0) [183]
+[02:14:11:212] Spell_C::CastSpell(30451, 0, 0xF1306F5800109138, 0) [184]
+[02:14:14:530] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:14:14:530] Spell_C::CastSpell(5143, 0, 0xF1306F5800109138, 0) [185]
+[02:14:18:347] Cleared POI - Reason POI is dead from Combat
+[02:14:18:347] Cleared POI
+[02:14:18:497] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:14:18:715] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:14:19:464] InteractDebug:252515536
+[02:14:19:468] Interact Done:252515536
+[02:14:20:022] Looting Medizinmann von Jin'alai Guid:0xF1306F5800109138
+[02:14:20:072] Cleared POI - Reason Waiting for loot flag
+[02:14:20:072] Cleared POI
+[02:14:20:547] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:14:20:688] Cleared POI - Reason Already looted
+[02:14:20:688] Cleared POI
+[02:14:20:869] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:14:21:030] Cleared POI - Reason Already looted
+[02:14:21:030] Cleared POI
+[02:14:21:149] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:14:21:329] Cleared POI - Reason Already looted
+[02:14:21:329] Cleared POI
+[02:14:21:935] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:14:22:544] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:14:22:544] Spell_C::CastSpell(30451, 0, 0xF1306EE400107369, 0) [186]
+[02:14:25:148] Spell_C::CastSpell(30451, 0, 0xF1306EE400107369, 0) [187]
+[02:14:27:474] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:14:27:474] Spell_C::CastSpell(5143, 0, 0xF1306EE400107369, 0) [188]
+[02:14:29:950] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:14:29:950] Spell_C::CastSpell(31589, 0, 0xF1306EE400107369, 0) [189]
+[02:14:31:623] Cleared POI - Reason POI is dead from Combat
+[02:14:31:623] Cleared POI
+[02:14:31:831] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:14:31:983] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:14:34:052] InteractDebug:252463336
+[02:14:34:053] Interact Done:252463336
+[02:14:34:963] Looting Krieger von Jin'Alai Guid:0xF1306EE400107369
+[02:14:35:072] Cleared POI - Reason Waiting for loot flag
+[02:14:35:072] Cleared POI
+[02:14:35:559] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:14:35:702] Cleared POI - Reason Already looted
+[02:14:35:702] Cleared POI
+[02:14:35:833] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:14:35:949] Cleared POI - Reason Already looted
+[02:14:35:949] Cleared POI
+[02:14:36:108] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:14:36:223] Cleared POI - Reason Already looted
+[02:14:36:223] Cleared POI
+[02:14:36:410] Activity: Moving to hotspot
+[02:14:41:523] Activity: Moving towards Frostleopard
+[02:14:42:892] Changed POI to:Type: Kill, Name: Frostleopard
+[02:14:43:534] [Singular] Casting Arcane Blast on Frostleopard
+[02:14:43:534] Spell_C::CastSpell(30451, 0, 0xF130728F00108910, 0) [190]
+[02:14:45:852] Spell_C::CastSpell(30451, 0, 0xF130728F00108910, 0) [191]
+[02:14:48:267] [Singular] Casting Frost Nova on Frostleopard
+[02:14:48:267] Spell_C::CastSpell(122, 0, 0xF130728F00108910, 0) [192]
+[02:14:49:815] [Singular] Casting Arcane Blast on Frostleopard
+[02:14:49:815] Spell_C::CastSpell(30451, 0, 0xF130728F00108910, 0) [193]
+[02:14:52:349] [Singular] Casting Slow on Frostleopard
+[02:14:52:349] Spell_C::CastSpell(31589, 0, 0xF130728F00108910, 0) [194]
+[02:14:54:025] Cleared POI - Reason POI is dead from Combat
+[02:14:54:025] Cleared POI
+[02:14:54:167] Changed POI to:Type: Loot, Name: Frostleopard
+[02:14:54:328] Moving to Type: Loot, Name: Frostleopard
+[02:14:55:072] InteractDebug:252329936
+[02:14:55:125] Interact Done:252329936
+[02:14:56:134] Looting Frostleopard Guid:0xF130728F00108910
+[02:14:56:249] Cleared POI - Reason Waiting for loot flag
+[02:14:56:249] Cleared POI
+[02:14:56:687] Changed POI to:Type: Loot, Name: Frostleopard
+[02:14:56:899] Cleared POI - Reason Already looted
+[02:14:56:899] Cleared POI
+[02:14:57:051] Changed POI to:Type: Loot, Name: Frostleopard
+[02:14:57:198] Cleared POI - Reason Already looted
+[02:14:57:198] Cleared POI
+[02:14:57:380] Activity: Moving towards Medizinmann von Jin'alai
+[02:15:03:388] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:15:04:041] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:15:04:041] Spell_C::CastSpell(30451, 0, 0xF1306F5800108EFD, 0) [195]
+[02:15:06:490] [Singular] Casting Counterspell on Medizinmann von Jin'alai
+[02:15:06:490] Spell_C::CastSpell(2139, 0, 0xF1306F5800108EFD, 0) [196]
+[02:15:06:759] [Singular] Casting Mirror Image on Medizinmann von Jin'alai
+[02:15:06:759] Spell_C::CastSpell(55342, 0, 0xF1306F5800108EFD, 0) [197]
+[02:15:08:282] [Singular] Casting Shoot on Medizinmann von Jin'alai
+[02:15:08:282] Spell_C::CastSpell(5019, 0, 0xF1306F5800108EFD, 0) [198]
+[02:15:08:911] [Singular] Casting Presence of Mind on Myself
+[02:15:08:911] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [199]
+[02:15:09:651] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:15:09:652] Spell_C::CastSpell(30451, 0, 0xF1306F5800108EFD, 0) [200]
+[02:15:11:474] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:15:11:474] Spell_C::CastSpell(5143, 0, 0xF1306F5800108EFD, 0) [201]
+[02:15:14:573] Cleared POI - Reason POI is dead from Combat
+[02:15:14:573] Cleared POI
+[02:15:14:701] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:15:14:825] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:15:15:590] InteractDebug:252428536
+[02:15:15:620] Interact Done:252428536
+[02:15:16:529] Looting Medizinmann von Jin'alai Guid:0xF1306F5800108EFD
+[02:15:16:674] Cleared POI - Reason Waiting for loot flag
+[02:15:16:675] Cleared POI
+[02:15:17:151] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:15:17:292] Cleared POI - Reason Already looted
+[02:15:17:292] Cleared POI
+[02:15:17:921] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:15:18:164] Activity: Moving towards Krieger von Jin'Alai
+[02:15:25:756] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:15:25:756] Spell_C::CastSpell(31589, 0, 0xF1306EE400108A54, 0) [202]
+[02:15:28:226] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:15:28:226] Spell_C::CastSpell(30451, 0, 0xF1306EE400108A54, 0) [203]
+[02:15:31:536] Spell_C::CastSpell(30451, 0, 0xF1306EE400108A54, 0) [204]
+[02:15:32:507] [Singular] Casting Mana Shield on Myself
+[02:15:32:507] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [205]
+[02:15:34:601] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:15:34:601] Spell_C::CastSpell(30451, 0, 0xF1306EE400108A54, 0) [206]
+[02:15:36:934] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:15:36:934] Spell_C::CastSpell(31589, 0, 0xF1306EE400108A54, 0) [207]
+[02:15:38:680] Cleared POI - Reason POI is dead from Combat
+[02:15:38:680] Cleared POI
+[02:15:39:370] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:15:39:370] Spell_C::CastSpell(2139, 0, 0xF1306EE40010B431, 0) [208]
+[02:15:39:982] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:15:39:982] Spell_C::CastSpell(5143, 0, 0xF1306EE40010B431, 0) [209]
+[02:15:43:705] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:15:43:705] Spell_C::CastSpell(31589, 0, 0xF1306EE40010B431, 0) [210]
+[02:15:45:295] [Singular] Casting Mana Shield on Myself
+[02:15:45:295] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [211]
+[02:15:46:877] [Singular] Casting Shoot on Krieger von Jin'Alai
+[02:15:46:878] Spell_C::CastSpell(5019, 0, 0xF1306EE40010B431, 0) [212]
+[02:15:47:534] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:15:47:534] Spell_C::CastSpell(30451, 0, 0xF1306EE40010B431, 0) [213]
+[02:15:50:006] Spell_C::CastSpell(30451, 0, 0xF1306EE40010B431, 0) [214]
+[02:15:51:721] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:15:51:960] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:15:53:970] InteractDebug:252411136
+[02:15:53:975] Interact Done:252411136
+[02:15:54:899] Looting Krieger von Jin'Alai Guid:0xF1306EE400108A54
+[02:15:55:023] Cleared POI - Reason Waiting for loot flag
+[02:15:55:023] Cleared POI
+[02:15:55:483] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:15:55:600] Cleared POI - Reason Already looted
+[02:15:55:600] Cleared POI
+[02:15:55:802] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:15:55:947] Cleared POI - Reason Already looted
+[02:15:55:947] Cleared POI
+[02:15:56:064] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:15:56:186] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:15:57:137] Sync
+[02:15:57:253] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:15:57:812] InteractDebug:252324136
+[02:15:57:837] Interact Done:252324136
+[02:15:59:009] Looting Krieger von Jin'Alai Guid:0xF1306EE40010B431
+[02:15:59:100] Cleared POI - Reason Waiting for loot flag
+[02:15:59:100] Cleared POI
+[02:15:59:587] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:15:59:742] Cleared POI - Reason Already looted
+[02:15:59:742] Cleared POI
+[02:15:59:896] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:16:00:007] Cleared POI - Reason Already looted
+[02:16:00:007] Cleared POI
+[02:16:00:146] Activity: Moving towards Medizinmann von Jin'alai
+[02:16:03:763] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:16:04:250] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:16:04:250] Spell_C::CastSpell(30451, 0, 0xF1306F5800106BF6, 0) [215]
+[02:16:07:247] Spell_C::CastSpell(30451, 0, 0xF1306F5800106BF6, 0) [216]
+[02:16:09:977] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:16:09:977] Spell_C::CastSpell(31589, 0, 0xF1306F5800106BF6, 0) [217]
+[02:16:11:639] Cleared POI - Reason POI is dead from Combat
+[02:16:11:639] Cleared POI
+[02:16:11:796] Unloading tiles!
+[02:16:11:801] Activity: Loading Tile/s
+[02:16:11:801] Loading Northrend_38_21
+[02:16:12:057] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:16:12:176] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:16:14:819] InteractDebug:252370536
+[02:16:14:839] Interact Done:252370536
+[02:16:15:952] Looting Medizinmann von Jin'alai Guid:0xF1306F5800106BF6
+[02:16:16:095] Cleared POI - Reason Waiting for loot flag
+[02:16:16:095] Cleared POI
+[02:16:16:925] [Singular] Target is invalid. Switching to Krieger von Jin'Alai!
+[02:16:18:153] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:16:18:153] Spell_C::CastSpell(31589, 0, 0xF1306EE40010CDB3, 0) [218]
+[02:16:19:973] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:16:19:973] Spell_C::CastSpell(30451, 0, 0xF1306EE40010CDB3, 0) [219]
+[02:16:22:563] [Singular] Casting Mana Shield on Myself
+[02:16:22:563] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [220]
+[02:16:24:560] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:16:24:560] Spell_C::CastSpell(30451, 0, 0xF1306EE40010CDB3, 0) [221]
+[02:16:26:972] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:16:26:973] Spell_C::CastSpell(2139, 0, 0xF1306EE40010CDB3, 0) [222]
+[02:16:27:364] Spell_C::CastSpell(2139, 0, 0xF1306EE40010CDB3, 0) [223]
+[02:16:27:944] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:16:27:944] Spell_C::CastSpell(5143, 0, 0xF1306EE40010CDB3, 0) [224]
+[02:16:32:665] Activity: Moving to hotspot
+[02:16:32:918] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:16:33:482] InteractDebug:252422736
+[02:16:33:484] Interact Done:252422736
+[02:16:34:165] Looting Krieger von Jin'Alai Guid:0xF1306EE40010CDB3
+[02:16:34:424] Cleared POI - Reason Waiting for loot flag
+[02:16:34:424] Cleared POI
+[02:16:35:336] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:16:35:941] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:16:35:941] Spell_C::CastSpell(30451, 0, 0xF1306F5800106F98, 0) [225]
+[02:16:38:912] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:16:38:912] Spell_C::CastSpell(31589, 0, 0xF1306F5800106F98, 0) [226]
+[02:16:40:884] [Singular] Casting Presence of Mind on Myself
+[02:16:40:884] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [227]
+[02:16:41:613] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:16:41:614] Spell_C::CastSpell(30451, 0, 0xF1306F5800106F98, 0) [228]
+[02:16:44:392] Cleared POI - Reason POI is dead from Combat
+[02:16:44:392] Cleared POI
+[02:16:44:569] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:16:44:696] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:16:45:404] InteractDebug:252440136
+[02:16:45:407] Interact Done:252440136
+[02:16:46:414] Looting Medizinmann von Jin'alai Guid:0xF1306F5800106F98
+[02:16:46:501] Cleared POI - Reason Waiting for loot flag
+[02:16:46:501] Cleared POI
+[02:16:46:998] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:16:47:125] Cleared POI - Reason Already looted
+[02:16:47:125] Cleared POI
+[02:16:47:258] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:16:47:392] Cleared POI - Reason Already looted
+[02:16:47:392] Cleared POI
+[02:16:47:503] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:16:47:625] Cleared POI - Reason Already looted
+[02:16:47:625] Cleared POI
+[02:16:47:776] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:16:47:884] Cleared POI - Reason Already looted
+[02:16:47:884] Cleared POI
+[02:16:48:926] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:16:49:608] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:16:49:608] Spell_C::CastSpell(30451, 0, 0xF1306F580010D1FA, 0) [229]
+[02:16:52:027] Spell_C::CastSpell(30451, 0, 0xF1306F580010D1FA, 0) [230]
+[02:16:54:628] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:16:54:628] Spell_C::CastSpell(5143, 0, 0xF1306F580010D1FA, 0) [231]
+[02:16:57:244] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:16:57:244] Spell_C::CastSpell(30451, 0, 0xF1306F580010D1FA, 0) [232]
+[02:16:59:282] Cleared POI - Reason POI is dead from Combat
+[02:16:59:282] Cleared POI
+[02:16:59:426] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:16:59:550] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:17:00:814] InteractDebug:252358936
+[02:17:00:831] Interact Done:252358936
+[02:17:01:820] Looting Medizinmann von Jin'alai Guid:0xF1306F580010D1FA
+[02:17:01:908] Cleared POI - Reason Waiting for loot flag
+[02:17:01:908] Cleared POI
+[02:17:02:391] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:17:02:501] Cleared POI - Reason Already looted
+[02:17:02:501] Cleared POI
+[02:17:02:624] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:17:02:809] Cleared POI - Reason Already looted
+[02:17:02:809] Cleared POI
+[02:17:03:025] Updating repair cost for current equipped items. New value: [0g7s70c]
+[02:17:07:821] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:17:08:710] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:17:08:710] Spell_C::CastSpell(30451, 0, 0xF1306EE40010CA65, 0) [233]
+[02:17:11:252] Spell_C::CastSpell(30451, 0, 0xF1306EE40010CA65, 0) [234]
+[02:17:13:741] Spell_C::CastSpell(30451, 0, 0xF1306EE40010CA65, 0) [235]
+[02:17:15:931] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:17:15:931] Spell_C::CastSpell(31589, 0, 0xF1306EE40010CA65, 0) [236]
+[02:17:17:580] Cleared POI - Reason POI is dead from Combat
+[02:17:17:580] Cleared POI
+[02:17:17:734] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:17:17:861] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:17:20:242] InteractDebug:252213936
+[02:17:20:275] Interact Done:252213936
+[02:17:20:972] Looting Krieger von Jin'Alai Guid:0xF1306EE40010CA65
+[02:17:21:050] Cleared POI - Reason Waiting for loot flag
+[02:17:21:050] Cleared POI
+[02:17:21:568] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:17:21:718] Cleared POI - Reason Already looted
+[02:17:21:718] Cleared POI
+[02:17:21:864] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:17:22:031] Cleared POI - Reason Already looted
+[02:17:22:031] Cleared POI
+[02:17:22:138] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:17:22:303] Cleared POI - Reason Already looted
+[02:17:22:303] Cleared POI
+[02:17:22:961] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:17:23:185] Activity: Moving towards Krieger von Jin'Alai
+[02:17:29:129] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:17:29:129] Spell_C::CastSpell(30451, 0, 0xF1306EE40010C92A, 0) [237]
+[02:17:32:153] Spell_C::CastSpell(30451, 0, 0xF1306EE40010C92A, 0) [238]
+[02:17:34:236] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:17:34:236] Spell_C::CastSpell(5143, 0, 0xF1306EE40010C92A, 0) [239]
+[02:17:34:765] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:17:34:765] Spell_C::CastSpell(31589, 0, 0xF1306EE40010C92A, 0) [240]
+[02:17:36:392] Cleared POI - Reason POI is dead from Combat
+[02:17:36:392] Cleared POI
+[02:17:36:550] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:17:36:834] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:17:38:506] InteractDebug:252405336
+[02:17:38:532] Interact Done:252405336
+[02:17:39:191] Looting Krieger von Jin'Alai Guid:0xF1306EE40010C92A
+[02:17:39:245] Cleared POI - Reason Waiting for loot flag
+[02:17:39:245] Cleared POI
+[02:17:39:732] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:17:39:853] Cleared POI - Reason Already looted
+[02:17:39:853] Cleared POI
+[02:17:39:982] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:17:40:194] Cleared POI - Reason Already looted
+[02:17:40:194] Cleared POI
+[02:17:40:434] Activity: Moving to hotspot
+[02:17:44:886] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:17:45:577] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:17:45:578] Spell_C::CastSpell(30451, 0, 0xF1306F5800107ABF, 0) [241]
+[02:17:47:940] [Singular] Casting Counterspell on Medizinmann von Jin'alai
+[02:17:47:940] Spell_C::CastSpell(2139, 0, 0xF1306F5800107ABF, 0) [242]
+[02:17:48:565] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:17:48:565] Spell_C::CastSpell(31589, 0, 0xF1306F5800107ABF, 0) [243]
+[02:17:50:643] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:17:50:643] Spell_C::CastSpell(30451, 0, 0xF1306F5800107ABF, 0) [244]
+[02:17:53:367] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:17:53:367] Spell_C::CastSpell(5143, 0, 0xF1306F5800107ABF, 0) [245]
+[02:17:57:187] Cleared POI - Reason POI is dead from Combat
+[02:17:57:187] Cleared POI
+[02:17:57:394] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:17:57:535] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:17:58:043] InteractDebug:252254536
+[02:17:58:084] Interact Done:252254536
+[02:17:59:230] Looting Medizinmann von Jin'alai Guid:0xF1306F5800107ABF
+[02:17:59:285] Cleared POI - Reason Waiting for loot flag
+[02:17:59:285] Cleared POI
+[02:17:59:840] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:17:59:971] Cleared POI - Reason Already looted
+[02:17:59:971] Cleared POI
+[02:18:00:097] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:18:00:234] Cleared POI - Reason Already looted
+[02:18:00:234] Cleared POI
+[02:18:00:905] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:18:01:326] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:18:01:326] Spell_C::CastSpell(30451, 0, 0xF1306F5800107829, 0) [246]
+[02:18:04:337] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:18:04:337] Spell_C::CastSpell(31589, 0, 0xF1306F5800107829, 0) [247]
+[02:18:06:204] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:18:06:204] Spell_C::CastSpell(30451, 0, 0xF1306F5800107829, 0) [248]
+[02:18:08:395] [Singular] Casting Mirror Image on Medizinmann von Jin'alai
+[02:18:08:395] Spell_C::CastSpell(55342, 0, 0xF1306F5800107829, 0) [249]
+[02:18:09:817] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:18:09:818] Spell_C::CastSpell(30451, 0, 0xF1306F5800107829, 0) [250]
+[02:18:11:833] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:18:11:833] Spell_C::CastSpell(5143, 0, 0xF1306F5800107829, 0) [251]
+[02:18:14:385] Cleared POI - Reason POI is dead from Combat
+[02:18:14:385] Cleared POI
+[02:18:14:566] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:18:14:712] InteractDebug:252306736
+[02:18:14:766] Interact Done:252306736
+[02:18:15:643] Looting Medizinmann von Jin'alai Guid:0xF1306F5800107829
+[02:18:15:718] Cleared POI - Reason Waiting for loot flag
+[02:18:15:718] Cleared POI
+[02:18:16:270] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:18:16:440] Cleared POI - Reason Already looted
+[02:18:16:440] Cleared POI
+[02:18:16:594] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:18:16:706] Cleared POI - Reason Already looted
+[02:18:16:706] Cleared POI
+[02:18:19:789] Changed POI to:Type: Kill, Name: Gawanil
+[02:18:20:247] [Singular] Casting Arcane Blast on Gawanil
+[02:18:20:247] Spell_C::CastSpell(30451, 0, 0xF1306F4F0010684A, 0) [252]
+[02:18:23:375] [Singular] Casting Slow on Gawanil
+[02:18:23:375] Spell_C::CastSpell(31589, 0, 0xF1306F4F0010684A, 0) [253]
+[02:18:25:220] [Singular] Casting Presence of Mind on Myself
+[02:18:25:220] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [254]
+[02:18:25:446] [Singular] Casting Counterspell on Gawanil
+[02:18:25:446] Spell_C::CastSpell(2139, 0, 0xF1306F4F0010684A, 0) [255]
+[02:18:25:677] Spell_C::CastSpell(2139, 0, 0xF1306F4F0010684A, 0) [256]
+[02:18:25:807] Spell_C::CastSpell(2139, 0, 0xF1306F4F0010684A, 0) [257]
+[02:18:26:522] [Singular] Casting Arcane Blast on Gawanil
+[02:18:26:522] Spell_C::CastSpell(30451, 0, 0xF1306F4F0010684A, 0) [258]
+[02:18:29:199] Cleared POI - Reason POI is dead from Combat
+[02:18:29:199] Cleared POI
+[02:18:29:412] Changed POI to:Type: Loot, Name: Gawanil
+[02:18:29:569] Moving to Type: Loot, Name: Gawanil
+[02:18:30:868] InteractDebug:252486536
+[02:18:30:870] Interact Done:252486536
+[02:18:31:768] Looting Gawanil Guid:0xF1306F4F0010684A
+[02:18:31:860] Cleared POI - Reason Waiting for loot flag
+[02:18:31:860] Cleared POI
+[02:18:32:372] Changed POI to:Type: Loot, Name: Gawanil
+[02:18:32:524] Cleared POI - Reason Already looted
+[02:18:32:524] Cleared POI
+[02:18:32:710] Changed POI to:Type: Loot, Name: Gawanil
+[02:18:32:884] Cleared POI - Reason Already looted
+[02:18:32:884] Cleared POI
+[02:18:34:890] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:18:35:530] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:18:35:530] Spell_C::CastSpell(30451, 0, 0xF1306F5800106F95, 0) [259]
+[02:18:37:944] Spell_C::CastSpell(30451, 0, 0xF1306F5800106F95, 0) [260]
+[02:18:40:649] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:18:40:650] Spell_C::CastSpell(31589, 0, 0xF1306F5800106F95, 0) [261]
+[02:18:42:363] Cleared POI - Reason POI is dead from Combat
+[02:18:42:363] Cleared POI
+[02:18:42:555] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:18:42:702] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:18:44:552] InteractDebug:252480736
+[02:18:44:575] Interact Done:252480736
+[02:18:45:790] Looting Medizinmann von Jin'alai Guid:0xF1306F5800106F95
+[02:18:45:808] Cleared POI - Reason Waiting for loot flag
+[02:18:45:808] Cleared POI
+[02:18:46:251] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:18:46:356] Cleared POI - Reason Already looted
+[02:18:46:356] Cleared POI
+[02:18:46:544] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:18:46:682] Cleared POI - Reason Already looted
+[02:18:46:682] Cleared POI
+[02:18:46:842] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:18:46:965] Cleared POI - Reason Already looted
+[02:18:46:965] Cleared POI
+[02:18:47:127] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:18:47:268] Cleared POI - Reason Already looted
+[02:18:47:268] Cleared POI
+[02:18:48:693] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:18:49:228] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:18:49:228] Spell_C::CastSpell(30451, 0, 0xF1306EE400107B1C, 0) [262]
+[02:18:51:599] Spell_C::CastSpell(30451, 0, 0xF1306EE400107B1C, 0) [263]
+[02:18:54:392] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:18:54:392] Spell_C::CastSpell(5143, 0, 0xF1306EE400107B1C, 0) [264]
+[02:18:57:328] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:18:57:328] Spell_C::CastSpell(30451, 0, 0xF1306EE400107B1C, 0) [265]
+[02:18:59:979] Cleared POI - Reason POI is dead from Combat
+[02:18:59:979] Cleared POI
+[02:19:00:167] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:19:00:292] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:19:02:348] InteractDebug:252266136
+[02:19:02:385] Interact Done:252266136
+[02:19:03:055] Looting Krieger von Jin'Alai Guid:0xF1306EE400107B1C
+[02:19:03:097] Cleared POI - Reason Waiting for loot flag
+[02:19:03:097] Cleared POI
+[02:19:03:573] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:19:03:686] Cleared POI - Reason Already looted
+[02:19:03:686] Cleared POI
+[02:19:03:798] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:19:03:930] Cleared POI - Reason Already looted
+[02:19:03:930] Cleared POI
+[02:19:04:666] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:19:05:142] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:19:05:142] Spell_C::CastSpell(30451, 0, 0xF1306F5800107E31, 0) [266]
+[02:19:07:678] [Singular] Casting Counterspell on Medizinmann von Jin'alai
+[02:19:07:679] Spell_C::CastSpell(2139, 0, 0xF1306F5800107E31, 0) [267]
+[02:19:07:873] Spell_C::CastSpell(2139, 0, 0xF1306F5800107E31, 0) [268]
+[02:19:08:460] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:19:08:460] Spell_C::CastSpell(30451, 0, 0xF1306F5800107E31, 0) [269]
+[02:19:11:444] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:19:11:444] Spell_C::CastSpell(5143, 0, 0xF1306F5800107E31, 0) [270]
+[02:19:14:722] Cleared POI - Reason POI is dead from Combat
+[02:19:14:722] Cleared POI
+[02:19:14:856] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:19:14:991] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:19:15:590] InteractDebug:252335736
+[02:19:15:640] Interact Done:252335736
+[02:19:16:560] Looting Medizinmann von Jin'alai Guid:0xF1306F5800107E31
+[02:19:16:702] Cleared POI - Reason Waiting for loot flag
+[02:19:16:702] Cleared POI
+[02:19:17:236] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:19:17:360] Cleared POI - Reason Already looted
+[02:19:17:360] Cleared POI
+[02:19:20:998] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:19:21:457] Activity: Moving towards Krieger von Jin'Alai
+[02:19:24:398] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:19:24:398] Spell_C::CastSpell(31589, 0, 0xF1306EE40010D8D8, 0) [271]
+[02:19:26:464] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:19:26:464] Spell_C::CastSpell(30451, 0, 0xF1306EE40010D8D8, 0) [272]
+[02:19:29:173] [Singular] Casting Mana Shield on Myself
+[02:19:29:173] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [273]
+[02:19:31:165] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:19:31:165] Spell_C::CastSpell(30451, 0, 0xF1306EE40010D8D8, 0) [274]
+[02:19:33:463] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:19:33:463] Spell_C::CastSpell(2139, 0, 0xF1306EE40010D8D8, 0) [275]
+[02:19:33:802] Spell_C::CastSpell(2139, 0, 0xF1306EE40010D8D8, 0) [276]
+[02:19:33:975] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:19:33:977] Spell_C::CastSpell(5143, 0, 0xF1306EE40010D8D8, 0) [277]
+[02:19:36:482] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:19:36:482] Spell_C::CastSpell(30451, 0, 0xF1306EE40010D8D8, 0) [278]
+[02:19:38:113] Cleared POI - Reason POI is dead from Combat
+[02:19:38:113] Cleared POI
+[02:19:38:281] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:19:38:378] InteractDebug:252364736
+[02:19:38:404] Interact Done:252364736
+[02:19:39:632] Looting Krieger von Jin'Alai Guid:0xF1306EE40010D8D8
+[02:19:39:761] Cleared POI - Reason Waiting for loot flag
+[02:19:39:761] Cleared POI
+[02:19:40:317] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:19:40:445] Cleared POI - Reason Already looted
+[02:19:40:445] Cleared POI
+[02:19:41:626] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:19:42:199] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:19:42:199] Spell_C::CastSpell(30451, 0, 0xF1306EE40010DD8D, 0) [279]
+[02:19:45:122] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:19:45:122] Spell_C::CastSpell(31589, 0, 0xF1306EE40010DD8D, 0) [280]
+[02:19:47:220] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:19:47:221] Spell_C::CastSpell(30451, 0, 0xF1306EE40010DD8D, 0) [281]
+[02:19:50:257] [Singular] Casting Mana Shield on Myself
+[02:19:50:257] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [282]
+[02:19:51:786] [Singular] Casting Shoot on Krieger von Jin'Alai
+[02:19:51:786] Spell_C::CastSpell(5019, 0, 0xF1306EE40010DD8D, 0) [283]
+[02:19:52:031] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:19:52:031] Spell_C::CastSpell(5143, 0, 0xF1306EE40010DD8D, 0) [284]
+[02:19:55:018] Cleared POI - Reason POI is dead from Combat
+[02:19:55:018] Cleared POI
+[02:19:55:144] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:19:55:308] InteractDebug:252271936
+[02:19:55:392] Interact Done:252271936
+[02:19:56:519] Looting Krieger von Jin'Alai Guid:0xF1306EE40010DD8D
+[02:19:56:557] Cleared POI - Reason Waiting for loot flag
+[02:19:56:557] Cleared POI
+[02:19:57:167] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:19:57:313] Cleared POI - Reason Already looted
+[02:19:57:313] Cleared POI
+[02:19:57:452] Activity: Moving to hotspot
+[02:19:59:979] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:20:00:357] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:20:00:357] Spell_C::CastSpell(30451, 0, 0xF1306F580010DD8E, 0) [285]
+[02:20:02:681] Spell_C::CastSpell(30451, 0, 0xF1306F580010DD8E, 0) [286]
+[02:20:05:347] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:20:05:347] Spell_C::CastSpell(5143, 0, 0xF1306F580010DD8E, 0) [287]
+[02:20:09:018] Cleared POI - Reason POI is dead from Combat
+[02:20:09:018] Cleared POI
+[02:20:09:154] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:20:09:275] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:20:10:396] InteractDebug:252353136
+[02:20:10:443] Interact Done:252353136
+[02:20:11:516] Looting Medizinmann von Jin'alai Guid:0xF1306F580010DD8E
+[02:20:11:578] Cleared POI - Reason Waiting for loot flag
+[02:20:11:578] Cleared POI
+[02:20:12:029] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:20:12:177] Cleared POI - Reason Already looted
+[02:20:12:177] Cleared POI
+[02:20:12:320] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:20:12:527] Cleared POI - Reason Already looted
+[02:20:12:527] Cleared POI
+[02:20:12:663] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:20:12:813] Cleared POI - Reason Already looted
+[02:20:12:813] Cleared POI
+[02:20:12:963] Updating repair cost for current equipped items. New value: [0g11s55c]
+[02:20:17:380] Activity: Moving towards Krieger von Jin'Alai
+[02:20:21:185] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:20:21:729] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:20:21:729] Spell_C::CastSpell(30451, 0, 0xF1306EE40010DD8C, 0) [288]
+[02:20:24:217] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:20:24:217] Spell_C::CastSpell(2139, 0, 0xF1306EE40010DD8C, 0) [289]
+[02:20:24:454] Spell_C::CastSpell(2139, 0, 0xF1306EE40010DD8C, 0) [290]
+[02:20:25:230] [Singular] Casting Presence of Mind on Myself
+[02:20:25:231] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [291]
+[02:20:26:047] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:20:26:047] Spell_C::CastSpell(30451, 0, 0xF1306EE40010DD8C, 0) [292]
+[02:20:27:796] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:20:27:796] Spell_C::CastSpell(5143, 0, 0xF1306EE40010DD8C, 0) [293]
+[02:20:30:900] Cleared POI - Reason POI is dead from Combat
+[02:20:30:900] Cleared POI
+[02:20:31:077] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:20:31:212] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:20:32:925] InteractDebug:252376336
+[02:20:32:969] Interact Done:252376336
+[02:20:34:106] Looting Krieger von Jin'Alai Guid:0xF1306EE40010DD8C
+[02:20:34:214] Cleared POI - Reason Waiting for loot flag
+[02:20:34:214] Cleared POI
+[02:20:34:669] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:20:34:779] Cleared POI - Reason Already looted
+[02:20:34:779] Cleared POI
+[02:20:34:909] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:20:35:026] Cleared POI - Reason Already looted
+[02:20:35:026] Cleared POI
+[02:20:37:414] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:20:38:015] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:20:38:015] Spell_C::CastSpell(30451, 0, 0xF1306EE40010D0A7, 0) [294]
+[02:20:40:469] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:20:40:469] Spell_C::CastSpell(31589, 0, 0xF1306EE40010D0A7, 0) [295]
+[02:20:40:649] Cleared POI - Reason POI is dead from Combat
+[02:20:40:649] Cleared POI
+[02:20:40:834] Activity: Moving to hotspot
+[02:20:45:096] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:20:45:443] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:20:45:443] Spell_C::CastSpell(30451, 0, 0xF1306EE40010782A, 0) [296]
+[02:20:47:474] Spell_C::CastSpell(30451, 0, 0xF1306EE40010782A, 0) [297]
+[02:20:49:991] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:20:49:991] Spell_C::CastSpell(5143, 0, 0xF1306EE40010782A, 0) [298]
+[02:20:54:498] Cleared POI - Reason POI is dead from Combat
+[02:20:54:498] Cleared POI
+[02:20:54:631] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:20:54:751] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:20:54:901] Sync
+[02:20:54:912] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:20:57:683] InteractDebug:252318336
+[02:20:57:691] Interact Done:252318336
+[02:20:58:628] Looting Krieger von Jin'Alai Guid:0xF1306EE40010782A
+[02:20:58:734] Cleared POI - Reason Waiting for loot flag
+[02:20:58:734] Cleared POI
+[02:20:59:227] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:20:59:354] Cleared POI - Reason Already looted
+[02:20:59:354] Cleared POI
+[02:20:59:497] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:20:59:649] Cleared POI - Reason Already looted
+[02:20:59:649] Cleared POI
+[02:20:59:791] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:20:59:982] Cleared POI - Reason Already looted
+[02:20:59:982] Cleared POI
+[02:21:00:538] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:21:00:827] MoveToTarget: Could not generate path to target: Medizinmann von Jin'alai, blacklisting!
+[02:21:01:025] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:21:01:224] Activity: Moving towards Krieger von Jin'Alai
+[02:21:06:466] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:21:06:466] Spell_C::CastSpell(30451, 0, 0xF1306EE4000FFDDA, 0) [299]
+[02:21:09:326] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:21:09:326] Spell_C::CastSpell(31589, 0, 0xF1306EE4000FFDDA, 0) [300]
+[02:21:10:990] [Singular] Casting Mirror Image on Krieger von Jin'Alai
+[02:21:10:990] Spell_C::CastSpell(55342, 0, 0xF1306EE4000FFDDA, 0) [301]
+[02:21:12:679] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:21:12:680] Spell_C::CastSpell(30451, 0, 0xF1306EE4000FFDDA, 0) [302]
+[02:21:16:072] Cleared POI - Reason POI is dead from Combat
+[02:21:16:072] Cleared POI
+[02:21:16:360] Activity: Moving to hotspot
+[02:21:25:299] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:21:25:808] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E53D, 0) [303]
+[02:21:28:404] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E53D, 0) [304]
+[02:21:31:108] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E53D, 0) [305]
+[02:21:33:944] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:21:33:944] Spell_C::CastSpell(2139, 0, 0xF1306EE40010E53D, 0) [306]
+[02:21:34:315] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:21:34:315] Spell_C::CastSpell(31589, 0, 0xF1306EE40010E53D, 0) [307]
+[02:21:34:487] [Singular] Target is invalid. Switching to Medizinmann von Jin'alai!
+[02:21:36:178] Cleared POI - Reason POI is dead from Combat
+[02:21:36:178] Cleared POI
+[02:21:36:828] [Singular] Casting Mana Shield on Myself
+[02:21:36:828] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [308]
+[02:21:38:595] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:21:38:596] Spell_C::CastSpell(31589, 0, 0xF1306F580010E1E2, 0) [309]
+[02:21:40:191] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:21:40:191] Spell_C::CastSpell(30451, 0, 0xF1306F580010E1E2, 0) [310]
+[02:21:41:339] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:21:41:461] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:21:42:719] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:21:42:719] Spell_C::CastSpell(30451, 0, 0xF1306F580010E1E2, 0) [311]
+[02:21:45:365] Spell_C::CastSpell(30451, 0, 0xF1306F580010E1E2, 0) [312]
+[02:21:47:673] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:21:47:673] Spell_C::CastSpell(5143, 0, 0xF1306F580010E1E2, 0) [313]
+[02:21:49:796] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:21:51:181] InteractDebug:252254536
+[02:21:51:218] Interact Done:252254536
+[02:21:52:130] Looting Krieger von Jin'Alai Guid:0xF1306EE40010E53D
+[02:21:52:259] Cleared POI - Reason Waiting for loot flag
+[02:21:52:259] Cleared POI
+[02:21:52:732] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:21:52:863] Cleared POI - Reason Already looted
+[02:21:52:863] Cleared POI
+[02:21:53:013] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:21:53:146] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:21:54:793] InteractDebug:252306736
+[02:21:54:799] Interact Done:252306736
+[02:21:55:592] Looting Medizinmann von Jin'alai Guid:0xF1306F580010E1E2
+[02:21:55:731] Cleared POI - Reason Waiting for loot flag
+[02:21:55:731] Cleared POI
+[02:21:56:195] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:21:56:336] Cleared POI - Reason Already looted
+[02:21:56:336] Cleared POI
+[02:21:56:468] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:21:56:568] Cleared POI - Reason Already looted
+[02:21:56:568] Cleared POI
+[02:21:56:717] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:21:56:851] Cleared POI - Reason Already looted
+[02:21:56:851] Cleared POI
+[02:21:58:003] Activity: Moving towards Medizinmann von Jin'alai
+[02:22:02:681] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:22:03:220] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:22:03:220] Spell_C::CastSpell(30451, 0, 0xF1306F5800108B80, 0) [314]
+[02:22:05:739] Spell_C::CastSpell(30451, 0, 0xF1306F5800108B80, 0) [315]
+[02:22:08:581] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:22:08:581] Spell_C::CastSpell(5143, 0, 0xF1306F5800108B80, 0) [316]
+[02:22:12:228] Cleared POI - Reason POI is dead from Combat
+[02:22:12:228] Cleared POI
+[02:22:12:380] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:12:528] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:13:378] InteractDebug:252451736
+[02:22:13:409] Interact Done:252451736
+[02:22:14:271] Looting Medizinmann von Jin'alai Guid:0xF1306F5800108B80
+[02:22:14:373] Cleared POI - Reason Waiting for loot flag
+[02:22:14:373] Cleared POI
+[02:22:14:840] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:14:954] Cleared POI - Reason Already looted
+[02:22:14:954] Cleared POI
+[02:22:15:081] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:15:189] Cleared POI - Reason Already looted
+[02:22:15:189] Cleared POI
+[02:22:15:329] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:15:447] Cleared POI - Reason Already looted
+[02:22:15:447] Cleared POI
+[02:22:15:627] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:15:813] Cleared POI - Reason Already looted
+[02:22:15:813] Cleared POI
+[02:22:17:392] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:22:17:952] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:22:17:952] Spell_C::CastSpell(30451, 0, 0xF1306F580010E327, 0) [317]
+[02:22:20:552] [Singular] Casting Counterspell on Medizinmann von Jin'alai
+[02:22:20:552] Spell_C::CastSpell(2139, 0, 0xF1306F580010E327, 0) [318]
+[02:22:20:909] Spell_C::CastSpell(2139, 0, 0xF1306F580010E327, 0) [319]
+[02:22:21:730] [Singular] Casting Presence of Mind on Myself
+[02:22:21:730] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [320]
+[02:22:22:501] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:22:22:501] Spell_C::CastSpell(30451, 0, 0xF1306F580010E327, 0) [321]
+[02:22:24:176] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:22:24:176] Spell_C::CastSpell(5143, 0, 0xF1306F580010E327, 0) [322]
+[02:22:28:139] Cleared POI - Reason POI is dead from Combat
+[02:22:28:139] Cleared POI
+[02:22:28:431] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:28:588] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:29:199] InteractDebug:252463336
+[02:22:29:240] Interact Done:252463336
+[02:22:30:140] Looting Medizinmann von Jin'alai Guid:0xF1306F580010E327
+[02:22:30:247] Cleared POI - Reason Waiting for loot flag
+[02:22:30:247] Cleared POI
+[02:22:30:708] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:30:844] Cleared POI - Reason Already looted
+[02:22:30:844] Cleared POI
+[02:22:30:950] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:31:074] Cleared POI - Reason Already looted
+[02:22:31:074] Cleared POI
+[02:22:31:186] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:22:31:429] InteractDebug:252463336
+[02:22:31:494] Interact Done:252463336
+[02:22:34:603] Cleared POI - Reason Waiting for loot flag
+[02:22:34:603] Cleared POI
+[02:22:35:113] Activity: Moving towards Chulo der Verrückte
+[02:22:37:416] Changed POI to:Type: Kill, Name: Chulo der Verrückte
+[02:22:37:944] [Singular] Casting Arcane Blast on Chulo der Verrückte
+[02:22:37:945] Spell_C::CastSpell(30451, 0, 0xF1306F500010E664, 0) [323]
+[02:22:40:338] Spell_C::CastSpell(30451, 0, 0xF1306F500010E664, 0) [324]
+[02:22:43:173] [Singular] Casting Arcane Missiles on Chulo der Verrückte
+[02:22:43:173] Spell_C::CastSpell(5143, 0, 0xF1306F500010E664, 0) [325]
+[02:22:46:133] [Singular] Casting Frost Nova on Chulo der Verrückte
+[02:22:46:133] Spell_C::CastSpell(122, 0, 0xF1306F500010E664, 0) [326]
+[02:22:46:651] [Singular] Getting away from frozen target
+[02:22:47:822] [Singular] Casting Counterspell on Chulo der Verrückte
+[02:22:47:823] Spell_C::CastSpell(2139, 0, 0xF1306F500010E664, 0) [327]
+[02:22:48:162] Spell_C::CastSpell(2139, 0, 0xF1306F500010E664, 0) [328]
+[02:22:48:621] [Singular] Casting Arcane Blast on Chulo der Verrückte
+[02:22:48:621] Spell_C::CastSpell(30451, 0, 0xF1306F500010E664, 0) [329]
+[02:22:52:222] [Singular] Casting Slow on Chulo der Verrückte
+[02:22:52:222] Spell_C::CastSpell(31589, 0, 0xF1306F500010E664, 0) [330]
+[02:22:53:902] Cleared POI - Reason POI is dead from Combat
+[02:22:53:902] Cleared POI
+[02:22:54:061] Changed POI to:Type: Loot, Name: Chulo der Verrückte
+[02:22:54:207] Moving to Type: Loot, Name: Chulo der Verrückte
+[02:22:54:922] InteractDebug:252242936
+[02:22:54:939] Interact Done:252242936
+[02:22:55:775] Looting Chulo der Verrückte Guid:0xF1306F500010E664
+[02:22:55:887] Cleared POI - Reason Waiting for loot flag
+[02:22:55:887] Cleared POI
+[02:22:56:353] Changed POI to:Type: Loot, Name: Chulo der Verrückte
+[02:22:56:503] Cleared POI - Reason Already looted
+[02:22:56:503] Cleared POI
+[02:22:56:640] Changed POI to:Type: Loot, Name: Chulo der Verrückte
+[02:22:56:770] Cleared POI - Reason Already looted
+[02:22:56:770] Cleared POI
+[02:22:56:905] Changed POI to:Type: Loot, Name: Chulo der Verrückte
+[02:22:57:058] Cleared POI - Reason Already looted
+[02:22:57:058] Cleared POI
+[02:22:57:195] Activity: Moving towards Medizinmann von Jin'alai
+[02:22:59:325] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:22:59:863] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:22:59:863] Spell_C::CastSpell(30451, 0, 0xF1306F580010E9A4, 0) [331]
+[02:23:02:344] Spell_C::CastSpell(30451, 0, 0xF1306F580010E9A4, 0) [332]
+[02:23:05:128] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:23:05:128] Spell_C::CastSpell(5143, 0, 0xF1306F580010E9A4, 0) [333]
+[02:23:07:684] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:23:07:684] Spell_C::CastSpell(31589, 0, 0xF1306F580010E9A4, 0) [334]
+[02:23:09:418] Cleared POI - Reason POI is dead from Combat
+[02:23:09:418] Cleared POI
+[02:23:09:599] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:23:09:775] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:23:11:228] InteractDebug:252231336
+[02:23:11:259] Interact Done:252231336
+[02:23:12:134] Looting Medizinmann von Jin'alai Guid:0xF1306F580010E9A4
+[02:23:12:166] Cleared POI - Reason Waiting for loot flag
+[02:23:12:166] Cleared POI
+[02:23:12:687] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:23:12:818] Cleared POI - Reason Already looted
+[02:23:12:818] Cleared POI
+[02:23:12:954] Activity: Moving towards Krieger von Jin'Alai
+[02:23:13:161] Updating repair cost for current equipped items. New value: [0g15s88c]
+[02:23:14:870] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:23:15:456] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:23:15:456] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E9A2, 0) [335]
+[02:23:17:728] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E9A2, 0) [336]
+[02:23:20:403] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E9A2, 0) [337]
+[02:23:22:591] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:23:22:591] Spell_C::CastSpell(2139, 0, 0xF1306EE40010E9A2, 0) [338]
+[02:23:23:106] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:23:23:106] Spell_C::CastSpell(5143, 0, 0xF1306EE40010E9A2, 0) [339]
+[02:23:26:873] Cleared POI - Reason POI is dead from Combat
+[02:23:26:873] Cleared POI
+[02:23:27:718] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:23:27:718] Spell_C::CastSpell(30451, 0, 0xF1306F580010E9A1, 0) [340]
+[02:23:31:199] Spell_C::CastSpell(30451, 0, 0xF1306F580010E9A1, 0) [341]
+[02:23:34:662] [Singular] Casting Mana Shield on Myself
+[02:23:34:662] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [342]
+[02:23:36:344] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:23:36:556] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:23:37:364] InteractDebug:252335736
+[02:23:37:515] Interact Done:252335736
+[02:23:38:662] Looting Krieger von Jin'Alai Guid:0xF1306EE40010E9A2
+[02:23:38:780] Cleared POI - Reason Waiting for loot flag
+[02:23:38:780] Cleared POI
+[02:23:39:262] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:23:39:394] InteractDebug:252341536
+[02:23:39:412] Interact Done:252341536
+[02:23:40:329] Looting Medizinmann von Jin'alai Guid:0xF1306F580010E9A1
+[02:23:40:501] Cleared POI - Reason Waiting for loot flag
+[02:23:40:501] Cleared POI
+[02:23:41:018] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:23:41:198] Cleared POI - Reason Already looted
+[02:23:41:198] Cleared POI
+[02:23:41:951] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:23:42:601] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:23:42:601] Spell_C::CastSpell(30451, 0, 0xF1306EE40010B61C, 0) [343]
+[02:23:45:569] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:23:45:569] Spell_C::CastSpell(31589, 0, 0xF1306EE40010B61C, 0) [344]
+[02:23:47:349] [Singular] Casting Counterspell on Krieger von Jin'Alai
+[02:23:47:349] Spell_C::CastSpell(2139, 0, 0xF1306EE40010B61C, 0) [345]
+[02:23:47:687] Spell_C::CastSpell(2139, 0, 0xF1306EE40010B61C, 0) [346]
+[02:23:48:332] [Singular] Casting Mana Shield on Myself
+[02:23:48:332] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [347]
+[02:23:50:313] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:23:50:313] Spell_C::CastSpell(30451, 0, 0xF1306EE40010B61C, 0) [348]
+[02:23:53:384] [Singular] Casting Presence of Mind on Myself
+[02:23:53:384] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [349]
+[02:23:53:728] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [350]
+[02:23:54:134] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:23:54:134] Spell_C::CastSpell(30451, 0, 0xF1306EE40010B61C, 0) [351]
+[02:23:56:575] Cleared POI - Reason POI is dead from Combat
+[02:23:56:575] Cleared POI
+[02:23:56:753] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:23:56:922] InteractDebug:252393736
+[02:23:56:989] Interact Done:252393736
+[02:23:57:971] Looting Krieger von Jin'Alai Guid:0xF1306EE40010B61C
+[02:23:58:080] Cleared POI - Reason Waiting for loot flag
+[02:23:58:080] Cleared POI
+[02:23:58:548] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:23:58:673] Cleared POI - Reason Already looted
+[02:23:58:673] Cleared POI
+[02:23:58:878] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:23:59:055] Cleared POI - Reason Already looted
+[02:23:59:055] Cleared POI
+[02:23:59:186] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:23:59:320] Cleared POI - Reason Already looted
+[02:23:59:320] Cleared POI
+[02:23:59:510] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:23:59:640] Cleared POI - Reason Already looted
+[02:23:59:640] Cleared POI
+[02:23:59:807] Activity: Moving towards Medizinmann von Jin'alai
+[02:24:00:770] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:24:01:374] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:24:01:374] Spell_C::CastSpell(30451, 0, 0xF1306F580010EF55, 0) [352]
+[02:24:03:474] Spell_C::CastSpell(30451, 0, 0xF1306F580010EF55, 0) [353]
+[02:24:06:263] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:24:06:263] Spell_C::CastSpell(5143, 0, 0xF1306F580010EF55, 0) [354]
+[02:24:08:695] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:24:08:695] Spell_C::CastSpell(31589, 0, 0xF1306F580010EF55, 0) [355]
+[02:24:10:393] Cleared POI - Reason POI is dead from Combat
+[02:24:10:393] Cleared POI
+[02:24:10:570] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:24:10:732] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:24:11:478] InteractDebug:252358936
+[02:24:11:515] Interact Done:252358936
+[02:24:12:297] Looting Medizinmann von Jin'alai Guid:0xF1306F580010EF55
+[02:24:12:410] Cleared POI - Reason Waiting for loot flag
+[02:24:12:410] Cleared POI
+[02:24:12:912] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:24:13:048] Cleared POI - Reason Already looted
+[02:24:13:048] Cleared POI
+[02:24:13:180] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:24:13:292] Cleared POI - Reason Already looted
+[02:24:13:292] Cleared POI
+[02:24:13:426] Activity: Moving towards Krieger von Jin'Alai
+[02:24:15:033] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:24:15:462] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:24:15:462] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E53B, 0) [356]
+[02:24:18:057] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E53B, 0) [357]
+[02:24:20:472] [Singular] Casting Mirror Image on Krieger von Jin'Alai
+[02:24:20:472] Spell_C::CastSpell(55342, 0, 0xF1306EE40010E53B, 0) [358]
+[02:24:22:074] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:24:22:074] Spell_C::CastSpell(5143, 0, 0xF1306EE40010E53B, 0) [359]
+[02:24:25:197] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:24:25:197] Spell_C::CastSpell(31589, 0, 0xF1306EE40010E53B, 0) [360]
+[02:24:26:943] Cleared POI - Reason POI is dead from Combat
+[02:24:26:943] Cleared POI
+[02:24:27:147] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:24:27:277] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:24:28:677] InteractDebug:252445936
+[02:24:28:684] Interact Done:252445936
+[02:24:29:558] Looting Krieger von Jin'Alai Guid:0xF1306EE40010E53B
+[02:24:29:667] Cleared POI - Reason Waiting for loot flag
+[02:24:29:667] Cleared POI
+[02:24:30:112] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:24:30:240] Cleared POI - Reason Already looted
+[02:24:30:240] Cleared POI
+[02:24:30:369] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:24:30:498] Cleared POI - Reason Already looted
+[02:24:30:498] Cleared POI
+[02:24:30:914] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:24:31:451] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:24:31:451] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E582, 0) [361]
+[02:24:34:322] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:24:34:322] Spell_C::CastSpell(31589, 0, 0xF1306EE40010E582, 0) [362]
+[02:24:36:398] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:24:36:398] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E582, 0) [363]
+[02:24:39:102] Spell_C::CastSpell(30451, 0, 0xF1306EE40010E582, 0) [364]
+[02:24:41:181] [Singular] Casting Arcane Barrage on Krieger von Jin'Alai
+[02:24:41:181] Spell_C::CastSpell(44425, 0, 0xF1306EE40010E582, 0) [365]
+[02:24:41:716] [Singular] Casting Shoot on Krieger von Jin'Alai
+[02:24:41:716] Spell_C::CastSpell(5019, 0, 0xF1306EE40010E582, 0) [366]
+[02:24:43:402] Cleared POI - Reason POI is dead from Combat
+[02:24:43:402] Cleared POI
+[02:24:43:521] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:24:43:649] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:24:45:191] InteractDebug:252266136
+[02:24:45:201] Interact Done:252266136
+[02:24:45:632] Looting Krieger von Jin'Alai Guid:0xF1306EE40010E582
+[02:24:45:760] Cleared POI - Reason Waiting for loot flag
+[02:24:45:760] Cleared POI
+[02:24:46:253] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:24:46:358] Cleared POI - Reason Already looted
+[02:24:46:358] Cleared POI
+[02:24:46:479] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:24:46:599] Cleared POI - Reason Already looted
+[02:24:46:599] Cleared POI
+[02:24:47:283] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:24:47:449] Activity: Moving towards Medizinmann von Jin'alai
+[02:24:51:759] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:24:51:759] Spell_C::CastSpell(30451, 0, 0xF1306F580010E2A6, 0) [367]
+[02:24:55:101] [Singular] Casting Mana Shield on Myself
+[02:24:55:101] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [368]
+[02:24:56:760] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:24:56:760] Spell_C::CastSpell(30451, 0, 0xF1306F580010E2A6, 0) [369]
+[02:24:59:288] [Singular] Casting Arcane Missiles on Medizinmann von Jin'alai
+[02:24:59:288] Spell_C::CastSpell(5143, 0, 0xF1306F580010E2A6, 0) [370]
+[02:25:01:059] Cleared POI - Reason POI is dead from Combat
+[02:25:01:059] Cleared POI
+[02:25:01:359] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:25:01:471] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:25:02:046] InteractDebug:252324136
+[02:25:02:051] Interact Done:252324136
+[02:25:02:735] Looting Medizinmann von Jin'alai Guid:0xF1306F580010E2A6
+[02:25:02:909] Cleared POI - Reason Waiting for loot flag
+[02:25:02:909] Cleared POI
+[02:25:03:418] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:25:03:551] Cleared POI - Reason Already looted
+[02:25:03:551] Cleared POI
+[02:25:03:690] Activity: Moving towards Frostleopard
+[02:25:08:797] Changed POI to:Type: Kill, Name: Frostleopard
+[02:25:09:360] [Singular] Casting Arcane Blast on Frostleopard
+[02:25:09:360] Spell_C::CastSpell(30451, 0, 0xF130728F0010E12D, 0) [371]
+[02:25:12:081] [Singular] Casting Slow on Frostleopard
+[02:25:12:081] Spell_C::CastSpell(31589, 0, 0xF130728F0010E12D, 0) [372]
+[02:25:13:816] [Singular] Casting Arcane Blast on Frostleopard
+[02:25:13:816] Spell_C::CastSpell(30451, 0, 0xF130728F0010E12D, 0) [373]
+[02:25:16:120] [Singular] Casting Frost Nova on Frostleopard
+[02:25:16:120] Spell_C::CastSpell(122, 0, 0xF130728F0010E12D, 0) [374]
+[02:25:18:232] Cleared POI - Reason POI is dead from Combat
+[02:25:18:232] Cleared POI
+[02:25:18:400] Changed POI to:Type: Loot, Name: Frostleopard
+[02:25:18:502] InteractDebug:252509736
+[02:25:18:588] Interact Done:252509736
+[02:25:19:476] Looting Frostleopard Guid:0xF130728F0010E12D
+[02:25:19:580] Cleared POI - Reason Waiting for loot flag
+[02:25:19:580] Cleared POI
+[02:25:20:165] Changed POI to:Type: Loot, Name: Frostleopard
+[02:25:20:292] Cleared POI - Reason Already looted
+[02:25:20:292] Cleared POI
+[02:25:20:426] Changed POI to:Type: Loot, Name: Frostleopard
+[02:25:20:584] Cleared POI - Reason Already looted
+[02:25:20:584] Cleared POI
+[02:25:20:736] Changed POI to:Type: Loot, Name: Frostleopard
+[02:25:20:897] Cleared POI - Reason Already looted
+[02:25:20:897] Cleared POI
+[02:25:21:045] Activity: Moving towards Medizinmann von Jin'alai
+[02:25:22:502] Changed POI to:Type: Kill, Name: Medizinmann von Jin'alai
+[02:25:23:135] [Singular] Casting Arcane Blast on Medizinmann von Jin'alai
+[02:25:23:135] Spell_C::CastSpell(30451, 0, 0xF1306F580010E71A, 0) [375]
+[02:25:25:666] Spell_C::CastSpell(30451, 0, 0xF1306F580010E71A, 0) [376]
+[02:25:28:524] [Singular] Casting Slow on Medizinmann von Jin'alai
+[02:25:28:524] Spell_C::CastSpell(31589, 0, 0xF1306F580010E71A, 0) [377]
+[02:25:30:238] Cleared POI - Reason POI is dead from Combat
+[02:25:30:238] Cleared POI
+[02:25:30:342] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:25:30:503] Moving to Type: Loot, Name: Medizinmann von Jin'alai
+[02:25:32:927] InteractDebug:252492336
+[02:25:32:966] Interact Done:252492336
+[02:25:33:679] Looting Medizinmann von Jin'alai Guid:0xF1306F580010E71A
+[02:25:33:872] Cleared POI - Reason Waiting for loot flag
+[02:25:33:872] Cleared POI
+[02:25:34:343] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:25:34:477] Cleared POI - Reason Already looted
+[02:25:34:477] Cleared POI
+[02:25:34:589] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:25:34:716] Cleared POI - Reason Already looted
+[02:25:34:716] Cleared POI
+[02:25:34:821] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:25:34:926] Cleared POI - Reason Already looted
+[02:25:34:926] Cleared POI
+[02:25:35:054] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:25:35:180] Cleared POI - Reason Already looted
+[02:25:35:180] Cleared POI
+[02:25:35:296] Changed POI to:Type: Loot, Name: Medizinmann von Jin'alai
+[02:25:35:454] Cleared POI - Reason Already looted
+[02:25:35:454] Cleared POI
+[02:25:35:603] Activity: Moving towards Krieger von Jin'Alai
+[02:25:45:017] Changed POI to:Type: Kill, Name: Krieger von Jin'Alai
+[02:25:45:480] [Singular] Casting Arcane Blast on Krieger von Jin'Alai
+[02:25:45:480] Spell_C::CastSpell(30451, 0, 0xF1306EE40010DD8B, 0) [378]
+[02:25:47:985] Spell_C::CastSpell(30451, 0, 0xF1306EE40010DD8B, 0) [379]
+[02:25:50:649] [Singular] Casting Arcane Missiles on Krieger von Jin'Alai
+[02:25:50:649] Spell_C::CastSpell(5143, 0, 0xF1306EE40010DD8B, 0) [380]
+[02:25:51:111] Sync
+[02:25:53:728] [Singular] Casting Presence of Mind on Myself
+[02:25:53:728] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [381]
+[02:25:53:975] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [382]
+[02:25:54:223] [Singular] Casting Slow on Krieger von Jin'Alai
+[02:25:54:223] Spell_C::CastSpell(31589, 0, 0xF1306EE40010DD8B, 0) [383]
+[02:25:55:915] Cleared POI - Reason POI is dead from Combat
+[02:25:55:915] Cleared POI
+[02:25:56:033] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:25:56:194] Moving to Type: Loot, Name: Krieger von Jin'Alai
+[02:25:57:993] InteractDebug:252405336
+[02:25:58:014] Interact Done:252405336
+[02:25:58:714] Looting Krieger von Jin'Alai Guid:0xF1306EE40010DD8B
+[02:25:58:753] Cleared POI - Reason Waiting for loot flag
+[02:25:58:753] Cleared POI
+[02:25:59:234] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:25:59:346] Cleared POI - Reason Already looted
+[02:25:59:346] Cleared POI
+[02:25:59:487] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:25:59:623] Cleared POI - Reason Already looted
+[02:25:59:623] Cleared POI
+[02:25:59:750] Changed POI to:Type: Loot, Name: Krieger von Jin'Alai
+[02:25:59:993] InteractDebug:252405336
+[02:26:00:019] Interact Done:252405336
+[02:26:03:217] Cleared POI - Reason Waiting for loot flag
+[02:26:03:217] Cleared POI
+[02:26:03:726] Activity: Moving towards Frostleopard
+[02:26:06:921] Changed POI to:Type: Kill, Name: Frostleopard
+[02:26:07:771] [Singular] Casting Arcane Blast on Frostleopard
+[02:26:07:771] Spell_C::CastSpell(30451, 0, 0xF130728F000FC3FE, 0) [384]
+[02:26:09:601] Spell_C::CastSpell(30451, 0, 0xF130728F000FC3FE, 0) [385]
+[02:26:12:425] [Singular] Casting Arcane Missiles on Frostleopard
+[02:26:12:425] Spell_C::CastSpell(5143, 0, 0xF130728F000FC3FE, 0) [386]
+[02:26:15:297] [Singular] Casting Frost Nova on Frostleopard
+[02:26:15:297] Spell_C::CastSpell(122, 0, 0xF130728F000FC3FE, 0) [387]
+[02:26:17:077] Cleared POI - Reason POI is dead from Combat
+[02:26:17:077] Cleared POI
+[02:26:17:212] Changed POI to:Type: Loot, Name: Frostleopard
+[02:26:17:336] InteractDebug:252295136
+[02:26:17:354] Interact Done:252295136
+[02:26:18:219] Looting Frostleopard Guid:0xF130728F000FC3FE
+[02:26:18:317] Cleared POI - Reason Waiting for loot flag
+[02:26:18:317] Cleared POI
+[02:26:18:775] Changed POI to:Type: Loot, Name: Frostleopard
+[02:26:18:890] Cleared POI - Reason Already looted
+[02:26:18:890] Cleared POI
+[02:26:19:009] Changed POI to:Type: Loot, Name: Frostleopard
+[02:26:19:140] Cleared POI - Reason Already looted
+[02:26:19:140] Cleared POI
+[02:26:19:246] Changed POI to:Type: Loot, Name: Frostleopard
+[02:26:19:352] Cleared POI - Reason Already looted
+[02:26:19:352] Cleared POI
+[02:26:19:496] Changed POI to:Type: Loot, Name: Frostleopard
+[02:26:19:630] Cleared POI - Reason Already looted
+[02:26:19:630] Cleared POI
+[02:26:19:795] Updating repair cost for current equipped items. New value: [0g19s58c]
+[02:26:26:221] Changed POI to:Type: Kill, Name: Frostleopard
+[02:26:26:735] [Singular] Casting Arcane Blast on Frostleopard
+[02:26:26:735] Spell_C::CastSpell(30451, 0, 0xF130728F00106D64, 0) [388]
+[02:26:29:615] [Singular] Casting Slow on Frostleopard
+[02:26:29:615] Spell_C::CastSpell(31589, 0, 0xF130728F00106D64, 0) [389]
+[02:26:31:837] [Singular] Casting Arcane Blast on Frostleopard
+[02:26:31:837] Spell_C::CastSpell(30451, 0, 0xF130728F00106D64, 0) [390]
+[02:26:34:592] [Singular] Casting Arcane Missiles on Frostleopard
+[02:26:34:592] Spell_C::CastSpell(5143, 0, 0xF130728F00106D64, 0) [391]
+[02:26:37:961] [Singular] Casting Mana Shield on Myself
+[02:26:37:961] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [392]
+[02:26:39:712] [Singular] Casting Arcane Blast on Frostleopard
+[02:26:39:712] Spell_C::CastSpell(30451, 0, 0xF130728F00106D64, 0) [393]
+[02:26:42:354] [Singular] Casting Frost Nova on Frostleopard
+[02:26:42:354] Spell_C::CastSpell(122, 0, 0xF130728F00106D64, 0) [394]
+[02:26:44:073] Cleared POI - Reason POI is dead from Combat
+[02:26:44:073] Cleared POI
+[02:26:44:244] Changed POI to:Type: Loot, Name: Frostleopard
+[02:26:44:363] InteractDebug:252463336
+[02:26:44:391] Interact Done:252463336
+[02:26:45:265] Looting Frostleopard Guid:0xF130728F00106D64
+[02:26:46:457] Cleared POI - Reason Waiting for loot flag
+[02:26:46:457] Cleared POI
+[02:26:50:078] Changed POI to:Type: Kill, Name: Frostleopard
+[02:26:50:700] [Singular] Casting Arcane Blast on Frostleopard
+[02:26:50:700] Spell_C::CastSpell(30451, 0, 0xF130728F001065A0, 0) [395]
+[02:26:53:471] [Singular] Casting Slow on Frostleopard
+[02:26:53:471] Spell_C::CastSpell(31589, 0, 0xF130728F001065A0, 0) [396]
+[02:26:55:596] [Singular] Casting Arcane Blast on Frostleopard
+[02:26:55:596] Spell_C::CastSpell(30451, 0, 0xF130728F001065A0, 0) [397]
+[02:26:58:335] [Singular] Casting Mana Shield on Myself
+[02:26:58:335] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [398]
+[02:26:59:968] [Singular] Casting Shoot on Frostleopard
+[02:26:59:968] Spell_C::CastSpell(5019, 0, 0xF130728F001065A0, 0) [399]
+[02:27:00:224] [Singular] Casting Arcane Missiles on Frostleopard
+[02:27:00:225] Spell_C::CastSpell(5143, 0, 0xF130728F001065A0, 0) [400]
+[02:27:04:528] Cleared POI - Reason POI is dead from Combat
+[02:27:04:528] Cleared POI
+[02:27:04:690] Changed POI to:Type: Loot, Name: Frostleopard
+[02:27:04:823] Moving to Type: Loot, Name: Frostleopard
+[02:27:05:532] InteractDebug:252440136
+[02:27:05:561] Interact Done:252440136
+[02:27:06:617] Looting Frostleopard Guid:0xF130728F001065A0
+[02:27:06:706] Cleared POI - Reason Waiting for loot flag
+[02:27:06:706] Cleared POI
+[02:27:07:164] Changed POI to:Type: Loot, Name: Frostleopard
+[02:27:07:270] Cleared POI - Reason Already looted
+[02:27:07:270] Cleared POI
+[02:27:07:398] Changed POI to:Type: Loot, Name: Frostleopard
+[02:27:07:520] Cleared POI - Reason Already looted
+[02:27:07:520] Cleared POI
+[02:27:07:639] Changed POI to:Type: Loot, Name: Frostleopard
+[02:27:07:776] Cleared POI - Reason Already looted
+[02:27:07:776] Cleared POI
+[02:27:12:025] Changed POI to:Type: Kill, Name: Frostleopard
+[02:27:12:705] [Singular] Casting Arcane Blast on Frostleopard
+[02:27:12:705] Spell_C::CastSpell(30451, 0, 0xF130728F0010266F, 0) [401]
+[02:27:15:365] [Singular] Casting Slow on Frostleopard
+[02:27:15:365] Spell_C::CastSpell(31589, 0, 0xF130728F0010266F, 0) [402]
+[02:27:16:952] [Singular] Casting Frost Nova on Frostleopard
+[02:27:16:952] Spell_C::CastSpell(122, 0, 0xF130728F0010266F, 0) [403]
+[02:27:17:823] [Singular] Getting away from frozen target
+[02:27:19:369] [Singular] Casting Arcane Blast on Frostleopard
+[02:27:19:370] Spell_C::CastSpell(30451, 0, 0xF130728F0010266F, 0) [404]
+[02:27:21:881] [Singular] Casting Mirror Image on Frostleopard
+[02:27:21:881] Spell_C::CastSpell(55342, 0, 0xF130728F0010266F, 0) [405]
+[02:27:23:730] [Singular] Casting Arcane Blast on Frostleopard
+[02:27:23:730] Spell_C::CastSpell(30451, 0, 0xF130728F0010266F, 0) [406]
+[02:27:26:167] [Singular] Casting Arcane Missiles on Frostleopard
+[02:27:26:167] Spell_C::CastSpell(5143, 0, 0xF130728F0010266F, 0) [407]
+[02:27:27:860] Cleared POI - Reason POI is dead from Combat
+[02:27:27:860] Cleared POI
+[02:27:28:002] Changed POI to:Type: Loot, Name: Frostleopard
+[02:27:28:146] InteractDebug:252219736
+[02:27:28:172] Interact Done:252219736
+[02:27:29:159] Looting Frostleopard Guid:0xF130728F0010266F
+[02:27:29:345] Cleared POI - Reason Waiting for loot flag
+[02:27:29:345] Cleared POI
+[02:27:29:798] Changed POI to:Type: Loot, Name: Frostleopard
+[02:27:29:980] Cleared POI - Reason Already looted
+[02:27:29:980] Cleared POI
+[02:27:30:114] Changed POI to:Type: Loot, Name: Frostleopard
+[02:27:30:318] Cleared POI - Reason Already looted
+[02:27:30:318] Cleared POI
+[02:27:30:519] Activity: Moving towards Klaue von Har'koa
+[02:27:34:088] Changed POI to:Type: Kill, Name: Klaue von Har'koa
+[02:27:34:778] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:27:34:779] Spell_C::CastSpell(30451, 0, 0xF1306EF200106405, 0) [408]
+[02:27:37:337] Spell_C::CastSpell(30451, 0, 0xF1306EF200106405, 0) [409]
+[02:27:40:022] [Singular] Casting Slow on Klaue von Har'koa
+[02:27:40:022] Spell_C::CastSpell(31589, 0, 0xF1306EF200106405, 0) [410]
+[02:27:41:725] Cleared POI - Reason POI is dead from Combat
+[02:27:41:725] Cleared POI
+[02:27:41:872] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:27:42:050] Moving to Type: Loot, Name: Klaue von Har'koa
+[02:27:43:680] InteractDebug:252231336
+[02:27:43:680] Interact Done:252231336
+[02:27:44:848] Looting Klaue von Har'koa Guid:0xF1306EF200106405
+[02:27:44:898] Cleared POI - Reason Waiting for loot flag
+[02:27:44:898] Cleared POI
+[02:27:45:412] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:27:45:521] Cleared POI - Reason Already looted
+[02:27:45:521] Cleared POI
+[02:27:45:638] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:27:45:764] Cleared POI - Reason Already looted
+[02:27:45:764] Cleared POI
+[02:27:45:896] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:27:46:050] Cleared POI - Reason Already looted
+[02:27:46:050] Cleared POI
+[02:27:46:160] Activity: Moving towards Verfluchter Abkömmling von Har'koa
+[02:27:48:919] Changed POI to:Type: Kill, Name: Verfluchter Abkömmling von Har'koa
+[02:27:49:425] [Singular] Casting Arcane Blast on Verfluchter Abkömmling von Har'koa
+[02:27:49:425] Spell_C::CastSpell(30451, 0, 0xF1306EF400106C16, 0) [411]
+[02:27:52:750] [Singular] Casting Slow on Verfluchter Abkömmling von Har'koa
+[02:27:52:750] Spell_C::CastSpell(31589, 0, 0xF1306EF400106C16, 0) [412]
+[02:27:54:851] [Singular] Casting Presence of Mind on Myself
+[02:27:54:851] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [413]
+[02:27:55:574] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [414]
+[02:27:56:204] [Singular] Casting Arcane Blast on Verfluchter Abkömmling von Har'koa
+[02:27:56:204] Spell_C::CastSpell(30451, 0, 0xF1306EF400106C16, 0) [415]
+[02:27:57:904] [Singular] Casting Frost Nova on Verfluchter Abkömmling von Har'koa
+[02:27:57:904] Spell_C::CastSpell(122, 0, 0xF1306EF400106C16, 0) [416]
+[02:27:58:539] [Singular] Getting away from frozen target
+[02:27:59:640] [Singular] Casting Arcane Missiles on Verfluchter Abkömmling von Har'koa
+[02:27:59:640] Spell_C::CastSpell(5143, 0, 0xF1306EF400106C16, 0) [417]
+[02:28:03:895] Cleared POI - Reason POI is dead from Combat
+[02:28:03:895] Cleared POI
+[02:28:04:019] Changed POI to:Type: Loot, Name: Verfluchter Abkömmling von Har'koa
+[02:28:04:174] InteractDebug:252486536
+[02:28:04:193] Interact Done:252486536
+[02:28:04:795] Looting Verfluchter Abkömmling von Har'koa Guid:0xF1306EF400106C16
+[02:28:04:965] Cleared POI - Reason Waiting for loot flag
+[02:28:04:965] Cleared POI
+[02:28:05:435] Changed POI to:Type: Loot, Name: Verfluchter Abkömmling von Har'koa
+[02:28:05:578] Cleared POI - Reason Already looted
+[02:28:05:578] Cleared POI
+[02:28:05:696] Changed POI to:Type: Loot, Name: Verfluchter Abkömmling von Har'koa
+[02:28:05:825] Cleared POI - Reason Already looted
+[02:28:05:825] Cleared POI
+[02:28:05:964] Activity: Moving towards Klaue von Har'koa
+[02:28:10:150] Changed POI to:Type: Kill, Name: Klaue von Har'koa
+[02:28:10:579] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:28:10:579] Spell_C::CastSpell(30451, 0, 0xF1306EF200106281, 0) [418]
+[02:28:13:133] Spell_C::CastSpell(30451, 0, 0xF1306EF200106281, 0) [419]
+[02:28:15:985] [Singular] Casting Arcane Missiles on Klaue von Har'koa
+[02:28:15:985] Spell_C::CastSpell(5143, 0, 0xF1306EF200106281, 0) [420]
+[02:28:18:962] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:28:18:962] Spell_C::CastSpell(30451, 0, 0xF1306EF200106281, 0) [421]
+[02:28:22:270] [Singular] Casting Mana Shield on Myself
+[02:28:22:270] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [422]
+[02:28:24:362] Cleared POI - Reason POI is dead from Combat
+[02:28:24:362] Cleared POI
+[02:28:24:506] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:28:24:626] InteractDebug:252335736
+[02:28:24:661] Interact Done:252335736
+[02:28:25:543] Looting Klaue von Har'koa Guid:0xF1306EF200106281
+[02:28:25:671] Cleared POI - Reason Waiting for loot flag
+[02:28:25:671] Cleared POI
+[02:28:26:199] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:28:26:345] Cleared POI - Reason Already looted
+[02:28:26:345] Cleared POI
+[02:28:26:557] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:28:26:726] Cleared POI - Reason Already looted
+[02:28:26:726] Cleared POI
+[02:28:26:928] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:28:27:054] Cleared POI - Reason Already looted
+[02:28:27:054] Cleared POI
+[02:28:27:241] Activity: Loading Tile/s
+[02:28:27:241] Loading Northrend_38_22
+[02:28:27:730] Activity: Moving towards Klaue von Har'koa
+[02:28:27:730] Unloading tiles!
+[02:28:27:734] Activity: Loading Tile/s
+[02:28:27:734] Loading Northrend_38_21
+[02:28:28:098] Loading Northrend_38_22
+[02:28:29:009] Activity: Moving towards Klaue von Har'koa
+[02:28:34:557] Changed POI to:Type: Kill, Name: Klaue von Har'koa
+[02:28:35:307] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:28:35:307] Spell_C::CastSpell(30451, 0, 0xF1306EF2001061A9, 0) [423]
+[02:28:38:282] [Singular] Casting Slow on Klaue von Har'koa
+[02:28:38:282] Spell_C::CastSpell(31589, 0, 0xF1306EF2001061A9, 0) [424]
+[02:28:39:869] [Singular] Casting Shoot on Klaue von Har'koa
+[02:28:39:869] Spell_C::CastSpell(5019, 0, 0xF1306EF2001061A9, 0) [425]
+[02:28:40:723] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:28:40:723] Spell_C::CastSpell(30451, 0, 0xF1306EF2001061A9, 0) [426]
+[02:28:42:814] [Singular] Casting Frost Nova on Klaue von Har'koa
+[02:28:42:814] Spell_C::CastSpell(122, 0, 0xF1306EF2001061A9, 0) [427]
+[02:28:43:913] [Singular] Getting away from frozen target
+[02:28:45:477] [Singular] Casting Mana Shield on Myself
+[02:28:45:477] Spell_C::CastSpell(1463, 0, 0x280000003203301, 0) [428]
+[02:28:47:303] [Singular] Casting Arcane Missiles on Klaue von Har'koa
+[02:28:47:303] Spell_C::CastSpell(5143, 0, 0xF1306EF2001061A9, 0) [429]
+[02:28:51:945] Cleared POI - Reason POI is dead from Combat
+[02:28:51:945] Cleared POI
+[02:28:52:093] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:28:52:223] Moving to Type: Loot, Name: Klaue von Har'koa
+[02:28:53:068] InteractDebug:252393736
+[02:28:53:092] Interact Done:252393736
+[02:28:53:868] Looting Klaue von Har'koa Guid:0xF1306EF2001061A9
+[02:28:53:960] Cleared POI - Reason Waiting for loot flag
+[02:28:53:960] Cleared POI
+[02:28:54:450] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:28:54:576] Cleared POI - Reason Already looted
+[02:28:54:576] Cleared POI
+[02:28:54:754] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:28:54:923] Cleared POI - Reason Already looted
+[02:28:54:923] Cleared POI
+[02:28:55:108] Activity: Moving towards Prophet von Har'koa
+[02:28:57:382] Changed POI to:Type: Kill, Name: Prophet von Har'koa
+[02:28:57:985] [Singular] Casting Arcane Blast on Prophet von Har'koa
+[02:28:57:985] Spell_C::CastSpell(30451, 0, 0xF13070B000102FF5, 0) [430]
+[02:29:00:112] Spell_C::CastSpell(30451, 0, 0xF13070B000102FF5, 0) [431]
+[02:29:02:657] [Singular] Casting Arcane Missiles on Prophet von Har'koa
+[02:29:02:657] Spell_C::CastSpell(5143, 0, 0xF13070B000102FF5, 0) [432]
+[02:29:07:106] Cleared POI - Reason POI is dead from Combat
+[02:29:07:106] Cleared POI
+[02:29:07:247] Changed POI to:Type: Loot, Name: Prophet von Har'koa
+[02:29:07:383] InteractDebug:252225536
+[02:29:07:414] Interact Done:252225536
+[02:29:08:152] Looting Prophet von Har'koa Guid:0xF13070B000102FF5
+[02:29:08:201] Cleared POI - Reason Waiting for loot flag
+[02:29:08:201] Cleared POI
+[02:29:08:672] Changed POI to:Type: Loot, Name: Prophet von Har'koa
+[02:29:08:798] Cleared POI - Reason Already looted
+[02:29:08:798] Cleared POI
+[02:29:09:028] Changed POI to:Type: Loot, Name: Prophet von Har'koa
+[02:29:09:176] Cleared POI - Reason Already looted
+[02:29:09:176] Cleared POI
+[02:29:09:308] Changed POI to:Type: Loot, Name: Prophet von Har'koa
+[02:29:09:417] Cleared POI - Reason Already looted
+[02:29:09:417] Cleared POI
+[02:29:09:550] Activity: Moving towards Har'koanunterdrücker
+[02:29:12:637] Changed POI to:Type: Kill, Name: Har'koanunterdrücker
+[02:29:13:228] [Singular] Casting Arcane Blast on Har'koanunterdrücker
+[02:29:13:228] Spell_C::CastSpell(30451, 0, 0xF1306EF300102D34, 0) [433]
+[02:29:15:743] [Singular] Casting Counterspell on Har'koanunterdrücker
+[02:29:15:743] Spell_C::CastSpell(2139, 0, 0xF1306EF300102D34, 0) [434]
+[02:29:16:419] [Singular] Casting Arcane Blast on Har'koanunterdrücker
+[02:29:16:419] Spell_C::CastSpell(30451, 0, 0xF1306EF300102D34, 0) [435]
+[02:29:18:980] [Singular] Casting Frost Nova on Har'koanunterdrücker
+[02:29:18:980] Spell_C::CastSpell(122, 0, 0xF1306EF300102D34, 0) [436]
+[02:29:20:667] [Singular] Casting Arcane Missiles on Har'koanunterdrücker
+[02:29:20:667] Spell_C::CastSpell(5143, 0, 0xF1306EF300102D34, 0) [437]
+[02:29:22:410] [Singular] Casting Slow on Har'koanunterdrücker
+[02:29:22:410] Spell_C::CastSpell(31589, 0, 0xF1306EF300102D34, 0) [438]
+[02:29:24:168] Cleared POI - Reason POI is dead from Combat
+[02:29:24:168] Cleared POI
+[02:29:24:290] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:29:24:417] Moving to Type: Loot, Name: Har'koanunterdrücker
+[02:29:25:184] InteractDebug:252324136
+[02:29:25:190] Interact Done:252324136
+[02:29:26:305] Looting Har'koanunterdrücker Guid:0xF1306EF300102D34
+[02:29:26:531] Cleared POI - Reason Waiting for loot flag
+[02:29:26:531] Cleared POI
+[02:29:27:010] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:29:27:205] Cleared POI - Reason Already looted
+[02:29:27:205] Cleared POI
+[02:29:27:353] Updating repair cost for current equipped items. New value: [0g27s28c]
+[02:29:31:507] [STUCK] Got stuck at <5321.249, -3593.373, 368.7258> on map 571
+[02:29:31:562] [STUCK][HITTEST] LD/LU: False
+[02:29:31:562] [STUCK][HITTEST] Left: False
+[02:29:31:562] [STUCK][HITTEST] RD/RU: False
+[02:29:31:562] [STUCK][HITTEST] Right: True
+[02:29:31:562] [STUCK][HITTEST] Behind: False
+[02:29:31:562] [STUCK][HITTEST] Behind Left: False
+[02:29:31:562] [STUCK][HITTEST] Behind Right: False
+[02:29:35:200] [STUCK] Strafing worked!
+[02:29:39:708] Changed POI to:Type: Kill, Name: Har'koanunterdrücker
+[02:29:41:583] [Singular] Casting Arcane Blast on Har'koanunterdrücker
+[02:29:41:583] Spell_C::CastSpell(30451, 0, 0xF1306EF3001031D1, 0) [439]
+[02:29:44:145] Spell_C::CastSpell(30451, 0, 0xF1306EF3001031D1, 0) [440]
+[02:29:46:889] [Singular] Casting Presence of Mind on Myself
+[02:29:46:889] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [441]
+[02:29:47:092] [Singular] Casting Frost Nova on Har'koanunterdrücker
+[02:29:47:092] Spell_C::CastSpell(122, 0, 0xF1306EF3001031D1, 0) [442]
+[02:29:48:805] [Singular] Casting Arcane Missiles on Har'koanunterdrücker
+[02:29:48:806] Spell_C::CastSpell(5143, 0, 0xF1306EF3001031D1, 0) [443]
+[02:29:51:366] [Singular] Casting Slow on Har'koanunterdrücker
+[02:29:51:367] Spell_C::CastSpell(31589, 0, 0xF1306EF3001031D1, 0) [444]
+[02:29:53:034] Cleared POI - Reason POI is dead from Combat
+[02:29:53:034] Cleared POI
+[02:29:53:139] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:29:53:305] Moving to Type: Loot, Name: Har'koanunterdrücker
+[02:29:54:014] InteractDebug:252509736
+[02:29:54:025] Interact Done:252509736
+[02:29:54:823] Looting Har'koanunterdrücker Guid:0xF1306EF3001031D1
+[02:29:54:963] Cleared POI - Reason Waiting for loot flag
+[02:29:54:963] Cleared POI
+[02:29:55:442] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:29:55:589] Cleared POI - Reason Already looted
+[02:29:55:589] Cleared POI
+[02:29:55:717] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:29:55:842] Cleared POI - Reason Already looted
+[02:29:55:842] Cleared POI
+[02:29:56:015] Activity: Moving towards Verfluchter Abkömmling von Har'koa
+[02:30:05:127] Changed POI to:Type: Kill, Name: Verfluchter Abkömmling von Har'koa
+[02:30:05:765] [Singular] Casting Arcane Blast on Verfluchter Abkömmling von Har'koa
+[02:30:05:765] Spell_C::CastSpell(30451, 0, 0xF1306EF400106861, 0) [445]
+[02:30:07:644] Spell_C::CastSpell(30451, 0, 0xF1306EF400106861, 0) [446]
+[02:30:10:429] [Singular] Casting Arcane Missiles on Verfluchter Abkömmling von Har'koa
+[02:30:10:429] Spell_C::CastSpell(5143, 0, 0xF1306EF400106861, 0) [447]
+[02:30:13:319] Cleared POI - Reason POI is dead from Combat
+[02:30:13:319] Cleared POI
+[02:30:13:497] Changed POI to:Type: Loot, Name: Verfluchter Abkömmling von Har'koa
+[02:30:13:671] InteractDebug:252300936
+[02:30:13:700] Interact Done:252300936
+[02:30:14:314] Looting Verfluchter Abkömmling von Har'koa Guid:0xF1306EF400106861
+[02:30:14:390] Cleared POI - Reason Waiting for loot flag
+[02:30:14:390] Cleared POI
+[02:30:15:308] Changed POI to:Type: Kill, Name: Klaue von Har'koa
+[02:30:15:640] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:30:15:640] Spell_C::CastSpell(30451, 0, 0xF1306EF2001037B3, 0) [448]
+[02:30:18:676] [Singular] Casting Slow on Klaue von Har'koa
+[02:30:18:676] Spell_C::CastSpell(31589, 0, 0xF1306EF2001037B3, 0) [449]
+[02:30:20:338] [Singular] Casting Frost Nova on Klaue von Har'koa
+[02:30:20:339] Spell_C::CastSpell(122, 0, 0xF1306EF2001037B3, 0) [450]
+[02:30:21:234] [Singular] Getting away from frozen target
+[02:30:22:629] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:30:22:629] Spell_C::CastSpell(30451, 0, 0xF1306EF2001037B3, 0) [451]
+[02:30:24:983] [Singular] Casting Mirror Image on Klaue von Har'koa
+[02:30:24:983] Spell_C::CastSpell(55342, 0, 0xF1306EF2001037B3, 0) [452]
+[02:30:26:705] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:30:26:705] Spell_C::CastSpell(30451, 0, 0xF1306EF2001037B3, 0) [453]
+[02:30:29:307] [Singular] Casting Arcane Missiles on Klaue von Har'koa
+[02:30:29:307] Spell_C::CastSpell(5143, 0, 0xF1306EF2001037B3, 0) [454]
+[02:30:29:759] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:30:29:759] Spell_C::CastSpell(30451, 0, 0xF1306EF2001037B3, 0) [455]
+[02:30:31:452] Cleared POI - Reason POI is dead from Combat
+[02:30:31:452] Cleared POI
+[02:30:31:611] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:30:31:733] InteractDebug:252463336
+[02:30:31:768] Interact Done:252463336
+[02:30:33:096] Looting Klaue von Har'koa Guid:0xF1306EF2001037B3
+[02:30:33:231] Cleared POI - Reason Waiting for loot flag
+[02:30:33:231] Cleared POI
+[02:30:33:747] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:30:33:875] Cleared POI - Reason Already looted
+[02:30:33:875] Cleared POI
+[02:30:34:137] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:30:34:573] Cleared POI - Reason Already looted
+[02:30:34:573] Cleared POI
+[02:30:38:288] Activity: Moving towards Har'koanunterdrücker
+[02:30:42:499] Changed POI to:Type: Kill, Name: Har'koanunterdrücker
+[02:30:43:237] [Singular] Casting Arcane Blast on Har'koanunterdrücker
+[02:30:43:237] Spell_C::CastSpell(30451, 0, 0xF1306EF3001037DE, 0) [456]
+[02:30:45:850] Spell_C::CastSpell(30451, 0, 0xF1306EF3001037DE, 0) [457]
+[02:30:48:610] [Singular] Casting Arcane Missiles on Har'koanunterdrücker
+[02:30:48:610] Spell_C::CastSpell(5143, 0, 0xF1306EF3001037DE, 0) [458]
+[02:30:50:186] Cleared POI - Reason POI is dead from Combat
+[02:30:50:186] Cleared POI
+[02:30:50:378] Sync
+[02:30:52:203] Changed POI to:Type: Kill, Name: Har'koanunterdrücker
+[02:30:52:377] Cleared POI - Reason POI is dead from Combat
+[02:30:52:377] Cleared POI
+[02:30:52:511] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:30:52:695] Moving to Type: Loot, Name: Har'koanunterdrücker
+[02:30:54:268] InteractDebug:252277736
+[02:30:54:289] Interact Done:252277736
+[02:30:55:454] Looting Har'koanunterdrücker Guid:0xF1306EF3001037DE
+[02:30:56:679] Cleared POI - Reason Waiting for loot flag
+[02:30:56:679] Cleared POI
+[02:30:57:201] Activity: Loading Tile/s
+[02:30:57:201] Loading Northrend_39_22
+[02:30:57:417] Activity: Moving towards Klaue von Har'koa
+[02:30:59:071] Changed POI to:Type: Kill, Name: Klaue von Har'koa
+[02:30:59:711] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:30:59:711] Spell_C::CastSpell(30451, 0, 0xF1306EF2001038E9, 0) [459]
+[02:31:02:466] [Singular] Casting Slow on Klaue von Har'koa
+[02:31:02:466] Spell_C::CastSpell(31589, 0, 0xF1306EF2001038E9, 0) [460]
+[02:31:04:436] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:31:04:436] Spell_C::CastSpell(30451, 0, 0xF1306EF2001038E9, 0) [461]
+[02:31:07:506] [Singular] Casting Arcane Missiles on Klaue von Har'koa
+[02:31:07:506] Spell_C::CastSpell(5143, 0, 0xF1306EF2001038E9, 0) [462]
+[02:31:09:755] [Singular] Casting Arcane Blast on Klaue von Har'koa
+[02:31:09:755] Spell_C::CastSpell(30451, 0, 0xF1306EF2001038E9, 0) [463]
+[02:31:11:490] Cleared POI - Reason POI is dead from Combat
+[02:31:11:490] Cleared POI
+[02:31:11:632] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:31:11:776] InteractDebug:252492336
+[02:31:11:799] Interact Done:252492336
+[02:31:12:613] Looting Klaue von Har'koa Guid:0xF1306EF2001038E9
+[02:31:12:734] Cleared POI - Reason Waiting for loot flag
+[02:31:12:734] Cleared POI
+[02:31:13:267] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:31:13:532] Cleared POI - Reason Already looted
+[02:31:13:532] Cleared POI
+[02:31:13:766] Changed POI to:Type: Loot, Name: Klaue von Har'koa
+[02:31:13:899] Cleared POI - Reason Already looted
+[02:31:13:899] Cleared POI
+[02:31:14:215] Activity: Loading Tile/s
+[02:31:14:215] Loading Northrend_39_21
+[02:31:14:882] Activity: Moving towards Klaue von Har'koa
+[02:31:15:324] Activity: Moving towards Har'koanunterdrücker
+[02:31:16:515] Activity: Moving towards Verfluchter Abkömmling von Har'koa
+[02:31:17:440] Changed POI to:Type: Kill, Name: Verfluchter Abkömmling von Har'koa
+[02:31:17:959] [Singular] Casting Arcane Blast on Verfluchter Abkömmling von Har'koa
+[02:31:17:959] Spell_C::CastSpell(30451, 0, 0xF1306EF400103A8E, 0) [464]
+[02:31:20:412] Spell_C::CastSpell(30451, 0, 0xF1306EF400103A8E, 0) [465]
+[02:31:22:806] [Singular] Casting Arcane Missiles on Verfluchter Abkömmling von Har'koa
+[02:31:22:806] Spell_C::CastSpell(5143, 0, 0xF1306EF400103A8E, 0) [466]
+[02:31:27:222] Cleared POI - Reason POI is dead from Combat
+[02:31:27:222] Cleared POI
+[02:31:27:375] Changed POI to:Type: Loot, Name: Verfluchter Abkömmling von Har'koa
+[02:31:27:510] Moving to Type: Loot, Name: Verfluchter Abkömmling von Har'koa
+[02:31:28:963] InteractDebug:252440136
+[02:31:29:036] Interact Done:252440136
+[02:31:29:467] Looting Verfluchter Abkömmling von Har'koa Guid:0xF1306EF400103A8E
+[02:31:29:592] Cleared POI - Reason Waiting for loot flag
+[02:31:29:592] Cleared POI
+[02:31:30:126] Changed POI to:Type: Loot, Name: Verfluchter Abkömmling von Har'koa
+[02:31:30:322] Cleared POI - Reason Already looted
+[02:31:30:322] Cleared POI
+[02:31:30:511] Changed POI to:Type: Loot, Name: Verfluchter Abkömmling von Har'koa
+[02:31:30:630] Cleared POI - Reason Already looted
+[02:31:30:630] Cleared POI
+[02:31:30:836] Changed POI to:Type: Loot, Name: Verfluchter Abkömmling von Har'koa
+[02:31:30:958] Cleared POI - Reason Already looted
+[02:31:30:958] Cleared POI
+[02:31:31:125] Changed POI to:Type: Loot, Name: Verfluchter Abkömmling von Har'koa
+[02:31:31:246] Cleared POI - Reason Already looted
+[02:31:31:246] Cleared POI
+[02:31:31:394] Activity: Moving towards Klaue von Har'koa
+[02:31:31:640] Activity: Moving towards Har'koanunterdrücker
+[02:31:32:502] Changed POI to:Type: Kill, Name: Har'koanunterdrücker
+[02:31:33:158] [Singular] Casting Arcane Blast on Har'koanunterdrücker
+[02:31:33:158] Spell_C::CastSpell(30451, 0, 0xF1306EF30010393C, 0) [467]
+[02:31:35:479] Spell_C::CastSpell(30451, 0, 0xF1306EF30010393C, 0) [468]
+[02:31:38:384] [Singular] Casting Presence of Mind on Myself
+[02:31:38:384] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [469]
+[02:31:38:712] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [470]
+[02:31:38:973] [Singular] Casting Arcane Blast on Har'koanunterdrücker
+[02:31:38:973] Spell_C::CastSpell(30451, 0, 0xF1306EF30010393C, 0) [471]
+[02:31:41:669] Cleared POI - Reason POI is dead from Combat
+[02:31:41:669] Cleared POI
+[02:31:41:861] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:31:42:005] Moving to Type: Loot, Name: Har'koanunterdrücker
+[02:31:43:039] InteractDebug:252382136
+[02:31:43:063] Interact Done:252382136
+[02:31:43:999] Looting Har'koanunterdrücker Guid:0xF1306EF30010393C
+[02:31:44:028] Cleared POI - Reason Waiting for loot flag
+[02:31:44:028] Cleared POI
+[02:31:44:575] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:31:44:713] Cleared POI - Reason Already looted
+[02:31:44:713] Cleared POI
+[02:31:44:831] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:31:44:959] Cleared POI - Reason Already looted
+[02:31:44:959] Cleared POI
+[02:31:47:569] Changed POI to:Type: Kill, Name: Har'koanunterdrücker
+[02:31:47:962] [Singular] Casting Arcane Blast on Har'koanunterdrücker
+[02:31:47:962] Spell_C::CastSpell(30451, 0, 0xF1306EF300103C05, 0) [472]
+[02:31:50:310] Spell_C::CastSpell(30451, 0, 0xF1306EF300103C05, 0) [473]
+[02:31:53:250] [Singular] Casting Arcane Missiles on Har'koanunterdrücker
+[02:31:53:250] Spell_C::CastSpell(5143, 0, 0xF1306EF300103C05, 0) [474]
+[02:31:56:142] We leveled up! Checking if we need to switch profiles.
+[02:31:57:653] Cleared POI - Reason POI is dead from Combat
+[02:31:57:653] Cleared POI
+[02:31:57:812] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:31:58:006] Moving to Type: Loot, Name: Har'koanunterdrücker
+[02:31:58:866] InteractDebug:252335736
+[02:31:58:915] Interact Done:252335736
+[02:31:59:792] Looting Har'koanunterdrücker Guid:0xF1306EF300103C05
+[02:31:59:938] Cleared POI - Reason Waiting for loot flag
+[02:31:59:938] Cleared POI
+[02:32:00:411] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:32:00:532] Cleared POI - Reason Already looted
+[02:32:00:532] Cleared POI
+[02:32:00:724] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:32:00:831] Cleared POI - Reason Already looted
+[02:32:00:831] Cleared POI
+[02:32:03:303] Changed POI to:Type: Kill, Name: Har'koanunterdrücker
+[02:32:04:075] [Singular] Casting Arcane Blast on Har'koanunterdrücker
+[02:32:04:076] Spell_C::CastSpell(30451, 0, 0xF1306EF300103BC1, 0) [475]
+[02:32:06:340] Spell_C::CastSpell(30451, 0, 0xF1306EF300103BC1, 0) [476]
+[02:32:09:156] [Singular] Casting Arcane Missiles on Har'koanunterdrücker
+[02:32:09:156] Spell_C::CastSpell(5143, 0, 0xF1306EF300103BC1, 0) [477]
+[02:32:13:110] Cleared POI - Reason POI is dead from Combat
+[02:32:13:110] Cleared POI
+[02:32:13:246] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:32:13:366] Moving to Type: Loot, Name: Har'koanunterdrücker
+[02:32:14:627] InteractDebug:252451736
+[02:32:14:634] Interact Done:252451736
+[02:32:15:627] Looting Har'koanunterdrücker Guid:0xF1306EF300103BC1
+[02:32:15:728] Cleared POI - Reason Waiting for loot flag
+[02:32:15:728] Cleared POI
+[02:32:16:293] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:32:16:422] Cleared POI - Reason Already looted
+[02:32:16:422] Cleared POI
+[02:32:16:563] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:32:16:707] Cleared POI - Reason Already looted
+[02:32:16:707] Cleared POI
+[02:32:16:823] Changed POI to:Type: Loot, Name: Har'koanunterdrücker
+[02:32:16:943] Cleared POI - Reason Already looted
+[02:32:16:943] Cleared POI
+[02:32:17:091] Activity: Moving towards Klaue von Har'koa
+[02:32:18:537] Not in game
+[02:32:31:127] Wow exited, Honorbuddy stopped!
+[02:32:31:127] Not in game
+[02:32:31:127] Stop called!

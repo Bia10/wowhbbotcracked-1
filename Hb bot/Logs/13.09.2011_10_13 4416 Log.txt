@@ -1,0 +1,654 @@
+[10:13:01:223] http://www.codemplosion.com
+[10:13:01:223] Version: 1.0.2.26
+[10:13:04:845] Logging in...
+[10:13:19:449] Forum is back online.
+[10:13:19:451] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[10:13:33:824] Attached to WoW with ID 5908
+[10:13:34:013] Honorbuddy v2.0.0.5354 started!
+[10:13:34:016] Using WoW with process ID 5908
+[10:13:34:016] Platform: Microsoft Windows NT 6.1.7600.0
+[10:13:34:016] Executable Path: C:\Users\samy\Desktop\01a804f0\Honorbuddy.exe
+[10:13:34:023] Character is a level 75 Draenei Mage
+[10:13:34:025] Current zone is Grizzlyhügel
+[10:13:34:043] New bot added!: ArchaeologyBuddy
+[10:13:34:339] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[10:13:34:343] [Instancebuddy v3.0.1.315]:Currently supported tanking dungeons :
+[10:13:34:343] [Instancebuddy v3.0.1.315]:(This list will update itself automatically)
+[10:13:34:343] [Instancebuddy v3.0.1.315]:
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Deadmines
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Ragefire Chasm
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 16 - 26) Shadowfang Keep
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 20 - 30) The Stockade
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 26 - 36) Scarlet Monastery - Graveyard
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 29 - 39) Scarlet Monastery - Library
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 32 - 42) Scarlet Monastery - Armory
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 35 - 45) Scarlet Monastery - Cathedral
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 38 - 48) Scholomance
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 42 - 52) Stratholme - Main Gate
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 46 - 56) Stratholme - Service Entrance
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 57 - 67) Hellfire Ramparts
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 59 - 68) The Blood Furnace
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 62 - 71) Mana Tombs
+[10:13:34:343] [Instancebuddy v3.0.1.315]: (Level 65 - 73) Sethekk Halls
+[10:13:34:343] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[10:13:34:826] New bot added!: Instancebuddy
+[10:13:34:889] New bot added!: Gatherbuddy2
+[10:13:34:894] New bot added!: Grind Bot
+[10:13:34:898] New bot added!: Questing
+[10:13:34:902] New bot added!: PvP
+[10:13:34:906] New bot added!: BG Bot [Beta]
+[10:13:34:911] New bot added!: Mixed Mode
+[10:13:34:915] New bot added!: PartyBot
+[10:13:37:365] New bot added!: Combat Bot
+[10:13:37:436] MeshesFolderPath: C:\Users\samy\AppData\Local\HonorbuddyMeshes
+[10:13:37:436] KillBetweenHotspots: True
+[10:13:37:436] AdvancedSettingsMode: False
+[10:13:37:436] LogoutForInactivity: True
+[10:13:37:436] LogoutInactivityTimer: 10
+[10:13:37:436] LogoutInactivityUseForceQuit: False
+[10:13:37:436] ProfileDebuggingMode: False
+[10:13:37:436] FoodAmount: 0
+[10:13:37:436] DrinkAmount: 0
+[10:13:37:436] FormLocationX: -2
+[10:13:37:436] FormLocationY: 16
+[10:13:37:436] FormWidth: 396
+[10:13:37:436] FormHeight: 302
+[10:13:37:436] SelectedBotIndex: 3
+[10:13:37:436] UseFlightPaths: False
+[10:13:37:436] FindMountAutomatically: True
+[10:13:37:436] UseRandomMount: True
+[10:13:37:436] FoodName: 43518
+[10:13:37:436] DrinkName: 43518
+[10:13:37:436] MountName: 32235
+[10:13:37:436] LootMobs: True
+[10:13:37:436] SkinMobs: False
+[10:13:37:436] NinjaSkin: False
+[10:13:37:436] LootChests: True
+[10:13:37:436] HarvestMinerals: False
+[10:13:37:436] HarvestHerbs: False
+[10:13:37:436] UseMount: True
+[10:13:37:436] PullDistance: 30
+[10:13:37:436] LootRadius: 45
+[10:13:37:436] FindVendorsAutomatically: False
+[10:13:37:436] TrainNewSkills: False
+[10:13:37:436] LearnFlightPaths: False
+[10:13:37:436] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Quest Behaviors\quets\Alliance 68+ Version 1.3.xml
+[10:13:37:436] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Quest Behaviors\quets\Alliance 68+ Version 1.3.xml
+[10:13:37:436] MountDistance: 75
+[10:13:37:436] RessAtSpiritHealers: False
+[10:13:37:436] GroundMountFarmingMode: False
+[10:13:37:436] FoodAmount: 0
+[10:13:37:436] DrinkAmount: 0
+[10:13:37:436] FormLocationX: -2
+[10:13:37:436] FormLocationY: 16
+[10:13:37:436] SelectedBotIndex: 3
+[10:13:37:436] UseFlightPaths: False
+[10:13:37:436] FindMountAutomatically: True
+[10:13:37:436] UseRandomMount: True
+[10:13:37:436] FoodName: 43518
+[10:13:37:436] DrinkName: 43518
+[10:13:37:436] MountName: 32235
+[10:13:37:436] LootMobs: True
+[10:13:37:436] SkinMobs: False
+[10:13:37:436] NinjaSkin: False
+[10:13:37:436] LootChests: True
+[10:13:37:436] HarvestMinerals: False
+[10:13:37:436] HarvestHerbs: False
+[10:13:37:436] UseMount: True
+[10:13:37:436] PullDistance: 30
+[10:13:37:436] LootRadius: 45
+[10:13:37:436] FindVendorsAutomatically: False
+[10:13:37:436] TrainNewSkills: False
+[10:13:37:436] LearnFlightPaths: False
+[10:13:37:436] LastUsedPath: C:\Users\samy\Desktop\01a804f0\Quest Behaviors\quets\Alliance 68+ Version 1.3.xml
+[10:13:37:436] MountDistance: 75
+[10:13:37:436] RessAtSpiritHealers: False
+[10:13:37:437] Please wait a few seconds while Honorbuddy initializes.
+[10:13:37:439] Activity: Initializing.
+[10:13:37:441] Activity: Loading memory management & tables
+[10:13:37:471] Activity: Loading Spells
+[10:13:37:591] Activity: Initializing Spell Manager
+[10:13:37:636] Activity: Initializing Plugins
+[10:13:37:843] 
+[10:13:39:039] [WeigtSet] Selected weight set: Mage-Arcane
+[10:13:40:941] Activity: Initializing Navigator
+[10:13:41:105] Activity: Initializing Blackspot Manager
+[10:13:41:110] Activity: Initializing Battlegrounds
+[10:13:41:151] Activity: Initializing Flight Paths
+[10:13:41:216] Activity: Initializing Routines
+[10:13:41:223] Building spell book
+[10:13:41:228] Spell book built
+[10:13:41:229] Compiling C:\Users\samy\Desktop\01a804f0\CustomClasses\ShamWOW
+[10:13:42:181] Compiling C:\Users\samy\Desktop\01a804f0\CustomClasses\Singular
+[10:13:43:336] Activity: Initialization complete
+[10:13:43:336] Initialization complete.
+[10:13:43:339] Activity: Honorbuddy Startup Complete
+[10:13:46:269] Activity: Loading Profile...
+[10:14:03:519] Downloaded tilemap Northrend
+[10:14:03:529] Changed tilemap to Northrend, Tiled: True
+[10:14:03:878] Changing current profile to level 0 - 2147483647
+[10:14:21:479] Starting the bot!
+[10:14:21:570] Changing current profile to level 0 - 2147483647
+[10:14:21:622] Chose Singular $Revision: 254 $ as your combat class!
+[10:14:21:624] [Singular] Starting Singular v0.0.0.0
+[10:14:21:680] [Singular] Determining talent spec.
+[10:14:21:868] [Singular] Current spec is  Arcane Mage
+[10:14:21:901] [Singular] Using CreateArcaneMageCombat for Arcane Mage - Combat (Priority: 0)
+[10:14:21:931] [Singular] Using CreateArcaneMagePull for Arcane Mage - Pull (Priority: 0)
+[10:14:21:939] [Singular] Using default rest behavior.
+[10:14:21:956] [Singular] Using CreateMageBuffs for Arcane Mage - PreCombatBuffs (Priority: 0)
+[10:14:21:961] [Singular] Behaviors created!
+[10:14:22:103] Cleared POI
+[10:14:22:104] Cleared POI - Reason Starting up
+[10:14:22:106] Cleared POI
+[10:14:25:056] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:14:42:073] Stopping the bot!
+[10:14:42:074] Stop called!
+[10:14:42:115] Activity: Honorbuddy Stopped
+[10:14:42:362] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[10:14:42:364] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+   at Styx.Logic.Targeting.Pulse()
+[10:14:42:368] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:14:42:368] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:14:43:966] Activity: Loading Profile...
+[10:14:48:152] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[10:14:48:200] Changing current profile to Blasted Lands
+[10:14:55:199] Starting the bot!
+[10:14:55:243] Changing current profile to Blasted Lands
+[10:14:55:298] Cleared POI - Reason Starting up
+[10:14:55:298] Cleared POI
+[10:14:56:860] Mounting: Goldener Greif
+[10:14:57:079] Spell_C::CastSpell(32235, 0, 0x0, 0) [1]
+[10:14:58:862] Activity: Moving to hotspot
+[10:14:58:977] Activity: Loading Tile/s
+[10:14:58:977] Loading Northrend_39_23
+[10:14:59:247] Could not generate path from {4511.377, -4224.149, 167.7471} to {-11510.3, -3069.965, 4.292345} (time used: 8 milliseconds) @ FindEndPoly
+[10:14:59:386] Activity: Moving to hotspot
+[10:14:59:387] Could not generate path from {4511.377, -4224.149, 167.7471} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:15:265] Could not generate path from {4510.795, -4223.948, 167.705} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:15:403] Could not generate path from {4509.456, -4223.484, 167.6131} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:15:542] Could not generate path from {4506.764, -4222.551, 167.4345} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:15:667] Could not generate path from {4505.517, -4222.107, 167.3457} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:15:810] Could not generate path from {4502.879, -4221.158, 167.1219} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:15:936] Could not generate path from {4501.561, -4220.683, 166.9956} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:16:038] Could not generate path from {4500.155, -4220.178, 166.8637} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:16:171] Could not generate path from {4498.171, -4219.46, 166.759} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:16:307] Could not generate path from {4495.265, -4218.402, 168.4528} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:16:432] Could not generate path from {4492.815, -4217.509, 171.0597} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:16:562] Could not generate path from {4490.949, -4216.83, 173.046} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:16:688] Could not generate path from {4488.441, -4215.916, 175.715} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:17:013] Could not generate path from {4481.781, -4213.49, 180.1635} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:17:126] Could not generate path from {4479.44, -4212.637, 179.2223} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:17:248] Could not generate path from {4476.438, -4211.543, 179.3259} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:17:379] Could not generate path from {4473.93, -4210.63, 181.9949} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:17:506] Could not generate path from {4471.422, -4209.716, 184.6639} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:17:653] Could not generate path from {4468.603, -4208.689, 187.664} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:17:825] Could not generate path from {4464.929, -4207.351, 191.5744} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:17:928] Could not generate path from {4463.296, -4206.756, 193.3123} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:18:054] Could not generate path from {4462.363, -4206.416, 196.6755} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:18:151] Could not generate path from {4462.363, -4206.416, 199.543} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:18:240] Could not generate path from {4462.363, -4206.416, 201.9716} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:18:332] Could not generate path from {4462.363, -4206.416, 204.722} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:18:459] Could not generate path from {4462.363, -4206.416, 208.4673} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:18:555] Could not generate path from {4462.363, -4206.416, 211.2762} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:18:692] Could not generate path from {4462.363, -4206.416, 216.1334} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:18:795] Could not generate path from {4462.363, -4206.416, 218.3279} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:18:932] Could not generate path from {4462.363, -4206.416, 223.1558} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:19:036] Could not generate path from {4462.363, -4206.416, 225.4673} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:19:164] Could not generate path from {4462.363, -4206.416, 229.1834} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:19:275] Could not generate path from {4462.363, -4206.416, 232.519} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:22:091] Could not generate path from {4461.128, -4205.966, 232.0226} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:22:206] Could not generate path from {4458.222, -4204.908, 230.8538} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:22:316] Could not generate path from {4455.342, -4203.858, 229.6955} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:22:431] Could not generate path from {4452.384, -4202.781, 228.5061} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:22:541] Could not generate path from {4449.53, -4201.741, 227.358} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:22:670] Could not generate path from {4446.212, -4200.533, 226.0238} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:22:785] Could not generate path from {4443.28, -4199.464, 224.8448} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:22:912] Could not generate path from {4440.014, -4198.275, 223.5312} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:23:040] Could not generate path from {4436.696, -4197.066, 222.197} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:23:171] Could not generate path from {4433.379, -4195.857, 220.8628} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:23:275] Could not generate path from {4430.833, -4194.93, 219.8389} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:23:381] Could not generate path from {4428.004, -4193.899, 218.7012} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:23:478] Could not generate path from {4425.509, -4192.991, 217.698} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:23:593] Could not generate path from {4422.577, -4191.923, 216.5189} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:23:690] Could not generate path from {4420.134, -4191.033, 215.5363} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:23:819] Could not generate path from {4416.842, -4189.833, 214.2125} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:23:930] Could not generate path from {4413.885, -4188.756, 213.0231} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:24:059] Could not generate path from {4410.619, -4187.566, 211.7096} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:24:172] Could not generate path from {4407.712, -4186.508, 210.5408} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:24:300] Could not generate path from {4404.395, -4185.299, 209.2066} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:24:413] Could not generate path from {4401.489, -4184.241, 208.0379} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:24:526] Could not generate path from {4398.994, -4183.332, 207.0347} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:24:637] Could not generate path from {4395.702, -4182.133, 205.7108} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:24:726] Could not generate path from {4393.619, -4181.374, 204.8731} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:24:829] Could not generate path from {4390.713, -4180.315, 203.7043} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:24:915] Could not generate path from {4388.578, -4179.538, 202.8459} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:25:006] Could not generate path from {4386.238, -4178.685, 201.9047} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:25:092] Could not generate path from {4384.078, -4177.898, 201.0359} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:25:204] Could not generate path from {4381.223, -4176.858, 199.8879} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:25:330] Could not generate path from {4377.905, -4175.649, 198.5537} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:25:445] Could not generate path from {4375, -4174.591, 197.385} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:25:555] Could not generate path from {4372.119, -4173.542, 196.2266} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:25:643] Could not generate path from {4370.01, -4172.773, 195.3785} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:25:763] Could not generate path from {4366.718, -4171.574, 194.0546} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:25:891] Could not generate path from {4363.426, -4170.375, 192.7308} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:25:979] Could not generate path from {4360.52, -4169.316, 191.562} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:26:085] Could not generate path from {4358.463, -4168.567, 190.7346} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:26:169] Could not generate path from {4356.328, -4167.789, 189.8762} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:26:266] Could not generate path from {4353.885, -4166.899, 188.8936} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:26:374] Could not generate path from {4351.004, -4165.85, 187.7353} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:26:474] Could not generate path from {4349.332, -4164.963, 187.3402} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:26:584] Could not generate path from {4348.787, -4163.734, 188.121} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:26:720] Could not generate path from {4347.096, -4161.739, 188.1856} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:26:857] Could not generate path from {4346.149, -4159.875, 187.2442} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:26:961] Could not generate path from {4345.535, -4158.348, 189.2609} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:27:049] Could not generate path from {4345.075, -4157.118, 191.4418} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:27:157] Could not generate path from {4344.637, -4155.945, 193.5224} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:27:262] Could not generate path from {4343.95, -4154.107, 196.7811} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:27:356] Could not generate path from {4343.443, -4152.756, 199.1223} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:27:478] Could not generate path from {4342.676, -4150.842, 202.0348} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:27:572] Could not generate path from {4342.126, -4149.612, 203.6145} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:27:663] Could not generate path from {4340.778, -4147.265, 205.5792} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:27:763] Could not generate path from {4339.71, -4145.67, 206.2921} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:27:887] Could not generate path from {4337.604, -4142.624, 206.8223} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:28:017] Could not generate path from {4335.469, -4139.536, 207.207} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:28:146] Could not generate path from {4333.304, -4136.457, 207.4842} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindStartPoly
+[10:16:28:258] Could not generate path from {4331.451, -4133.865, 207.6215} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:28:369] Could not generate path from {4329.474, -4131.108, 207.7377} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:28:498] Could not generate path from {4327.236, -4128.069, 207.7122} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:28:613] Could not generate path from {4325.185, -4125.405, 207.571} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:28:708] Could not generate path from {4323.489, -4123.245, 207.4237} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:29:556] Could not generate path from {4308.279, -4104.106, 205.9561} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:29:786] Could not generate path from {4304.773, -4099.697, 205.5616} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:29:938] Could not generate path from {4301.279, -4095.301, 204.9682} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:30:068] Could not generate path from {4298.926, -4092.341, 204.5508} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:30:166] Could not generate path from {4297.207, -4090.178, 204.2457} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:30:326] Could not generate path from {4294.238, -4086.445, 203.7192} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:30:453] Could not generate path from {4291.94, -4083.553, 203.3114} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:30:583] Could not generate path from {4289.027, -4079.889, 202.7894} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:30:798] Could not generate path from {4285.825, -4075.862, 202.1942} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:30:923] Could not generate path from {4283.474, -4072.904, 201.757} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:31:020] Could not generate path from {4281.755, -4070.742, 201.4375} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:31:146] Could not generate path from {4279.422, -4067.807, 201.0036} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:31:238] Could not generate path from {4277.885, -4065.873, 200.7178} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:31:355] Could not generate path from {4275.045, -4062.301, 200.1898} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:31:469] Could not generate path from {4273.562, -4060.436, 199.914} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:31:565] Could not generate path from {4271.247, -4057.523, 199.4835} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:31:678] Could not generate path from {4269.781, -4055.68, 199.2111} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:31:773] Could not generate path from {4268.081, -4053.542, 198.895} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:31:887] Activity: Loading Tile/s
+[10:16:31:887] Loading Northrend_39_24
+[10:16:32:197] Could not generate path from {4266.001, -4050.925, 198.5083} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:32:321] Activity: Moving to hotspot
+[10:16:32:322] Could not generate path from {4258.21, -4041.061, 196.9555} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:32:436] Could not generate path from {4256.918, -4038.551, 195.559} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:32:658] Could not generate path from {4256.697, -4035.085, 189.9802} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:32:768] Could not generate path from {4256.967, -4033.726, 187.5372} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:32:871] Could not generate path from {4257.839, -4031.577, 183.9575} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:32:993] Could not generate path from {4258.865, -4030.213, 181.7653} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:33:094] Could not generate path from {4260.5, -4028.268, 178.9785} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:33:195] Could not generate path from {4261.481, -4027.119, 177.7795} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:33:301] Could not generate path from {4263.345, -4024.936, 176.3952} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:33:401] Could not generate path from {4265.74, -4022.372, 174.9375} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:33:525] Could not generate path from {4267.613, -4021.087, 174.0781} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:33:653] Could not generate path from {4271.013, -4019.703, 172.6701} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:33:748] Could not generate path from {4274.534, -4019.597, 171.1833} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:33:856] Could not generate path from {4276.386, -4019.706, 170.3863} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:33:982] Could not generate path from {4279.664, -4020.778, 168.9131} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:34:197] Could not generate path from {4282.404, -4024.024, 169.1926} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:34:346] Could not generate path from {4283.356, -4025.536, 169.6944} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:34:496] Could not generate path from {4284.578, -4027.46, 170.6458} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:36:568] Could not generate path from {4286.489, -4027.841, 171.1009} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:36:686] Could not generate path from {4288.255, -4027.98, 171.5757} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:36:812] Could not generate path from {4290.205, -4028.133, 172.2141} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:37:006] Could not generate path from {4293.105, -4028.671, 173.4505} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:37:122] Could not generate path from {4294.591, -4029.615, 174.3022} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:37:232] Could not generate path from {4295.582, -4031.016, 175.0295} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:37:359] Could not generate path from {4295.985, -4032.207, 175.476} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:38:320] Could not generate path from {4295.5, -4032.295, 175.3107} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:38:448] Could not generate path from {4293.254, -4032.574, 174.6049} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:38:561] Could not generate path from {4292.03, -4032.714, 174.222} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:38:710] Could not generate path from {4289.624, -4033.139, 173.7251} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:38:801] Could not generate path from {4288.242, -4034.329, 173.716} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:38:914] Could not generate path from {4287.883, -4035.36, 173.916} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:41:118] Could not generate path from {4286.552, -4035.979, 173.9049} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:41:235] Could not generate path from {4286.634, -4034.056, 173.3926} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:41:346] Could not generate path from {4287.005, -4032.34, 172.8619} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:41:446] Could not generate path from {4287.597, -4031.053, 172.4923} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:41:563] Could not generate path from {4288.557, -4031.964, 173.0659} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:41:686] Could not generate path from {4288.116, -4033.742, 173.5351} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:41:806] Could not generate path from {4287.531, -4036.088, 174.0369} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:41:922] Could not generate path from {4287.222, -4037.329, 174.3373} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:42:077] Could not generate path from {4286.519, -4040.153, 174.7839} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:42:200] Could not generate path from {4286.191, -4041.468, 174.9828} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:42:319] Could not generate path from {4285.749, -4043.247, 175.1584} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:42:468] Could not generate path from {4285.194, -4045.473, 175.3817} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:42:590] Could not generate path from {4284.903, -4046.638, 175.4626} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:42:833] Could not generate path from {4284.737, -4047.295, 175.4979} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:42:933] Could not generate path from {4283.482, -4046.572, 175.3108} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:43:042] Could not generate path from {4283.493, -4044.878, 175.1399} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:43:163] Could not generate path from {4283.504, -4043.014, 174.9253} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:43:274] Could not generate path from {4283.515, -4041.321, 174.7112} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:43:384] Could not generate path from {4283.522, -4040.15, 174.5106} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:43:508] Could not generate path from {4283.534, -4038.194, 174.1733} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:43:624] Could not generate path from {4283.545, -4036.423, 173.7427} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:43:768] Could not generate path from {4283.563, -4033.698, 172.9512} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:43:882] Could not generate path from {4283.57, -4032.435, 172.4923} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:44:007] Could not generate path from {4283.583, -4030.51, 171.7254} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:45:691] Stopping the bot!
+[10:16:45:691] Stop called!
+[10:16:45:711] Activity: Honorbuddy Stopped
+[10:16:45:720] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[10:16:45:723] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+   at Styx.Logic.Targeting.Pulse()
+[10:16:45:726] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:16:45:726] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:16:46:915] Starting the bot!
+[10:16:46:930] Changed tilemap to Northrend, Tiled: True
+[10:16:46:938] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[10:16:46:938] Changing current profile to Blasted Lands
+[10:16:47:043] Cleared POI - Reason Starting up
+[10:16:47:043] Cleared POI
+[10:16:47:244] Activity: Moving to hotspot
+[10:16:47:244] Activity: Loading Tile/s
+[10:16:47:244] Loading Northrend_39_23
+[10:16:47:477] Could not generate path from {4283.583, -4030.51, 171.7254} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:16:47:597] Activity: Moving to hotspot
+[10:17:01:572] Dismount for attacker.
+[10:17:01:574] Stop and dismount... Reason: Combat
+[10:17:02:053] Dismount for attacker.
+[10:17:02:053] Stop and dismount... Reason: Combat
+[10:17:02:493] [Singular] Target is invalid. Switching to Grizzly!
+[10:17:03:497] [Singular] Casting Frost Nova on Grizzly
+[10:17:03:498] Spell_C::CastSpell(122, 0, 0xF15069FB008C6BB0, 0) [2]
+[10:17:04:212] [Singular] Getting away from frozen target
+[10:17:05:155] [Singular] Casting Mirror Image on Grizzly
+[10:17:05:155] Spell_C::CastSpell(55342, 0, 0xF15069FB008C6BB0, 0) [3]
+[10:17:07:170] [Singular] Casting Slow on Grizzly
+[10:17:07:170] Spell_C::CastSpell(31589, 0, 0xF15069FB008C6BB0, 0) [4]
+[10:17:09:053] [Singular] Casting Presence of Mind on Myself
+[10:17:09:053] Spell_C::CastSpell(12043, 0, 0x280000003203301, 0) [5]
+[10:17:09:687] [Singular] Casting Arcane Blast on Grizzly
+[10:17:09:687] Spell_C::CastSpell(30451, 0, 0xF15069FB008C6BB0, 0) [6]
+[10:17:11:423] Spell_C::CastSpell(30451, 0, 0xF15069FB008C6BB0, 0) [7]
+[10:17:13:482] [Singular] Casting Arcane Missiles on Grizzly
+[10:17:13:483] Spell_C::CastSpell(5143, 0, 0xF15069FB008C6BB0, 0) [8]
+[10:17:14:031] [Singular] Casting Slow on Grizzly
+[10:17:14:031] Spell_C::CastSpell(31589, 0, 0xF15069FB008C6BB0, 0) [9]
+[10:17:15:704] [Singular] Target is invalid. Switching to Farnfressermotte!
+[10:17:16:851] [Singular] Casting Slow on Farnfressermotte
+[10:17:16:851] Spell_C::CastSpell(31589, 0, 0xF1306B1D0077BC4F, 0) [10]
+[10:17:18:832] [Singular] Casting Arcane Missiles on Farnfressermotte
+[10:17:18:832] Spell_C::CastSpell(5143, 0, 0xF1306B1D0077BC4F, 0) [11]
+[10:17:22:015] [Singular] Casting Arcane Blast on Farnfressermotte
+[10:17:22:015] Spell_C::CastSpell(30451, 0, 0xF1306B1D0077BC4F, 0) [12]
+[10:17:23:766] [Singular] Casting Mage Armor on Myself
+[10:17:23:766] Spell_C::CastSpell(6117, 0, 0x280000003203301, 0) [13]
+[10:17:23:981] Changed POI to:Type: Loot, Name: Farnfressermotte
+[10:17:24:274] Moving to Type: Loot, Name: Farnfressermotte
+[10:17:25:140] InteractDebug:549968256
+[10:17:25:172] Interact Done:549968256
+[10:17:26:048] Looting Farnfressermotte Guid:0xF1306B1D0077BC4F
+[10:17:26:128] Cleared POI - Reason Waiting for loot flag
+[10:17:26:128] Cleared POI
+[10:17:26:556] Changed POI to:Type: Loot, Name: Farnfressermotte
+[10:17:26:783] Cleared POI - Reason Already looted
+[10:17:26:783] Cleared POI
+[10:17:26:880] Changed POI to:Type: Loot, Name: Grizzly
+[10:17:27:011] Moving to Type: Loot, Name: Grizzly
+[10:17:27:627] InteractDebug:756178080
+[10:17:27:649] Interact Done:756178080
+[10:17:28:688] Looting Grizzly Guid:0xF15069FB008C6BB0
+[10:17:28:776] Cleared POI - Reason Waiting for loot flag
+[10:17:28:776] Cleared POI
+[10:17:29:193] Changed POI to:Type: Loot, Name: Grizzly
+[10:17:29:288] Cleared POI - Reason Already looted
+[10:17:29:288] Cleared POI
+[10:17:29:406] Changed POI to:Type: Loot, Name: Grizzly
+[10:17:29:502] Cleared POI - Reason Already looted
+[10:17:29:502] Cleared POI
+[10:17:29:605] Changed POI to:Type: Loot, Name: Grizzly
+[10:17:29:722] Cleared POI - Reason Already looted
+[10:17:29:722] Cleared POI
+[10:17:29:815] Changed POI to:Type: Loot, Name: Grizzly
+[10:17:29:929] Cleared POI - Reason Already looted
+[10:17:29:929] Cleared POI
+[10:17:30:203] Mounting: Lila Elekk
+[10:17:30:403] Spell_C::CastSpell(35711, 0, 0x0, 0) [14]
+[10:17:32:204] Could not generate path from {4283.51, -4033.661, 172.9348} to {-11510.3, -3069.965, 4.292345} (time used: 0 milliseconds) @ FindEndPoly
+[10:17:55:907] Stopping the bot!
+[10:17:55:907] Stop called!
+[10:17:55:947] Activity: Honorbuddy Stopped
+[10:17:55:949] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:17:55:949] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:17:58:219] Activity: Loading Profile...
+[10:18:10:182] Changed tilemap to Northrend, Tiled: True
+[10:18:10:189] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[10:18:10:189] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:18:10:189] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:18:10:190] Changing current profile to Grizzly Hills
+[10:18:14:101] Starting the bot!
+[10:18:14:117] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[10:18:14:117] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:18:14:117] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:18:14:118] Changing current profile to Grizzly Hills
+[10:18:14:123] Can not start quest bot - this profile does not contain a quest order!
+[10:18:14:123] Stop called!
+[10:18:15:665] Starting the bot!
+[10:18:15:699] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[10:18:15:699] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:18:15:699] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:18:15:700] Changing current profile to Grizzly Hills
+[10:18:15:704] Can not start quest bot - this profile does not contain a quest order!
+[10:18:15:704] Stop called!
+[10:18:34:233] Sync
+[10:19:20:481] Starting the bot!
+[10:19:20:536] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[10:19:20:536] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:19:20:536] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:19:20:536] Changing current profile to Grizzly Hills
+[10:19:20:537] Can not start quest bot - this profile does not contain a quest order!
+[10:19:20:537] Stop called!
+[10:19:48:545] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[10:19:48:545] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:19:48:545] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:19:48:545] Changing current profile to Grizzly Hills
+[10:19:50:619] Starting the bot!
+[10:19:50:659] Warning: 'Factions' has been moved to the 'GrindArea'. Please reflect this change in your profiles.
+[10:19:50:659] Warning: 'TargetMinLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:19:50:659] Warning: 'TargetMaxLevel' has been moved to 'GrindArea'. Please reflect this change in your profiles.
+[10:19:50:660] Changing current profile to Grizzly Hills
+[10:19:50:662] Can not start quest bot - this profile does not contain a quest order!
+[10:19:50:662] Stop called!
+[10:20:04:998] Changing current profile to level 0 - 2147483647
+[10:20:08:568] Starting the bot!
+[10:20:08:648] Changing current profile to level 0 - 2147483647
+[10:20:08:680] Cleared POI - Reason Starting up
+[10:20:08:680] Cleared POI
+[10:20:08:761] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:21:59:841] Stopping the bot!
+[10:21:59:841] Stop called!
+[10:21:59:842] Activity: Honorbuddy Stopped
+[10:21:59:846] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at BlueMagic.ExecutorRand.Execute()
+   at Styx.WoWInternals.WoWObjects.WoWObject.GetObjectName()
+[10:21:59:852] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[10:21:59:853] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+   at Styx.Logic.Targeting.Pulse()
+[10:21:59:858] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:21:59:859] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:22:00:625] Starting the bot!
+[10:22:00:681] Changing current profile to level 0 - 2147483647
+[10:22:01:035] Cleared POI - Reason Starting up
+[10:22:01:035] Cleared POI
+[10:22:01:156] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:22:08:683] Stopping the bot!
+[10:22:08:683] Stop called!
+[10:22:08:707] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[10:22:08:709] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+   at Styx.Logic.Targeting.Pulse()
+[10:22:08:712] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:22:08:713] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:22:15:116] Starting the bot!
+[10:22:15:177] Changing current profile to level 0 - 2147483647
+[10:22:15:187] Cleared POI - Reason Starting up
+[10:22:15:187] Cleared POI
+[10:22:15:381] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:22:29:694] Activity: Loading Tile/s
+[10:22:29:694] Loading Northrend_39_24
+[10:22:29:952] Changed POI to:Type: Loot, Name: Ältester der Rotfänge
+[10:22:30:072] Moving to Type: Loot, Name: Ältester der Rotfänge
+[10:22:30:691] InteractDebug:445037512
+[10:22:30:694] Interact Done:445037512
+[10:22:30:979] Looting Ältester der Rotfänge Guid:0xF1306744008C87DB
+[10:22:31:100] Cleared POI - Reason Waiting for loot flag
+[10:22:31:100] Cleared POI
+[10:22:31:457] Changed POI to:Type: Loot, Name: Ältester der Rotfänge
+[10:22:31:572] Cleared POI - Reason Already looted
+[10:22:31:572] Cleared POI
+[10:22:31:686] Changed POI to:Type: Loot, Name: Ältester der Rotfänge
+[10:22:31:856] Cleared POI - Reason Already looted
+[10:22:31:856] Cleared POI
+[10:22:32:002] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:23:38:254] Sync
+[10:24:42:720] Stopping the bot!
+[10:24:42:720] Stop called!
+[10:24:42:743] Activity: Honorbuddy Stopped
+[10:24:42:752] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[10:24:42:754] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+   at Styx.Logic.Targeting.Pulse()
+[10:24:42:757] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:24:42:758] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:24:46:214] Activity: Loading Profile...
+[10:24:48:285] Changed tilemap to Northrend, Tiled: True
+[10:24:48:395] Changing current profile to [A] QO 68-80 [Kick]
+[10:24:50:253] Starting the bot!
+[10:24:50:329] Changing current profile to [A] QO 68-80 [Kick]
+[10:24:50:412] Cleared POI - Reason Starting up
+[10:24:50:412] Cleared POI
+[10:24:50:465] Avoiding 'Jäger der Rotfänge'
+[10:24:50:466] Avoiding 'Krieger der Frostpfoten'
+[10:24:50:615] Updating repair cost for current equipped items. New value: [0g7s31c]
+[10:24:50:619] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:24:51:977] 'Krieger der Frostpfoten' is walking! Reavoiding!
+[10:24:52:038] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:24:52:471] 'Krieger der Frostpfoten' is walking! Reavoiding!
+[10:24:52:525] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:24:52:717] 'Jäger der Rotfänge' is walking! Reavoiding!
+[10:24:52:770] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:24:55:311] Avoiding 'Jäger der Rotfänge'
+[10:24:55:347] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:24:56:728] 'Jäger der Rotfänge' is walking! Reavoiding!
+[10:24:56:788] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:24:57:238] 'Jäger der Rotfänge' is walking! Reavoiding!
+[10:24:57:270] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:24:59:385] Removing 'Jäger der Rotfänge' as a danger - not avoiding him anymore!
+[10:24:59:477] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:00:224] 'Jäger der Rotfänge' is walking! Reavoiding!
+[10:25:00:285] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:02:226] 'Krieger der Frostpfoten' is walking! Reavoiding!
+[10:25:02:283] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:03:713] 'Krieger der Frostpfoten' is walking! Reavoiding!
+[10:25:03:753] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:05:046] 'Jäger der Rotfänge' is walking! Reavoiding!
+[10:25:05:099] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:05:877] Removing 'Jäger der Rotfänge' as a danger - not avoiding him anymore!
+[10:25:05:910] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:07:203] Avoiding 'Jäger der Rotfänge'
+[10:25:07:247] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:08:367] 'Krieger der Frostpfoten' is walking! Reavoiding!
+[10:25:08:411] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:08:757] 'Jäger der Rotfänge' is walking! Reavoiding!
+[10:25:08:800] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:10:233] 'Jäger der Rotfänge' is walking! Reavoiding!
+[10:25:10:329] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:12:176] 'Krieger der Frostpfoten' is walking! Reavoiding!
+[10:25:12:232] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:13:615] 'Jäger der Rotfänge' is walking! Reavoiding!
+[10:25:13:616] Avoiding 'Jäger der Rotfänge'
+[10:25:13:705] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:14:953] Removing 'Jäger der Rotfänge' as a danger - not avoiding him anymore!
+[10:25:15:014] StyxWoW.AreaManager.CurrentGrindArea is null
+[10:25:15:222] Stopping the bot!
+[10:25:15:222] Stop called!
+[10:25:15:233] Activity: Honorbuddy Stopped
+[10:25:15:241] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+[10:25:15:242] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting._Dr(Delegate e, Object[] args)
+   at Styx.Logic.Targeting.Pulse()
+[10:25:15:246] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[10:25:15:246] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()

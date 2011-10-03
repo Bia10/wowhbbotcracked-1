@@ -1,0 +1,130 @@
+[06:31:38:419] http://www.codemplosion.com
+[06:31:38:420] Version: 1.0.2.26
+[06:31:40:253] Logging in...
+[06:31:46:089] Forum is back online.
+[06:31:46:092] Gatherbuddy Sessions: 0/0
+Honorbuddy Sessions: 0/0
+Shared Sessions: 1/0
+[06:31:49:087] Attached to WoW with ID 4348
+[06:31:59:159] System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.WoWObjects.WoWObject.GetObjectName()
+[06:32:39:251] Honorbuddy v2.0.0.5354 started!
+[06:32:39:251] Using WoW with process ID 4348
+[06:32:39:252] Platform: Microsoft Windows NT 6.1.7600.0
+[06:32:39:252] Executable Path: C:\Users\samy\Desktop\HB und GB\Honorbuddy.exe
+[06:32:39:259] Character is a level 1 Human Warlock
+[06:32:39:261] Current zone is Elwynn Forest
+[06:32:49:274] System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.WoWObjects.WoWObject.GetObjectName()
+[06:32:49:298] New bot added!: ArchaeologyBuddy
+[06:32:59:399] System.Reflection.TargetInvocationException: Ein Aufrufziel hat einen Ausnahmefehler verursacht. ---> System.TypeInitializationException: Der Typeninitialisierer für "Instancebuddy.Instancebuddy" hat eine Ausnahme verursacht. ---> System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.Lua.GetReturnValues(String lua, String scriptName)
+   bei Styx.WoWInternals.Lua.GetReturnVal[T](String lua, UInt32 retVal)
+   bei Instancebuddy.TalentManager.get_ActiveGroup()
+   bei Instancebuddy.TalentManager..ctor()
+   bei Instancebuddy.Instancebuddy..cctor()
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei Instancebuddy.Instancebuddy..ctor()
+   bei Honorbuddy.MainWindow._RUc()
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   bei System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   bei System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   bei System.Delegate.DynamicInvokeImpl(Object[] args)
+   bei System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Boolean isSingleParameter)
+   bei System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Boolean isSingleParameter, Delegate catchHandler)
+[06:32:59:486] MeshesFolderPath: C:\Users\samy\AppData\Local\HonorbuddyMeshes
+[06:32:59:486] KillBetweenHotspots: True
+[06:32:59:486] AdvancedSettingsMode: False
+[06:32:59:486] LogoutForInactivity: True
+[06:32:59:486] LogoutInactivityTimer: 10
+[06:32:59:486] LogoutInactivityUseForceQuit: False
+[06:32:59:486] ProfileDebuggingMode: False
+[06:32:59:486] FoodAmount: 0
+[06:32:59:486] DrinkAmount: 0
+[06:32:59:486] FormLocationX: -2
+[06:32:59:486] FormLocationY: 16
+[06:32:59:486] FormWidth: 396
+[06:32:59:486] FormHeight: 302
+[06:32:59:486] SelectedBotIndex: 0
+[06:32:59:486] UseFlightPaths: False
+[06:32:59:486] FindMountAutomatically: True
+[06:32:59:486] UseRandomMount: True
+[06:32:59:486] FoodName has no value yet!
+[06:32:59:486] DrinkName has no value yet!
+[06:32:59:486] MountName has no value yet!
+[06:32:59:486] LootMobs: True
+[06:32:59:486] SkinMobs: False
+[06:32:59:486] NinjaSkin: False
+[06:32:59:486] LootChests: True
+[06:32:59:486] HarvestMinerals: False
+[06:32:59:486] HarvestHerbs: False
+[06:32:59:486] UseMount: True
+[06:32:59:486] PullDistance: 30
+[06:32:59:486] LootRadius: 45
+[06:32:59:486] FindVendorsAutomatically: False
+[06:32:59:486] TrainNewSkills: False
+[06:32:59:486] LearnFlightPaths: True
+[06:32:59:486] LastUsedPath has no value yet!
+[06:32:59:486] MountDistance: 75
+[06:32:59:487] RessAtSpiritHealers: False
+[06:32:59:487] GroundMountFarmingMode: False
+[06:32:59:487] FoodAmount: 0
+[06:32:59:487] DrinkAmount: 0
+[06:32:59:487] FormLocationX: -2
+[06:32:59:487] FormLocationY: 16
+[06:32:59:487] SelectedBotIndex: 0
+[06:32:59:487] UseFlightPaths: False
+[06:32:59:487] FindMountAutomatically: True
+[06:32:59:487] UseRandomMount: True
+[06:32:59:487] FoodName has no value yet!
+[06:32:59:487] DrinkName has no value yet!
+[06:32:59:487] MountName has no value yet!
+[06:32:59:487] LootMobs: True
+[06:32:59:487] SkinMobs: False
+[06:32:59:487] NinjaSkin: False
+[06:32:59:487] LootChests: True
+[06:32:59:487] HarvestMinerals: False
+[06:32:59:487] HarvestHerbs: False
+[06:32:59:487] UseMount: True
+[06:32:59:487] PullDistance: 30
+[06:32:59:487] LootRadius: 45
+[06:32:59:487] FindVendorsAutomatically: False
+[06:32:59:487] TrainNewSkills: False
+[06:32:59:487] LearnFlightPaths: True
+[06:32:59:487] LastUsedPath has no value yet!
+[06:32:59:487] MountDistance: 75
+[06:32:59:487] RessAtSpiritHealers: False
+[06:32:59:488] Please wait a few seconds while Honorbuddy initializes.
+[06:32:59:489] Activity: Initializing.
+[06:32:59:491] Activity: Loading memory management & tables
+[06:32:59:519] Activity: Loading Spells
+[06:32:59:573] Activity: Initializing Spell Manager
+[06:32:59:604] Activity: Initializing Plugins
+[06:32:59:635] 
+[06:33:11:218] Exception in DoString: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired. StackTrace:   bei BlueMagic.ExecutorRand.Execute()
+   bei Styx.WoWInternals.Lua.DoString(String lua, String luaFile, UInt32 pState)
+[06:33:23:533] [WeigtSet] Selected weight set: Warlock-Afflication
+[06:33:24:130] Plugin from C:\Users\samy\Desktop\HB und GB\Plugins\Instancebuddy could not be compiled! Compiler errors:
+[06:33:24:130] File: Instancebuddy.cs Line: 530 Error: Der Name "SequenceManager" ist im aktuellen Kontext nicht vorhanden.
+File: Instancebuddy.cs Line: 530 Error: Der Name "Sequence" ist im aktuellen Kontext nicht vorhanden.
+
+[06:33:27:140] Activity: Initializing Navigator
+[06:33:27:278] Activity: Initializing Blackspot Manager
+[06:33:27:285] Activity: Initializing Battlegrounds
+[06:33:27:373] Activity: Initializing Flight Paths
+[06:33:27:487] Activity: Initializing Routines
+[06:33:27:497] Building spell book
+[06:33:27:500] Spell book built
+[06:33:27:503] Compiling C:\Users\samy\Desktop\HB und GB\CustomClasses\ShamWOW
+[06:33:28:852] Compiling C:\Users\samy\Desktop\HB und GB\CustomClasses\Singular
+[06:33:30:524] Activity: Initialization complete
+[06:33:30:526] Initialization complete.
+[06:33:30:528] Activity: Honorbuddy Startup Complete
+[06:34:46:962] Activity: Loading Profile...
+[06:35:02:687] Downloaded tilemap Azeroth
+[06:35:02:699] Changed tilemap to Azeroth, Tiled: True
+[06:35:03:303] Changing current profile to [KaZQuest] Alliance 1-60 Human v1.5 [QuestOrder]
