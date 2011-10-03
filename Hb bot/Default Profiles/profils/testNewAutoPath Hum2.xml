@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<graph name="testNewAutoPath Hum2" type="2">
+  <factions ids="" />
+  <mobblacklist names="" />
+  <maxzdist value="10" />
+  <circle value="False" />
+  <ignoreaggro value="False" />
+  <level min="0" max="200" />
+  <navmeshfile file="none.mesh" />
+  <mounttype normal="0" seller="0" />
+  <mines all="False" />
+  <herbs all="False" />
+  <clouds all="False" />
+  <sellers />
+  <hotspots count="8">
+    <hotspot x="-8787.353" y="-162.4877" z="82.20457" name="" />
+    <hotspot x="-8740.934" y="-155.4643" z="84.52206" name="" />
+    <hotspot x="-8726.221" y="-111.5599" z="85.92627" name="" />
+    <hotspot x="-8774.345" y="-117.9142" z="82.93902" name="" />
+    <hotspot x="-8722.062" y="-93.81066" z="89.56722" name="" />
+    <hotspot x="-8751.793" y="-90.33659" z="91.38705" name="" />
+    <hotspot x="-8772.906" y="-103.3835" z="86.06196" name="" />
+    <hotspot x="-8755.812" y="-173.3818" z="85.00092" name="" />
+  </hotspots>
+  <nodes count="8">
+    <node id="839963" x="-8787.353" y="-162.4877" z="82.20457" />
+    <node id="828087" x="-8740.934" y="-155.4643" z="84.52206" />
+    <node id="828385" x="-8726.221" y="-111.5599" z="85.92627" />
+    <node id="843431" x="-8774.345" y="-117.9142" z="82.93902" />
+    <node id="824230" x="-8722.062" y="-93.81066" z="89.56722" />
+    <node id="796974" x="-8751.793" y="-90.33659" z="91.38705" />
+    <node id="850922" x="-8772.906" y="-103.3835" z="86.06196" />
+    <node id="868819" x="-8755.812" y="-173.3818" z="85.00092" />
+  </nodes>
+  <nodesDeath count="0" />
+  <nodesSell count="0" />
+</graph>

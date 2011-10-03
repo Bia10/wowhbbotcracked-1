@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<graph name="Starter Area 1">
+  <factions ids="36" />
+  <mobblacklist names="" />
+  <maxzdist value="10" />
+  <circle value="False" />
+  <ignoreaggro value="False" />
+  <level min="0" max="200" />
+  <navmeshfile file=".mesh" />
+  <mounttype normal="0" seller="0" />
+  <mines all="False" />
+  <herbs all="False" />
+  <clouds all="False" />
+  <sellers />
+  <hotspots count="2">
+    <hotspot x="-6258.51" y="402.59" z="0" name="" />
+    <hotspot x="-6398.54" y="266.07" z="0" name="" />
+  </hotspots>
+  <nodes count="26">
+    <node id="0" x="-6258.51" y="402.59" z="0" />
+    <node id="1" x="-6261.5" y="389.42" z="0" />
+    <node id="2" x="-6271.99" y="382.1" z="0" />
+    <node id="3" x="-6284.25" y="376.15" z="0" />
+    <node id="4" x="-6289.89" y="364.47" z="0" />
+    <node id="5" x="-6297.56" y="353.1" z="0" />
+    <node id="6" x="-6306.26" y="342.37" z="0" />
+    <node id="7" x="-6314.02" y="331.13" z="0" />
+    <node id="8" x="-6317.81" y="317.96" z="0" />
+    <node id="9" x="-6317.79" y="304.4" z="0" />
+    <node id="10" x="-6319.71" y="291.46" z="0" />
+    <node id="11" x="-6316.72" y="278.34" z="0" />
+    <node id="12" x="-6318.18" y="265.21" z="0" />
+    <node id="13" x="-6324.18" y="253.55" z="0" />
+    <node id="14" x="-6328.3" y="240.64" z="0" />
+    <node id="15" x="-6335.98" y="229.89" z="0" />
+    <node id="16" x="-6344.56" y="220.12" z="0" />
+    <node id="17" x="-6357.22" y="223.84" z="0" />
+    <node id="18" x="-6369.46" y="229.68" z="0" />
+    <node id="19" x="-6378.51" y="236.88" z="0" />
+    <node id="20" x="-6391.5" y="236.31" z="0" />
+    <node id="21" x="-6405.38" y="235.93" z="0" />
+    <node id="22" x="-6418.13" y="238.8" z="0" />
+    <node id="23" x="-6419.21" y="251.74" z="0" />
+    <node id="24" x="-6406.94" y="255.41" z="0" />
+    <node id="25" x="-6398.54" y="266.07" z="0" />
+  </nodes>
+  <nodesDeath count="0" />
+  <nodesSell count="0" />
+</graph>

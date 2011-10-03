@@ -1,0 +1,20 @@
+﻿<HBProfile>
+  <SubProfile>
+    <Name>Isle of Conquest - Default Profile</Name>
+    <MinLevel>1</MinLevel>
+    <MaxLevel>86</MaxLevel>
+    <Blackspots>
+      <Blackspot X="744.4041" Y="-645.0486" Z="8.794188" Radius="40" />
+    </Blackspots>
+    <GrindArea>
+      <Factions>2068 834</Factions>
+      <Hotspots>
+        <Hotspot X="485.4337" Y="-827.486" Z="30.2105" />
+        <Hotspot X="778.2579" Y="-1023.881" Z="132.9581" />
+        <Hotspot X="1093.92" Y="-759.2679" Z="43.15486" />
+        <Hotspot X="782.8892" Y="-796.3018" Z="6.029584" />
+        <Hotspot X="796.5132" Y="-380.0154" Z="11.907" />
+      </Hotspots>
+    </GrindArea>
+  </SubProfile>
+</HBProfile>

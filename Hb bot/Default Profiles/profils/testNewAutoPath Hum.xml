@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<graph name="testNewAutoPath Hum" type="2">
+  <factions ids="32,7" />
+  <mobblacklist names="" />
+  <maxzdist value="10" />
+  <circle value="False" />
+  <ignoreaggro value="False" />
+  <level min="0" max="200" />
+  <navmeshfile file="none.mesh" />
+  <mounttype normal="0" seller="0" />
+  <mines all="False" />
+  <herbs all="False" />
+  <clouds all="False" />
+  <sellers />
+  <hotspots count="4">
+    <hotspot x="-8924.312" y="-94.6734" z="84.08369" name="" />
+    <hotspot x="-8904.13" y="-39.58107" z="88.26711" name="" />
+    <hotspot x="-8860.418" y="-51.99587" z="86.10526" name="" />
+    <hotspot x="-8816.056" y="-96.65514" z="84.28391" name="" />
+  </hotspots>
+  <nodes count="4">
+    <node id="840390" x="-8924.312" y="-94.6734" z="84.08369" />
+    <node id="807444" x="-8904.13" y="-39.58107" z="88.26711" />
+    <node id="824830" x="-8860.418" y="-51.99587" z="86.10526" />
+    <node id="861042" x="-8816.056" y="-96.65514" z="84.28391" />
+  </nodes>
+  <nodesDeath count="0" />
+  <nodesSell count="0" />
+</graph>

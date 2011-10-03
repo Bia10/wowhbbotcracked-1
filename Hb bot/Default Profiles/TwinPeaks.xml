@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PvpProfile>
+  <!-- Required for flag assaults. Do not change the name -->
+  <Hotspot x="1570" y="345" z="1.5" tlx="1610" tly="389" brx="1529" bry="295" name="HordeFlag" />
+  <Hotspot x="2121" y="187" z="43" tlx="2172" tly="241" brx="2073" bry="137" name="AllianceFlag" />
+  
+  <!-- Modify as you please -->
+  <Hotspot x="1760" y="324" z="-15.7" tlx="1806" tly="375" brx="1704" bry="272" name="HordeLanding" />
+  <Hotspot x="1959" y="272" z="-5" tlx="1997" tly="330" brx="1907" bry="233" name="AllianceLanding" />
+  <Hotspot x="1808" y="433" z="-15" tlx="1871" tly="459" brx="1748" bry="401" name="HordeLeftSide" />
+  <Hotspot x="1831" y="219" z="-23" tlx="1848" tly="263" brx="1793" bry="180" name="HordeRightSide" />
+  <Hotspot x="1668" y="335" z="-16" tlx="1701" tly="354" brx="1645" bry="317" name="HordeRamp" />
+  <Hotspot x="2037" y="238" z="3" tlx="2067" tly="264" brx="2003" bry="221" name="AllianceRamp" />
+  <Hotspot x="1898" y="370" z="-20" tlx="1917" tly="415" brx="1866" bry="334" name="AllianceLeftBottom" />
+  <Hotspot x="2030" y="368" z="-0.6" tlx="2060" tly="408" brx="1987" bry="323" name="AllianceLeftTop" />
+  <Hotspot x="1835" y="318" z="-10" tlx="1877" tly="339" brx="1803" bry="296" name="Bridge" default="True" />
+</PvpProfile>

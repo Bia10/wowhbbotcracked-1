@@ -1,0 +1,402 @@
+<HBProfile>
+  <Name>Alliance Northrend</Name>
+  <Mesh Name="Western Northrend 68-80.mesh" ServerID="33" />
+  <MinDurability>0.4</MinDurability>
+  <MinFreeBagSlots>2</MinFreeBagSlots>
+  <SellGrey>True</SellGrey>
+  <SellWhite>True</SellWhite>
+  <SellGreen>True</SellGreen>
+  <MinLevel>1</MinLevel>
+  <MaxLevel>85</MaxLevel>
+  <!--
+  <MailWhite>True</MailWhite>
+  <MailGreen>True</MailGreen>
+  -->
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+
+
+  <SubProfile>
+    <Name>Bloodspore Plain</Name>
+    <MinLevel>66</MinLevel>
+    <MaxLevel>71</MaxLevel>
+    <Factions>1985</Factions>
+    <Vendors>
+      <Vendor Name="Tewah Chillmane" Entry="26697" Type="" Location="" X="3468.827" Y="4154.3" Z="17.19306" />
+    </Vendors>
+    <Mailboxes>
+      <Mailbox X="3459.186" Y="4130.619" Z="15.28576" />
+    </Mailboxes>
+    <Hotspots>
+      <Hotspot X="2408.206" Y="5620.488" Z="46.77835" />
+      <Hotspot X="3002.968" Y="5610.64" Z="52.58111" />
+      <Hotspot X="2577.248" Y="5550.208" Z="34.89272" />
+      <Hotspot X="2701.512" Y="5556.515" Z="45.14606" />
+      <Hotspot X="2850.163" Y="5600.185" Z="51.12137" />
+
+    </Hotspots>
+  </SubProfile>
+
+  <SubProfile>
+    <Name>Marsh Caribou</Name>
+    <MinLevel>71</MinLevel>
+    <MaxLevel>73</MaxLevel>
+    <Factions>18 188</Factions>
+    <TargetMinLevel>70</TargetMinLevel>
+    <Vendors>
+      <Vendor Name="Tewah Chillmane" Entry="26697" Type="Repair" Location="" X="3468.827" Y="4154.3" Z="17.19306" />
+    </Vendors>
+    <Mailboxes>
+      <Mailbox X="3459.186" Y="4130.619" Z="15.28576" />
+    </Mailboxes>
+    <Hotspots>
+      <Hotspot X="2652.939" Y="5019.09" Z="35.9584" />
+      <Hotspot X="3178.686" Y="5069.409" Z="28.34733" />
+      <Hotspot X="3374" Y="4757.16" Z="31.31866" />
+      <Hotspot X="2877.139" Y="5125.305" Z="33.13239" />
+      <Hotspot X="3103.248" Y="4334.513" Z="29.39895" />
+      <Hotspot X="3185.016" Y="4225.961" Z="26.41158" />
+      <Hotspot X="3236.739" Y="4605.874" Z="29.87395" />
+      <Hotspot X="3104.011" Y="5012.595" Z="32.38839" />
+      <Hotspot X="3305.708" Y="4765.546" Z="31.8763" />
+      <Hotspot X="2813.571" Y="5012.818" Z="27.69598" />    
+    </Hotspots>
+  </SubProfile>
+
+  <SubProfile>
+    <Name>Dragonblight</Name>
+    <MinLevel>73</MinLevel>
+    <MaxLevel>75</MaxLevel>
+     <Factions>1985 2018</Factions>
+    <TargetMinLevel>70</TargetMinLevel>
+    <Vendors>
+      <Vendor Name="Siegesmith Gulda" Entry="27019" Type="Repair" Location="" X="3845.488" Y="1572.724" Z="86.69865" />
+    </Vendors>
+    <Mailboxes>
+      <Mailbox X="3827.507" Y="1535.167" Z="89.72462" />
+    </Mailboxes>
+    <Hotspots>
+      <Hotspot X="3594.148" Y="2747.832" Z="71.88563" />
+      <Hotspot X="3794.917" Y="2391.328" Z="128.088" />
+      <Hotspot X="3897.187" Y="2785.363" Z="148.4394" />
+      <Hotspot X="3663.27" Y="2735.259" Z="92.3371" />
+      <Hotspot X="3283.91" Y="2657.323" Z="36.85277" />
+    </Hotspots>
+    <!--Surge Needle Sorcerers on Cliff Tops-->
+    <Blackspots>
+      <Blackspot X="3285.087" Y="2466.453" Z="48.42251" radius="50"/>
+      <Blackspot X="3280.525" Y="2548.302" Z="52.1142" radius="50"/>
+      <Blackspot  X="3304.169" Y="2543.017" Z="41.23529" radius="50"/>
+      <Blackspot X="3324.682" Y="2537.89" Z="40.35811" radius="50"/>
+      <Blackspot X="3342.474" Y="2542.794" Z="44.83006" radius="50"/>
+      <Blackspot X="3284.691" Y="2692.399" Z="38.01804" radius="50"/>
+    </Blackspots>
+    <AvoidMobs>
+      <AvoidMob Name="Surge Needle Sorcerer" Entry="26257"  />
+    </AvoidMobs>
+  </SubProfile>
+
+  <SubProfile>
+    <Name>Sholazar Basin</Name>
+    <MinLevel>75</MinLevel>
+    <MaxLevel>81</MaxLevel>
+    <Factions>14 2018 2030</Factions>
+    <TargetMinLevel>73</TargetMinLevel>
+    <Vendors>
+      <Vendor Name="Mardan Thunderhoof" Entry="28040" Type="Repair" X="5552.257" Y="5738.877" Z="-76.21694" />
+    </Vendors>
+    <Mailboxes>
+      <Mailbox X="5562.393" Y="5757.779" Z="-75.35441" />
+    </Mailboxes>
+    <Hotspots>
+      <Hotspot X="5569.823" Y="5351.566" Z="-135.9887" />
+      <Hotspot X="6038.115" Y="5248.404" Z="-94.85327" />
+      <Hotspot X="5650.73" Y="5138.489" Z="-133.005" />
+      <Hotspot X="5833.724" Y="5050.516" Z="-134.056" />
+      <Hotspot X="5947.99" Y="5216.292" Z="-100.626" />
+
+    </Hotspots>
+    <Blackspots>
+      <Blackspot X="5909.71" Y="5313.964" Z="-95.53502" radius="50"/>
+      <Blackspot X="5489.797" Y="4850.15" Z="-199.8907" radius="250"/>
+      <Blackspot X="5444.331" Y="4867.535" Z="-199.8882" radius="50"/>
+    </Blackspots>
+    <AvoidMobs>
+      <AvoidMob Name="Stranded Thresher" Entry="28010" />
+      <AvoidMob Name="Venture Co. Excavator" Entry="28123" />
+      <AvoidMob Name="Venture Co. Ruffian" Entry="28124" />
+    </AvoidMobs>
+  </SubProfile>
+
+  <ProtectedItems>
+    <!-- Instant Poison -->
+    <Item>6497</Item>
+    <Item>6949</Item>
+    <Item>6950</Item>
+    <Item>8926</Item>
+    <Item>8927</Item>
+    <Item>8928</Item>
+    <Item>21927</Item>
+    <Item>43230</Item>
+    <Item>43231</Item>
+
+    <!--Rune of Teleportation-->
+    <Item>17031</Item>
+
+    <!--Potions-->
+    <!--Healing Potions-->
+    <Item>118</Item>
+    <Item>858</Item>
+    <Item>929</Item>
+    <Item>1710</Item>
+    <Item>3928</Item>
+    <Item>13446</Item>
+    <Item>17556</Item>
+    <Item>28551</Item>
+    <Item>33447</Item>
+
+    <!--Hunter Ammo-->
+    <Item>30319</Item>
+    <Item>34581</Item>
+    <Item>34582</Item>
+    <Item>32760</Item>
+    <Item>32761</Item>
+    <Item>31737</Item>
+    <Item>31735</Item>
+    <Item>23773</Item>
+    <Item>33803</Item>
+    <Item>12654</Item>
+    <Item>10579</Item>
+    <Item>32883</Item>
+    <Item>30612</Item>
+    <Item>30611</Item>
+    <Item>32882</Item>
+    <Item>41164</Item>
+    <Item>13377</Item>
+    <Item>11630</Item>
+    <Item>41165</Item>
+    <Item>31949</Item>
+    <Item>3465</Item>
+    <Item>3464</Item>
+    <Item>23772</Item>
+    <Item>10512</Item>
+    <Item>19316</Item>
+    <Item>19317</Item>
+    <Item>10513</Item>
+    <Item>9399</Item>
+    <Item>24417</Item>
+    <Item>18042</Item>
+    <Item>15997</Item>
+    <Item>11284</Item>
+    <Item>28056</Item>
+    <Item>8068</Item>
+    <Item>8067</Item>
+    <Item>8069</Item>
+    <Item>4960</Item>
+    <Item>41584</Item>
+    <Item>2519</Item>
+    <Item>28060</Item>
+    <Item>28061</Item>
+    <Item>11285</Item>
+    <Item>2516</Item>
+    <Item>3030</Item>
+    <Item>2512</Item>
+    <Item>2515</Item>
+    <Item>5568</Item>
+    <Item>3033</Item>
+    <Item>41586</Item>
+    <Item>28053</Item>
+
+
+    <Item>17556</Item>
+    <!--Major Healing Potion-->
+    <!--Freshly Baked Bread-->
+    <Item>4541</Item>
+    <!--Mutton Chop-->
+    <Item>3770</Item>
+    <!--Moonberry Juice-->
+    <Item>1645</Item>
+    <!--Morning Glory Dew-->
+    <Item>8766</Item>
+    <!--Lowbie Bags-->
+    <Item>4496</Item>
+    <Item>5571</Item>
+    <Item>828</Item>
+    <Item>5572</Item>
+    <Item>805</Item>
+  </ProtectedItems>
+  <ForceMail>
+    <Item>2589</Item>
+    <!--Linen Cloth-->
+    <Item>2934</Item>
+    <!--Ruined Leather Scraps-->
+    <Item>2592</Item>
+    <!--Wool Cloth-->
+    <Item>4306</Item>
+    <!--Silk cloth-->
+    <Item>4338</Item>
+    <!--Mageweave Cloth-->
+    <Item>14047</Item>
+    <!--Runecloth-->
+    <Item>21877</Item>
+    <!--Netherweave Cloth-->
+    <Item>22470</Item>
+    <!--Frostweave Cloth-->
+    <Item>2318</Item>
+    <!--Light Leather-->
+    <Item>2319</Item>
+    <!--Medium Leather-->
+    <Item>4304</Item>
+    <!--Heavy Leather-->
+    <Item>4234</Item>
+    <!--Thick Leather-->
+    <Item>8170</Item>
+    <!--Rugged Leather-->
+    <Item>21887</Item>
+    <!--Knothide Leathter-->
+    <Item>33568</Item>
+    <!--Borean Leather-->
+    <Item>181166</Item>
+    <!--Bloodthistle-->
+    <Item>2447</Item>
+    <!--Peacebloom-->
+    <Item>765</Item>
+    <!--Silverleaf-->
+    <Item>2449</Item>
+    <!--Earthroot-->
+    <Item>785</Item>
+    <!--Mageroyal-->
+    <Item>2450</Item>
+    <!--Briarthorn-->
+    <Item>2452</Item>
+    <!--Swiftthistle-->
+    <Item>2453</Item>
+    <!--Bruiseweed-->
+    <Item>3355</Item>
+    <!--Wild Steelbloom-->
+    <Item>3356</Item>
+    <!--Kingsblood-->
+    <Item>3357</Item>
+    <!--Liferoot-->
+    <Item>3821</Item>
+    <!--Goldthorn-->
+    <Item>3818</Item>
+    <!--Fadeleaf-->
+    <Item>3358</Item>
+    <!--Khadgar's Whisker-->
+    <Item>3819</Item>
+    <!--Wintersbite-->
+    <Item>8831</Item>
+    <!--Purple Lotus-->
+    <Item>8836</Item>
+    <!--Arthas' Tears-->
+    <Item>8839</Item>
+    <!--Blindweed-->
+    <Item>4625</Item>
+    <!--Firebloom-->
+    <Item>8846</Item>
+    <!--Gromsblood-->
+    <Item>8838</Item>
+    <!--Sungrass-->
+    <Item>13464</Item>
+    <!--Golden Sansam-->
+    <Item>13466</Item>
+    <!--Plaguebloom-->
+    <Item>13465</Item>
+    <!--Mountain Silversage-->
+    <Item>13467</Item>
+    <!--Icecap-->
+    <Item>13463</Item>
+    <!--Dreamfoil-->
+    <Item>13468</Item>
+    <!--Black Lotus-->
+    <Item>22793</Item>
+    <!--Mana Thistle-->
+    <Item>22792</Item>
+    <!--Nightmare Vine-->
+    <Item>22791</Item>
+    <!--Netherbloom-->
+    <Item>22786</Item>
+    <!--Dreaming Glory-->
+    <Item>22787</Item>
+    <!--Ragveil-->
+    <Item>22788</Item>
+    <!--Flame Cap-->
+    <Item>22785</Item>
+    <!--Felweed-->
+    <Item>22789</Item>
+    <!--Terocone-->
+    <Item>22794</Item>
+    <!--Fel Lotus-->
+    <Item>36901</Item>
+    <!--Goldclover-->
+    <Item>191303</Item>
+    <!--Firethorn-->
+    <Item>37921</Item>
+    <!--Deadnettle-->
+    <Item>36904</Item>
+    <!--Tiger Lily-->
+    <Item>36907</Item>
+    <!--Talandra's Rose-->
+    <Item>36903</Item>
+    <!--Adder's Tongue-->
+    <Item>36906</Item>
+    <!--Icethorn-->
+    <Item>36905</Item>
+    <!--Lichbloom-->
+    <Item>36908</Item>
+    <!--Frost Lotus-->
+    <Item>2770</Item>
+    <!--Copper Vein-->
+    <Item>2771</Item>
+    <!--Tin Vein-->
+    <Item>2775</Item>
+    <!--Silver Vein-->
+    <Item>2776</Item>
+    <!--Gold Vein-->
+    <Item>2772</Item>
+    <!--Iron Deposit-->
+    <Item>3858</Item>
+    <!--Mithril Deposit-->
+    <Item>7911</Item>
+    <!--Truesilver Deposit-->
+    <Item>10620</Item>
+    <!--Thorium Vein-->
+    <Item>23425</Item>
+    <!--Adamatite Deposit-->
+    <Item>23424</Item>
+    <!--Fel Iron Deposit-->
+    <Item>23426</Item>
+    <!--Khorium Vein-->
+    <Item>23447</Item>
+    <!--Eternium Vein-->
+    <Item>36909</Item>
+    <!--Cobalt Deposit-->
+    <Item>36912</Item>
+    <!--Saronite Deposit-->
+    <Item>36910</Item>
+    <!--Titanium Vein-->
+    <Item>37705</Item>
+    <!--Crystallized Water-->
+    <Item>17407</Item>
+    <!--Felmist <Mote of Shadow> -->
+    <Item>17378</Item>
+    <!--Swamp Gas <Mote of Water> -->
+    <Item>17408</Item>
+    <!--Arcane Vortex <Mote of Mana> -->
+    <Item>24222</Item>
+    <!--Windy Cloud <Mote of Air>  -->
+    <Item>32544</Item>
+    <!--Steam Cloud <Crystalized Fire> and <Crystalized Water> -->
+    <Item>32522</Item>
+    <!--Cinder Cloud <Crystalized Fire> -->
+    <Item>24879</Item>
+    <!--Arctic Cloud <Crystalized Air> and <Crystalized Water> -->
+    <Item>8499</Item>
+    <!--Tiny Crimson Whelpling-->
+  </ForceMail>
+</HBProfile>
+
+
+
+

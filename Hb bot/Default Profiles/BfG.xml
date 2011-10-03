@@ -1,0 +1,16 @@
+﻿<HbProfile>
+  <SubProfile>
+    <Name>The Battle of Gilneas - Default Profile</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>86</MaxLevel>
+    <GrindArea>
+      <RandomizeHotspots>true</RandomizeHotspots>
+      <Hotspots>
+        <Hotspot X="1251.421" Y="962.5931" Z="6.362582" />
+        <Hotspot X="978.0144" Y="944.9089" Z="13.17159" />
+        <Hotspot X="1056.695" Y="1272.333" Z="3.676346" />
+        <Hotspot X="1144.669" Y="1122.946" Z="30.45693" />
+      </Hotspots>
+    </GrindArea>
+  </SubProfile>
+</HbProfile>

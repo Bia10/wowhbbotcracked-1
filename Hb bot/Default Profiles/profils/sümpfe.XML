@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<GatherProfil xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Waypoints>
+    <Position>
+      <X>-10512</X>
+      <Y>-3358</Y>
+      <Z>99</Z>
+    </Position>
+    <Position>
+      <X>-10859</X>
+      <Y>-4108</Y>
+      <Z>69</Z>
+    </Position>
+    <Position>
+      <X>-9954</X>
+      <Y>-4183</Y>
+      <Z>80</Z>
+    </Position>
+    <Position>
+      <X>-10274</X>
+      <Y>-3286</Y>
+      <Z>152</Z>
+    </Position>
+    <Position>
+      <X>-10182</X>
+      <Y>-2836</Y>
+      <Z>194</Z>
+    </Position>
+    <Position>
+      <X>-10150</X>
+      <Y>-2523</Y>
+      <Z>118</Z>
+    </Position>
+    <Position>
+      <X>-10506</X>
+      <Y>-2587</Y>
+      <Z>44</Z>
+    </Position>
+  </Waypoints>
+  <TownWaypoints />
+  <BlacklistedNodes />
+</GatherProfil>

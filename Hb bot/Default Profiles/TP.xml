@@ -1,0 +1,18 @@
+﻿<HbProfile>
+  <SubProfile>
+    <Name>Twin Peaks - Default Profile</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>86</MaxLevel>
+    <GrindArea>
+      <RandomizeHotspots>true</RandomizeHotspots>
+      <Hotspots>
+        <Hotspot X="1765.781" Y="292.0779" Z="-14.8105" />
+        <Hotspot X="1887.714" Y="341.4809" Z="-24.03909" />
+        <Hotspot X="2144.695" Y="173.9081" Z="43.65125" />
+        <Hotspot X="1561.201" Y="345.4306" Z="1.576217" />
+        <Hotspot X="1753.549" Y="241.6951" Z="-14.10927" />
+        <Hotspot X="1951.482" Y="384.8969" Z="-10.1988" />
+      </Hotspots>
+    </GrindArea>
+  </SubProfile>
+</HbProfile>

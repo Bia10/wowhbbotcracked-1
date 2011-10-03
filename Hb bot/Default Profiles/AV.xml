@@ -1,0 +1,24 @@
+<HBProfile>
+  <SubProfile>
+    <Name>Alterac Valley - Default Profile</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>86</MaxLevel>
+    <GrindArea>
+      <RandomizeHotspots>true</RandomizeHotspots>
+      <Factions>2068 834</Factions>
+      <Hotspots>
+        <Hotspot X="-393.7618" Y="-276.7784" Z="12.9544" />
+        <Hotspot X="-131.7782" Y="-278.6859" Z="6.729435" />
+        <Hotspot X="122.806" Y="-371.885" Z="43.00026" />
+        <Hotspot X="637.3167" Y="-281.1934" Z="30.16363" />
+        <Hotspot X="631.7968" Y="-59.41304" Z="41.75451" />
+        <Hotspot X="71.66303" Y="-419.6209" Z="48.72474" />
+        <Hotspot X="-99.31326" Y="-310.4859" Z="8.390574" />
+        <Hotspot X="-210.3553" Y="-105.0773" Z="79.1153" />
+        <Hotspot X="-535.8599" Y="-234.3665" Z="56.79485" />
+        <Hotspot X="-507.9125" Y="-342.7279" Z="33.00307" />
+        <Hotspot X="-754.808" Y="-335.7841" Z="67.02912" />
+      </Hotspots>
+    </GrindArea>
+  </SubProfile>
+</HBProfile>

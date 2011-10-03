@@ -1,0 +1,208 @@
+<HBProfile>
+  <Name>(c) alchemist / syn3 70-80</Name>
+  <MinDurability>0.4</MinDurability>
+  <MinFreeBagSlots>4</MinFreeBagSlots>
+  <SellGrey>True</SellGrey>
+  <SellWhite>True</SellWhite>
+  <SellGreen>True</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MinLevel>1</MinLevel>
+  <MaxLevel>85</MaxLevel>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+  
+<ProtectedItems>   
+<!--Mage Food / Mage Water / Mage Gem -->  
+<Item>8008</Item>
+<Item>22044</Item>
+<Item>33312</Item>
+<Item>8079</Item>
+<Item>30703</Item>
+<!--Hearthstone -->
+<Item>6948</Item>
+<!--Rune of Portals and Rune of Teleportation -->
+<Item>17032</Item>
+<Item>17031</Item>
+<!--Mote of Life and Unidentified Plant Parts -->
+<Item>22575</Item>
+<Item>24401</Item>
+<!--ecetera -->
+<Item>21877</Item> <!--Netherweave Cloth--> 
+<Item>33470</Item>
+<Item>41510</Item>
+<Item>21840</Item>
+<!--Healing Potions-->
+<Item>118</Item>
+<Item>858</Item>
+<Item>929</Item>
+<Item>1710</Item>
+<Item>3928</Item>
+<Item>13446</Item>
+<Item>17556</Item>
+<Item>28551</Item>
+<Item>33447</Item>
+<Item>37705</Item>
+</ProtectedItems> 
+<ForceMail>
+<Item>37705</Item>
+<Item>33470</Item>
+<!--Mote of Life and Unidentified Plant Parts -->
+<Item>22575</Item>
+<Item>21877</Item> <!--Netherweave Cloth--> 
+<Item>24401</Item>
+<!--ecetera -->
+<Item>21877</Item> <!--Netherweave Cloth--> 
+</ForceMail>
+
+<SubProfile>
+<Name>Borean Thundra</Name>
+<MinLevel>70</MinLevel>
+<MaxLevel>74</MaxLevel>
+<Factions>188 18</Factions>
+<TargetMinLevel>66</TargetMinLevel> 
+<TargetMaxLevel>74</TargetMaxLevel>
+
+<Mailboxes>
+<Mailbox X="4165.624" Y="5286.11" Z="26.37667" />
+</Mailboxes>
+ 
+<Vendors>
+<Vendor Name="Willis Wobblewheel" Entry="26599" Type="Repair" X="4137.04" Y="5285.097" Z="25.19131" />
+</Vendors>
+
+<Hotspots>
+<Hotspot X="3418.023" Y="4634.113" Z="24.85472" />
+<Hotspot X="3365.545" Y="4701.173" Z="29.85485" />
+<Hotspot X="3327.882" Y="4773.12" Z="32.08756" />
+<Hotspot X="3307.033" Y="4845.331" Z="28.69606" />
+<Hotspot X="3263.794" Y="4874.466" Z="31.117" />
+<Hotspot X="3243.586" Y="4817.167" Z="29.83127" />
+<Hotspot X="3246.169" Y="4747.178" Z="32.02566" />
+<Hotspot X="3252.707" Y="4675.334" Z="31.62525" />
+<Hotspot X="3240.135" Y="4624.782" Z="31.48522" />
+<Hotspot X="3204.129" Y="4520.634" Z="25.85188" />
+<Hotspot X="3184.182" Y="4452.093" Z="27.64801" />
+<Hotspot X="3138.029" Y="4414.087" Z="27.63865" />
+<Hotspot X="3141.562" Y="4368.542" Z="27.83609" />
+<Hotspot X="3214.621" Y="4288.834" Z="24.96799" />
+<Hotspot X="3255.629" Y="4354.805" Z="26.43528" />
+<Hotspot X="3226.382" Y="4435.579" Z="28.9236" />
+<Hotspot X="3312.508" Y="4652.259" Z="31.18153" />
+<Hotspot X="3317.254" Y="4840.901" Z="28.58386" />
+</Hotspots>
+</SubProfile>
+
+<SubProfile>
+<Name>Dragonblight</Name>
+<MinLevel>74</MinLevel>
+<MaxLevel>76</MaxLevel>
+<Factions>834</Factions>
+<TargetMinLevel>71</TargetMinLevel> 
+<TargetMaxLevel>76</TargetMaxLevel>
+
+<!-- <Mailboxes>
+<Mailbox X="3475.179" Y="2004.362" Z="64.86311" />
+</Mailboxes> -->
+
+<AvoidMobs>
+<AvoidMob Name="Iceshatter" Entry="27007" />  
+</AvoidMobs>
+ 
+<Vendors>
+<Vendor Name="Dalormi" Entry="27943" Type="Repair" X="3520.083" Y="296.5578" Z="47.28826" />
+</Vendors>
+
+<Hotspots>
+<Hotspot X="3455.924" Y="-147.7065" Z="59.71383" />
+<Hotspot X="3515.042" Y="-184.978" Z="59.67431" />
+<Hotspot X="3613.76" Y="-220.4225" Z="59.67262" />
+<Hotspot X="3657.085" Y="-193.1698" Z="59.67397" />
+<Hotspot X="3636.843" Y="-150.648" Z="59.67397" />
+<Hotspot X="3576.546" Y="-127.2742" Z="59.67397" />
+<Hotspot X="3601.393" Y="-105.341" Z="59.68024" />
+</Hotspots>
+</SubProfile>
+
+<SubProfile>
+<Name>Sholazar Basin</Name>
+<MinLevel>76</MinLevel>
+<MaxLevel>78</MaxLevel>
+<Factions>2030 14</Factions>
+<TargetMinLevel>73</TargetMinLevel> 
+<TargetMaxLevel>78</TargetMaxLevel>
+
+<Mailboxes>
+<Mailbox X="5563.933" Y="5759.833" Z="-75.22586" />
+</Mailboxes>
+ 
+<Vendors>
+<Vendor Name="Mardan Thunderhoof" Entry="28040" Type="Repair" X="5552.257" Y="5738.877" Z="-76.21696" />
+</Vendors>
+
+<AvoidMobs>
+<AvoidMob Name="Venture Co. Excavator" Entry="28123" />
+<AvoidMob Name="Venture Co. Ruffian" Entry="28124" />
+<AvoidMob Name="Perch Guardian" Entry="29013" />
+</AvoidMobs>
+
+<Hotspots>
+<Hotspot X="5723.28" Y="5676.782" Z="-79.16576" />
+<Hotspot X="5810.312" Y="5743.952" Z="-67.146" />
+<Hotspot X="6007.064" Y="5661.847" Z="-60.15242" />
+<Hotspot X="6178.333" Y="5570.44" Z="-43.88614" />
+<Hotspot X="6018.328" Y="5742.01" Z="-38.44308" />
+<Hotspot X="5884.928" Y="5836.82" Z="-39.20026" />
+<Hotspot X="5777.578" Y="5934.696" Z="-43.4478" />
+<Hotspot X="5647.35" Y="5914.773" Z="-53.92718" />
+</Hotspots>
+</SubProfile>
+
+<SubProfile>
+<Name>Sholazar Basin at Mosswalkers</Name>
+<MinLevel>78</MinLevel>
+<MaxLevel>81</MaxLevel>
+<Factions>2030 14 2080 2063 834</Factions>
+<TargetMinLevel>74</TargetMinLevel> 
+<TargetMaxLevel>80</TargetMaxLevel>
+
+<Mailboxes>
+<Mailbox X="5563.933" Y="5759.833" Z="-75.22586" />
+</Mailboxes>
+ 
+<Vendors>
+<Vendor Name="Mardan Thunderhoof" Entry="28040" Type="Repair" X="5552.257" Y="5738.877" Z="-76.21696" />
+</Vendors>
+
+<AvoidMobs>
+<AvoidMob Name="Venture Co. Excavator" Entry="28123" />
+<AvoidMob Name="Venture Co. Ruffian" Entry="28124" />
+<AvoidMob Name="Perch Guardian" Entry="29013" />
+<AvoidMob Name="Risen Reaver" Entry="28242" />
+</AvoidMobs>
+
+<Hotspots>
+<Hotspot X="5914.65" Y="3797.086" Z="-14.73291" />
+<Hotspot X="5773.95" Y="3708.326" Z="-27.46082" />
+<Hotspot X="5702.464" Y="3573.691" Z="-13.07434" />
+<Hotspot X="5623.962" Y="3594.944" Z="-19.67529" />
+<Hotspot X="5497.281" Y="3575.613" Z="-11.39535" />
+<Hotspot X="5501.616" Y="3686.429" Z="-37.56887" />
+<Hotspot X="5454.147" Y="3849.749" Z="-64.06262" />
+<Hotspot X="5424.398" Y="3965.048" Z="-73.40395" />
+<Hotspot X="5440.675" Y="4124.405" Z="-89.58572" />
+<Hotspot X="5411.24" Y="4219.354" Z="-96.27487" />
+<Hotspot X="5533.762" Y="4241.109" Z="-100.9824" />
+<Hotspot X="5655.669" Y="4211.854" Z="-95.01865" />
+<Hotspot X="5734.557" Y="4010.726" Z="-81.17731" />
+<Hotspot X="5868.734" Y="3905.928" Z="-53.25402" />
+<Hotspot X="5923.379" Y="3875.644" Z="-35.25792" />
+<Hotspot X="5907.196" Y="3682.344" Z="7.458862" />
+</Hotspots>
+</SubProfile>
+
+
+</HBProfile>

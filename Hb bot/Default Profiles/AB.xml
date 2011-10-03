@@ -1,0 +1,27 @@
+<HBProfile>
+  <SubProfile>
+    <Name>Arathi Basin - Default Profile</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>86</MaxLevel>
+    <GrindArea>
+      <Factions>2068 834</Factions>
+      <RandomizeHotspots>true</RandomizeHotspots>
+      <MaximumHotspotTime>0</MaximumHotspotTime>
+      <Hotspots>
+        <Hotspot X="1171.347" Y="1225.387" Z="-54.16303" />
+        <Hotspot X="1136.222" Y="858.9346" Z="-111.9562" />
+        <Hotspot X="780.9249" Y="858.2675" Z="-53.64285" />
+        <Hotspot X="841.9241" Y="1154.983" Z="11.20571" />
+        <Hotspot X="981.1064" Y="1037.757" Z="-43.79102" />
+        <Hotspot X="833.177" Y="1196.998" Z="11.89452" />
+        <Hotspot X="976.5137" Y="1190.986" Z="-47.88688" />
+        <Hotspot X="1005.034" Y="1049.532" Z="-43.23336" />
+        <Hotspot X="1144.142" Y="976.851" Z="-62.81558" />
+        <Hotspot X="840.3123" Y="852.3689" Z="-57.95393" />
+        <Hotspot X="824.243" Y="908.905" Z="-59.97908" />
+      </Hotspots>
+    </GrindArea>
+  </SubProfile>
+</HBProfile>
+
+

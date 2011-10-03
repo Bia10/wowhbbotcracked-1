@@ -1,0 +1,137 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~[Profile Group By Deltasniper3]~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~[Customized Profiles]~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+~~IMPORTANT INFO~
+
+I am going to be making profiles for each race as i level once i finish leveling characters on each faction 
+
+All races will have one 1-60 Profile Except Bloodelf / Draenei But i will offer 1-12 Profiles for the 2
+
+I will work on single Faction Profiles Horde / Alliance 58-70 68-80
+
+As of now i have fixed up many bugs in the current profiles and will be adding alot more as i just stated
+if you find any please inform me 
+
+[Report Bugs Via PM On Forums DeltaSniper3]
+
+I am currently creating more profiles if you have a spot that you want put into a profile tell me
+the location or the hotspot location and i will test it out if it is good i will add it into the bunch!
+
+
+
+
+[Horde/Alliance Profile Info]
+
+~Horde~
+
+[Bliik 1-60 - Horde]
+Fixes From Old Version
+-Fixed Desolace (Used to run thru pack of mobs and get killed now runs around)
+-Fixed Barrens Level Zone 
+-Fixed Target min / max so it will not kill gray mobs
+-Fixed Ashenvale Transition to Desolace tried to run through alliance post with new auto navigation function
+
+
+
+~Mulgore~
+Camp Narache 1-4
+Red Cloud Mesa 4-6
+Stonebull Lake 6-8
+Thunderhorn Water Well 8-10
+Golden Plain 10-12
+
+~Barrens~
+Cross Roads 12-14
+Road to Ratchet 14-17
+Raptor Grounds 17-20
+Bramblescar 20-23
+Blackthorn Ridge 23-26
+
+~Ashenvale~
+Splintertree Post 26-29
+Felfire Hill 29-32
+
+~Desolace~
+Thunder Axe Fortress 32-36
+Kodo Graveyard 36-40
+Grimtotem Compound 40-44
+High Wilderness 44-46
+FrayFeather Highlands 46-48
+
+~Tanaris~
+Thistleshrub Valley 48-52
+Golakka Hot Springs 52-57
+
+~Sithilus~
+The Crystal Vale 57-60
+
+
+[Bliik 58-70 Horde]
+Fixes From Old Version
+-Fixed Target min / max so it will not kill gray mobs
+
+[68-80 Horde]
+Fixes From Old Version
+-Fixed Target min / max so it will not kill gray mobs
+
+
+~Alliance~
+
+[Hawker Dwarf Gnome 1-60 - Alliance]
+
+~Still Mapping Exact Zones~
+Fixes From Old Version
+-Fixed Target min / max so it will not kill gray mobs
+
+Coldridge Valley 1-4
+Troll Whelps 4-6
+Chilled Valley 6-9
+Kharonos 9-11
+Loch Modan 11-14
+Loch Modan 14-17
+Loch Modan 17-21
+Wetlands Crocs and Spiders 21-25
+Green Belt 25-28
+Direforge Hill 28-30
+Refuge Pointe 30-36
+South Arathi Highland 36-39
+Featherbeard's Hovel 39-42
+Zun'watha 42-46
+Valorwind Lake 46-48
+Sulk Rock 48-50
+Sorrow Hill 50-54
+Weeping Cave 54-58
+Cauldron fields 58-59
+Fungal Vale 59-60
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Credits
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Current Profiles are made by
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hawker / Bliik
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+With Customization by Deltasniper3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bliik and Hawker did the hardwork with these profiles i am updating them to HB 2 so they dont target gray mobs
+I will be making my own from scratch just getting ideas from people like you!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,28 @@
+﻿<HBProfile>
+  <SubProfile>
+    <Name>Strand of the Ancients - Default Profile</Name>
+    <MinLevel>1</MinLevel>
+    <MaxLevel>86</MaxLevel>
+    <GrindArea>
+      <Factions>2068 834</Factions>
+      <Hotspots>
+        <Hotspot X="978.3719" Y="-3.670094" Z="86.7182" />
+        <Hotspot X="937.9767" Y="-72.87995" Z="96.23646" />
+        <Hotspot X="941.731" Y="-170.3476" Z="95.34888" />
+        <Hotspot X="1016.154" Y="-155.8039" Z="88.66073" />
+        <Hotspot X="1160.18" Y="-219.2086" Z="64.70582" />
+        <Hotspot X="1142.879" Y="-64.2138" Z="70.62439" />
+        <Hotspot X="1155.745" Y="71.20672" Z="63.3638" />
+        <Hotspot X="1336.36" Y="-215.4063" Z="30.88927" />
+        <Hotspot X="1253.413" Y="-173.774" Z="41.82211" />
+        <Hotspot X="1317.836" Y="-0.5754492" Z="30.96846" />
+        <Hotspot X="1255.922" Y="74.16565" Z="42.0693" />
+        <Hotspot X="1353.533" Y="121.7416" Z="31.76097" />
+        <Hotspot X="1527.626" Y="92.15971" Z="5.988094" />
+        <Hotspot X="1459.189" Y="-0.8897743" Z="5.940214" />
+        <Hotspot X="1495.638" Y="-83.93619" Z="6.236833" />
+        <Hotspot X="1539.741" Y="-155.5484" Z="5.902112" />
+      </Hotspots>
+    </GrindArea>
+  </SubProfile>
+</HBProfile>

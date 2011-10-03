@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PvpProfile>
+
+  <!-- Please see AlteracValley.xml for documentation [All AV rules apply here] -->
+
+  <Hotspot x="1443.524" y="-199.6545" z="26.7336731" tlx="1580" tly="-45" brx="1390" bry="-276" name="Blue Gate" default="true" />
+  <Hotspot x="1436.499" y="89.871" z="20.1140652" tlx="1580" tly="170" brx="1410" bry="-23" name="Green Gate" />
+  <Hotspot x="1236.53" y="68.3807" z="46.6411743" tlx="1420" tly="217" brx="1206" bry="-31" name="Purple Gate" />
+  <Hotspot x="1244.299" y="-203.5421" z="51.4500122" tlx="1406" tly="-38" brx="1218" bry="-311.0624" name="Red Gate" />
+  <Hotspot x="1077.69" y="-106.8522" z="76.61285" tlx="1209" tly="215" brx="1045" bry="-305" name="Yellow Gate" />
+  <Hotspot x="887,5878" y="-108,7968" z="109,835" tlx="1046" tly="-14" brx="778" bry="-276" name="Ancients Chamber" />
+</PvpProfile>

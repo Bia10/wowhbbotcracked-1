@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<graph name="GliderConverter">
+  <factions ids="" />
+  <mines all="False" />
+  <herbs all="False" />
+  <hotspots count="0" />
+  <nodes count="18">
+    <node id="0" x="1545,8" y="-3261,45" z="0" />
+    <node id="1" x="1534,72" y="-3232,93" z="0" />
+    <node id="2" x="1559,7" y="-3228,68" z="0" />
+    <node id="3" x="1556,98" y="-3211,4" z="0" />
+    <node id="4" x="1579,14" y="-3198,52" z="0" />
+    <node id="5" x="1601,6" y="-3200,15" z="0" />
+    <node id="6" x="1622,8" y="-3195,5" z="0" />
+    <node id="7" x="1642,87" y="-3207,04" z="0" />
+    <node id="8" x="1677,48" y="-3210,84" z="0" />
+    <node id="9" x="1667,57" y="-3238,25" z="0" />
+    <node id="10" x="1657,85" y="-3259,18" z="0" />
+    <node id="11" x="1639,72" y="-3260,63" z="0" />
+    <node id="12" x="1626,8" y="-3261,4" z="0" />
+    <node id="13" x="1652,34" y="-3261,02" z="0" />
+    <node id="14" x="1653,95" y="-3285,15" z="0" />
+    <node id="15" x="1649,1" y="-3298,25" z="0" />
+    <node id="16" x="1632,46" y="-3304,67" z="0" />
+    <node id="17" x="1622,36" y="-3308,99" z="0" />
+  </nodes>
+  <nodesSell count="0" />
+  <nodesDeath count="0" />
+</graph>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PvpProfile>
+  <!-- These hotspots are required. Change anything BUT the names. -->
+  <Hotspot x="801.129" y="872.5645" z="-55.7189" tlx="853" tly="945" brx="783" bry="825" name="Farm" />
+  <Hotspot x="976.1278" y="1036.748" z="-43.67422" tlx="1086" tly="1068" brx="911" bry="1015" name="Blacksmith" default="True"/>
+  <Hotspot x="841" y="1154" z="11" tlx="883" tly="1271" brx="733" bry="1106" name="LumberMill" />
+  <Hotspot x="1154" y="856" z="-111" tlx="1192" tly="892" brx="1087" bry="783" name="GoldMine" />
+  <Hotspot x="1171" y="1205" z="-54" tlx="1232" tly="1276" brx="1133" bry="1155" name="Stables" />
+  
+  <!-- Extras -->
+  
+</PvpProfile>

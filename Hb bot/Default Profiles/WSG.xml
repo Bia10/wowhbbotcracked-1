@@ -1,0 +1,39 @@
+<HBProfile>
+
+  <SubProfile>
+    <Name>Warsong Gulch - Default Profile</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>86</MaxLevel>
+    <GrindArea>
+      <Factions>2068 834</Factions>
+      <RandomizeHotspots>true</RandomizeHotspots>
+      <MaximumHotspotTime>0</MaximumHotspotTime>
+      <Hotspots>
+        <Hotspot X="1179.575" Y="1477.302" Z="303.7145" />
+        <Hotspot X="1212.108" Y="1521.171" Z="307.2656" />
+        <Hotspot X="1307.19" Y="1512.425" Z="318.1264" />
+        <Hotspot X="1311.416" Y="1455.583" Z="318.0512" />
+        <Hotspot X="1278.418" Y="1383.8" Z="310.4631" />
+        <Hotspot X="1218.592" Y="1363.973" Z="312.2679" />
+        <Hotspot X="1155.666" Y="1402.953" Z="310.8594" />
+        <Hotspot X="1316.131" Y="1374.863" Z="314.8914" />
+        <Hotspot X="1378.578" Y="1381.892" Z="331.5724" />
+        <Hotspot X="1403.238" Y="1460.837" Z="329.5555" />
+        <Hotspot X="1360.586" Y="1532.36" Z="319.2518" />
+        <Hotspot X="1314.567" Y="1551.47" Z="313.2345" />
+        <Hotspot X="1180.515" Y="1587.064" Z="309.7397" />
+        <Hotspot X="1511.75" Y="1492.988" Z="352.0079" />
+        <Hotspot X="1108.096" Y="1542.636" Z="308.8574" />
+        <Hotspot X="1045.839" Y="1510.211" Z="339.7613" />
+        <Hotspot X="1008.969" Y="1456.839" Z="349.6748" />
+        <Hotspot X="931.7883" Y="1434.866" Z="345.5367" />
+        <Hotspot X="1006.576" Y="1440.688" Z="335.7482" />
+        <Hotspot X="1042.59" Y="1457.715" Z="326.5031" />
+      </Hotspots>
+    </GrindArea>
+  </SubProfile>
+</HBProfile>
+
+
+
+

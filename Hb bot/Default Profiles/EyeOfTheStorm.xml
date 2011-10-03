@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PvpProfile>
+  
+  <!-- These hotspots are required. Change anything BUT the names. -->
+  <Hotspot x="2174.3" y="1568.837" z="1159.97" default="true" tlx="2240" tly="1624" brx="2102" bry="1490" name="Flag" />
+  <Hotspot x="2048.365" y="1396.737" z="1194.286" tlx="2100" tly="1479.583" brx="1989" bry="1332" name="BloodElfTower" />
+  <Hotspot x="2285.415" y="1391.91" z="1196.19" tlx="2343" tly="1499" brx="2220" bry="1320" name="DraeneiRuins" />
+  <Hotspot x="2042.904" y="1738.793" z="1190.063" tlx="2098" tly="1842.917" brx="1983" bry="1639" name="FelReaverRuins" />
+  <Hotspot x="2285.397" y="1726.766" z="1188.291" tlx="2342" tly="1811" brx="2222.042" bry="1649" name="MageTower" />
+</PvpProfile>

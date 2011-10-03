@@ -1,0 +1,15 @@
+<Profile>
+  <Name>Razorfen Downs</Name>
+  <MinLevel>0</MinLevel>
+  <MaxLevel>86</MaxLevel>
+  <MapId>129</MapId>
+  <Blackspots>
+    <Blackspot x="-9949.138" y="-1192.891" z="47.46663" radius="33.95821" />
+  </Blackspots>
+  <BossEncounters>
+    <Boss entry="7355" name="Tuten'kash"/>
+    <Boss entry="7357" name="Mordresh Fire Eye" />
+    <Boss entry="8567" name="Glutton"/>
+    <Boss entry="7355" name="Tuten'kash" isFinal="true" />
+  </BossEncounters>
+</Profile>

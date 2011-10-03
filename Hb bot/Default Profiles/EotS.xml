@@ -1,0 +1,33 @@
+<HBProfile>
+  <SubProfile>
+    <Name>Eye of the Storm - Default Profile</Name>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>86</MaxLevel>
+    <GrindArea>
+      <Factions>2068 834</Factions>
+      <RandomizeHotspots>true</RandomizeHotspots>
+      <MaximumHotspotTime>0</MaximumHotspotTime>
+      <Hotspots>
+        <Hotspot X="2007.83" Y="1674.748" Z="1182.126" />
+        <Hotspot X="1962.856" Y="1451.778" Z="1175.643" />
+        <Hotspot X="2294.469" Y="1679.573" Z="1169.85" />
+        <Hotspot X="2053.176" Y="1545.685" Z="1162.911" />
+        <Hotspot X="2327.89" Y="1448.4" Z="1185.672" />
+        <Hotspot X="2023.53" Y="1546.166" Z="1167.227" />
+        <Hotspot X="2297.253" Y="1583.447" Z="1167.119" />
+        <Hotspot X="2307.934" Y="1509.586" Z="1175.134" />
+        <Hotspot X="2084.062" Y="1425.43" Z="1168.408" />
+        <Hotspot X="2004.035" Y="1488.884" Z="1169.26" />
+        <Hotspot X="2002.663" Y="1570.859" Z="1165.229" />
+        <Hotspot X="2121.569" Y="1557.453" Z="1156.668" />
+        <Hotspot X="2217.982" Y="1573.614" Z="1158.453" />
+        <Hotspot X="2265.564" Y="1710.38" Z="1170.24" />
+        <Hotspot X="2036.789" Y="1691.969" Z="1181.507" />
+      </Hotspots>
+    </GrindArea>
+  </SubProfile>
+</HBProfile>
+
+
+
+

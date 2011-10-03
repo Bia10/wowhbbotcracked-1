@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PvpProfile>
+  <Hotspot x="977.412" y="941.1788" z="13.17147" tlx="1015" tly="996" brx="924" bry="881" name="Waterworks" />
+  <Hotspot x="1056.914" y="1272.583" z="3.672511" tlx="1096" tly="1323" brx="1005" bry="1221" name="Lighthouse" default="True" />
+  <Hotspot x="1249.63" y="965.8411" z="6.588874" tlx="1288" tly="1019" brx="1200" bry="917" name="Mines" />
+
+  <Blackspots>
+    <!-- Blackspot the edge of a boat that we randomly get stuck on -->
+    <Blackspot X="1335.623" Y="1041.078" Z="0.7505164" Radius="15" Height="5" />
+  </Blackspots>
+</PvpProfile>

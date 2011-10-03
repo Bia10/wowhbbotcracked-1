@@ -1,0 +1,30 @@
+<HBProfile>
+  <MinDurability>0.4</MinDurability>
+  <MinFreeBagSlots>2</MinFreeBagSlots>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellPurple>False</SellPurple>  
+
+  <ProtectedItems>
+    <Item>27854</Item>
+    <Item>37201</Item>
+    <Item>24401</Item>
+    <Item>4538</Item>
+    <Item>8766</Item>
+  </ProtectedItems>
+  
+  <SubProfile>
+    <MinLevel>0</MinLevel>
+    <MaxLevel>87</MaxLevel>
+    <Factions>999999</Factions>
+    <Mesh Name="Western Northrend 68-80.mesh" ServerID="33" />
+    <Hotspots>
+      <Hotspot X="3644.399" Y="244.5805" Z="52.22763" />
+    </Hotspots>
+  </SubProfile>
+</HBProfile>
+
+
+    
+       

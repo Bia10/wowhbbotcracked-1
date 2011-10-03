@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PvpProfile>
+  <Hotspot x="772.0475" y="-798.409" z="6.231938" tlx="892" tly="-748" brx="656" bry="-891" name="Workshop" default="True" />
+  <Hotspot x="805.1999" y="-1009.914" z="132.3644" tlx="858" tly="-971" brx="702" bry="-1127" name="Hangar" />
+  <Hotspot x="723.7043" y="-373.7457" z="17.7737" tlx="823" tly="-290" brx="641" bry="-472" name="Docks" />
+  <Hotspot x="427.6011" y="-834.4464" z="47.48149" tlx="480" tly="-765" brx="412" bry="-886" name="Alliance Gate - Front" />
+  <Hotspot x="351.9337" y="-746.7852" z="49.41944" tlx="421" tly="-690" brx="299" bry="-763" name="Alliance Gate - Right" />
+  <Hotspot x="353.5441" y="-920.103" z="48.65976" tlx="394" tly="-903" brx="286" bry="-972" name="Alliance Gate - Left" />
+  <Hotspot x="1139.949" y="-763.4379" z="48.5859" tlx="1156" tly="-708" brx="1084" bry="-824" name="Horde Gate - Front" />
+  <Hotspot x="1215.804" y="-865.4684" z="48.84447" tlx="1241" tly="-852" brx="1166" bry="-892" name="Horde Gate - Right" />
+  <Hotspot x="1219.008" y="-660.8745" z="47.87786" tlx="1267" tly="-617" brx="1161" bry="-674" name="Horde Gate - Left" />
+  <Hotspot x="1229.6" y="-762.4329" z="48.91624" tlx="1262" tly="-686" brx="1161" bry="-845" name="Horde Courtyard" />
+  <Hotspot x="334.198" y="-833.6731" z="48.91624" tlx="392" tly="-775" brx="308" bry="-890" name="Alliance Courtyard" />
+</PvpProfile>

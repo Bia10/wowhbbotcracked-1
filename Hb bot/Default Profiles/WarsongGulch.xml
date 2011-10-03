@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PvpProfile>
+  <!-- These hotspots are required. Change anything BUT the names. -->
+  <!-- Horde -->
+  <Hotspot x="925.9624" y="1433.579" z="344.3113" tlx="988" tly="1471" brx="907" bry="1409" name="HordeFlag" side="1" />
+  <Hotspot x="1528.765" y="1481.432" z="341.758118" tlx="1546" tly="1511" brx="1480" bry="1440" name="AllianceFlag" side="1" default="true"/>  
+  <!-- Alliance -->
+  <Hotspot x="925.9624" y="1433.579" z="344.3113" tlx="988" tly="1471" brx="907" bry="1409" name="HordeFlag" side="0" default="true"/>
+  <Hotspot x="1528.765" y="1481.432" z="341.758118" tlx="1546" tly="1511" brx="1480" bry="1440" name="AllianceFlag" side="0" />
+  
+  
+  <!-- Extras -->
+  <Hotspot x="1218.12341" y="1455.538" z="306.89386" tlx="1271" tly="1530" brx="1171" bry="1380" name="Center Field" />
+  <Hotspot x="1424.21985" y="1475.66833" z="349.107361" tlx="1463" tly="1548" brx="1389" bry="1398" name="Alliance Entrance" />
+  <Hotspot x="1025.44666" y="1432.53174" z="342.871277" tlx="1062" tly="1512" brx="996" bry="1374" name="Horde Entrance" />
+  
+</PvpProfile>

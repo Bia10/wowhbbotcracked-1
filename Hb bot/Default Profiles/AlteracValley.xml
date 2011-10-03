@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+
+XML Specification:
+
+x/y/z = Location of the hotspot. (Where we will run to, in game)
+name = A "decorative" name for the hotspot. It will be displayed on the GUI when we move to it.
+default = "True" if this hotspot should be our default one. (When all others aren't usable, we'll use this one)
+side = 1 for horde, 0 for alliance. Leave empty for neutral.
+
+tlx/tly = Top-left of a 'box' to gather player counts from
+brx/bry = Bottom-right of the above box
+
+-->
+
+<!-- AV Specific Info:
+
+Since AV doesn't really have 'objectives', the idea is to just stay in the 'best area'
+Add or remove any hotspots. (Or tweak them if you so choose)
+
+This specific BG is completely open-ended for profiles.
+
+-->
+<PvpProfile>
+  <Hotspot x="-536.6096" y="-168.8863" z="54.6953354" default="true" tlx="-493" tly="-107" brx="-590" bry="-220" name="Galvangar" />
+  <Hotspot x="-619.5482" y="-400.3674" z="59.3562775" tlx="-551" tly="-289" brx="-685" bry="-464" name="Ice Blood Graveyard" />
+  <Hotspot x="-20.92689" y="-273.8561" z="14.5243425" tlx="11" tly="-244" brx="-70" bry="-344" name="Balinda" />
+  <Hotspot x="-1495.811" y="-335.2303" z="101.080215" tlx="-1436" tly="-284" brx="-1530" bry="-366" name="Frostwolf Graveyard" />
+  <Hotspot x="-1404.486" y="-309.962" z="89.39077" tlx="-1303" tly="-273" brx="-1429" bry="-360" name="Relief Hut" />
+  <Hotspot x="-1368.725" y="-222.9531" z="91.20588" tlx="-1319" tly="-163" brx="-1416" bry="-270" name="Drekthar" />
+  <Hotspot x="-767.4229" y="-363.0029" z="68.11718" tlx="-713" tly="-300" brx="-794" bry="-400" name="Tower Point" />
+  <Hotspot x="-244.1497" y="-285.6714" z="6.667537" tlx="-151" tly="-195" brx="-319" bry="-413" name="Field Of Strife" />
+  <Hotspot x="696.0388" y="0.3689345" z="87.04469" tlx="718" tly="26" brx="653" bry="-55" name="Vandaar" />
+  <Hotspot x="74.64893" y="-406.6974" z="46.8242264" tlx="107" tly="-383" brx="36" bry="-559" name="Stonehearth Graveyard" />
+  <Hotspot x="633.9478" y="-56.50838" z="41.96025" tlx="655" tly="-21" brx="603" bry="-100" name="Stormpike Outside Vandaar" />
+  <Hotspot x="623.1547" y="-177.6082" z="-1.43326676" tlx="639" tly="-148" brx="613" bry="-209" name="Stormpike Bridge - Left" />
+  <Hotspot x="633.3466" y="-246.5536" z="-5.63620043" tlx="643" tly="-209" brx="619" bry="-270" name="Stormpike Bridge - Right" />
+  <Hotspot x="204.3976" y="-412.5387" z="42.38417" tlx="258" tly="-367" brx="172" bry="-442" name="Icewing Bunker" />
+  <Hotspot x="28.56954" y="-301.1251" z="15.1143417" tlx="57" tly="-256" brx="13" bry="-346" name="Outside of Balinda" />
+  
+  <Hotspot x="-36.416" y="-399.188" z="25.6439514" tlx="-44" tly="-416" brx="-10" bry="-379" name="Somewhere Near Balinda" />
+  
+  <Hotspot x="537.077" y="-319.76" z="3.852393" tlx="569" tly="-317" brx="508" bry="-346" name="Cliff Chokepoint [Top]" />
+  <Hotspot x="344.165" y="-381.738" z="-0.304266781" tlx="409" tly="-373" brx="275" bry="-403" name="Cliff Chokepoint [Bottom]" />
+  <Hotspot x="466.433716" y="-361.216248" z="-1.24386978" tlx="499" tly="-328" brx="427" bry="-385" name="Cliff Chokepoint [Middle]" />
+</PvpProfile>
