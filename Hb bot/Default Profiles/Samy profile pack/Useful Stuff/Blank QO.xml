@@ -1,0 +1,264 @@
+<HBProfile>
+
+	<MinDurability>0.1</MinDurability>
+
+
+	<Blackspots>
+	</Blackspots>
+	<AvoidMobs>
+	</AvoidMobs>
+	
+	<!--
+	
+				<UseItem QuestId="" ItemId="" XYZ />
+				<CustomBehavior File="WaitTimer" WaitTime="2000" GoalText="Waiting for agro to clear {TimeRemaining}" />
+				<CustomBehavior File="WaitTimer" WaitTime="2000" GoalText="Waiting for objective to complete {TimeRemaining}" />
+				<CustomBehavior File="WaitTimer" WaitTime="3000" GoalText="Waiting for quest to complete {TimeRemaining}" />
+				<CustomBehavior File="WaitTimer" WaitTime="4000" GoalText="Waiting for item cd {TimeRemaining}" />
+				<CustomBehavior File="WaitTimer" WaitTime="2000" GoalText="Waiting for  {TimeRemaining}" />
+		
+			<CustomBehavior File="Message" Text="Compiling  Quests" LogColor="Cornflowerblue" />
+
+				<CustomBehavior File="ForcedDismount" />
+				
+			 <If Condition="((HasQuest()) &amp;&amp; (!IsObjectiveComplete(1, )))">
+			 </If>
+			 <If Condition="((HasQuest()) &amp;&amp; (!IsObjectiveComplete(1, )))">
+				<CustomBehavior File="FlyTo" DestName="Objective" 
+				<CustomBehavior File="ForcedDismount" />
+			 </If>
+			 <While Condition="((HasQuest()) &amp;&amp; (!IsObjectiveComplete(1, )))">
+			 </While>
+			 
+			<If Condition="((!HasQuest()) &amp;&amp; (!IsQuestCompleted()))" >
+			</If>
+			<If Condition="((HasQuest()) &amp;&amp; (!IsQuestCompleted()))" >
+			</If>
+			<If Condition="((HasQuest()) &amp;&amp; (IsQuestCompleted()))" >
+			</If>
+			<If Condition="((!HasQuest()) &amp;&amp; (!IsQuestCompleted()))" >
+			</If>
+			
+			<If Condition="((!HasQuest()) &amp;&amp; (!IsQuestCompleted()))" >
+				<CustomBehavior File="FlyTo" DestName="Pickup Quest" 
+			</If>
+			<If Condition="((HasQuest()) &amp;&amp; (!IsQuestCompleted()))" >
+				<CustomBehavior File="FlyTo" DestName="Objective" 
+				<CustomBehavior File="ForcedDismount" />
+			</If>
+			<If Condition="((HasQuest()) &amp;&amp; (IsQuestCompleted()))" >
+				<CustomBehavior File="FlyTo" DestName="Turnin Quest" 
+			</If>
+			<If Condition="((!HasQuest()) &amp;&amp; (!IsQuestCompleted()))" >
+				<CustomBehavior File="FlyTo" DestName="Pickup Quest" 
+			</If>
+			 <While Condition="((HasQuest()) &amp;&amp; (!IsQuestCompleted()))" >
+				<CustomBehavior File="WaitTimer" WaitTime="3000" GoalText="Waiting for quest to complete {TimeRemaining}" />
+			 </While>
+			<While Condition="HasQuestAvailable()" >
+				<CustomBehavior File="InteractWith" MobId="" NumOfTimes="1" CollectionDistance="100" WaitTime="1000" 
+				<CustomBehavior File="RunMacro" Macro="/click GossipTitleButton1" NumOfTimes="1" WaitTime="1000" />
+				<CustomBehavior File="RunMacro" Macro="/click QuestFrameAcceptButton" NumOfTimes="1" WaitTime="1000" />
+			</While>
+			 <If Condition="(HasQuest())" >
+			 </If>
+			 <If Condition="OnTransport()" >
+			 </If>
+			<If Condition="(HasQuest())" >
+				<CustomBehavior File="FlyTo" 
+				<CustomBehavior File="ForcedDismount" />
+			</If>
+			<If Condition="(Me.Level &gt;= 1)" >
+			</If>
+			<If Condition="(Me.Level &lt; 100)" >
+				<CustomBehavior File="FlyTo" 
+				<CustomBehavior File="ForcedDismount" />
+			</If>
+			<If Condition="(HasItem())" >
+			</If>
+			 <If Condition="(HasItem())" >
+			 </If>
+			 <If Condition="(GetItemCount() &lt; )" >
+			 </If>
+			 <If Condition="Me.MapId == 0" >
+			 </If>
+			 <If Condition="Me.ZoneId == 1657" >
+			 </If>
+			 <If Condition="(!HasAura(58818))" >
+			 </If>
+				<CustomBehavior File="FlightToggle" Flight="False" />
+				<CustomBehavior File="FlyTo" DestName="" 
+				<CustomBehavior File="MyCTM" 
+				<CustomBehavior File="NoCombatMoveTo" 
+				<CustomBehavior File="WaitTimer" WaitTime="2000" GoalText=" {TimeRemaining}" />
+				<CustomBehavior File="Message" Text="" LogColor="Cornflowerblue" />
+				<CustomBehavior File="ForcedDismount" />
+				<CustomBehavior File="UseItemOn" QuestId="" MobId="" ItemId="" NumOfTimes="1" WaitTime="1000" Range="5" CollectionDistance="50" 
+				<CustomBehavior File="CombatUseItemOn" QuestId="" MobId="" ItemId="" MobHpPercentLeft="100" MaxRange="" 
+				<CustomBehavior File="InteractWith" QuestId="" MobId="" NumOfTimes="1" CollectionDistance="50" WaitTime="1000" 
+				<CustomBehavior File="InteractWith" QuestId="" MobId="" GossipOptions="1" NumOfTimes="1" WaitTime="1000" CollectionDistance="50" 
+				<CustomBehavior File="InteractWith" QuestId="" MobId="" ObjectType="Gameobject" Range="8" NumOfTimes="1" CollectionDistance="50" 
+				<CustomBehavior File="BasicInteractWith" QuestId="27623" MobId="46041" MoveTo="0" LUATarget="1" />
+				<CustomBehavior File="NoControlVehicle" VehicleMountId="" TargetId="" SpellId="" OftenToUse="" TimesToUse="" VehicleId="" MaxDist="" TypeId="" />
+				<CustomBehavior File="UserDialog" QuestId="" AllowBotStop="True" SoundCue="Asterisk" SoundCueInterval="1" Text="" />
+				<CustomBehavior File="ForcedDismount" />
+				<CustomBehavior File="MountVehOnly" VehicleMountId="" X="" Y="" Z="" />
+				<CustomBehavior File="EjectVeh" Eject="True" />
+				<CustomBehavior File="KillUntilComplete" QuestId="" MobId1="" 
+				<CustomBehavior File="ForceSetVendor" DoTrain="True" />
+				<CustomBehavior File="UserSettings" UseMount="False" />
+				<CustomBehavior File="UserSettings" PullDistance="1" />
+				<CustomBehavior File="UserSettings" PullDistance="20" />
+				<CustomBehavior File="RunMacro" Macro="/dismount\n/cancelaura Flight Form\n/cancelaura Swift Flight Form" NumOfTimes="1" WaitTime="1000" />
+				<CustomBehavior File="RunMacro" Macro="" NumOfTimes="1" WaitTime="1000" />
+				<CustomBehavior File="Misc\RunLua" Lua="" WaitTime="1000" />
+				<CustomBehavior File="Misc\RunLua" Lua="UseItemByName()" WaitTime="1000" />
+				<CustomBehavior File="WaitTimer" WaitTime="2000" GoalText="Using item {TimeRemaining}" />
+				
+				
+	<CustomBehavior File="UserDialog" AllowBotStop="True" SoundCue="Exclamation" SoundCueInterval="1" Text="This profile is not currently avail for use" />
+				['Asterisk', 'Beep', 'Exclamation', 'Hand', 'Question'].
+
+	-->
+	<!--
+			<If Condition="((HasQuest()) &amp;&amp; (IsQuestCompleted()))" >
+				<CustomBehavior File="CompleteLogQuest" QuestId="" />
+				<CustomBehavior File="WaitTimer" WaitTime="2000" GoalText="Waiting for bot {TimeRemaining}" />
+			</If>
+	-->		
+	
+	<QuestOrder>
+	
+		<!-- 	
+				<CustomBehavior File="WaitTimer" WaitTime="2000" GoalText="Using item {TimeRemaining}" />
+				<CustomBehavior File="Message" Text="Can't touch this; STOP! It's Kickazz time!" LogColor="Cornflowerblue" />
+				<CustomBehavior File="RunMacro" Macro="/dance" NumOfTimes="1" WaitTime="1000" />
+				<CustomBehavior File="WaitTimer" WaitTime="60000" GoalText="Using item {TimeRemaining}" />
+
+			anzu - 23035
+			rivendare - 45412
+		-->
+
+		<!-- fizzcrank airstrip
+		<RunTo X="4178.861" Y="5286.654" Z="39.60927" /> // upstairs \\
+		<RunTo X="4178.583" Y="5280.581" Z="26.69306" /> // downstairs \\
+		-->
+		
+		
+	<!-- :O
+	
+	Left 4 Dead -	Papercut Massacre
+	
+	Because Of You - Echovalve
+
+		-->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		<!-- Kick stopped here for profile
+	<CustomBehavior File="UserDialog" AllowBotStop="True" SoundCue="Exclamation" SoundCueInterval="1" Text="End of Line!\n\nYes, I fight for the users!" />
+		-->
+
+		<!--
+		-->
+
+
+	</QuestOrder>
+	
+	<!--
+	
+	
+	<CustomBehavior File="Vehicles\FlyingVehicle" QuestId="" VehicleId="" ItemId=""  NpcList="" PickUpPassengerButton="" DropPassengerButton="" 
+	StartPath=", ,  | , ,  | , , "		
+	Path=", ,  | , ,  | , ,  | , ,  | , ,  | , ,  | , ,  | , ,  | , ,  | , ,  | , ,  | , , "
+	EndPath=", ,  | , ,  | , ,  | , , " />
+	
+				<CustomBehavior File="BasicVehicleBehavior"
+					QuestId="" MobId="" VehicleId="" SpellId="" 
+					MountX="" MountY="" MountZ=""
+					DestX="" DestY="" DestZ="" />
+	
+			<If Condition="(Me.Level &lt; )" >
+				<CustomBehavior File="FlyTo" DestName="Grind Area" 
+				<CustomBehavior File="ForcedDismount" />
+			</If>
+	
+				<CustomBehavior File="Misc\RunLua" Lua="i=GetQuestLogIndexByID(12069) a,b,c,d,e,f,g,h,j=GetQuestLogTitle(i) if g==-1 then SelectQuestLogEntry(i) SetAbandonQuest(i) AbandonQuest(i) end" />
+				<CustomBehavior File="WaitTimer" WaitTime="2000" />
+	
+				<CustomBehavior File="Misc\RunLua" Lua="" WaitTime="1000" />
+				<CustomBehavior File="Misc\RunLua" Lua="AttackTarget()" WaitTime="1000" />
+	
+				<CustomBehavior File="InteractWith" MobId="" />
+				<CustomBehavior File="RunMacro" Macro="/click GossipTitleButton1" NumOfTimes="1" WaitTime="1000" />
+                <CustomBehavior File="RunMacro" Macro="/click QuestFrameCompleteQuestButton" NumOfTimes="1" WaitTime="1000" />	
+	
+				/script GetQuestReward(3)
+				/script GetQuestReward()	
+	
+				<CustomBehavior File="InteractWith" MobId="" />
+				<CustomBehavior File="Misc\RunLua" Lua="CompleteQuest();"/>
+				<CustomBehavior File="WaitTimer" WaitTime="1000" />
+				<CustomBehavior File="RunMacro" Macro="/click QuestFrameCompleteQuestButton" />	
+	
+				<CustomBehavior File="RunMacro" Macro="/click StaticPopup1Button1" />
+	
+				<CustomBehavior File="InteractWith" MobId="" />
+				<CustomBehavior File="RunMacro" Macro="/click GossipTitleButton1" />
+				<CustomBehavior File="RunMacro" Macro="/click QuestFrameAcceptButton" />
+				
+				=================
+				// Darkmoon Faire \\
+				
+			<While Condition="HasItem()" >
+				<CustomBehavior File="RunMacro" Macro="/use Rogues Deck" />
+				<CustomBehavior File="RunMacro" Macro="/script AcceptQuest()" />
+				<CustomBehavior File="InteractWith" MobId="" />
+				<CustomBehavior File="RunMacro" Macro="/script SelectGossipActiveQuest(1)" />
+				<CustomBehavior File="RunMacro" Macro="/script CompleteQuest()" />
+				<CustomBehavior File="RunMacro" Macro="/script GetQuestReward(3)" />
+				<CustomBehavior File="RunMacro" Macro="/script GetQuestReward()" />
+			</While>	
+
+				===============
+				
+				<RunTo 
+				<CustomBehavior File="WaitTimer" WaitTime="2000" GoalText="Waiting for agro to clear {TimeRemaining}" />
+				<CustomBehavior File="BasicUseObject" ObjectId="" />
+				<CustomBehavior File="RunMacro" Macro="/click QuestFrameCompleteQuestButton" />	
+				//
+		<TurnIn QuestName="Elder Mana'loa" QuestId="12030" TurnInName="Elder Mana'loa" TurnInId="188419" TurnInType="Object" X="3131.187" Y="1569.624" Z="163.5229" />
+		<PickUp QuestName="Freedom for the Lingering" QuestId="12031" GiverName="Elder Mana'loa" GiverId="188419" />
+				\\
+				<CustomBehavior File="BasicUseObject" ObjectId="" />
+				<CustomBehavior File="RunMacro" Macro="/click QuestFrameAcceptButton" />
+				
+	
+	-->
+	
+</HBProfile>

@@ -1,0 +1,163 @@
+<HBProfile>
+	<Name>testing qo</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	<MinDurability>0.1</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+	
+	<Blackspots>
+		<Blackspot X="2124.109" Y="-2979.607" Z="148.6447" Radius="4.105195" />
+	</Blackspots>
+
+	
+	
+	
+	<QuestOrder>
+	
+			<If Condition="((HasQuest(11350)) &amp;&amp; (!IsQuestCompleted(11350)))" >
+				<CustomBehavior File="FlyTo" X="2130.394" Y="-5375.467" Z="237.8083" />
+				<CustomBehavior File="ForcedDismount" />
+
+				<Objective QuestName="The Book of Runes" QuestId="11350" Type="CollectItem" ItemId="33780" CollectCount="1" />
+				<Objective QuestName="The Book of Runes" QuestId="11350" Type="CollectItem" ItemId="33778" CollectCount="1" />
+				<Objective QuestName="The Book of Runes" QuestId="11350" Type="CollectItem" ItemId="33779" CollectCount="1" />
+			</If>
+
+			<If Condition="((HasQuest(11350)) &amp;&amp; (IsQuestCompleted(11350)))" >
+				<CustomBehavior File="FlyTo" X="2653.775" Y="-4372.879" Z="279.5223" />
+				<CustomBehavior File="ForcedDismount" />
+				<CustomBehavior File="Misc\RunLua" Lua="UseItemByName(33779)" WaitTime="1000" />
+				<CustomBehavior File="WaitTimer" WaitTime="5000" GoalText="Using item {TimeRemaining}" />
+			</If>
+		<TurnIn QuestName="The Book of Runes" QuestId="11350" TurnInName="Longrunner Pembe" TurnInId="24362" />
+		<PickUp QuestName="Mastering the Runes" QuestId="11351" GiverName="Longrunner Pembe" GiverId="24362" />
+			<If Condition="((HasQuest(11351)) &amp;&amp; (!IsQuestCompleted(11351)))" >
+				<CustomBehavior File="FlyTo" X="2130.394" Y="-5375.467" Z="237.8083" />
+				<CustomBehavior File="ForcedDismount" />
+				<Objective QuestName="Mastering the Runes" QuestId="11351" Type="CollectItem" ItemId="33794" CollectCount="1" />
+			</If>
+			<If Condition="((HasQuest(11351)) &amp;&amp; (IsQuestCompleted(11351)))" >
+				<CustomBehavior File="FlyTo" X="2653.775" Y="-4372.879" Z="279.5223" />
+				<CustomBehavior File="ForcedDismount" />
+			</If>
+		<TurnIn QuestName="Mastering the Runes" QuestId="11351" TurnInName="Longrunner Pembe" TurnInId="24362" />
+	
+
+
+
+
+		
+	
+	
+	<CustomBehavior File="UserDialog" AllowBotStop="True" SoundCue="Exclamation" SoundCueInterval="1" Text="End of Line!\n\nYes, I fight for the users!" />
+	
+	
+	
+	
+		<TurnIn QuestName="Skorn Must Fall!" QuestId="11256" TurnInName="Winterhoof Brave" TurnInId="24130" />
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<CustomBehavior File="UserDialog" AllowBotStop="True" SoundCue="Exclamation" SoundCueInterval="1" Text="End of Line!\n\nYes, I fight for the users!" />
+		
+		
+		
+		
+
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	  
+	</QuestOrder>
+</HBProfile>
